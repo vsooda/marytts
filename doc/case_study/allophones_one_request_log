@@ -1,0 +1,432 @@
+2015-09-17 15:46:14,343 [I/O dispatcher 1] DEBUG marytts.server New synthesis request: /process
+2015-09-17 15:46:14,343 [I/O dispatcher 1] DEBUG marytts.server     STYLE=
+2015-09-17 15:46:14,343 [I/O dispatcher 1] DEBUG marytts.server     LOCALE=en_US
+2015-09-17 15:46:14,343 [I/O dispatcher 1] DEBUG marytts.server     INPUT_TYPE=RAWMARYXML
+2015-09-17 15:46:14,343 [I/O dispatcher 1] DEBUG marytts.server     INPUT_TEXT=<?xml version="1.0" encoding="UTF-8" ?>
+<maryxml version="0.4"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns="http://mary.dfki.de/2002/MaryXML"
+xml:lang="en-US">
+<boundary  breakindex="2" duration="100"/>
+You were making them talk shop, Ruth charged him.</maryxml>
+2015-09-17 15:46:14,343 [I/O dispatcher 1] DEBUG marytts.server     OUTPUT_TYPE=ALLOPHONES
+2015-09-17 15:46:14,343 [I/O dispatcher 1] DEBUG marytts.server No voice requested -- using default cmu-slt-hsmm
+2015-09-17 15:46:14,343 [I/O dispatcher 1] DEBUG marytts.server No audio effects requested
+2015-09-17 15:46:14,343 [I/O dispatcher 1] INFO  marytts.R 1131 New request (input type "RAWMARYXML", output type "ALLOPHONES", voice "cmu-slt-hsmm", effect "", style "", audio "AU")
+2015-09-17 15:46:14,343 [I/O dispatcher 1] DEBUG marytts.IO Parsing XML input (non-validating): <?xml version="1.0" encoding="UTF-8" ?>
+<maryxml version="0.4"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns="http://mary.dfki.de/2002/MaryXML"
+xml:lang="en-US">
+<boundary  breakindex="2" duration="100"/>
+You were making them talk shop, Ruth charged him.</maryxml>
+2015-09-17 15:46:14,343 [I/O dispatcher 1] INFO  marytts.server Read: <?xml version="1.0" encoding="UTF-8" ?>
+<maryxml version="0.4"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns="http://mary.dfki.de/2002/MaryXML"
+xml:lang="en-US">
+<boundary  breakindex="2" duration="100"/>
+You were making them talk shop, Ruth charged him.</maryxml>
+2015-09-17 15:46:14,343 [I/O dispatcher 1] DEBUG marytts.R 1131 Now splitting the following RAWMARYXML data into chunks:
+2015-09-17 15:46:14,343 [I/O dispatcher 1] DEBUG marytts.IO <?xml version="1.0" encoding="UTF-8"?><maryxml xmlns="http://mary.dfki.de/2002/MaryXML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="0.4" xml:lang="en-US">
+<boundary breakindex="2" duration="100"/>
+You were making them talk shop, Ruth charged him.
+</maryxml>
+
+2015-09-17 15:46:14,343 [I/O dispatcher 1] DEBUG marytts.R 1131 Found text node below paragraph; enclosing from '
+You were making them talk shop, Ruth charged him.' to '
+You were making them talk shop, Ruth charged him.'
+2015-09-17 15:46:14,343 [I/O dispatcher 1] DEBUG marytts.R 1131 Now converting the following input data from RAWMARYXML to ALLOPHONES:
+2015-09-17 15:46:14,343 [I/O dispatcher 1] DEBUG marytts.IO <?xml version="1.0" encoding="UTF-8"?><maryxml xmlns="http://mary.dfki.de/2002/MaryXML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="0.5" xml:lang="en-US">
+<p>
+<boundary breakindex="2" duration="100"/>
+You were making them talk shop, Ruth charged him.
+</p>
+</maryxml>
+
+2015-09-17 15:46:14,343 [I/O dispatcher 1] DEBUG marytts.R 1131 Determining which modules to use
+2015-09-17 15:46:14,343 [I/O dispatcher 1] DEBUG marytts.ModuleRegistry Module JTokeniser converts RAWMARYXML into TOKENS (locale en_US, voice cmu-slt-hsmm)
+2015-09-17 15:46:14,343 [I/O dispatcher 1] DEBUG marytts.ModuleRegistry Module Preprocess converts TOKENS into WORDS (locale en_US, voice cmu-slt-hsmm)
+2015-09-17 15:46:14,343 [I/O dispatcher 1] DEBUG marytts.ModuleRegistry Module OpenNLPPosTagger converts WORDS into PARTSOFSPEECH (locale en_US, voice cmu-slt-hsmm)
+2015-09-17 15:46:14,343 [I/O dispatcher 1] DEBUG marytts.ModuleRegistry Module JPhonemiser converts PARTSOFSPEECH into PHONEMES (locale en_US, voice cmu-slt-hsmm)
+2015-09-17 15:46:14,343 [I/O dispatcher 1] DEBUG marytts.ModuleRegistry Module Prosody converts PHONEMES into INTONATION (locale en_US, voice cmu-slt-hsmm)
+2015-09-17 15:46:14,343 [I/O dispatcher 1] DEBUG marytts.ModuleRegistry Module PronunciationModel converts INTONATION into ALLOPHONES (locale en_US, voice cmu-slt-hsmm)
+2015-09-17 15:46:14,343 [I/O dispatcher 1] DEBUG marytts.ModuleRegistry found path through modules
+2015-09-17 15:46:14,343 [I/O dispatcher 1] INFO  marytts.R 1131 Handling request using the following modules:
+2015-09-17 15:46:14,343 [I/O dispatcher 1] INFO  marytts.R 1131 - JTokeniser (marytts.language.en.JTokeniser)
+2015-09-17 15:46:14,343 [I/O dispatcher 1] INFO  marytts.R 1131 - Preprocess (marytts.language.en.Preprocess)
+2015-09-17 15:46:14,343 [I/O dispatcher 1] INFO  marytts.R 1131 - OpenNLPPosTagger (marytts.modules.OpenNLPPosTagger)
+2015-09-17 15:46:14,343 [I/O dispatcher 1] INFO  marytts.R 1131 - JPhonemiser (marytts.modules.JPhonemiser)
+2015-09-17 15:46:14,343 [I/O dispatcher 1] INFO  marytts.R 1131 - Prosody (marytts.language.en.Prosody)
+2015-09-17 15:46:14,343 [I/O dispatcher 1] INFO  marytts.R 1131 - PronunciationModel (marytts.language.en.PronunciationModel)
+2015-09-17 15:46:14,343 [I/O dispatcher 1] DEBUG marytts.R 1131 Handing the following data to the next module:
+2015-09-17 15:46:14,343 [I/O dispatcher 1] DEBUG marytts.IO <?xml version="1.0" encoding="UTF-8"?><maryxml xmlns="http://mary.dfki.de/2002/MaryXML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="0.5" xml:lang="en-US">
+<p>
+<boundary breakindex="2" duration="100"/>
+You were making them talk shop, Ruth charged him.
+</p>
+</maryxml>
+
+2015-09-17 15:46:14,343 [I/O dispatcher 1] INFO  marytts.R 1131 Next module: JTokeniser
+2015-09-17 15:46:14,344 [I/O dispatcher 1] DEBUG marytts.R 1131 Handing the following data to the next module:
+2015-09-17 15:46:14,344 [I/O dispatcher 1] DEBUG marytts.IO <?xml version="1.0" encoding="UTF-8"?><maryxml xmlns="http://mary.dfki.de/2002/MaryXML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="0.5" xml:lang="en-US">
+<p>
+<s>
+<boundary breakindex="2" duration="100"/>
+<t>
+You
+</t>
+<t>
+were
+</t>
+<t>
+making
+</t>
+<t>
+them
+</t>
+<t>
+talk
+</t>
+<t>
+shop
+</t>
+<t>
+,
+</t>
+<t>
+Ruth
+</t>
+<t>
+charged
+</t>
+<t>
+him
+</t>
+<t>
+.
+</t>
+</s>
+</p>
+</maryxml>
+
+2015-09-17 15:46:14,344 [I/O dispatcher 1] INFO  marytts.R 1131 Next module: Preprocess
+2015-09-17 15:46:14,344 [I/O dispatcher 1] DEBUG marytts.R 1131 Handing the following data to the next module:
+2015-09-17 15:46:14,344 [I/O dispatcher 1] DEBUG marytts.IO <?xml version="1.0" encoding="UTF-8"?><maryxml xmlns="http://mary.dfki.de/2002/MaryXML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="0.5" xml:lang="en-US">
+<p>
+<s>
+<boundary breakindex="2" duration="100"/>
+<t>
+You
+</t>
+<t>
+were
+</t>
+<t>
+making
+</t>
+<t>
+them
+</t>
+<t>
+talk
+</t>
+<t>
+shop
+</t>
+<t pos=".">
+,
+</t>
+<t>
+Ruth
+</t>
+<t>
+charged
+</t>
+<t>
+him
+</t>
+<t pos=".">
+.
+</t>
+</s>
+</p>
+</maryxml>
+
+2015-09-17 15:46:14,344 [I/O dispatcher 1] INFO  marytts.R 1131 Next module: OpenNLPPosTagger
+2015-09-17 15:46:14,344 [I/O dispatcher 1] DEBUG marytts.R 1131 Handing the following data to the next module:
+2015-09-17 15:46:14,344 [I/O dispatcher 1] DEBUG marytts.IO <?xml version="1.0" encoding="UTF-8"?><maryxml xmlns="http://mary.dfki.de/2002/MaryXML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="0.5" xml:lang="en-US">
+<p>
+<s>
+<boundary breakindex="2" duration="100"/>
+<t pos="PRP">
+You
+</t>
+<t pos="VBD">
+were
+</t>
+<t pos="VBG">
+making
+</t>
+<t pos="PRP">
+them
+</t>
+<t pos="VB">
+talk
+</t>
+<t pos="NN">
+shop
+</t>
+<t pos=".">
+,
+</t>
+<t pos=",">
+Ruth
+</t>
+<t pos="NNP">
+charged
+</t>
+<t pos="VBD">
+him
+</t>
+<t pos=".">
+.
+</t>
+</s>
+</p>
+</maryxml>
+
+2015-09-17 15:46:14,344 [I/O dispatcher 1] INFO  marytts.R 1131 Next module: JPhonemiser
+2015-09-17 15:46:14,345 [I/O dispatcher 1] DEBUG marytts.R 1131 Handing the following data to the next module:
+2015-09-17 15:46:14,345 [I/O dispatcher 1] DEBUG marytts.IO <?xml version="1.0" encoding="UTF-8"?><maryxml xmlns="http://mary.dfki.de/2002/MaryXML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="0.5" xml:lang="en-US">
+<p>
+<s>
+<boundary breakindex="2" duration="100"/>
+<t g2p_method="lexicon" ph="' j u" pos="PRP">
+You
+</t>
+<t g2p_method="lexicon" ph="w r=" pos="VBD">
+were
+</t>
+<t g2p_method="lexicon" ph="' m EI - k I N" pos="VBG">
+making
+</t>
+<t g2p_method="lexicon" ph="' D E m" pos="PRP">
+them
+</t>
+<t g2p_method="lexicon" ph="' t O k" pos="VB">
+talk
+</t>
+<t g2p_method="lexicon" ph="' S A p" pos="NN">
+shop
+</t>
+<t pos=".">
+,
+</t>
+<t g2p_method="lexicon" ph="' r u T" pos=",">
+Ruth
+</t>
+<t g2p_method="lexicon" ph="' tS A r dZ d" pos="NNP">
+charged
+</t>
+<t g2p_method="lexicon" ph="' h I m" pos="VBD">
+him
+</t>
+<t pos=".">
+.
+</t>
+</s>
+</p>
+</maryxml>
+
+2015-09-17 15:46:14,345 [I/O dispatcher 1] INFO  marytts.R 1131 Next module: Prosody
+2015-09-17 15:46:14,345 [I/O dispatcher 1] DEBUG marytts.Prosody Processing next sentence
+2015-09-17 15:46:14,345 [I/O dispatcher 1] DEBUG marytts.Prosody Now looking at token `You'
+2015-09-17 15:46:14,345 [I/O dispatcher 1] DEBUG marytts.Prosody Starting treewalker at token You
+2015-09-17 15:46:14,345 [I/O dispatcher 1] DEBUG marytts.Prosody Now looking at token `were'
+2015-09-17 15:46:14,345 [I/O dispatcher 1] DEBUG marytts.Prosody Starting treewalker at token were
+2015-09-17 15:46:14,345 [I/O dispatcher 1] DEBUG marytts.Prosody Now looking at token `making'
+2015-09-17 15:46:14,345 [I/O dispatcher 1] DEBUG marytts.Prosody Starting treewalker at token making
+2015-09-17 15:46:14,345 [I/O dispatcher 1] DEBUG marytts.Prosody Now looking at token `them'
+2015-09-17 15:46:14,345 [I/O dispatcher 1] DEBUG marytts.Prosody Starting treewalker at token them
+2015-09-17 15:46:14,345 [I/O dispatcher 1] DEBUG marytts.Prosody Now looking at token `talk'
+2015-09-17 15:46:14,345 [I/O dispatcher 1] DEBUG marytts.Prosody Starting treewalker at token talk
+2015-09-17 15:46:14,345 [I/O dispatcher 1] DEBUG marytts.Prosody Now looking at token `shop'
+2015-09-17 15:46:14,345 [I/O dispatcher 1] DEBUG marytts.Prosody Starting treewalker at token shop
+2015-09-17 15:46:14,345 [I/O dispatcher 1] DEBUG marytts.Prosody Now looking at token `,'
+2015-09-17 15:46:14,345 [I/O dispatcher 1] DEBUG marytts.Prosody Starting treewalker at token ,
+2015-09-17 15:46:14,345 [I/O dispatcher 1] DEBUG marytts.Prosody Now looking at token `Ruth'
+2015-09-17 15:46:14,345 [I/O dispatcher 1] DEBUG marytts.Prosody insertBoundary: after token `Ruth', tone H-L%, bi 4
+2015-09-17 15:46:14,345 [I/O dispatcher 1] DEBUG marytts.Prosody Starting treewalker at token Ruth
+2015-09-17 15:46:14,345 [I/O dispatcher 1] DEBUG marytts.Prosody tw found a boundary
+2015-09-17 15:46:14,345 [I/O dispatcher 1] DEBUG marytts.Prosody Now looking at token `charged'
+2015-09-17 15:46:14,345 [I/O dispatcher 1] DEBUG marytts.Prosody Starting treewalker at token charged
+2015-09-17 15:46:14,345 [I/O dispatcher 1] DEBUG marytts.Prosody Now looking at token `him'
+2015-09-17 15:46:14,345 [I/O dispatcher 1] DEBUG marytts.Prosody Starting treewalker at token him
+2015-09-17 15:46:14,345 [I/O dispatcher 1] DEBUG marytts.Prosody Now looking at token `.'
+2015-09-17 15:46:14,345 [I/O dispatcher 1] DEBUG marytts.Prosody insertBoundary: after token `.', tone L-L%, bi 5
+2015-09-17 15:46:14,345 [I/O dispatcher 1] DEBUG marytts.Prosody Starting treewalker at token .
+2015-09-17 15:46:14,345 [I/O dispatcher 1] DEBUG marytts.Prosody tw found a boundary
+2015-09-17 15:46:14,345 [I/O dispatcher 1] DEBUG marytts.R 1131 Handing the following data to the next module:
+2015-09-17 15:46:14,345 [I/O dispatcher 1] DEBUG marytts.IO <?xml version="1.0" encoding="UTF-8"?><maryxml xmlns="http://mary.dfki.de/2002/MaryXML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="0.5" xml:lang="en-US">
+<p>
+<s>
+<prosody pitch="+5%" range="+20%">
+<phrase>
+<boundary breakindex="2" duration="100"/>
+<t g2p_method="lexicon" ph="' j u" pos="PRP">
+You
+</t>
+<t accent="L+H*" g2p_method="lexicon" ph="w r=" pos="VBD">
+were
+</t>
+<t accent="L+H*" g2p_method="lexicon" ph="' m EI - k I N" pos="VBG">
+making
+</t>
+<t g2p_method="lexicon" ph="' D E m" pos="PRP">
+them
+</t>
+<t accent="L+H*" g2p_method="lexicon" ph="' t O k" pos="VB">
+talk
+</t>
+<t accent="L+H*" g2p_method="lexicon" ph="' S A p" pos="NN">
+shop
+</t>
+<t pos=".">
+,
+</t>
+<t g2p_method="lexicon" ph="' r u T" pos=",">
+Ruth
+</t>
+<boundary breakindex="4" tone="H-L%"/>
+</phrase>
+</prosody>
+<prosody pitch="-5%" range="-20%">
+<phrase>
+<t accent="L+H*" g2p_method="lexicon" ph="' tS A r dZ d" pos="NNP">
+charged
+</t>
+<t accent="!H*" g2p_method="lexicon" ph="' h I m" pos="VBD">
+him
+</t>
+<t pos=".">
+.
+</t>
+<boundary breakindex="5" tone="L-L%"/>
+</phrase>
+</prosody>
+</s>
+</p>
+</maryxml>
+
+2015-09-17 15:46:14,345 [I/O dispatcher 1] INFO  marytts.R 1131 Next module: PronunciationModel
+2015-09-17 15:46:14,345 [I/O dispatcher 1] DEBUG marytts.PronunciationModel Getting xml-data from document finished.
+2015-09-17 15:46:14,345 [I/O dispatcher 1] DEBUG marytts.PronunciationModel Setting the changed xml document finished.
+2015-09-17 15:46:14,345 [I/O dispatcher 1] INFO  marytts.R 1131 Request processed in 2 ms.
+2015-09-17 15:46:14,345 [I/O dispatcher 1] INFO  marytts.R 1131    JTokeniser took 1 ms
+2015-09-17 15:46:14,345 [I/O dispatcher 1] INFO  marytts.R 1131    Preprocess took 0 ms
+2015-09-17 15:46:14,345 [I/O dispatcher 1] INFO  marytts.R 1131    OpenNLPPosTagger took 0 ms
+2015-09-17 15:46:14,345 [I/O dispatcher 1] INFO  marytts.R 1131    JPhonemiser took 1 ms
+2015-09-17 15:46:14,345 [I/O dispatcher 1] INFO  marytts.R 1131    Prosody took 0 ms
+2015-09-17 15:46:14,345 [I/O dispatcher 1] INFO  marytts.R 1131    PronunciationModel took 0 ms
+2015-09-17 15:46:14,346 [I/O dispatcher 1] DEBUG marytts.IO <?xml version="1.0" encoding="UTF-8"?><maryxml xmlns="http://mary.dfki.de/2002/MaryXML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="0.4" xml:lang="en-US">
+<p>
+<s>
+<prosody pitch="+5%" range="+20%">
+<phrase>
+<boundary breakindex="2" duration="100"/>
+<t g2p_method="lexicon" ph="' j u" pos="PRP">
+You
+<syllable ph="j u" stress="1">
+<ph p="j"/>
+<ph p="u"/>
+</syllable>
+</t>
+<t accent="L+H*" g2p_method="lexicon" ph="w r=" pos="VBD">
+were
+<syllable ph="w r=">
+<ph p="w"/>
+<ph p="r="/>
+</syllable>
+</t>
+<t accent="L+H*" g2p_method="lexicon" ph="' m EI - k I N" pos="VBG">
+making
+<syllable accent="L+H*" ph="m EI" stress="1">
+<ph p="m"/>
+<ph p="EI"/>
+</syllable>
+<syllable ph="k I N">
+<ph p="k"/>
+<ph p="I"/>
+<ph p="N"/>
+</syllable>
+</t>
+<t g2p_method="lexicon" ph="' D E m" pos="PRP">
+them
+<syllable ph="D E m" stress="1">
+<ph p="D"/>
+<ph p="E"/>
+<ph p="m"/>
+</syllable>
+</t>
+<t accent="L+H*" g2p_method="lexicon" ph="' t O k" pos="VB">
+talk
+<syllable accent="L+H*" ph="t O k" stress="1">
+<ph p="t"/>
+<ph p="O"/>
+<ph p="k"/>
+</syllable>
+</t>
+<t accent="L+H*" g2p_method="lexicon" ph="' S A p" pos="NN">
+shop
+<syllable accent="L+H*" ph="S A p" stress="1">
+<ph p="S"/>
+<ph p="A"/>
+<ph p="p"/>
+</syllable>
+</t>
+<t pos=".">
+,
+</t>
+<t g2p_method="lexicon" ph="' r u T" pos=",">
+Ruth
+<syllable ph="r u T" stress="1">
+<ph p="r"/>
+<ph p="u"/>
+<ph p="T"/>
+</syllable>
+</t>
+<boundary breakindex="4" tone="H-L%"/>
+</phrase>
+</prosody>
+<prosody pitch="-5%" range="-20%">
+<phrase>
+<t accent="L+H*" g2p_method="lexicon" ph="' tS A r dZ d" pos="NNP">
+charged
+<syllable accent="L+H*" ph="tS A r dZ d" stress="1">
+<ph p="tS"/>
+<ph p="A"/>
+<ph p="r"/>
+<ph p="dZ"/>
+<ph p="d"/>
+</syllable>
+</t>
+<t accent="!H*" g2p_method="lexicon" ph="' h I m" pos="VBD">
+him
+<syllable accent="!H*" ph="h I m" stress="1">
+<ph p="h"/>
+<ph p="I"/>
+<ph p="m"/>
+</syllable>
+</t>
+<t pos=".">
+.
+</t>
+<boundary breakindex="5" tone="L-L%"/>
+</phrase>
+</prosody>
+</s>
+</p>
+</maryxml>
+
+2015-09-17 15:46:14,346 [I/O dispatcher 1] INFO  marytts.server Request handled successfully.

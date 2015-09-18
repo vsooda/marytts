@@ -1,0 +1,504 @@
+MARY server 5.2-SNAPSHOT starting as a HTTP server...2015-09-17 15:44:10,901 [main] INFO  marytts.main Mary starting up...
+2015-09-17 15:44:10,902 [main] INFO  marytts.main Specification version 5.2-SNAPSHOT
+2015-09-17 15:44:10,902 [main] INFO  marytts.main Implementation version unknown
+2015-09-17 15:44:10,902 [main] INFO  marytts.main Running on a Java 1.7.0_79 implementation by Oracle Corporation, on a Linux platform (amd64, 3.16.0-33-generic)
+2015-09-17 15:44:10,902 [main] DEBUG marytts.main MARY_BASE: /home/research/speech/marytts/target/marytts-5.2-SNAPSHOT
+2015-09-17 15:44:10,902 [main] DEBUG marytts.main Content of installed/ folder: voice-cmu-slt-5.1-component.xml, marytts-lang-sv-5.2-SNAPSHOT-component.xml, voice-cmu-rms-hsmm-5.1-component.xml, marytts-lang-tr-5.2-SNAPSHOT-component.xml, voice-cmu-slt-hsmm-5.2-SNAPSHOT-component.xml, voice-cmu-bdl-hsmm-5.1-component.xml, marytts-lang-ru-5.2-SNAPSHOT-component.xml, voice-my_voice2-hsmm-5.2-SNAPSHOT-component.xml, marytts-lang-en-US-5.2-SNAPSHOT-component.xml, marytts-lang-fr-5.2-SNAPSHOT-component.xml, marytts-lang-lb-5.2-SNAPSHOT-component.xml, marytts-lang-de-5.2-SNAPSHOT-component.xml, marytts-lang-te-5.2-SNAPSHOT-component.xml, marytts-lang-en-GB-5.2-SNAPSHOT-component.xml, marytts-lang-it-5.2-SNAPSHOT-component.xml, voice-my_voice1-5.2-SNAPSHOT-component.xml
+2015-09-17 15:44:10,902 [main] DEBUG marytts.main The conf/ folder does not exist.
+2015-09-17 15:44:10,902 [main] DEBUG marytts.main Full dump of system properties:
+2015-09-17 15:44:10,903 [main] DEBUG marytts.main awt.toolkit = sun.awt.X11.XToolkit
+2015-09-17 15:44:10,903 [main] DEBUG marytts.main file.encoding = UTF-8
+2015-09-17 15:44:10,903 [main] DEBUG marytts.main file.encoding.pkg = sun.io
+2015-09-17 15:44:10,903 [main] DEBUG marytts.main file.separator = /
+2015-09-17 15:44:10,903 [main] DEBUG marytts.main java.awt.graphicsenv = sun.awt.X11GraphicsEnvironment
+2015-09-17 15:44:10,903 [main] DEBUG marytts.main java.awt.printerjob = sun.print.PSPrinterJob
+2015-09-17 15:44:10,903 [main] DEBUG marytts.main java.class.path = /home/research/speech/marytts/marytts-runtime/target/classes:/home/research/.groovy/greclipse/global_dsld_support:/home/research/.p2/pool/plugins/org.codehaus.groovy_2.3.10.xx-201508121448-e45/plugin_dsld_support/:/home/research/speech/marytts/marytts-common/target/classes:/home/research/.m2/repository/commons-io/commons-io/2.0.1/commons-io-2.0.1.jar:/home/research/.m2/repository/log4j/log4j/1.2.16/log4j-1.2.16.jar:/home/research/.m2/repository/com/twmacinta/fast-md5/2.7.1/fast-md5-2.7.1.jar:/home/research/.m2/repository/org/codehaus/groovy/groovy-all/2.3.10/groovy-all-2.3.10.jar:/home/research/speech/marytts/marytts-signalproc/target/classes:/home/research/.m2/repository/gov/nist/math/jama/1.0.3/jama-1.0.3.jar:/home/research/.m2/repository/org/swinglabs/swing-layout/1.0.3/swing-layout-1.0.3.jar:/home/research/.m2/repository/com/ibm/icu/icu4j/54.1.1/icu4j-54.1.1.jar:/home/research/.m2/repository/commons-lang/commons-lang/2.6/commons-lang-2.6.jar:/home/research/.m2/repository/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.jar:/home/research/.m2/repository/de/dfki/mary/emotionml-checker-java/1.1/emotionml-checker-java-1.1.jar:/home/research/.m2/repository/de/dfki/lt/jtok/jtok-core/1.9.3/jtok-core-1.9.3.jar:/home/research/.m2/repository/org/slf4j/slf4j-api/1.6.1/slf4j-api-1.6.1.jar:/home/research/.m2/repository/org/slf4j/slf4j-log4j12/1.6.1/slf4j-log4j12-1.6.1.jar:/home/research/.m2/repository/com/google/guava/guava/14.0.1/guava-14.0.1.jar:/home/research/.m2/repository/net/sf/trove4j/trove4j/2.0.2/trove4j-2.0.2.jar:/home/research/.m2/repository/org/apache/httpcomponents/httpcore/4.1/httpcore-4.1.jar:/home/research/.m2/repository/org/apache/httpcomponents/httpcore-nio/4.1/httpcore-nio-4.1.jar:/home/research/.m2/repository/org/apache/opennlp/opennlp-maxent/3.0.3/opennlp-maxent-3.0.3.jar:/home/research/.m2/repository/org/apache/opennlp/opennlp-tools/1.5.3/opennlp-tools-1.5.3.jar:/home/research/.m2/repository/net/sf/jwordnet/jwnl/1.3.3/jwnl-1.3.3.jar:/home/research/.m2/repository/org/hsqldb/hsqldb/2.0.0/hsqldb-2.0.0.jar:/home/research/speech/marytts/marytts-languages/marytts-lang-en/target/classes:/home/research/speech/marytts/marytts-languages/marytts-lang-en/target/test-classes:/home/research/speech/marytts/voice-cmu-slt-hsmm/target/classes:/home/research/speech/marytts/voice-cmu-slt-hsmm/target/test-classes
+2015-09-17 15:44:10,903 [main] DEBUG marytts.main java.class.version = 51.0
+2015-09-17 15:44:10,903 [main] DEBUG marytts.main java.endorsed.dirs = /usr/lib/jvm/java-7-openjdk-amd64/jre/lib/endorsed
+2015-09-17 15:44:10,903 [main] DEBUG marytts.main java.ext.dirs = /usr/lib/jvm/java-7-openjdk-amd64/jre/lib/ext:/usr/java/packages/lib/ext
+2015-09-17 15:44:10,903 [main] DEBUG marytts.main java.home = /usr/lib/jvm/java-7-openjdk-amd64/jre
+2015-09-17 15:44:10,903 [main] DEBUG marytts.main java.io.tmpdir = /tmp
+2015-09-17 15:44:10,903 [main] DEBUG marytts.main java.library.path = /home/research/torch/install/lib::/usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib
+2015-09-17 15:44:10,903 [main] DEBUG marytts.main java.runtime.name = OpenJDK Runtime Environment
+2015-09-17 15:44:10,903 [main] DEBUG marytts.main java.runtime.version = 1.7.0_79-b14
+2015-09-17 15:44:10,903 [main] DEBUG marytts.main java.specification.name = Java Platform API Specification
+2015-09-17 15:44:10,903 [main] DEBUG marytts.main java.specification.vendor = Oracle Corporation
+2015-09-17 15:44:10,903 [main] DEBUG marytts.main java.specification.version = 1.7
+2015-09-17 15:44:10,903 [main] DEBUG marytts.main java.vendor = Oracle Corporation
+2015-09-17 15:44:10,903 [main] DEBUG marytts.main java.vendor.url = http://java.oracle.com/
+2015-09-17 15:44:10,903 [main] DEBUG marytts.main java.vendor.url.bug = http://bugreport.sun.com/bugreport/
+2015-09-17 15:44:10,903 [main] DEBUG marytts.main java.version = 1.7.0_79
+2015-09-17 15:44:10,904 [main] DEBUG marytts.main java.vm.info = mixed mode
+2015-09-17 15:44:10,904 [main] DEBUG marytts.main java.vm.name = OpenJDK 64-Bit Server VM
+2015-09-17 15:44:10,904 [main] DEBUG marytts.main java.vm.specification.name = Java Virtual Machine Specification
+2015-09-17 15:44:10,904 [main] DEBUG marytts.main java.vm.specification.vendor = Oracle Corporation
+2015-09-17 15:44:10,904 [main] DEBUG marytts.main java.vm.specification.version = 1.7
+2015-09-17 15:44:10,904 [main] DEBUG marytts.main java.vm.vendor = Oracle Corporation
+2015-09-17 15:44:10,904 [main] DEBUG marytts.main java.vm.version = 24.79-b02
+2015-09-17 15:44:10,904 [main] DEBUG marytts.main line.separator = 
+
+2015-09-17 15:44:10,904 [main] DEBUG marytts.main log4j.defaultInitOverride = true
+2015-09-17 15:44:10,904 [main] DEBUG marytts.main log4j.logger.marytts = DEBUG,stderr
+2015-09-17 15:44:10,904 [main] DEBUG marytts.main mary.base = /home/research/speech/marytts/target/marytts-5.2-SNAPSHOT
+2015-09-17 15:44:10,904 [main] DEBUG marytts.main os.arch = amd64
+2015-09-17 15:44:10,904 [main] DEBUG marytts.main os.name = Linux
+2015-09-17 15:44:10,904 [main] DEBUG marytts.main os.version = 3.16.0-33-generic
+2015-09-17 15:44:10,904 [main] DEBUG marytts.main path.separator = :
+2015-09-17 15:44:10,904 [main] DEBUG marytts.main sun.arch.data.model = 64
+2015-09-17 15:44:10,904 [main] DEBUG marytts.main sun.boot.class.path = /usr/lib/jvm/java-7-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rhino.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/classes
+2015-09-17 15:44:10,904 [main] DEBUG marytts.main sun.boot.library.path = /usr/lib/jvm/java-7-openjdk-amd64/jre/lib/amd64
+2015-09-17 15:44:10,904 [main] DEBUG marytts.main sun.cpu.endian = little
+2015-09-17 15:44:10,904 [main] DEBUG marytts.main sun.cpu.isalist = 
+2015-09-17 15:44:10,904 [main] DEBUG marytts.main sun.desktop = gnome
+2015-09-17 15:44:10,904 [main] DEBUG marytts.main sun.io.unicode.encoding = UnicodeLittle
+2015-09-17 15:44:10,904 [main] DEBUG marytts.main sun.java.command = marytts.server.Mary
+2015-09-17 15:44:10,904 [main] DEBUG marytts.main sun.java.launcher = SUN_STANDARD
+2015-09-17 15:44:10,904 [main] DEBUG marytts.main sun.jnu.encoding = UTF-8
+2015-09-17 15:44:10,905 [main] DEBUG marytts.main sun.management.compiler = HotSpot 64-Bit Tiered Compilers
+2015-09-17 15:44:10,905 [main] DEBUG marytts.main sun.os.patch.level = unknown
+2015-09-17 15:44:10,905 [main] DEBUG marytts.main user.country = US
+2015-09-17 15:44:10,905 [main] DEBUG marytts.main user.dir = /home/research/speech/marytts/marytts-runtime
+2015-09-17 15:44:10,905 [main] DEBUG marytts.main user.home = /home/research
+2015-09-17 15:44:10,905 [main] DEBUG marytts.main user.language = en
+2015-09-17 15:44:10,905 [main] DEBUG marytts.main user.name = research
+2015-09-17 15:44:10,905 [main] DEBUG marytts.main user.timezone = Asia/Shanghai
+2015-09-17 15:44:10,905 [main] DEBUG marytts.main XML libraries used:
+2015-09-17 15:44:10,906 [main] DEBUG marytts.main DocumentBuilderFactory: class com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderFactoryImpl
+2015-09-17 15:44:10,910 [main] DEBUG marytts.main TransformerFactory:     class com.sun.org.apache.xalan.internal.xsltc.trax.TransformerFactoryImpl
+2015-09-17 15:44:10,988 [main] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.modules.Synthesis'
+2015-09-17 15:44:10,991 [main] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.modules.TextToMaryXML'
+2015-09-17 15:44:10,991 [main] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.modules.SableParser'
+2015-09-17 15:44:10,992 [main] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.modules.SSMLParser'
+2015-09-17 15:44:10,992 [main] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.modules.APMLParser'
+2015-09-17 15:44:10,992 [main] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.modules.EmotionmlParser'
+2015-09-17 15:44:10,993 [main] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.modules.JTokeniser'
+2015-09-17 15:44:10,993 [main] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.modules.DummyTokens2Words'
+2015-09-17 15:44:10,993 [main] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.modules.ProsodyGeneric'
+2015-09-17 15:44:10,995 [main] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.modules.PronunciationModel'
+2015-09-17 15:44:10,995 [main] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.modules.TargetFeatureLister'
+2015-09-17 15:44:10,996 [main] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.modules.HalfPhoneTargetFeatureLister'
+2015-09-17 15:44:10,996 [main] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.modules.AcousticModeller'
+2015-09-17 15:44:10,996 [main] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.modules.RealisedAcoustparamsExtractor'
+2015-09-17 15:44:10,997 [main] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.modules.RealisedDurationsExtractor'
+2015-09-17 15:44:10,997 [main] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.modules.HTSEngine'
+2015-09-17 15:44:10,998 [main] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.modules.PraatTextGridGenerator'
+2015-09-17 15:44:10,998 [main] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.language.en.JTokeniser'
+2015-09-17 15:44:10,999 [main] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.language.en.Preprocess'
+2015-09-17 15:44:11,127 [main] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.modules.JPhonemiser(en_US.)'
+2015-09-17 15:44:11,129 [main] DEBUG marytts.JPhonemiser Reading lexicon from '/home/research/speech/marytts/target/marytts-5.2-SNAPSHOT/user-dictionaries/userdict-en_US.txt'
+2015-09-17 15:44:11,193 [main] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.modules.JPhonemiser(en_GB.)'
+2015-09-17 15:44:11,193 [main] DEBUG marytts.JPhonemiser Reading lexicon from '/home/research/speech/marytts/target/marytts-5.2-SNAPSHOT/user-dictionaries/userdict-en_GB.txt'
+2015-09-17 15:44:11,229 [main] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.language.en.Prosody'
+2015-09-17 15:44:11,230 [main] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.modules.SimplePhoneme2AP(en_US)'
+2015-09-17 15:44:11,231 [main] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.language.en.PronunciationModel'
+2015-09-17 15:44:11,231 [main] INFO  marytts.ModuleRegistry Now initiating mary module 'marytts.modules.OpenNLPPosTagger(en,en.pos)'
+2015-09-17 15:44:11,232 [main] DEBUG marytts.ModuleRegistry Module JTokeniser converts RAWMARYXML into TOKENS (locale null, voice null)
+2015-09-17 15:44:11,233 [main] DEBUG marytts.ModuleRegistry Module DummyTokens2Words converts TOKENS into WORDS (locale null, voice null)
+2015-09-17 15:44:11,233 [main] DEBUG marytts.ModuleRegistry Module SSMLParser converts SSML into RAWMARYXML (locale null, voice null)
+2015-09-17 15:44:11,233 [main] DEBUG marytts.ModuleRegistry Module JTokeniser converts RAWMARYXML into TOKENS (locale null, voice null)
+2015-09-17 15:44:11,233 [main] DEBUG marytts.ModuleRegistry Module DummyTokens2Words converts TOKENS into WORDS (locale null, voice null)
+2015-09-17 15:44:11,233 [main] DEBUG marytts.ModuleRegistry Module APMLParser converts APML into RAWMARYXML (locale null, voice null)
+2015-09-17 15:44:11,233 [main] DEBUG marytts.ModuleRegistry Module JTokeniser converts RAWMARYXML into TOKENS (locale null, voice null)
+2015-09-17 15:44:11,233 [main] DEBUG marytts.ModuleRegistry Module DummyTokens2Words converts TOKENS into WORDS (locale null, voice null)
+2015-09-17 15:44:11,233 [main] DEBUG marytts.ModuleRegistry Module APMLParser converts APML into RAWMARYXML (locale null, voice null)
+2015-09-17 15:44:11,233 [main] DEBUG marytts.ModuleRegistry Module JTokeniser converts RAWMARYXML into TOKENS (locale null, voice null)
+2015-09-17 15:44:11,233 [main] DEBUG marytts.ModuleRegistry Module DummyTokens2Words converts TOKENS into WORDS (locale null, voice null)
+2015-09-17 15:44:11,234 [main] DEBUG marytts.ModuleRegistry Module EmotionmlParser converts EMOTIONML into RAWMARYXML (locale null, voice null)
+2015-09-17 15:44:11,234 [main] DEBUG marytts.ModuleRegistry Module JTokeniser converts RAWMARYXML into TOKENS (locale null, voice null)
+2015-09-17 15:44:11,234 [main] DEBUG marytts.ModuleRegistry Module DummyTokens2Words converts TOKENS into WORDS (locale null, voice null)
+2015-09-17 15:44:11,234 [main] DEBUG marytts.ModuleRegistry Module DummyTokens2Words converts TOKENS into WORDS (locale null, voice null)
+2015-09-17 15:44:11,234 [main] DEBUG marytts.ModuleRegistry Module Prosody converts PHONEMES into INTONATION (locale null, voice null)
+2015-09-17 15:44:11,234 [main] DEBUG marytts.ModuleRegistry Module PronunciationModel converts INTONATION into ALLOPHONES (locale null, voice null)
+2015-09-17 15:44:11,234 [main] DEBUG marytts.ModuleRegistry Module AcousticModeller converts ALLOPHONES into ACOUSTPARAMS (locale null, voice null)
+2015-09-17 15:44:11,234 [main] DEBUG marytts.ModuleRegistry found path through modules
+2015-09-17 15:44:11,234 [main] DEBUG marytts.ModuleRegistry Module PronunciationModel converts INTONATION into ALLOPHONES (locale null, voice null)
+2015-09-17 15:44:11,234 [main] DEBUG marytts.ModuleRegistry Module AcousticModeller converts ALLOPHONES into ACOUSTPARAMS (locale null, voice null)
+2015-09-17 15:44:11,234 [main] DEBUG marytts.ModuleRegistry Module Synthesis converts ACOUSTPARAMS into AUDIO (locale null, voice null)
+2015-09-17 15:44:11,234 [main] DEBUG marytts.ModuleRegistry Module Realised acoustparams extractor converts AUDIO into REALISED_ACOUSTPARAMS (locale null, voice null)
+2015-09-17 15:44:11,234 [main] DEBUG marytts.ModuleRegistry Module Realised durations extractor converts AUDIO into REALISED_DURATIONS (locale null, voice null)
+2015-09-17 15:44:11,235 [main] DEBUG marytts.ModuleRegistry Module Praat TextGrid generator converts AUDIO into PRAAT_TEXTGRID (locale null, voice null)
+2015-09-17 15:44:11,235 [main] DEBUG marytts.ModuleRegistry Module TargetFeatureLister converts ACOUSTPARAMS into TARGETFEATURES (locale null, voice null)
+2015-09-17 15:44:11,235 [main] DEBUG marytts.ModuleRegistry Module HTSEngine converts TARGETFEATURES into AUDIO (locale null, voice null)
+2015-09-17 15:44:11,235 [main] DEBUG marytts.ModuleRegistry Module Realised acoustparams extractor converts AUDIO into REALISED_ACOUSTPARAMS (locale null, voice null)
+2015-09-17 15:44:11,235 [main] DEBUG marytts.ModuleRegistry Module Realised durations extractor converts AUDIO into REALISED_DURATIONS (locale null, voice null)
+2015-09-17 15:44:11,235 [main] DEBUG marytts.ModuleRegistry Module Praat TextGrid generator converts AUDIO into PRAAT_TEXTGRID (locale null, voice null)
+2015-09-17 15:44:11,235 [main] DEBUG marytts.ModuleRegistry Module TargetFeatureLister converts ACOUSTPARAMS into HALFPHONE_TARGETFEATURES (locale null, voice null)
+2015-09-17 15:44:11,235 [main] DEBUG marytts.ModuleRegistry Module PronunciationModel converts INTONATION into ALLOPHONES (locale null, voice null)
+2015-09-17 15:44:11,235 [main] DEBUG marytts.ModuleRegistry Module AcousticModeller converts ALLOPHONES into ACOUSTPARAMS (locale null, voice null)
+2015-09-17 15:44:11,235 [main] DEBUG marytts.ModuleRegistry Module Synthesis converts ACOUSTPARAMS into AUDIO (locale null, voice null)
+2015-09-17 15:44:11,235 [main] DEBUG marytts.ModuleRegistry Module Realised acoustparams extractor converts AUDIO into REALISED_ACOUSTPARAMS (locale null, voice null)
+2015-09-17 15:44:11,235 [main] DEBUG marytts.ModuleRegistry Module Realised durations extractor converts AUDIO into REALISED_DURATIONS (locale null, voice null)
+2015-09-17 15:44:11,235 [main] DEBUG marytts.ModuleRegistry Module Praat TextGrid generator converts AUDIO into PRAAT_TEXTGRID (locale null, voice null)
+2015-09-17 15:44:11,235 [main] DEBUG marytts.ModuleRegistry Module TargetFeatureLister converts ACOUSTPARAMS into TARGETFEATURES (locale null, voice null)
+2015-09-17 15:44:11,235 [main] DEBUG marytts.ModuleRegistry Module HTSEngine converts TARGETFEATURES into AUDIO (locale null, voice null)
+2015-09-17 15:44:11,235 [main] DEBUG marytts.ModuleRegistry Module Realised acoustparams extractor converts AUDIO into REALISED_ACOUSTPARAMS (locale null, voice null)
+2015-09-17 15:44:11,236 [main] DEBUG marytts.ModuleRegistry Module Realised durations extractor converts AUDIO into REALISED_DURATIONS (locale null, voice null)
+2015-09-17 15:44:11,236 [main] DEBUG marytts.ModuleRegistry Module Praat TextGrid generator converts AUDIO into PRAAT_TEXTGRID (locale null, voice null)
+2015-09-17 15:44:11,236 [main] DEBUG marytts.ModuleRegistry Module TargetFeatureLister converts ACOUSTPARAMS into HALFPHONE_TARGETFEATURES (locale null, voice null)
+2015-09-17 15:44:11,236 [main] DEBUG marytts.ModuleRegistry Module PronunciationModel converts INTONATION into ALLOPHONES (locale null, voice null)
+2015-09-17 15:44:11,236 [main] DEBUG marytts.ModuleRegistry Module AcousticModeller converts ALLOPHONES into ACOUSTPARAMS (locale null, voice null)
+2015-09-17 15:44:11,236 [main] DEBUG marytts.ModuleRegistry Module Synthesis converts ACOUSTPARAMS into AUDIO (locale null, voice null)
+2015-09-17 15:44:11,236 [main] DEBUG marytts.ModuleRegistry Module Realised acoustparams extractor converts AUDIO into REALISED_ACOUSTPARAMS (locale null, voice null)
+2015-09-17 15:44:11,236 [main] DEBUG marytts.ModuleRegistry Module Realised durations extractor converts AUDIO into REALISED_DURATIONS (locale null, voice null)
+2015-09-17 15:44:11,236 [main] DEBUG marytts.ModuleRegistry Module Praat TextGrid generator converts AUDIO into PRAAT_TEXTGRID (locale null, voice null)
+2015-09-17 15:44:11,236 [main] DEBUG marytts.ModuleRegistry Module TargetFeatureLister converts ACOUSTPARAMS into TARGETFEATURES (locale null, voice null)
+2015-09-17 15:44:11,236 [main] DEBUG marytts.ModuleRegistry Module HTSEngine converts TARGETFEATURES into AUDIO (locale null, voice null)
+2015-09-17 15:44:11,236 [main] DEBUG marytts.ModuleRegistry Module Realised acoustparams extractor converts AUDIO into REALISED_ACOUSTPARAMS (locale null, voice null)
+2015-09-17 15:44:11,236 [main] DEBUG marytts.ModuleRegistry Module Realised durations extractor converts AUDIO into REALISED_DURATIONS (locale null, voice null)
+2015-09-17 15:44:11,236 [main] DEBUG marytts.ModuleRegistry Module Praat TextGrid generator converts AUDIO into PRAAT_TEXTGRID (locale null, voice null)
+2015-09-17 15:44:11,236 [main] DEBUG marytts.ModuleRegistry Module TargetFeatureLister converts ACOUSTPARAMS into HALFPHONE_TARGETFEATURES (locale null, voice null)
+2015-09-17 15:44:11,236 [main] DEBUG marytts.ModuleRegistry Module AcousticModeller converts ALLOPHONES into ACOUSTPARAMS (locale null, voice null)
+2015-09-17 15:44:11,236 [main] DEBUG marytts.ModuleRegistry found path through modules
+2015-09-17 15:44:11,236 [main] DEBUG marytts.ModuleRegistry Module AcousticModeller converts ALLOPHONES into ACOUSTPARAMS (locale null, voice null)
+2015-09-17 15:44:11,237 [main] DEBUG marytts.ModuleRegistry Module Synthesis converts ACOUSTPARAMS into AUDIO (locale null, voice null)
+2015-09-17 15:44:11,237 [main] DEBUG marytts.ModuleRegistry Module Realised acoustparams extractor converts AUDIO into REALISED_ACOUSTPARAMS (locale null, voice null)
+2015-09-17 15:44:11,237 [main] DEBUG marytts.ModuleRegistry Module Realised durations extractor converts AUDIO into REALISED_DURATIONS (locale null, voice null)
+2015-09-17 15:44:11,237 [main] DEBUG marytts.ModuleRegistry Module Praat TextGrid generator converts AUDIO into PRAAT_TEXTGRID (locale null, voice null)
+2015-09-17 15:44:11,237 [main] DEBUG marytts.ModuleRegistry Module TargetFeatureLister converts ACOUSTPARAMS into TARGETFEATURES (locale null, voice null)
+2015-09-17 15:44:11,237 [main] DEBUG marytts.ModuleRegistry Module HTSEngine converts TARGETFEATURES into AUDIO (locale null, voice null)
+2015-09-17 15:44:11,237 [main] DEBUG marytts.ModuleRegistry Module Realised acoustparams extractor converts AUDIO into REALISED_ACOUSTPARAMS (locale null, voice null)
+2015-09-17 15:44:11,237 [main] DEBUG marytts.ModuleRegistry Module Realised durations extractor converts AUDIO into REALISED_DURATIONS (locale null, voice null)
+2015-09-17 15:44:11,237 [main] DEBUG marytts.ModuleRegistry Module Praat TextGrid generator converts AUDIO into PRAAT_TEXTGRID (locale null, voice null)
+2015-09-17 15:44:11,237 [main] DEBUG marytts.ModuleRegistry Module TargetFeatureLister converts ACOUSTPARAMS into HALFPHONE_TARGETFEATURES (locale null, voice null)
+2015-09-17 15:44:11,237 [main] DEBUG marytts.ModuleRegistry Module HTSEngine converts TARGETFEATURES into AUDIO (locale null, voice null)
+2015-09-17 15:44:11,237 [main] DEBUG marytts.ModuleRegistry found path through modules
+2015-09-17 15:44:11,239 [main] DEBUG marytts.UnitSelectionSynthesizer Register UnitSelection voices:
+2015-09-17 15:44:11,239 [main] INFO  marytts.UnitSelectionSynthesizer started.
+2015-09-17 15:44:11,240 [main] INFO  marytts.TargetFeatureLister Module started (ACOUSTPARAMS->TARGETFEATURES, locale null).
+2015-09-17 15:44:11,240 [main] INFO  marytts.HTSEngine Module started (TARGETFEATURES->AUDIO, locale null).
+2015-09-17 15:44:11,241 [main] DEBUG marytts.HMMSynthesizer Voice 'cmu-slt-hsmm'
+2015-09-17 15:44:11,265 [main] DEBUG marytts.PhoneTranslator loading tricky phones
+2015-09-17 15:44:11,265 [main] DEBUG marytts.PhoneTranslator   @ -->  en0
+2015-09-17 15:44:11,265 [main] DEBUG marytts.PhoneTranslator   @U -->  en1
+2015-09-17 15:44:11,265 [main] DEBUG marytts.PhoneTranslator   D -->  en2
+2015-09-17 15:44:11,265 [main] DEBUG marytts.PhoneTranslator   I -->  en3
+2015-09-17 15:44:11,265 [main] DEBUG marytts.PhoneTranslator   N -->  en4
+2015-09-17 15:44:11,265 [main] DEBUG marytts.PhoneTranslator   S -->  en5
+2015-09-17 15:44:11,266 [main] DEBUG marytts.PhoneTranslator   T -->  en6
+2015-09-17 15:44:11,266 [main] DEBUG marytts.PhoneTranslator   U -->  en7
+2015-09-17 15:44:11,266 [main] DEBUG marytts.PhoneTranslator   V -->  en8
+2015-09-17 15:44:11,266 [main] DEBUG marytts.PhoneTranslator   Z -->  en9
+2015-09-17 15:44:11,266 [main] DEBUG marytts.PhoneTranslator   _ -->  en10
+2015-09-17 15:44:11,266 [main] DEBUG marytts.PhoneTranslator   r= -->  en11
+2015-09-17 15:44:11,266 [main] DEBUG marytts.PhoneTranslator   { -->  en12
+2015-09-17 15:44:11,266 [main] INFO  marytts.HMMData Loading Tree Set in CARTs:
+2015-09-17 15:44:11,268 [main] DEBUG marytts.CartTreeSet Loading duration tree...
+2015-09-17 15:44:11,268 [main] DEBUG marytts.HTSCARTReader loadPdfs reading model of type dur
+2015-09-17 15:44:11,268 [main] DEBUG marytts.HTSCARTReader loadPdfs: numPdf[state:0]=549
+2015-09-17 15:44:11,351 [main] DEBUG marytts.HTSCARTReader loadStateTree: loaded CART contains 548 Decision nodes and 549 Leaf nodes.
+2015-09-17 15:44:11,352 [main] DEBUG marytts.HTSCARTReader load: CART[0], total number of nodes in this CART: 1097
+2015-09-17 15:44:11,352 [main] DEBUG marytts.CartTreeSet Loading log F0 tree...
+2015-09-17 15:44:11,352 [main] DEBUG marytts.HTSCARTReader loadPdfs reading model of type lf0
+2015-09-17 15:44:11,352 [main] DEBUG marytts.HTSCARTReader loadPdfs: numPdf[state:0]=447
+2015-09-17 15:44:11,352 [main] DEBUG marytts.HTSCARTReader loadPdfs: numPdf[state:1]=596
+2015-09-17 15:44:11,352 [main] DEBUG marytts.HTSCARTReader loadPdfs: numPdf[state:2]=863
+2015-09-17 15:44:11,353 [main] DEBUG marytts.HTSCARTReader loadPdfs: numPdf[state:3]=684
+2015-09-17 15:44:11,353 [main] DEBUG marytts.HTSCARTReader loadPdfs: numPdf[state:4]=423
+2015-09-17 15:44:11,366 [main] DEBUG marytts.HTSCARTReader loadStateTree: loaded CART contains 446 Decision nodes and 447 Leaf nodes.
+2015-09-17 15:44:11,366 [main] DEBUG marytts.HTSCARTReader load: CART[0], total number of nodes in this CART: 893
+2015-09-17 15:44:11,376 [main] DEBUG marytts.HTSCARTReader loadStateTree: loaded CART contains 595 Decision nodes and 596 Leaf nodes.
+2015-09-17 15:44:11,377 [main] DEBUG marytts.HTSCARTReader load: CART[1], total number of nodes in this CART: 1191
+2015-09-17 15:44:11,388 [main] DEBUG marytts.HTSCARTReader loadStateTree: loaded CART contains 862 Decision nodes and 863 Leaf nodes.
+2015-09-17 15:44:11,388 [main] DEBUG marytts.HTSCARTReader load: CART[2], total number of nodes in this CART: 1725
+2015-09-17 15:44:11,395 [main] DEBUG marytts.HTSCARTReader loadStateTree: loaded CART contains 683 Decision nodes and 684 Leaf nodes.
+2015-09-17 15:44:11,396 [main] DEBUG marytts.HTSCARTReader load: CART[3], total number of nodes in this CART: 1367
+2015-09-17 15:44:11,400 [main] DEBUG marytts.HTSCARTReader loadStateTree: loaded CART contains 422 Decision nodes and 423 Leaf nodes.
+2015-09-17 15:44:11,400 [main] DEBUG marytts.HTSCARTReader load: CART[4], total number of nodes in this CART: 845
+2015-09-17 15:44:11,400 [main] INFO  marytts.HMMData Loading GV Model Set:
+2015-09-17 15:44:11,400 [main] DEBUG marytts.GVModelSet LoadGVModelSet reading model of type 'lf0' with gvWeight = 1.0
+2015-09-17 15:44:11,401 [main] DEBUG marytts.HMMData Reached new initHMMData
+2015-09-17 15:44:11,409 [main] DEBUG marytts.PhoneTranslator loading tricky phones
+2015-09-17 15:44:11,409 [main] DEBUG marytts.PhoneTranslator   @ -->  en0
+2015-09-17 15:44:11,409 [main] DEBUG marytts.PhoneTranslator   @U -->  en1
+2015-09-17 15:44:11,409 [main] DEBUG marytts.PhoneTranslator   D -->  en2
+2015-09-17 15:44:11,409 [main] DEBUG marytts.PhoneTranslator   I -->  en3
+2015-09-17 15:44:11,409 [main] DEBUG marytts.PhoneTranslator   N -->  en4
+2015-09-17 15:44:11,409 [main] DEBUG marytts.PhoneTranslator   S -->  en5
+2015-09-17 15:44:11,409 [main] DEBUG marytts.PhoneTranslator   T -->  en6
+2015-09-17 15:44:11,409 [main] DEBUG marytts.PhoneTranslator   U -->  en7
+2015-09-17 15:44:11,409 [main] DEBUG marytts.PhoneTranslator   V -->  en8
+2015-09-17 15:44:11,410 [main] DEBUG marytts.PhoneTranslator   Z -->  en9
+2015-09-17 15:44:11,410 [main] DEBUG marytts.PhoneTranslator   _ -->  en10
+2015-09-17 15:44:11,410 [main] DEBUG marytts.PhoneTranslator   r= -->  en11
+2015-09-17 15:44:11,410 [main] DEBUG marytts.PhoneTranslator   { -->  en12
+2015-09-17 15:44:11,410 [main] DEBUG marytts.HMMData Loading Mixed Excitation Filters File:
+2015-09-17 15:44:11,410 [main] DEBUG marytts.HMMData reading mixed excitation filters
+2015-09-17 15:44:11,446 [main] DEBUG marytts.HMMData initMixedExcitation: loaded filter taps
+2015-09-17 15:44:11,446 [main] DEBUG marytts.HMMData initMixedExcitation: numFilters = 5  orderFilters = 99
+2015-09-17 15:44:11,446 [main] DEBUG marytts.HMMData Loading Tree Set in CARTs:
+2015-09-17 15:44:11,446 [main] DEBUG marytts.CartTreeSet Loading duration tree...
+2015-09-17 15:44:11,446 [main] DEBUG marytts.HTSCARTReader loadPdfs reading model of type dur
+2015-09-17 15:44:11,446 [main] DEBUG marytts.HTSCARTReader loadPdfs: numPdf[state:0]=549
+2015-09-17 15:44:11,450 [main] DEBUG marytts.HTSCARTReader loadStateTree: loaded CART contains 548 Decision nodes and 549 Leaf nodes.
+2015-09-17 15:44:11,450 [main] DEBUG marytts.HTSCARTReader load: CART[0], total number of nodes in this CART: 1097
+2015-09-17 15:44:11,451 [main] DEBUG marytts.CartTreeSet Loading log F0 tree...
+2015-09-17 15:44:11,451 [main] DEBUG marytts.HTSCARTReader loadPdfs reading model of type lf0
+2015-09-17 15:44:11,451 [main] DEBUG marytts.HTSCARTReader loadPdfs: numPdf[state:0]=447
+2015-09-17 15:44:11,451 [main] DEBUG marytts.HTSCARTReader loadPdfs: numPdf[state:1]=596
+2015-09-17 15:44:11,451 [main] DEBUG marytts.HTSCARTReader loadPdfs: numPdf[state:2]=863
+2015-09-17 15:44:11,451 [main] DEBUG marytts.HTSCARTReader loadPdfs: numPdf[state:3]=684
+2015-09-17 15:44:11,451 [main] DEBUG marytts.HTSCARTReader loadPdfs: numPdf[state:4]=423
+2015-09-17 15:44:11,457 [main] DEBUG marytts.HTSCARTReader loadStateTree: loaded CART contains 446 Decision nodes and 447 Leaf nodes.
+2015-09-17 15:44:11,457 [main] DEBUG marytts.HTSCARTReader load: CART[0], total number of nodes in this CART: 893
+2015-09-17 15:44:11,462 [main] DEBUG marytts.HTSCARTReader loadStateTree: loaded CART contains 595 Decision nodes and 596 Leaf nodes.
+2015-09-17 15:44:11,462 [main] DEBUG marytts.HTSCARTReader load: CART[1], total number of nodes in this CART: 1191
+2015-09-17 15:44:11,470 [main] DEBUG marytts.HTSCARTReader loadStateTree: loaded CART contains 862 Decision nodes and 863 Leaf nodes.
+2015-09-17 15:44:11,470 [main] DEBUG marytts.HTSCARTReader load: CART[2], total number of nodes in this CART: 1725
+2015-09-17 15:44:11,476 [main] DEBUG marytts.HTSCARTReader loadStateTree: loaded CART contains 683 Decision nodes and 684 Leaf nodes.
+2015-09-17 15:44:11,476 [main] DEBUG marytts.HTSCARTReader load: CART[3], total number of nodes in this CART: 1367
+2015-09-17 15:44:11,479 [main] DEBUG marytts.HTSCARTReader loadStateTree: loaded CART contains 422 Decision nodes and 423 Leaf nodes.
+2015-09-17 15:44:11,479 [main] DEBUG marytts.HTSCARTReader load: CART[4], total number of nodes in this CART: 845
+2015-09-17 15:44:11,479 [main] DEBUG marytts.CartTreeSet Loading mgc tree...
+2015-09-17 15:44:11,479 [main] DEBUG marytts.HTSCARTReader loadPdfs reading model of type mgc
+2015-09-17 15:44:11,479 [main] DEBUG marytts.HTSCARTReader loadPdfs: numPdf[state:0]=261
+2015-09-17 15:44:11,479 [main] DEBUG marytts.HTSCARTReader loadPdfs: numPdf[state:1]=220
+2015-09-17 15:44:11,479 [main] DEBUG marytts.HTSCARTReader loadPdfs: numPdf[state:2]=257
+2015-09-17 15:44:11,479 [main] DEBUG marytts.HTSCARTReader loadPdfs: numPdf[state:3]=255
+2015-09-17 15:44:11,479 [main] DEBUG marytts.HTSCARTReader loadPdfs: numPdf[state:4]=263
+2015-09-17 15:44:11,506 [main] DEBUG marytts.HTSCARTReader loadStateTree: loaded CART contains 260 Decision nodes and 261 Leaf nodes.
+2015-09-17 15:44:11,506 [main] DEBUG marytts.HTSCARTReader load: CART[0], total number of nodes in this CART: 521
+2015-09-17 15:44:11,507 [main] DEBUG marytts.HTSCARTReader loadStateTree: loaded CART contains 219 Decision nodes and 220 Leaf nodes.
+2015-09-17 15:44:11,508 [main] DEBUG marytts.HTSCARTReader load: CART[1], total number of nodes in this CART: 439
+2015-09-17 15:44:11,509 [main] DEBUG marytts.HTSCARTReader loadStateTree: loaded CART contains 256 Decision nodes and 257 Leaf nodes.
+2015-09-17 15:44:11,509 [main] DEBUG marytts.HTSCARTReader load: CART[2], total number of nodes in this CART: 513
+2015-09-17 15:44:11,510 [main] DEBUG marytts.HTSCARTReader loadStateTree: loaded CART contains 254 Decision nodes and 255 Leaf nodes.
+2015-09-17 15:44:11,510 [main] DEBUG marytts.HTSCARTReader load: CART[3], total number of nodes in this CART: 509
+2015-09-17 15:44:11,511 [main] DEBUG marytts.HTSCARTReader loadStateTree: loaded CART contains 262 Decision nodes and 263 Leaf nodes.
+2015-09-17 15:44:11,511 [main] DEBUG marytts.HTSCARTReader load: CART[4], total number of nodes in this CART: 525
+2015-09-17 15:44:11,511 [main] DEBUG marytts.CartTreeSet Loading str tree...
+2015-09-17 15:44:11,511 [main] DEBUG marytts.HTSCARTReader loadPdfs reading model of type str
+2015-09-17 15:44:11,511 [main] DEBUG marytts.HTSCARTReader loadPdfs: numPdf[state:0]=143
+2015-09-17 15:44:11,511 [main] DEBUG marytts.HTSCARTReader loadPdfs: numPdf[state:1]=118
+2015-09-17 15:44:11,511 [main] DEBUG marytts.HTSCARTReader loadPdfs: numPdf[state:2]=75
+2015-09-17 15:44:11,511 [main] DEBUG marytts.HTSCARTReader loadPdfs: numPdf[state:3]=85
+2015-09-17 15:44:11,511 [main] DEBUG marytts.HTSCARTReader loadPdfs: numPdf[state:4]=141
+2015-09-17 15:44:11,513 [main] DEBUG marytts.HTSCARTReader loadStateTree: loaded CART contains 142 Decision nodes and 143 Leaf nodes.
+2015-09-17 15:44:11,513 [main] DEBUG marytts.HTSCARTReader load: CART[0], total number of nodes in this CART: 285
+2015-09-17 15:44:11,514 [main] DEBUG marytts.HTSCARTReader loadStateTree: loaded CART contains 117 Decision nodes and 118 Leaf nodes.
+2015-09-17 15:44:11,514 [main] DEBUG marytts.HTSCARTReader load: CART[1], total number of nodes in this CART: 235
+2015-09-17 15:44:11,514 [main] DEBUG marytts.HTSCARTReader loadStateTree: loaded CART contains 74 Decision nodes and 75 Leaf nodes.
+2015-09-17 15:44:11,514 [main] DEBUG marytts.HTSCARTReader load: CART[2], total number of nodes in this CART: 149
+2015-09-17 15:44:11,514 [main] DEBUG marytts.HTSCARTReader loadStateTree: loaded CART contains 84 Decision nodes and 85 Leaf nodes.
+2015-09-17 15:44:11,514 [main] DEBUG marytts.HTSCARTReader load: CART[3], total number of nodes in this CART: 169
+2015-09-17 15:44:11,515 [main] DEBUG marytts.HTSCARTReader loadStateTree: loaded CART contains 140 Decision nodes and 141 Leaf nodes.
+2015-09-17 15:44:11,515 [main] DEBUG marytts.HTSCARTReader load: CART[4], total number of nodes in this CART: 281
+2015-09-17 15:44:11,515 [main] DEBUG marytts.HMMData Loading GV Model Set:
+2015-09-17 15:44:11,515 [main] DEBUG marytts.GVModelSet LoadGVModelSet reading model of type 'mgc' with gvWeight = 1.0
+2015-09-17 15:44:11,515 [main] DEBUG marytts.GVModelSet LoadGVModelSet reading model of type 'lf0' with gvWeight = 1.0
+2015-09-17 15:44:11,515 [main] DEBUG marytts.GVModelSet LoadGVModelSet reading model of type 'str' with gvWeight = 1.0
+2015-09-17 15:44:11,515 [main] DEBUG marytts.HMMData InitHMMData complete
+2015-09-17 15:44:11,515 [main] INFO  marytts.Voice Registering voice `cmu-slt-hsmm': female, locale en_US
+2015-09-17 15:44:11,515 [main] INFO  marytts.Voice New default voice for locale en_US: cmu-slt-hsmm (desire 0)
+2015-09-17 15:44:11,515 [main] INFO  marytts.HMMSynthesizer started.
+2015-09-17 15:44:11,515 [main] INFO  marytts.Synthesis Module started (ACOUSTPARAMS->AUDIO, locale null).
+2015-09-17 15:44:11,516 [main] INFO  marytts.HMMSynthesizer Starting power-on self test.
+2015-09-17 15:44:11,520 [main] DEBUG marytts.IO Parsing XML input (non-validating): <?xml version="1.0" encoding="UTF-8"?>
+<maryxml xmlns="http://mary.dfki.de/2002/MaryXML"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="0.4"
+xml:lang="en">
+<s>
+<phrase>
+<t accent="H*" pos="content" sampa="'wElk-@m">
+Welcome
+<syllable accent="H*" sampa="'wElk" stress="1">
+<ph d="61" end="61" f0="(0,221)" p="w"/>
+<ph d="120" end="182" f0="(50,232)" p="E"/>
+<ph d="102" end="284" p="l"/>
+<ph d="96" end="380" p="k"/>
+</syllable>
+<syllable sampa="@m">
+<ph d="59" end="440" f0="(50,176)" p="@"/>
+<ph d="104" end="544" f0="(100,156)" p="m"/>
+</syllable>
+</t>
+<boundary breakindex="4" duration="200" tone="L-L%"/>
+<t pos="$PUNCT">
+!
+</t>
+</phrase>
+</s>
+</maryxml>
+
+2015-09-17 15:44:11,532 [main] INFO  marytts.HTSEngine Using prosody from acoustparams.
+2015-09-17 15:44:11,533 [main] INFO  marytts.HTSEngine Number of models in sentence numModel=7  Total number of states numState=35
+2015-09-17 15:44:11,533 [main] INFO  marytts.HTSEngine Total number of frames=139  Number of voiced frames=81
+2015-09-17 15:44:11,534 [main] DEBUG marytts.ParameterGeneration utteranceFrame=139 lf0frame=81
+2015-09-17 15:44:11,536 [main] INFO  marytts.ParameterGeneration Parameter generation for MGC: 
+2015-09-17 15:44:11,536 [main] INFO  marytts.PStream Context-dependent global variance optimization: gvLength = 99
+2015-09-17 15:44:11,538 [main] INFO  marytts.PStream Gradient GV optimization for feature: (0)  number of iterations=23
+2015-09-17 15:44:11,542 [main] INFO  marytts.PStream Gradient GV optimization for feature: (1)  number of iterations=56
+2015-09-17 15:44:11,544 [main] INFO  marytts.PStream Gradient GV optimization for feature: (2)  number of iterations=24
+2015-09-17 15:44:11,546 [main] INFO  marytts.PStream Gradient GV optimization for feature: (3)  number of iterations=20
+2015-09-17 15:44:11,547 [main] INFO  marytts.PStream Gradient GV optimization for feature: (4)  number of iterations=17
+2015-09-17 15:44:11,549 [main] INFO  marytts.PStream Gradient GV optimization for feature: (5)  number of iterations=22
+2015-09-17 15:44:11,549 [main] INFO  marytts.PStream Gradient GV optimization for feature: (6)  number of iterations=1
+2015-09-17 15:44:11,550 [main] INFO  marytts.PStream Gradient GV optimization for feature: (7)  number of iterations=7
+2015-09-17 15:44:11,551 [main] INFO  marytts.PStream Gradient GV optimization for feature: (8)  number of iterations=14
+2015-09-17 15:44:11,553 [main] INFO  marytts.PStream Gradient GV optimization for feature: (9)  number of iterations=21
+2015-09-17 15:44:11,553 [main] INFO  marytts.PStream Gradient GV optimization for feature: (10)  number of iterations=17
+2015-09-17 15:44:11,554 [main] INFO  marytts.PStream Gradient GV optimization for feature: (11)  number of iterations=6
+2015-09-17 15:44:11,554 [main] INFO  marytts.PStream Gradient GV optimization for feature: (12)  number of iterations=1
+2015-09-17 15:44:11,554 [main] INFO  marytts.PStream Gradient GV optimization for feature: (13)  number of iterations=17
+2015-09-17 15:44:11,554 [main] INFO  marytts.PStream Gradient GV optimization for feature: (14)  number of iterations=12
+2015-09-17 15:44:11,555 [main] INFO  marytts.PStream Gradient GV optimization for feature: (15)  number of iterations=23
+2015-09-17 15:44:11,555 [main] INFO  marytts.PStream Gradient GV optimization for feature: (16)  number of iterations=17
+2015-09-17 15:44:11,556 [main] INFO  marytts.PStream Gradient GV optimization for feature: (17)  number of iterations=14
+2015-09-17 15:44:11,556 [main] INFO  marytts.PStream Gradient GV optimization for feature: (18)  number of iterations=19
+2015-09-17 15:44:11,556 [main] INFO  marytts.PStream Gradient GV optimization for feature: (19)  number of iterations=13
+2015-09-17 15:44:11,556 [main] INFO  marytts.PStream Gradient GV optimization for feature: (20)  number of iterations=14
+2015-09-17 15:44:11,557 [main] INFO  marytts.PStream Gradient GV optimization for feature: (21)  number of iterations=17
+2015-09-17 15:44:11,557 [main] INFO  marytts.PStream Gradient GV optimization for feature: (22)  number of iterations=13
+2015-09-17 15:44:11,557 [main] INFO  marytts.PStream Gradient GV optimization for feature: (23)  number of iterations=24
+2015-09-17 15:44:11,557 [main] INFO  marytts.PStream Gradient GV optimization for feature: (24)  number of iterations=11
+2015-09-17 15:44:11,558 [main] INFO  marytts.PStream Gradient GV optimization for feature: (25)  number of iterations=10
+2015-09-17 15:44:11,558 [main] INFO  marytts.PStream Gradient GV optimization for feature: (26)  number of iterations=13
+2015-09-17 15:44:11,558 [main] INFO  marytts.PStream Gradient GV optimization for feature: (27)  number of iterations=8
+2015-09-17 15:44:11,558 [main] INFO  marytts.PStream Gradient GV optimization for feature: (28)  number of iterations=11
+2015-09-17 15:44:11,558 [main] INFO  marytts.PStream Gradient GV optimization for feature: (29)  number of iterations=8
+2015-09-17 15:44:11,559 [main] INFO  marytts.PStream Gradient GV optimization for feature: (30)  number of iterations=11
+2015-09-17 15:44:11,559 [main] INFO  marytts.PStream Gradient GV optimization for feature: (31)  number of iterations=12
+2015-09-17 15:44:11,559 [main] INFO  marytts.PStream Gradient GV optimization for feature: (32)  number of iterations=6
+2015-09-17 15:44:11,559 [main] INFO  marytts.PStream Gradient GV optimization for feature: (33)  number of iterations=6
+2015-09-17 15:44:11,559 [main] INFO  marytts.PStream Gradient GV optimization for feature: (34)  number of iterations=9
+2015-09-17 15:44:11,559 [main] INFO  marytts.ParameterGeneration Using f0 from maryXML acoustparams
+2015-09-17 15:44:11,560 [main] DEBUG marytts.ParameterGeneration Parameter generation for STR 
+2015-09-17 15:44:11,560 [main] INFO  marytts.PStream Context-dependent global variance optimization: gvLength = 99
+2015-09-17 15:44:11,561 [main] INFO  marytts.PStream Gradient GV optimization for feature: (0)  number of iterations=88
+2015-09-17 15:44:11,561 [main] INFO  marytts.PStream Gradient GV optimization for feature: (1)  number of iterations=2
+2015-09-17 15:44:11,561 [main] INFO  marytts.PStream Gradient GV optimization for feature: (2)  number of iterations=16
+2015-09-17 15:44:11,562 [main] INFO  marytts.PStream Gradient GV optimization for feature: (3)  number of iterations=8
+2015-09-17 15:44:11,562 [main] INFO  marytts.PStream Gradient GV optimization for feature: (4)  number of iterations=23
+2015-09-17 15:44:11,566 [main] INFO  marytts.HMMSynthesizer Power-on self test complete.
+2015-09-17 15:44:11,566 [Thread-3] DEBUG marytts.Vocoder HMM speech generation with mixed-excitation.
+2015-09-17 15:44:11,566 [Thread-3] DEBUG marytts.Vocoder Postfiltering applied with beta=0.1
+2015-09-17 15:44:11,567 [main] INFO  marytts.TextToMaryXML Module started (TEXT->RAWMARYXML, locale null).
+2015-09-17 15:44:11,567 [main] INFO  marytts.TextToMaryXML Starting power-on self test.
+2015-09-17 15:44:11,567 [main] DEBUG marytts.IO Setting text input: Hello World!
+
+2015-09-17 15:44:11,568 [main] WARN  marytts.TextToMaryXML Locale is null, overriding with en_US
+2015-09-17 15:44:11,568 [main] WARN  marytts.TextToMaryXML Locale is null, overriding with en_US
+2015-09-17 15:44:11,568 [main] DEBUG marytts.TextToMaryXML textNodeString=`Hello World!'
+2015-09-17 15:44:11,568 [main] INFO  marytts.TextToMaryXML Power-on self test complete.
+2015-09-17 15:44:11,711 [main] INFO  marytts.SableParser Module started (SABLE->RAWMARYXML, locale null).
+2015-09-17 15:44:11,711 [main] INFO  marytts.SableParser Starting power-on self test.
+2015-09-17 15:44:11,711 [main] DEBUG marytts.SableParser No example text -- no power-on self test!
+2015-09-17 15:44:11,711 [main] INFO  marytts.SableParser Power-on self test complete.
+2015-09-17 15:44:11,772 [main] INFO  marytts.SSMLParser Module started (SSML->RAWMARYXML, locale null).
+2015-09-17 15:44:11,772 [main] INFO  marytts.SSMLParser Starting power-on self test.
+2015-09-17 15:44:11,773 [main] DEBUG marytts.SSMLParser No example text -- no power-on self test!
+2015-09-17 15:44:11,773 [main] INFO  marytts.SSMLParser Power-on self test complete.
+2015-09-17 15:44:11,825 [main] INFO  marytts.APMLParser Module started (APML->RAWMARYXML, locale null).
+2015-09-17 15:44:11,825 [main] INFO  marytts.APMLParser Starting power-on self test.
+2015-09-17 15:44:11,825 [main] DEBUG marytts.APMLParser No example text -- no power-on self test!
+2015-09-17 15:44:11,825 [main] INFO  marytts.APMLParser Power-on self test complete.
+2015-09-17 15:44:11,859 [main] INFO  marytts.EmotionmlParser Module started (EMOTIONML->RAWMARYXML, locale null).
+2015-09-17 15:44:11,859 [main] INFO  marytts.EmotionmlParser Starting power-on self test.
+2015-09-17 15:44:11,859 [main] DEBUG marytts.EmotionmlParser No example text -- no power-on self test!
+2015-09-17 15:44:11,859 [main] INFO  marytts.EmotionmlParser Power-on self test complete.
+2015-09-17 15:44:11,859 [main] INFO  marytts.JTokeniser Module started (RAWMARYXML->TOKENS, locale null).
+2015-09-17 15:44:11,895 [main] INFO  marytts.JTokeniser Starting power-on self test.
+2015-09-17 15:44:11,896 [main] DEBUG marytts.JTokeniser No example text -- no power-on self test!
+2015-09-17 15:44:11,896 [main] INFO  marytts.JTokeniser Power-on self test complete.
+2015-09-17 15:44:11,896 [main] INFO  marytts.DummyTokens2Words Module started (TOKENS->WORDS, locale null).
+2015-09-17 15:44:11,896 [main] INFO  marytts.DummyTokens2Words Starting power-on self test.
+2015-09-17 15:44:11,896 [main] DEBUG marytts.DummyTokens2Words No example text -- no power-on self test!
+2015-09-17 15:44:11,896 [main] INFO  marytts.DummyTokens2Words Power-on self test complete.
+2015-09-17 15:44:11,900 [main] INFO  marytts.Prosody Module started (PHONEMES->INTONATION, locale null).
+2015-09-17 15:44:11,900 [main] INFO  marytts.Prosody Starting power-on self test.
+2015-09-17 15:44:11,900 [main] DEBUG marytts.Prosody No example text -- no power-on self test!
+2015-09-17 15:44:11,900 [main] INFO  marytts.Prosody Power-on self test complete.
+2015-09-17 15:44:11,900 [main] INFO  marytts.PronunciationModel Module started (INTONATION->ALLOPHONES, locale null).
+2015-09-17 15:44:11,900 [main] DEBUG marytts.PronunciationModel Building feature computer finished.
+2015-09-17 15:44:11,900 [main] INFO  marytts.PronunciationModel Starting power-on self test.
+2015-09-17 15:44:11,901 [main] DEBUG marytts.PronunciationModel No example text -- no power-on self test!
+2015-09-17 15:44:11,901 [main] INFO  marytts.PronunciationModel Power-on self test complete.
+2015-09-17 15:44:11,901 [main] INFO  marytts.TargetFeatureLister Starting power-on self test.
+2015-09-17 15:44:11,901 [main] DEBUG marytts.TargetFeatureLister No example text -- no power-on self test!
+2015-09-17 15:44:11,901 [main] INFO  marytts.TargetFeatureLister Power-on self test complete.
+2015-09-17 15:44:11,901 [main] INFO  marytts.TargetFeatureLister Module started (ACOUSTPARAMS->HALFPHONE_TARGETFEATURES, locale null).
+2015-09-17 15:44:11,901 [main] INFO  marytts.TargetFeatureLister Starting power-on self test.
+2015-09-17 15:44:11,901 [main] DEBUG marytts.TargetFeatureLister No example text -- no power-on self test!
+2015-09-17 15:44:11,901 [main] INFO  marytts.TargetFeatureLister Power-on self test complete.
+2015-09-17 15:44:11,901 [main] INFO  marytts.AcousticModeller Module started (ALLOPHONES->ACOUSTPARAMS, locale null).
+2015-09-17 15:44:11,901 [main] INFO  marytts.AcousticModeller Starting power-on self test.
+2015-09-17 15:44:11,901 [main] DEBUG marytts.AcousticModeller No example text -- no power-on self test!
+2015-09-17 15:44:11,901 [main] INFO  marytts.AcousticModeller Power-on self test complete.
+2015-09-17 15:44:11,901 [main] INFO  marytts.Realised acoustparams extractor Module started (AUDIO->REALISED_ACOUSTPARAMS, locale null).
+2015-09-17 15:44:11,901 [main] INFO  marytts.Realised acoustparams extractor Starting power-on self test.
+2015-09-17 15:44:11,902 [main] DEBUG marytts.Realised acoustparams extractor No example text -- no power-on self test!
+2015-09-17 15:44:11,902 [main] INFO  marytts.Realised acoustparams extractor Power-on self test complete.
+2015-09-17 15:44:11,902 [main] INFO  marytts.Realised durations extractor Module started (AUDIO->REALISED_DURATIONS, locale null).
+2015-09-17 15:44:11,902 [main] INFO  marytts.Realised durations extractor Starting power-on self test.
+2015-09-17 15:44:11,902 [main] DEBUG marytts.Realised durations extractor No example text -- no power-on self test!
+2015-09-17 15:44:11,902 [main] INFO  marytts.Realised durations extractor Power-on self test complete.
+2015-09-17 15:44:11,902 [main] INFO  marytts.Praat TextGrid generator Module started (AUDIO->PRAAT_TEXTGRID, locale null).
+2015-09-17 15:44:11,902 [main] INFO  marytts.Praat TextGrid generator Starting power-on self test.
+2015-09-17 15:44:11,902 [main] DEBUG marytts.Praat TextGrid generator No example text -- no power-on self test!
+2015-09-17 15:44:11,902 [main] INFO  marytts.Praat TextGrid generator Power-on self test complete.
+2015-09-17 15:44:11,902 [main] INFO  marytts.JTokeniser Module started (RAWMARYXML->TOKENS, locale en).
+2015-09-17 15:44:11,925 [main] INFO  marytts.JTokeniser Starting power-on self test.
+2015-09-17 15:44:11,925 [main] DEBUG marytts.JTokeniser No example text -- no power-on self test!
+2015-09-17 15:44:11,925 [main] INFO  marytts.JTokeniser Power-on self test complete.
+2015-09-17 15:44:11,925 [main] INFO  marytts.Preprocess Module started (TOKENS->WORDS, locale en).
+2015-09-17 15:44:11,925 [main] INFO  marytts.Preprocess Starting power-on self test.
+2015-09-17 15:44:11,926 [main] DEBUG marytts.Preprocess No example text -- no power-on self test!
+2015-09-17 15:44:11,926 [main] INFO  marytts.Preprocess Power-on self test complete.
+2015-09-17 15:44:11,926 [main] INFO  marytts.JPhonemiser Module started (PARTSOFSPEECH->PHONEMES, locale en_US).
+2015-09-17 15:44:11,926 [main] DEBUG marytts.JPhonemiser Using property en.pos.punct.regex
+2015-09-17 15:44:11,926 [main] DEBUG marytts.JPhonemiser Punctuation regex pattern set to /,|\.|:/
+2015-09-17 15:44:11,926 [main] INFO  marytts.JPhonemiser Starting power-on self test.
+2015-09-17 15:44:11,926 [main] DEBUG marytts.JPhonemiser No example text -- no power-on self test!
+2015-09-17 15:44:11,926 [main] INFO  marytts.JPhonemiser Power-on self test complete.
+2015-09-17 15:44:11,926 [main] INFO  marytts.JPhonemiser Module started (PARTSOFSPEECH->PHONEMES, locale en_GB).
+2015-09-17 15:44:11,926 [main] DEBUG marytts.JPhonemiser Using property en.pos.punct.regex
+2015-09-17 15:44:11,926 [main] DEBUG marytts.JPhonemiser Punctuation regex pattern set to /,|\.|:/
+2015-09-17 15:44:11,926 [main] INFO  marytts.JPhonemiser Starting power-on self test.
+2015-09-17 15:44:11,926 [main] DEBUG marytts.JPhonemiser No example text -- no power-on self test!
+2015-09-17 15:44:11,926 [main] INFO  marytts.JPhonemiser Power-on self test complete.
+2015-09-17 15:44:11,932 [main] INFO  marytts.Prosody Module started (PHONEMES->INTONATION, locale en).
+2015-09-17 15:44:11,932 [main] INFO  marytts.Prosody Starting power-on self test.
+2015-09-17 15:44:11,932 [main] DEBUG marytts.Prosody No example text -- no power-on self test!
+2015-09-17 15:44:11,932 [main] INFO  marytts.Prosody Power-on self test complete.
+2015-09-17 15:44:11,932 [main] INFO  marytts.SimplePhoneme2AP Module started (SIMPLEPHONEMES->ACOUSTPARAMS, locale en_US).
+2015-09-17 15:44:11,932 [main] INFO  marytts.SimplePhoneme2AP Starting power-on self test.
+2015-09-17 15:44:11,933 [main] DEBUG marytts.IO Setting text input: 'wEl-k@m t@ D@ 'wr=ld @v 'spitS 'sIn-T@-sIs
+
+2015-09-17 15:44:11,934 [main] INFO  marytts.SimplePhoneme2AP Power-on self test complete.
+2015-09-17 15:44:11,934 [main] INFO  marytts.PronunciationModel Module started (INTONATION->ALLOPHONES, locale en).
+2015-09-17 15:44:11,934 [main] DEBUG marytts.PronunciationModel Building feature computer finished.
+2015-09-17 15:44:11,934 [main] INFO  marytts.PronunciationModel Starting power-on self test.
+2015-09-17 15:44:11,934 [main] DEBUG marytts.PronunciationModel No example text -- no power-on self test!
+2015-09-17 15:44:11,934 [main] INFO  marytts.PronunciationModel Power-on self test complete.
+2015-09-17 15:44:11,934 [main] INFO  marytts.OpenNLPPosTagger Module started (WORDS->PARTSOFSPEECH, locale en).
+2015-09-17 15:44:12,489 [main] INFO  marytts.OpenNLPPosTagger Starting power-on self test.
+2015-09-17 15:44:12,489 [main] DEBUG marytts.OpenNLPPosTagger No example text -- no power-on self test!
+2015-09-17 15:44:12,489 [main] INFO  marytts.OpenNLPPosTagger Power-on self test complete.
+2015-09-17 15:44:12,490 [main] DEBUG marytts.main Startup times:
+2015-09-17 15:44:12,490 [main] DEBUG marytts.main OpenNLPPosTagger: 555 ms
+2015-09-17 15:44:12,490 [main] DEBUG marytts.main Synthesis: 277 ms
+2015-09-17 15:44:12,490 [main] DEBUG marytts.main SableParser: 143 ms
+2015-09-17 15:44:12,490 [main] DEBUG marytts.main SSMLParser: 60 ms
+2015-09-17 15:44:12,490 [main] DEBUG marytts.main APMLParser: 52 ms
+2015-09-17 15:44:12,490 [main] DEBUG marytts.main JTokeniser: 36 ms
+2015-09-17 15:44:12,490 [main] DEBUG marytts.main EmotionmlParser: 33 ms
+2015-09-17 15:44:12,490 [main] DEBUG marytts.main JTokeniser: 23 ms
+2015-09-17 15:44:12,490 [main] DEBUG marytts.main Prosody: 6 ms
+2015-09-17 15:44:12,490 [main] DEBUG marytts.main Prosody: 4 ms
+2015-09-17 15:44:12,490 [main] DEBUG marytts.main TextToMaryXML: 1 ms
+2015-09-17 15:44:12,490 [main] DEBUG marytts.main DummyTokens2Words: 0 ms
+2015-09-17 15:44:12,490 [main] DEBUG marytts.main PronunciationModel: 0 ms
+2015-09-17 15:44:12,490 [main] DEBUG marytts.main TargetFeatureLister: 0 ms
+2015-09-17 15:44:12,490 [main] DEBUG marytts.main AcousticModeller: 0 ms
+2015-09-17 15:44:12,490 [main] DEBUG marytts.main Realised acoustparams extractor: 0 ms
+2015-09-17 15:44:12,490 [main] DEBUG marytts.main Realised durations extractor: 0 ms
+2015-09-17 15:44:12,490 [main] DEBUG marytts.main Praat TextGrid generator: 0 ms
+2015-09-17 15:44:12,490 [main] DEBUG marytts.main Preprocess: 0 ms
+2015-09-17 15:44:12,490 [main] DEBUG marytts.main JPhonemiser: 0 ms
+2015-09-17 15:44:12,490 [main] DEBUG marytts.main JPhonemiser: 0 ms
+2015-09-17 15:44:12,490 [main] DEBUG marytts.main SimplePhoneme2AP: 0 ms
+2015-09-17 15:44:12,490 [main] DEBUG marytts.main PronunciationModel: 0 ms
+2015-09-17 15:44:12,490 [main] INFO  marytts.main Startup complete.
+ started in 1.694 s on port 59125
+2015-09-17 15:44:12,493 [main] INFO  marytts.server Starting server.
+2015-09-17 15:44:12,506 [main] INFO  marytts.server Waiting for client to connect on port 59125
+
