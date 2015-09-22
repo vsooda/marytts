@@ -97,13 +97,13 @@ public class PreprocessTest {
 		// @formatter:on
 	}
 
-	@DataProvider(name = "dateExpandData")
-	private Object[][] expansionDocDataDate() {
-		// @formatter:off
-		return new Object[][] { { "06/29/1993", "June twenty-ninth nineteen ninety-three" },
-								{ "06/22/1992", "June twenty-second nineteen ninety-two" } };
-		// @formatter:on
-	}
+//	@DataProvider(name = "dateExpandData")
+//	private Object[][] expansionDocDataDate() {
+//		// @formatter:off
+//		return new Object[][] { { "06/29/1993", "June twenty-ninth nineteen ninety-three" },
+//								{ "06/22/1992", "June twenty-second nineteen ninety-two" } };
+//		// @formatter:on
+//	}
 
 	@DataProvider(name = "abbrevExpandData")
 	private Object[][] expansionDocDataAbbrev() {
