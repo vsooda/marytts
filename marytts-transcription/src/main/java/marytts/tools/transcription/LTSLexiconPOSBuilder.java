@@ -96,6 +96,7 @@ public class LTSLexiconPOSBuilder {
 	}
 
 	private void checkTranscription() {
+		System.out.println("checking  transcription in LTS");
 		int size = transcriptionModel.getData().length;
 		for (int row = 0; row < size; row++) {
 			String transcription = (String) transcriptionModel.getDataAt(row, 2);

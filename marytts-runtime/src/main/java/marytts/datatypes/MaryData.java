@@ -347,6 +347,7 @@ public class MaryData {
 			logger.warn("Voice `" + voice.getName() + "' does not match document locale `" + docLocale + "' -- ignoring!");
 		}
 		this.defaultVoice = voice;
+		logger.debug("setting default voice " + voice.getName());
 	}
 
 	public Voice getDefaultVoice() {

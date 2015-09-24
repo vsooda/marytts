@@ -368,7 +368,7 @@ public class MaryHttpClient extends MaryClient {
 				params.append("&").append(key).append("=").append(URLEncoder.encode(effects.get(key), "UTF-8"));
 			}
 		}
-
+		System.out.println(params.toString());
 		// to make HTTP Post request with HttpURLConnection
 		URL url = new URL(data.hostAddress.getHttpAddress() + "/process");
 		HttpURLConnection conn = (HttpURLConnection) url.openConnection();
@@ -439,6 +439,9 @@ public class MaryHttpClient extends MaryClient {
 		final InputStream fromServerStream = requestInputStream(input, inputType, outputType, locale, audioType,
 				defaultVoiceName, defaultStyle, effectsString2EffectsMap(defaultEffects), streamingAudio, outputTypeParams);
 
+		System.out.println(fromServerStream);
+		System.out.println("hello...");
+		
 		// If timeout is > 0, create a timer. It will close the input stream,
 		// thus causing an IOException in the reading code.
 		final Timer timer;

@@ -27,7 +27,7 @@ public class MaryTTSRemote {
 
 		Set<String> voices = marytts.getAvailableVoices();
 		marytts.setVoice(voices.iterator().next());
-		AudioInputStream audio = marytts.generateAudio("Hello world.");
+		AudioInputStream audio = marytts.generateAudio("you are bad boy.");
 		AudioPlayer player = new AudioPlayer(audio);
 		player.start();
 		player.join();

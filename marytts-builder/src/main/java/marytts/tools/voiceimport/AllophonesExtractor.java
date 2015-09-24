@@ -162,6 +162,9 @@ public class AllophonesExtractor extends VoiceImportComponent {
 	public void generateAllophonesFile(String basename) throws IOException, MaryConfigurationException {
 		Locale localVoice = MaryUtils.string2locale(locale);
 		String xmlLocale = MaryUtils.locale2xmllang(localVoice);
+		System.out.println(xmlLocale);
+		//System.out.println("change locale : " + xmlLocale + " to en-US");
+		//xmlLocale = "en-US";
 		String inputDir = db.getProp(db.TEXTDIR);
 		String outputDir = promptAllophonesDir.getAbsolutePath();
 		String fullFileName = inputDir + File.separator + basename + db.getProp(db.TEXTEXT);
