@@ -1,8 +1,11 @@
-i`marytts-builder`:  
+Marytts-builder flow
+===================
+`marytts-builder`:  
  viewimport -> DatabaseImportMain -> viewImportComponent:(and child class)
 
+
+raw acoustic
 ----------------------
-## raw acoustic
 
 ### praat: praatPitchMarker.java
 `lib`: install by apt-get. praat package.  
@@ -29,14 +32,16 @@ hamming windows and so on
 /usr/bin/sig2fv -window_type hamming -factor 2.5 -otype est_binary -coefs melcep -melcep_order 12 -fbank_order 24 -shift 0.01 -preemph 0.97 -pm /home/research/data/tts/cmu/pm/arctic_a0001.pm -o /home/research/data/tts/cmu/mcep/arctic_a0001.mcep /home/research/data/tts/cmu/wav/arctic_a0001.wav
 ```
 
+
+transcripts conversion
 -----------------
-## transcripts conversion
 
 data format transfer
 
 
+
+automic labeling
 -------------------------
-## automic labeling
 ### allophonesExtractor 音位变体 
 AllophonesExtractor.java
 request the server. it need to do a lot of nlp tagger.  
@@ -44,11 +49,11 @@ request the server. it need to do a lot of nlp tagger.
 `output`: prompt_allophones  
 set the request type and then call MaryHttpClient.java:_precess() --> requestInputStream() function to get the result then output to file.
 
-### ehmmlabel
+### ehmm-label
 using the allophones result to do labling.
 label the voice. they are all precessing the data/lab/ files.
 
-### htklabel
+### htk-label
 
 
 ### labelPauseDeleter
@@ -63,8 +68,9 @@ It offer the method to play a selected section, or save the selection.
 
 
 
+
+label-transcript alignment
 ----------------------------------
-## label-transcript alignment
 ### PhoneUnitLabelComputer
 Convert phone labels to unit labels  
 `output dir`: data/phonelab
@@ -82,8 +88,9 @@ this will create the allophones folder. how to do the alignment, not very sure.
 
 
 
+
+feature extraction
 ------------------------
-## feature extraction
 ### FeatureSelection
 get the features-discrete and save to data/mary/features.txt
 
@@ -94,27 +101,28 @@ request from server. and the server precess it with InfoRequestHandler.java
 ### PhoneUnitFeatureComputer
  extract context feature vectors from the text data. This procedure will create a phonefeatures directory
 
----
 
-## verify alignment
+verify alignment
+----------------
 ### phoneLabelFeatureAligner
 verify alignment between "phonefeatures" and "phonelabels".
 
 
+basic data files
 -------------
-## basic data files
 timelinemaker for what?
 
 
-----
 
-## HMM
+HMM
+--------------
 ### dataprepare
 HMMVoiceDataPrepare  
 only to prepare the data and set up the environment
 
 
-### HMMVoiceConfigure : parameter configs.
+### HMMVoiceConfigure 
+ parameter configs.
 
 
 ### HMMVoiceFeatureSelection
@@ -138,8 +146,4 @@ hts train.
 log in the marytts/log.  server run the marytts.runtime. it load a lot of module to process the text or voices. such as marytts-runtime/marytts.modules.OpenNLPPostTagger.java to do POS tagger.
 ```
 
-
-
-
-----------------------------
 
