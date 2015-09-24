@@ -1,151 +1,145 @@
-marytts-builder:viewimport -> DatabaseImportMain -> viewImportComponent:(and child class)
-
-command:
-
+i`marytts-builder`:  
+ viewimport -> DatabaseImportMain -> viewImportComponent:(and child class)
 
 ----------------------
 ## raw acoustic
 
-1. praat: praatPitchMarker.java
-lib: install by apt-get. praat package.
-input: wav
-output dir: data/
+### praat: praatPitchMarker.java
+`lib`: install by apt-get. praat package.  
+`input`: wav  
+`output dir`: data/
 
-
+```
 praat /home/research/data/tts/cmu/temp/script.praat /home/research/data/tts/cmu/basenames.lst /home/research/data/tts/cmu/wav/ /home/research/data/tts/cmu/pm/ 100 500
+```
 
-where script.praat is a script command.
+where script.praat is a script command.   
 praat is a lib for pitch marks
 
+### MCEPMarker: MCEPMarker.java -> ESTcaller.java
 
-2. MCEPMarker: MCEPMarker.java -> ESTcaller.java
 
-dst: generator pitchmarks, lpc, mel_cepstream
-input: pm files
-output dir: data/mcep/
+`dst`: generator pitchmarks, lpc, mel_cepstream  
+`input`: pm files  
+`output dir`: data/mcep/
 
---hamming windows and so on
+hamming windows and so on
  
-/usr//bin/sig2fv -window_type hamming -factor 2.5 -otype est_binary -coefs melcep -melcep_order 12 -fbank_order 24 -shift 0.01 -preemph 0.97 -pm /home/research/data/tts/cmu/pm/arctic_a0001.pm -o /home/research/data/tts/cmu/mcep/arctic_a0001.mcep /home/research/data/tts/cmu/wav/arctic_a0001.wav
-
-
-
+```
+/usr/bin/sig2fv -window_type hamming -factor 2.5 -otype est_binary -coefs melcep -melcep_order 12 -fbank_order 24 -shift 0.01 -preemph 0.97 -pm /home/research/data/tts/cmu/pm/arctic_a0001.pm -o /home/research/data/tts/cmu/mcep/arctic_a0001.mcep /home/research/data/tts/cmu/wav/arctic_a0001.wav
+```
 
 -----------------
 ## transcripts conversion
 
-1. data format transfer
+data format transfer
+
 
 -------------------------
 ## automic labeling
-1. allophonesExtractor 音位变体 AllophonesExtractor.java
-request the server. it need to do a lot of nlp tagger.
-dst:For the given texts, compute allophones, especially boundary tags.
-
-output: prompt_allophones
-
+### allophonesExtractor 音位变体 
+AllophonesExtractor.java
+request the server. it need to do a lot of nlp tagger.  
+`dst`: For the given texts, compute allophones, especially boundary tags.  
+`output`: prompt_allophones  
 set the request type and then call MaryHttpClient.java:_precess() --> requestInputStream() function to get the result then output to file.
 
-2. ehmmlabel
+### ehmmlabel
 using the allophones result to do labling.
 label the voice. they are all precessing the data/lab/ files.
 
-3. htklabel
+### htklabel
 
-4. labelPauseDeleter
+
+### labelPauseDeleter
 process the label file and remove the continue 'pau'
 
-5. labelledFilesInspector
-dst: For the given texts, compute unit features and align them with the given unit labels.
-It offer manully label tool which can select several token and its voice. If push the save button, it will save the correspond pm, wav, lab file in the temp folder.
+
+### labelledFilesInspector
+`dst`: For the given texts, compute unit features and align them with the given unit labels.    
+  
+It offer manully label tool which can select several token and its voice. If push the save button, it will save the correspond pm, wav, lab file in the temp folder.  
 It offer the method to play a selected section, or save the selection.
-
-
 
 
 
 ----------------------------------
 ## label-transcript alignment
-1. PhoneUnitLabelComputer
-Convert phone labels to unit labels
-output dir: data/phonelab
+### PhoneUnitLabelComputer
+Convert phone labels to unit labels  
+`output dir`: data/phonelab
 
-2. HalfPhoneUnitLabelComputer
+
+### HalfPhoneUnitLabelComputer
 energy peak difference..
 it will create the data/halfphonelab/
 
-3.transcriptionAligner
-transcriptionAligner.java -> MaryTranscriptionAligner.java
-dst: align and change automatic transcriptions to manually corrected ones
+###transcriptionAligner
+transcriptionAligner.java -> MaryTranscriptionAligner.java  
+`dst`: align and change automatic transcriptions to manually corrected ones  
 this will create the allophones folder. how to do the alignment, not very sure.
+
+
 
 
 ------------------------
 ## feature extraction
-1. FeatureSelection
+### FeatureSelection
 get the features-discrete and save to data/mary/features.txt
+
 
 request from server. and the server precess it with InfoRequestHandler.java
 
-2. PhoneUnitFeatureComputer
+
+### PhoneUnitFeatureComputer
  extract context feature vectors from the text data. This procedure will create a phonefeatures directory
 
+---
+
 ## verify alignment
-1. phoneLabelFeatureAligner
+### phoneLabelFeatureAligner
 verify alignment between "phonefeatures" and "phonelabels".
+
 
 -------------
 ## basic data files
 timelinemaker for what?
 
 
-
+----
 
 ## HMM
-1. dataprepare: HMMVoiceDataPrepare
+### dataprepare
+HMMVoiceDataPrepare  
 only to prepare the data and set up the environment
 
-2. HMMVoiceConfigure : parameter configs.
 
-3. HMMVoiceFeatureSelection
- reads the mary/features.txt file (created in step 6), and generates the file mary/hmmFeatures.txt. The hmmFeatures.txt file contains extra features, apart from phone and phonological features, that will be used to train HMMs. normally it is a subset of features.txt
+### HMMVoiceConfigure : parameter configs.
 
-4. HMMVoiceMakeData:
+
+### HMMVoiceFeatureSelection
+ reads the mary/features.txt file (created in step 6), and generates the file mary/hmmFeatures.txt.  
+ The hmmFeatures.txt file contains extra features, apart from phone and phonological features, that will be used to train HMMs. normally it is a subset of features.txt
+
+
+### HMMVoiceMakeData:
 call the hts to 'make data':make mgc lf0 str-mary cmp-mary list scp 
+
 
 HMMVoiceMakeData.makeLabels(): get label and mlf files.
 HMMVoiceMakeData.makeQuestions(): get questions files.
 
-5. HMMVoiceMakeVoice 
+
+### HMMVoiceMakeVoice 
 hts train.
 
-///
+
+```
 log in the marytts/log.  server run the marytts.runtime. it load a lot of module to process the text or voices. such as marytts-runtime/marytts.modules.OpenNLPPostTagger.java to do POS tagger.
-///
-
-
------------------------------
+```
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+----------------------------
 
