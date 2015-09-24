@@ -45,7 +45,7 @@ public class Allophone {
 		String isTone;
 		if (name.equals(""))
 			throw new IllegalArgumentException("Element must have a 'ph' attribute");
-		if (a.getTagName().equals("con	sonant")) {
+		if (a.getTagName().equals("consonant")) {
 			vc = "-";
 			isTone = "-";
 		} else if (a.getTagName().equals("vowel")) {
