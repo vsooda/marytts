@@ -10,7 +10,7 @@ raw acoustic
 ### praat: praatPitchMarker.java
 `lib`: install by apt-get. praat package.  
 `input`: wav  
-`output dir`: data/
+`output dir`: data/pm
 
 ```
 praat /home/research/data/tts/cmu/temp/script.praat /home/research/data/tts/cmu/basenames.lst /home/research/data/tts/cmu/wav/ /home/research/data/tts/cmu/pm/ 100 500
