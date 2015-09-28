@@ -44,6 +44,8 @@ import marytts.util.MaryUtils;
 import marytts.util.data.audio.MaryAudioUtils;
 import marytts.util.http.Address;
 
+import marytts.util.pinyin.ConvertZh2Pinyin;
+
 import org.apache.http.HttpResponse;
 import org.apache.http.HttpStatus;
 import org.apache.log4j.Logger;
@@ -102,6 +104,38 @@ public class SynthesisRequestHandler extends BaseHttpRequestHandler {
 		}
 
 		String inputText = queryItems.get("INPUT_TEXT");
+		
+		//System.out.println("change the input text " + inputText);
+		//inputText = inputText + " ni3 hao3 ma1";
+		String localeString = queryItems.get("LOCALE");
+		if (localeString.equals("zh")) {
+			System.out.println("locale string equal to zh, then change to  pinyin");
+			//dump test..
+			//for (Map.Entry<String, String> entry : ConvertZh2Pinyin.pinyinMap.entrySet()) {   
+			//    System.out.println("Key = " + entry.getKey() + ", Value = " + entry.getValue());  
+			//} 
+			String resultString = "";
+			char [] charset = inputText.toCharArray();
+			System.out.println(charset.length);
+			for (int i = 0; i < charset.length -1; i++) {
+				if (charset[i] != ' ') {
+					System.out.print(charset[i]);
+					String pinyinValue = ConvertZh2Pinyin.getKeyPinyin(charset[i]);
+					if (pinyinValue == null) {
+						resultString = resultString + charset[i];
+					} else {
+						resultString = resultString + " " + pinyinValue;
+					}
+					System.out.println("====> " + pinyinValue);
+				} else {
+					resultString = resultString + charset[i];
+				}
+			}
+			inputText = resultString;
+			System.out.println("convert pinyin result: " + inputText);
+		}
+		//System.out.println("locale " + localeString);
+		//System.out.println( (int)'龙');
 
 		MaryDataType inputType = MaryDataType.get(queryItems.get("INPUT_TYPE"));
 		if (inputType == null) {

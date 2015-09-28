@@ -63,6 +63,7 @@ import marytts.util.MaryUtils;
 import marytts.util.Pair;
 import marytts.util.data.audio.MaryAudioUtils;
 import marytts.util.io.FileUtils;
+import marytts.util.pinyin.ConvertZh2Pinyin;
 
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
@@ -520,6 +521,10 @@ public class Mary {
 			};
 		}
 
+		// load Chinese pinyin dict
+		String pinyinDict = "/home/sooda/data/pinyin.txt";
+		ConvertZh2Pinyin.loadDict(pinyinDict);
+		ConvertZh2Pinyin.getKeyPinyin('龙');
 		main.run();
 
 		// shutdown();
