@@ -613,13 +613,13 @@ public class DatabaseLayout {
 	 * @param basicprops
 	 */
 	private void initDefaultBasicProps(SortedMap<String, String> basicprops) {
-		basicprops.put(MARYBASE, System.getProperty("MARYBASE", "/path/to/marybase/"));
+		basicprops.put(MARYBASE, System.getProperty("MARYBASE", "/home/sooda/speech/marytts/"));
 		basicprops.put(MARYBASEVERSION, Version.specificationVersion());
-		basicprops.put(VOICENAME, System.getProperty("VOICENAME", "my_voice"));
+		basicprops.put(VOICENAME, System.getProperty("VOICENAME", "zh_voice"));
 		basicprops.put(GENDER, System.getProperty("GENDER", "female"));
 		basicprops.put(DOMAIN, "general");
-		basicprops.put(ESTDIR, System.getProperty("ESTDIR", "/project/mary/Festival/speech_tools/"));
-		basicprops.put(LOCALE, System.getProperty("LOCALE", "en_US"));
+		basicprops.put(ESTDIR, System.getProperty("ESTDIR", "/usr/"));
+		basicprops.put(LOCALE, System.getProperty("LOCALE", "zh"));
 		basicprops.put(SAMPLINGRATE, "16000");
 		String rootDir = voiceDir.getAbsolutePath() + fileSeparator;
 		basicprops.put(ROOTDIR, rootDir.substring(0, rootDir.length() - 1));
