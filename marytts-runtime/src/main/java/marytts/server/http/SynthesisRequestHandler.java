@@ -117,7 +117,7 @@ public class SynthesisRequestHandler extends BaseHttpRequestHandler {
 			String resultString = "";
 			char [] charset = inputText.toCharArray();
 			System.out.println(charset.length);
-			for (int i = 0; i < charset.length -1; i++) {
+			for (int i = 0; i < charset.length; i++) {
 				if (charset[i] != ' ') {
 					System.out.print(charset[i]);
 					String pinyinValue = ConvertZh2Pinyin.getKeyPinyin(charset[i]);
