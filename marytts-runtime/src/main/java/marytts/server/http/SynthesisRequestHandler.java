@@ -109,30 +109,44 @@ public class SynthesisRequestHandler extends BaseHttpRequestHandler {
 		//inputText = inputText + " ni3 hao3 ma1";
 		String localeString = queryItems.get("LOCALE");
 		if (localeString.equals("zh")) {
-			System.out.println("locale string equal to zh, then change to  pinyin");
+			logger.debug("locale string equal to zh, then change to  pinyin");
 			//dump test..
 			//for (Map.Entry<String, String> entry : ConvertZh2Pinyin.pinyinMap.entrySet()) {   
 			//    System.out.println("Key = " + entry.getKey() + ", Value = " + entry.getValue());  
 			//} 
+			logger.debug("inputText: " + inputText);
+			inputText = inputText.replaceAll("。", ".").replaceAll("？", "?").replaceAll("，",  ",").replaceAll("！",  "!");
+			System.out.println(inputText);
+			logger.debug("filter: " + inputText);
+					//.replaceAll("，", 	',').replaceAll("。", ".");
 			String resultString = "";
 			char [] charset = inputText.toCharArray();
 			System.out.println(charset.length);
 			for (int i = 0; i < charset.length; i++) {
 				if (charset[i] != ' ') {
-					System.out.print(charset[i]);
+					//System.out.print(charset[i]);
+                    if (charset[i] == '。') {
+                        charset[i] = '.';
+                    } else if (charset[i] == '，') {
+                        charset[i] = ',';
+                    } else if (charset[i] == '、') {
+                        charset[i] = ',';
+                    } else if (charset[i] == '？') {
+                        charset[i] = '?';
+                    }
 					String pinyinValue = ConvertZh2Pinyin.getKeyPinyin(charset[i]);
 					if (pinyinValue == null) {
 						resultString = resultString + charset[i];
 					} else {
 						resultString = resultString + " " + pinyinValue;
 					}
-					System.out.println("====> " + pinyinValue);
+					//System.out.println("====> " + pinyinValue);
 				} else {
 					resultString = resultString + charset[i];
 				}
 			}
 			inputText = resultString;
-			System.out.println("convert pinyin result: " + inputText);
+			logger.debug(" convert pinyin result: " + inputText);
 		}
 		//System.out.println("locale " + localeString);
 		//System.out.println( (int)'龙');
