@@ -116,12 +116,12 @@ public class SynthesisRequestHandler extends BaseHttpRequestHandler {
 			//} 
 			logger.debug("inputText: " + inputText);
 			inputText = inputText.replaceAll("。", ".").replaceAll("？", "?").replaceAll("，",  ",").replaceAll("！",  "!");
-			System.out.println(inputText);
+			//System.out.println(inputText);
 			logger.debug("filter: " + inputText);
 					//.replaceAll("，", 	',').replaceAll("。", ".");
 			String resultString = "";
 			char [] charset = inputText.toCharArray();
-			System.out.println(charset.length);
+			//System.out.println(charset.length);
 			for (int i = 0; i < charset.length; i++) {
 				if (charset[i] != ' ') {
 					//System.out.print(charset[i]);

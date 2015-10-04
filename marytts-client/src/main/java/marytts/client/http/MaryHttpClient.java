@@ -368,7 +368,7 @@ public class MaryHttpClient extends MaryClient {
 				params.append("&").append(key).append("=").append(URLEncoder.encode(effects.get(key), "UTF-8"));
 			}
 		}
-		System.out.println(params.toString());
+		//System.out.println(params.toString());
 		// to make HTTP Post request with HttpURLConnection
 		URL url = new URL(data.hostAddress.getHttpAddress() + "/process");
 		HttpURLConnection conn = (HttpURLConnection) url.openConnection();

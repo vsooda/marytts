@@ -29,6 +29,7 @@ import java.io.PrintWriter;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Date;
 import java.util.List;
 import java.util.Vector;
@@ -180,7 +181,9 @@ public class FeatureMakerMaryServer {
 					byte feas[]; // for directly saving a vector of bytes as BLOB in mysql DB
 					for (j = 0; j < sentenceList.size(); j++) {
 						newSentence = sentenceList.elementAt(j);
-						MaryData d = processSentence(newSentence, textId[i], targetFeatures);
+						System.out.println("orig sentence before process : " +  newSentence);
+						String precessSentence = new String(newSentence);
+						MaryData d = processSentence(precessSentence, textId[i], targetFeatures);
 						if (d != null) {
 							// get the features of the sentence
 							feas = getFeatures(d);
@@ -531,6 +534,13 @@ public class FeatureMakerMaryServer {
 	 */
 	protected static Vector<String> splitIntoSentences(String text, int id, boolean test) throws Exception {
 
+		if (true) {
+			//string split new
+			String [] temp = text.split("。");
+			Vector<String> sentenceList = new Vector<String>(Arrays.asList(temp));
+			return sentenceList;
+		}
+		
 		Vector<String> sentenceList = null;
 		StringBuffer sentence;
 		// index2sentences = new TreeMap<Integer,String>();
