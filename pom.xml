@@ -354,6 +354,12 @@
 				<artifactId>xmlunit</artifactId>
 				<version>1.6</version>
 			</dependency>
+            <dependency>
+              <groupId>com.huaban</groupId>
+              <artifactId>jieba-analysis</artifactId>
+              <version>1.0.2</version>
+            </dependency>
+
 		</dependencies>
 	</dependencyManagement>
 

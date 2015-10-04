@@ -105,10 +105,12 @@ public class SynthesisRequestHandler extends BaseHttpRequestHandler {
 
 		String inputText = queryItems.get("INPUT_TEXT");
 		
+		inputText = inputText.replaceAll("。", ".").replaceAll("？", "?").replaceAll("，",  ",").replaceAll("！",  "!");
+		System.out.println("filter puncation");
 		//System.out.println("change the input text " + inputText);
 		//inputText = inputText + " ni3 hao3 ma1";
 		String localeString = queryItems.get("LOCALE");
-		if (localeString.equals("zh")) {
+		/*if (localeString.equals("zh")) {
 			logger.debug("locale string equal to zh, then change to  pinyin");
 			//dump test..
 			//for (Map.Entry<String, String> entry : ConvertZh2Pinyin.pinyinMap.entrySet()) {   
@@ -148,6 +150,8 @@ public class SynthesisRequestHandler extends BaseHttpRequestHandler {
 			inputText = resultString;
 			logger.debug(" convert pinyin result: " + inputText);
 		}
+		
+		*/
 		//System.out.println("locale " + localeString);
 		//System.out.println( (int)'龙');
 
