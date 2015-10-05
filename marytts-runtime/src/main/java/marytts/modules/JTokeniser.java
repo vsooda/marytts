@@ -65,7 +65,7 @@ public class JTokeniser extends InternalModule {
 	public JTokeniser(MaryDataType inputType, MaryDataType outputType, Locale locale) {
 		super("JTokeniser", inputType, outputType, locale);
 		// Which language to use in the Tokenizer?
-		if (locale == null) {
+		if (locale == null || locale == Locale.CHINESE) {
 			// if locale == null, use English tokeniser as default/fallback tokeniser
 			jtokLocale = "en";
 		} else {

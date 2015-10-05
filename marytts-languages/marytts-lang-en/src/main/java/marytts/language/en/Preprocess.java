@@ -375,6 +375,8 @@ public class Preprocess extends InternalModule {
 			} else if (MaryDomUtils.tokenText(t).matches(punctuationPattern.pattern())) {
 				t.setAttribute("pos", ".");
 			}
+			
+			System.out.println("in preprocess!! " + origText + " : " + MaryDomUtils.tokenText(t));
 			// if token isn't ignored but there is no handling rule don't add MTU
 			if (!origText.equals(MaryDomUtils.tokenText(t))) {
 				MaryDomUtils.encloseWithMTU(t, origText, null);

@@ -66,7 +66,12 @@ import marytts.util.io.FileUtils;
 import marytts.util.pinyin.ConvertZh2Pinyin;
 
 import com.huaban.analysis.jieba.JiebaSegmenter;
+import com.huaban.analysis.jieba.SegToken;
 import com.huaban.analysis.jieba.JiebaSegmenter.SegMode;
+
+import com.hankcs.hanlp.HanLP;
+import com.hankcs.hanlp.seg.common.Term;
+import com.hankcs.hanlp.tokenizer.NLPTokenizer;
 
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
@@ -535,7 +540,19 @@ public class Mary {
 	        new String[] {"这是一个伸手不见五指的黑夜。我叫孙悟空，我爱北京，我爱Python和C++。", "我不喜欢日本和服。", "雷猴回归人间。",
 	                      "工信处女干事每月经过下属科室都要亲口交代24口交换机等技术性器件的安装工作", "结果婚的和尚未结过婚的"};
 	    for (String sentence : sentences) {
-	        System.out.println(segmenter.process(sentence, SegMode.INDEX).toString());
+	        //System.out.println(segmenter.process(sentence, SegMode.INDEX).toString());
+	    	List<SegToken> tokens = segmenter.process(sentence, SegMode.INDEX);
+	        for (SegToken token : tokens) {
+	        	System.out.println(token.word);
+	        }
+	    }
+	    
+	    // hanlp 的分词和词性标注功能
+	    System.out.println("hanlp ..");
+	    List<Term> termList = NLPTokenizer.segment("中国科学院计算技术研究所的宗成庆教授正在教授自然语言处理课程");
+	    //System.out.println(termList);
+	    for (Term t : termList) {
+	    	System.out.println(t.word + t.nature.name());
 	    }
 		
 		main.run();
