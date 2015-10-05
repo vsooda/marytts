@@ -26,9 +26,13 @@ import marytts.util.dom.DomUtils;
 import marytts.util.dom.MaryDomUtils;
 import marytts.util.dom.NameNodeFilter;
 
+import com.hankcs.hanlp.HanLP;
+import com.hankcs.hanlp.seg.common.Term;
+import com.hankcs.hanlp.tokenizer.NLPTokenizer;
+
 /**
- * The phonemiser module -- java implementation.
- * change the input text to pinyin for phone.. but the text remain   zh.
+ * The tokeniser module -- java implementation.
+ * segment the word
  *
  * @author sooda
  */
@@ -43,6 +47,7 @@ public class JTokeniser  extends marytts.modules.JTokeniser {
 	public MaryData process(MaryData d) throws Exception {
 		MaryData result = super.process(d);
 		//segment(result);
+		segmentAndPosTagger(result);
 		System.out.println("zh_token");
 		return result;
 	}
@@ -61,6 +66,29 @@ public class JTokeniser  extends marytts.modules.JTokeniser {
 	        	//System.out.println(token.word);
 	        	Element tnew = MaryXML.createElement(doc, MaryXML.TOKEN);
 				MaryDomUtils.setTokenText(tnew, token.word);
+				tnew.setAttribute("pos", "aa");
+				t.getParentNode().insertBefore(tnew, t);
+	        }
+
+			t.getParentNode().removeChild(t);
+		}
+	}
+	
+	protected void segmentAndPosTagger(MaryData d) {
+		Document doc = d.getDocument();
+		NodeIterator ni = ((DocumentTraversal) doc).createNodeIterator(doc, NodeFilter.SHOW_ELEMENT, new NameNodeFilter(
+				MaryXML.TOKEN), false);
+		Element t = null;
+		while ((t = (Element) ni.nextNode()) != null) {
+			String words = MaryDomUtils.tokenText(t);
+			//segment it..
+			// Insert the new token element
+			List<Term> tokens = NLPTokenizer.segment(words);
+	        for (Term token : tokens) {
+	        	//System.out.println(token.word);
+	        	Element tnew = MaryXML.createElement(doc, MaryXML.TOKEN);
+				MaryDomUtils.setTokenText(tnew, token.word);
+				tnew.setAttribute("pos", token.nature.name().toUpperCase());
 				t.getParentNode().insertBefore(tnew, t);
 	        }
 

@@ -549,10 +549,10 @@ public class Mary {
 	    
 	    // hanlp 的分词和词性标注功能
 	    System.out.println("hanlp ..");
-	    List<Term> termList = NLPTokenizer.segment("中国科学院计算技术研究所的宗成庆教授正在教授自然语言处理课程");
+	    List<Term> termList = NLPTokenizer.segment("我来自福建厦门");
 	    //System.out.println(termList);
 	    for (Term t : termList) {
-	    	System.out.println(t.word + t.nature.name());
+	    	System.out.println(t.word + t.nature.toString());
 	    }
 		
 		main.run();

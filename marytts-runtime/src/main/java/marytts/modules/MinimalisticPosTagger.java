@@ -56,7 +56,7 @@ public class MinimalisticPosTagger extends InternalModule {
 	 * @throws Exception
 	 */
 	public MinimalisticPosTagger(String locale, String propertyPrefix) throws Exception {
-		super("OpenNLPPosTagger", MaryDataType.WORDS, MaryDataType.PARTSOFSPEECH, MaryUtils.string2locale(locale));
+		super("OpenNLPPosTagger_mini", MaryDataType.WORDS, MaryDataType.PARTSOFSPEECH, MaryUtils.string2locale(locale));
 		if (!propertyPrefix.endsWith("."))
 			propertyPrefix = propertyPrefix + ".";
 		this.propertyPrefix = propertyPrefix + "partsofspeech.";
