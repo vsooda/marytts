@@ -136,7 +136,7 @@ public class HTKLabeler extends VoiceImportComponent {
 					+ System.getProperty("file.separator"));
 
 			props.put(OUTLABDIR,
-					db.getProp(db.ROOTDIR) + System.getProperty("file.separator") + "htk" + System.getProperty("file.separator")
+					db.getProp(db.ROOTDIR) + System.getProperty("file.separator") /*+ "htk" + System.getProperty("file.separator")*/
 							+ "lab" + System.getProperty("file.separator"));
 			props.put(MAXITER, Integer.toString(MAX_ITERATIONS));
 			props.put(MAXSPITER, Integer.toString(MAX_SP_ITERATION));

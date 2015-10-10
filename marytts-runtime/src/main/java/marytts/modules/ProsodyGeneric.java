@@ -281,6 +281,7 @@ public class ProsodyGeneric extends InternalModule {
 		while ((sentence = (Element) sentenceIt.nextNode()) != null) {
 			// And now the actual processing
 			logger.debug("Processing next sentence");
+			System.out.println("processing in ProsodyGeneric");
 			processSentence(sentence);
 		}
 		if (accentedSyllables) {

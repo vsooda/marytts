@@ -161,6 +161,7 @@ public class DatabaseSelector {
 
 		// open log file
 		String filename = selectionDirName + dateDir + "/selectionLog_" + dateString + ".txt";
+		System.out.println("log filename " + filename);
 		try {
 			logOut = new PrintWriter(new BufferedWriter(new FileWriter(new File(filename))), true);
 		} catch (Exception e) {

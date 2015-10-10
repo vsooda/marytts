@@ -1537,6 +1537,7 @@ public class DBHandler {
 		byte[] textBytes = null;
 
 		dbQuery = " select cleanText from " + cleanTextTableName + " where id=" + id;
+		System.out.println("query : " + dbQuery);
 		textBytes = queryTableByte(dbQuery);
 
 		try {

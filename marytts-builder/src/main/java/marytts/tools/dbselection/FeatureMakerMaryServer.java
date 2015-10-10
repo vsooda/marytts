@@ -170,6 +170,7 @@ public class FeatureMakerMaryServer {
 			for (i = 0; i < textId.length; i++) {
 				// get next unprocessed text
 				text = wikiToDB.getCleanText(textId[i]);
+				System.out.println("db raw text " + text);
 				System.out.println("Processing(" + i + ") text id=" + textId[i] + " text length=" + text.length());
 				sentenceList = splitIntoSentences(text, textId[i], test);
 
