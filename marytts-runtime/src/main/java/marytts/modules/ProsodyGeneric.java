@@ -91,6 +91,8 @@ public class ProsodyGeneric extends InternalModule {
 	public ProsodyGeneric(MaryDataType inputType, MaryDataType outputType, Locale locale, String tobipredFileName,
 			String accentPriorities, String syllableAccents, String paragraphDeclination) {
 		super("Prosody", inputType, outputType, locale);
+		
+		System.out.println("Prosody init: " + tobipredFileName + " " + accentPriorities);
 
 		this.tobiPredFilename = tobipredFileName;
 		this.accentPriorities = accentPriorities;
@@ -285,6 +287,7 @@ public class ProsodyGeneric extends InternalModule {
 			processSentence(sentence);
 		}
 		if (accentedSyllables) {
+            System.out.println("copying syslable");
 			copyAccentsToSyllables(doc); // ToBI accents on syllables or words?
 		}
 		if (applyParagraphDeclination) {
@@ -495,7 +498,7 @@ public class ProsodyGeneric extends InternalModule {
 
 		// check if it is a sentence with vorfeld
 		boolean inVorfeld = true; // default
-		for (int i = 0; i < tokens.getLength(); i++) { // search for the first word in sentence
+		for (int i = 0; i < tokens.getLength(); i++) { // search for the first word in sentence  sooda: 实际上并未执行
 			Element token = ((Element) tokens.item(i));
 			if (!token.getAttribute("ph").equals("")) { // first word found
 				String posFirstWord = token.getAttribute("pos");
@@ -521,13 +524,14 @@ public class ProsodyGeneric extends InternalModule {
 		// assignment of accent position and boundaries
 		for (int i = 0; i < tokens.getLength(); i++) {
 			Element token = (Element) tokens.item(i);
+            String theTokenText = MaryDomUtils.tokenText(token);
 			logger.debug("Now looking at token `" + MaryDomUtils.tokenText(token) + "'");
 			if (firstTokenInPhrase == null) {
 				firstTokenInPhrase = token; // begin of an intonation phrase
 			}
 
-			// determine if token is at end of vorfeld
-			if (inVorfeld) { // only if vorfeld exists and if token's position is not after vorfeld
+			// determine if token is at end of vorfeld  是否处于特殊位置？
+			if (inVorfeld) { // only if vorfeld exists and if token's position is not after vorfeld sooda: 实际上并未执行
 				if (i < tokens.getLength() - 1) {
 					Element nextToken = (Element) tokens.item(i + 1);
 					String posNextToken = nextToken.getAttribute("pos");
@@ -543,8 +547,12 @@ public class ProsodyGeneric extends InternalModule {
 						specialPositionType = "endofvorfeld";
 						numEndOfVorfeld = i; // position of current token
 						inVorfeld = false;
-					} else
+						System.out.println("inVorfeld " + "==== endofvorfeld");
+					} else {
 						specialPositionType = "vorfeld";
+						System.out.println("inVorfeld " + " ===== vorfeld");
+					}
+						
 				}
 			}
 
@@ -561,8 +569,10 @@ public class ProsodyGeneric extends InternalModule {
 				// --> determine if the token receives an accent or not
 				// the type of accent(f.e. L+H*) is assigend later
 
+				System.out.println("appley rule 1" + specialPositionType);
+				
 				/*** begin user input check,accent position ***/
-				String forceAccent = getForceAccent(token);
+				String forceAccent = getForceAccent(token); //是否存在force-accent标签
 				if (token.getAttribute("accent").equals("unknown") || !token.hasAttribute("accent")
 						&& (forceAccent.equals("word") || forceAccent.equals("syllable"))) {
 					setAccent(token, "tone"); // the token receives an accent according to user input
@@ -577,6 +587,7 @@ public class ProsodyGeneric extends InternalModule {
 					token.removeAttribute("accent"); // doesn't receive an accent
 				} else { // default behaviour: determine by rule whether to assign an accent
 					getAccentPosition(token, tokens, i, sentenceType, specialPositionType);
+                    System.out.println("setting token accent " + token.getAttribute("accent"));
 				}
 
 				// check if the phrase has an accent (avoid intermediate phrases without accent)
@@ -586,6 +597,7 @@ public class ProsodyGeneric extends InternalModule {
 				// if not, check if current token is the best candidate
 				if (!hasAccent && !(token.getAttribute("accent").equals("none") || forceAccent.equals("none"))
 						&& !token.getAttribute("ph").equals("")) {
+					System.out.println("compute the priority ");
 					if (bestCandidate == null) { // no candidate yet
 						bestCandidate = token;
 					} else {
@@ -606,17 +618,19 @@ public class ProsodyGeneric extends InternalModule {
 						}
 						// if the current token has higher priority than the best candidate,
 						// current token becomes the best candidate for accentuation
+                        // sooda: get the highest priority token
 						if (priorToken != -1 && priorBestCandidate != -1) {
 							if (priorToken <= priorBestCandidate)
 								bestCandidate = token;
 						}
+                        System.out.println("current best candidate " + MaryDomUtils.tokenText(bestCandidate));
 					}
 				}
 				if (token.getAttribute("accent").equals("none") || forceAccent.equals("none")) {
 					token.removeAttribute("accent");
 				}
 
-			} // end of accent position assignment
+			} // end of accent position assignment  sooda: end of using rules
 
 			// now the informations relevant only for boundary assignment
 			boolean invalidXML = false;
@@ -626,7 +640,8 @@ public class ProsodyGeneric extends InternalModule {
 						MaryDomUtils.closestCommonAncestor(tokens.item(i), tokens.item(i + 1)));
 			}
 
-			if (applyRules) {
+			if (applyRules) { //sooda: to see if can insert a new breakindex
+				System.out.println("appley rule 2" + specialPositionType);
 				// insertion of ip- and IP-boundaries
 				// returns value for firstTokenInPhrase(begin of new phrase): if a boundary was inserted, firstTokenInPhrase gets
 				// null
@@ -649,6 +664,7 @@ public class ProsodyGeneric extends InternalModule {
 					int bi = 0;
 					try {
 						bi = Integer.parseInt(boundary.getAttribute("breakindex"));
+						System.out.println("bi value " + bi);
 					} catch (NumberFormatException nfe) {
 					}
 					if (bi >= 3) { // is it an intermediate or an intoantion phrase?
@@ -660,6 +676,7 @@ public class ProsodyGeneric extends InternalModule {
 					}
 				}
 			}
+            System.out.print("token : positon " + theTokenText + " " + specialPositionType );
 			if (specialPositionType.equals("endofvorfeld"))
 				specialPositionType = "noValue";
 		} // loop tokens for accent position and boundary assignment
@@ -793,6 +810,7 @@ public class ProsodyGeneric extends InternalModule {
 								tone = (String) it.next();
 						}
 						token.setAttribute("accent", tone);
+                        System.out.println("setting the accent tone finally " + tone);
 						if (!nucleusAssigned)
 							nucleusAssigned = true;
 					}
@@ -807,6 +825,7 @@ public class ProsodyGeneric extends InternalModule {
 					// xml file rules are applied
 					// assignment of accent type
 					// returns true, if nuclear accent is assigned, false otherwise
+					///在这里将accent=tone 改为具体的音调
 					nucleusAssigned = getAccentShape(token, tokens, j, sentenceType, specialPositionType, nucleusAssigned);
 			}
 
@@ -816,6 +835,7 @@ public class ProsodyGeneric extends InternalModule {
 			if (token.hasAttribute("accent")) {
 				lastAssignedTone = token.getAttribute("accent");
 			}
+			 System.out.println("finnal token accent " + token.getAttribute("accent"));
 		} // loop over tokens for accent type assignment
 	} // processSentence
 
@@ -869,6 +889,7 @@ public class ProsodyGeneric extends InternalModule {
 				if (currentRulePart.getTagName().equals("action")) {
 					accent = currentRulePart.getAttribute("accent");
 					token.setAttribute("accent", accent);
+                    System.out.println("setting accent type in getAccentPosition " + tokenText + " " + accent);
 					rule_fired = true;
 					break;
 				}
@@ -947,6 +968,7 @@ public class ProsodyGeneric extends InternalModule {
 				if (currentRulePart.getTagName().equals("action")) {
 					accent = currentRulePart.getAttribute("accent");
 					token.setAttribute("accent", accent);
+                    System.out.println("setting accent type in getAccentShape " + tokenText + " " + accent);
 					rule_fired = true;
 					if (!nucleusAssigned && !accent.equals("*")) {
 						nucleusAssigned = true;
@@ -1610,6 +1632,7 @@ public class ProsodyGeneric extends InternalModule {
 	 */
 	protected void setAccent(Element token, String accent) {
 		token.setAttribute("accent", accent);
+        System.out.println("in setAccent " + accent);
 	}
 
 	/**
