@@ -83,11 +83,23 @@ Possible values are only: "enfofpar"(end of paragraph) and "endofvorfeld"(end of
 <tobipredparams>
 
 <definitions>
-  <!-- list of part of speechs that don't receive an accent (function words)-->
+<!--
   <list name="pos_no_accent" items="CARD:CC:DET:EX:FW:IN:LS:MD:PDT:POS:PRP:PRP$:RB:RBR:RBS:RP:TO:VBP:VBZ:WDT:WP::WP$:WRB:in:det:cc:md:wp:pps:aux"/>
+  <list name="pos_tonal_accent" items="JJ:JJR:JJS:NN:NNP:NNPS:NNS:UH:VB:VBD:VBG:VBN:content"/>
+  <list name="pos_punctuation" items="$PUNCT $, $( punc , '' # : ."/>
+  <list name="bi2_phrases" items="AP:CAP:NP:CNP:PP:CPP"/>
+  <list name="conj_phrases" items="CNP:CAP"/>
+  <list name="firstPosInQuestionYN" items="VB:VBD:VBP:VBZ"/>
+  <list name="firstPosInQuestionW" items="WP:WRB"/>
+  -->
+
+
+  <!--chage it to zh form  -->
+  <!-- list of part of speechs that don't receive an accent (function words)-->
+  <list name="pos_no_accent" items="B:C:DG:D:E:F:G:H:I:J:K:L:M:P:Q:R:S:TG:T:U:W:X:Z:in:det:cc:md:wp:pps:aux"/>
 
   <!-- list of part of speechs that receive an accent (content words) -->
-  <list name="pos_tonal_accent" items="JJ:JJR:JJS:NN:NNP:NNPS:NNS:UH:VB:VBD:VBG:VBN:content"/>
+  <list name="pos_tonal_accent" items="A:AD:AN:AG:NG:N:NR:NS:NT:NZ:Y:E:O:VG:V:VD:VN:content"/>
 
   <!-- list of part of speechs for punctuation (used in boundary rules)-->
   <list name="pos_punctuation" items="$PUNCT $, $( punc , '' # : ."/>
@@ -101,10 +113,11 @@ Possible values are only: "enfofpar"(end of paragraph) and "endofvorfeld"(end of
   <!-- the following information should always be present if the language is similar to German-->
 
   <!-- if the POS of first word in sentence is a finite verb, it is a yes-no-question -->
-  <list name="firstPosInQuestionYN" items="VB:VBD:VBP:VBZ"/>
+  <list name="firstPosInQuestionYN" items="VG:V:VD:VN"/>
 
   <!-- if the POS of first word in sentence is PWS,PWAT or PWAV, it is a wh-question -->
-  <list name="firstPosInQuestionW" items="WP:WRB"/>
+  <list name="firstPosInQuestionW" items="S:T"/>
+
 
 
   <!-- the following information should always be present -->
