@@ -30,36 +30,6 @@ public class JPhonemiser  extends marytts.modules.JPhonemiser {
 	}
 	
 	
-	public String convert2Pinyin(String inputText) {
-		//inputText = inputText.replaceAll("。", ".").replaceAll("？", "?").replaceAll("，",  ",").replaceAll("！",  "!");
-		logger.debug("filter: " + inputText);
-		String resultString = "";
-		char [] charset = inputText.toCharArray();
-		for (int i = 0; i < charset.length; i++) {
-			if (charset[i] != ' ') {
-                if (charset[i] == '。') {
-                    charset[i] = '.';
-                } else if (charset[i] == '，') {
-                    charset[i] = ',';
-                } else if (charset[i] == '、') {
-                    charset[i] = ',';
-                } else if (charset[i] == '？') {
-                    charset[i] = '?';
-                }
-				String pinyinValue = ConvertZh2Pinyin.getKeyPinyin(charset[i]);
-				if (pinyinValue == null) {
-					resultString = resultString + charset[i];
-				} else {
-					resultString = resultString + " " + pinyinValue;
-				}
-				//System.out.println("====> " + pinyinValue);
-			} else {
-				resultString = resultString + charset[i];
-			}
-		}
-		System.out.println(inputText + " convert2pinyin result: " + resultString);
-		return resultString;
-	}
 	
 	public MaryData process(MaryData d) throws Exception {
 		Document doc = d.getDocument();
@@ -80,7 +50,7 @@ public class JPhonemiser  extends marytts.modules.JPhonemiser {
 				text = MaryDomUtils.tokenText(t);
 
 			System.out.println("in phonemisze_zh: " + text);
-			text = convert2Pinyin(text);
+			text = ConvertZh2Pinyin.convert2Pinyin(text);
 			// use part-of-speech if available
 			String pos = null;
 			if (t.hasAttribute("pos")) {

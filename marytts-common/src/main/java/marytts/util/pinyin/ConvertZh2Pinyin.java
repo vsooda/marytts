@@ -27,6 +27,7 @@ import java.util.Properties;
 
 public class ConvertZh2Pinyin {
 	public static HashMap<String, String> pinyinMap;
+	public static HashMap<String, String> wordMap;
 	
 	//public ConvertZh2Pinyin(String dictname) {
 	//	System.out.println("init ConvertZh2Pinyin");
@@ -55,6 +56,26 @@ public class ConvertZh2Pinyin {
 		}
 	}
 	
+	public static void loadWordDict(String dictName) {
+		System.out.println("load " + dictName);
+		int initialCapacity = 110000;
+		wordMap = new HashMap<String, String>(initialCapacity);
+		
+		try {
+			String str;
+			BufferedReader in = new BufferedReader(new FileReader(dictName));
+			while ((str = in.readLine()) != null) {
+				String [] temps = str.split(":");
+				String word = temps[0].trim();
+				String pinyins = temps[1].toLowerCase().trim();
+				//System.out.println(word + " " + pinyins);
+				wordMap.put(word, pinyins);
+			}
+			in.close();
+		} catch (IOException e) {
+		}
+	}
+	
 	public static String getKeyPinyin(char queryChar) {
 		//hexTest(100);
 		int value = (int) (queryChar);
@@ -71,5 +92,56 @@ public class ConvertZh2Pinyin {
 	public static String Change2Hex(int value) {
 		//System.out.println("hex100 " + String.format("%X", value));
 		return String.format("%X", value);
+	}
+	
+	public static String getPinyinForOnes(String inputText) {
+		//inputText = inputText.replaceAll("。", ".").replaceAll("？", "?").replaceAll("，",  ",").replaceAll("！",  "!");
+		String resultString = "";
+		char [] charset = inputText.toCharArray();
+		for (int i = 0; i < charset.length; i++) {
+			//特殊符号的转换，应该不用在每个token里面。只要在入口转换就可以了。
+			if (charset[i] != ' ') {
+                if (charset[i] == '。') {
+                    charset[i] = '.';
+                } else if (charset[i] == '，') {
+                    charset[i] = ',';
+                } else if (charset[i] == '、') {
+                    charset[i] = ',';
+                } else if (charset[i] == '？') {
+                    charset[i] = '?';
+                }
+				String pinyinValue = getKeyPinyin(charset[i]);
+				if (pinyinValue == null) {
+					resultString = resultString + charset[i];
+				} else {
+					resultString = resultString + " " + pinyinValue;
+				}
+				//System.out.println("====> " + pinyinValue);
+			} else {
+				resultString = resultString + charset[i];
+			}
+		}
+		
+		return resultString;
+	}
+	
+	public static String getPinyinForWord(String inputText) {
+		String resultString = null;
+		resultString = wordMap.getOrDefault(inputText, null);
+		return resultString;
+	}
+	
+	public static String convert2Pinyin(String inputText) {
+		String result = null;
+		//if (!wordMap.isEmpty()) {
+		//	result = getPinyinForWord(inputText);
+		//}
+		//if (result == null) {
+		//	System.out.println("cann't find this words pinyin, ");
+		//	result = getPinyinForOnes(inputText);
+		//}
+		result = getPinyinForOnes(inputText);
+		System.out.println(inputText + " convert2pinyin result: " + result);
+		return result;
 	}
 }

@@ -534,6 +534,12 @@ public class Mary {
 		ConvertZh2Pinyin.loadDict(pinyinDict);
 		ConvertZh2Pinyin.getKeyPinyin('龙');
 		
+		String wordDict = "/home/sooda/data/pinyin_word.txt";
+		ConvertZh2Pinyin.loadWordDict(wordDict);
+		String strs = ConvertZh2Pinyin.convert2Pinyin("想着");
+		System.out.println("==> " + strs);
+		strs = ConvertZh2Pinyin.convert2Pinyin("爱好");
+		System.out.println("==> " + strs);
 		//jieba cut test
 		JiebaSegmenter segmenter = new JiebaSegmenter();
 	    String[] sentences =

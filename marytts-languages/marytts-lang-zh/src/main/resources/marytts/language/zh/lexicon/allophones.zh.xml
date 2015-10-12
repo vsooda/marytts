@@ -2,7 +2,7 @@
 		features="vlng vheight vfront vrnd ctype cplace cvox">
 	<silence ph="_"/>
 
-	<vowel ph="aaM" vlng="l" vheight="2" vfront="1" vrnd="-"/>
+	<!--vowel ph="aaM" vlng="l" vheight="2" vfront="1" vrnd="-"/-->
 	<vowel ph="aaH" vlng="l" vheight="1" vfront="1" vrnd="+"/>
 	<vowel ph="aaL" vlng="s" vheight="3" vfront="1" vrnd="-"/>
 	
@@ -18,7 +18,7 @@
 	<vowel ph="elH" vlng="l" vheight="1" vfront="1" vrnd="+"/>
 	<vowel ph="elL" vlng="a" vheight="3" vfront="1" vrnd="-"/>
 
-	<vowel ph="erM" vlng="d" vheight="2" vfront="2" vrnd="-"/>
+	<!--vowel ph="erM" vlng="d" vheight="2" vfront="2" vrnd="-"/-->
 	<vowel ph="erH" vlng="d" vheight="1" vfront="2" vrnd="+"/>
 	<vowel ph="erL" vlng="d" vheight="3" vfront="2" vrnd="-"/>
 
@@ -26,7 +26,7 @@
 	<vowel ph="ibH" vlng="l" vheight="1" vfront="3" vrnd="+"/>
 	<vowel ph="ibL" vlng="s" vheight="3" vfront="3" vrnd="-"/>
 
-	<vowel ph="ifM" vlng="s" vheight="2" vfront="2" vrnd="-"/>
+	<!--vowel ph="ifM" vlng="s" vheight="2" vfront="2" vrnd="-"/-->
 	<vowel ph="ifH" vlng="l" vheight="1" vfront="2" vrnd="+"/>
 	<vowel ph="ifL" vlng="s" vheight="3" vfront="2" vrnd="-"/>
 
@@ -34,7 +34,7 @@
 	<vowel ph="iH" vlng="l" vheight="1" vfront="1" vrnd="+"/>
 	<vowel ph="iL" vlng="s" vheight="3" vfront="1" vrnd="-"/>
 
-	<vowel ph="ngM" vlng="l" vheight="2" vfront="3" vrnd="+"/>
+	<!--vowel ph="ngM" vlng="l" vheight="2" vfront="3" vrnd="+"/-->
 	<vowel ph="ngH" vlng="l" vheight="1" vfront="3" vrnd="+"/>
 	<vowel ph="ngL" vlng="l" vheight="3" vfront="3" vrnd="+"/>
 
@@ -50,7 +50,7 @@
 	<vowel ph="uH" vlng="l" vheight="1" vfront="1" vrnd="+"/>
 	<vowel ph="uL" vlng="s" vheight="3" vfront="1" vrnd="-"/>
 
-	<vowel ph="vM" vlng="s" vheight="2" vfront="1" vrnd="+"/>
+	<!--vowel ph="vM" vlng="s" vheight="2" vfront="1" vrnd="+"/-->
 	<vowel ph="vH" vlng="l" vheight="1" vfront="1" vrnd="+"/>
 	<vowel ph="vL" vlng="s" vheight="3" vfront="1" vrnd="-"/>
 
@@ -62,10 +62,10 @@
 	<consonant ph="Ch" ctype="a" cplace="v" cvox="-"/>
 	<consonant ph="D" ctype="s" cplace="a" cvox="-"/>
 	<consonant ph="F" ctype="f" cplace="b" cvox="-"/>
-	<consonant ph="g" ctype="s" cplace="g" cvox="-"/>
-	<consonant ph="ga" ctype="s" cplace="g" cvox="-"/>
-	<consonant ph="ge" ctype="s" cplace="g" cvox="-"/>
-	<consonant ph="go" ctype="s" cplace="g" cvox="-"/>
+	<consonant ph="G" ctype="s" cplace="g" cvox="-"/>
+	<!--consonant ph="ga" ctype="s" cplace="g" cvox="-"/-->
+	<!--consonant ph="ge" ctype="s" cplace="g" cvox="-"/-->
+	<!--consonant ph="go" ctype="s" cplace="g" cvox="-"/-->
 
 	<consonant ph="H" ctype="f" cplace="g" cvox="-"/>
 	<consonant ph="K" ctype="s" cplace="g" cvox="-"/>
