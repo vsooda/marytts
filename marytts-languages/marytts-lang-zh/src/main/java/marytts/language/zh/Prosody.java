@@ -9,7 +9,7 @@ import marytts.server.MaryProperties;
 public class Prosody extends ProsodyGeneric {
 	public Prosody() {
 		super(MaryDataType.PHONEMES, MaryDataType.INTONATION, Locale.CHINESE, MaryProperties.localePrefix(Locale.CHINESE)
-				+ ".prosody.tobipredparams", MaryProperties.localePrefix(Locale.ENGLISH) + ".prosody.accentPriorities",
+				+ ".prosody.tobipredparams", MaryProperties.localePrefix(Locale.CHINESE) + ".prosody.accentPriorities",
 				MaryProperties.localePrefix(Locale.CHINESE) + ".prosody.syllableaccents", MaryProperties
 						.localePrefix(Locale.CHINESE) + ".prosody.paragraphdeclination");
 		System.out.println("in chinese prosody init..");
