@@ -144,6 +144,9 @@ public class HMMVoiceFeatureSelection extends VoiceImportComponent {
 				frame.setVisible(false);
 			}
 		});
+		
+		setSuccess(true);
+		frame.setVisible(false);
 
 		gridC.gridx = 0;
 		gridC.gridy = 0;
@@ -170,6 +173,8 @@ public class HMMVoiceFeatureSelection extends VoiceImportComponent {
 
 		do {
 			try {
+				setSuccess(true);
+				frame.setVisible(false);
 				Thread.sleep(10);
 			} catch (InterruptedException e) {
 			}

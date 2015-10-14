@@ -127,20 +127,22 @@ public class ConvertZh2Pinyin {
 	
 	public static String getPinyinForWord(String inputText) {
 		String resultString = null;
-		resultString = wordMap.getOrDefault(inputText, null);
+		if (wordMap.containsKey(inputText)) {
+			resultString = wordMap.get(inputText);
+		}
 		return resultString;
 	}
 	
 	public static String convert2Pinyin(String inputText) {
 		String result = null;
-		//if (!wordMap.isEmpty()) {
-		//	result = getPinyinForWord(inputText);
-		//}
-		//if (result == null) {
-		//	System.out.println("cann't find this words pinyin, ");
-		//	result = getPinyinForOnes(inputText);
-		//}
-		result = getPinyinForOnes(inputText);
+		if (!wordMap.isEmpty()) {
+			result = getPinyinForWord(inputText);
+		}
+		if (result == null) {
+			System.out.println("cann't find this words pinyin, ");
+			result = getPinyinForOnes(inputText);
+		}
+		//result = getPinyinForOnes(inputText);
 		System.out.println(inputText + " convert2pinyin result: " + result);
 		return result;
 	}

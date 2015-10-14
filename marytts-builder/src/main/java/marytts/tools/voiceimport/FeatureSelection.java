@@ -191,6 +191,8 @@ public class FeatureSelection extends VoiceImportComponent {
 
 		do {
 			try {
+				setSuccess(true);
+				frame.setVisible(false);
 				Thread.sleep(10);
 			} catch (InterruptedException e) {
 			}

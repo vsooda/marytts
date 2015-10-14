@@ -203,11 +203,14 @@ public class LabelledFilesInspector extends VoiceImportComponent {
 			}
 		});
 
+
 		jf.pack();
 		jf.setVisible(true);
 
 		while (!quit) {
 			try {
+				//for excape the box;
+				requestQuit();
 				Thread.sleep(100);
 			} catch (InterruptedException ie) {
 			}

@@ -114,12 +114,15 @@ public class DatabaseImportMain extends JFrame {
 		// checkboxPane.setPreferredSize(new Dimension(300, 300));
 		int compIndex = 0;
 		for (int j = 0; j < groups2Comps.length; j++) {
+			System.out.println("-----");
+			System.out.println(j);
 			String[] nextGroup = groups2Comps[j];
 			JPanel groupPane = new JPanel();
 			groupPane.setLayout(new BoxLayout(groupPane, BoxLayout.Y_AXIS));
 			groupPane.setBorder(BorderFactory.createCompoundBorder(BorderFactory.createTitledBorder(nextGroup[0]),
 					BorderFactory.createEmptyBorder(1, 1, 1, 1)));
 			for (int i = 1; i < nextGroup.length; i++) {
+
 				JButton configButton = new JButton();
 				Icon configIcon = new ImageIcon(DatabaseImportMain.class.getResource("configure.png"), "Configure");
 				configButton.setIcon(configIcon);
@@ -135,6 +138,11 @@ public class DatabaseImportMain extends JFrame {
 				line.add(configButton, BorderLayout.WEST);
 				line.add(checkboxes[compIndex], BorderLayout.CENTER);
 				groupPane.add(line);
+				if (j != 1 && j != 8 &&  (!(j == 2 && i == 2))  &&  (!(j == 10 && i == 1)) ) {
+					checkboxes[compIndex].setSelected(true);
+				}
+				System.out.println(i);
+				System.out.println(checkboxes[compIndex].getText());
 				compIndex++;
 			}
 			checkboxPane.add(groupPane);
