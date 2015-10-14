@@ -126,7 +126,9 @@ public class HTKLabeler extends VoiceImportComponent {
 			String phoneXml;
 			locale = db.getProp(db.LOCALE);
 			if (htkdir == null) {
-				htkdir = "/home/sooda/speech/marytts/lib/external/bin/";
+				//htkdir = "/home/sooda/speech/marytts/lib/external/bin/";
+				htkdir = System.getProperty("user.home") + "/speech/marytts/lib/external/bin/";
+				System.out.println("setting htk dir.. " + htkdir);
 			}
 			props.put(HTKDIR, htkdir);
 

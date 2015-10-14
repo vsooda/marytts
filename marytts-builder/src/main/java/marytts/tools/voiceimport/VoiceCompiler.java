@@ -120,7 +120,7 @@ public class VoiceCompiler extends VoiceImportComponent {
 		if (props == null) {
 			props = new TreeMap<String, String>();
 			props.put(COMPILEDIR, new File(db.getVoiceFileDir(), "voice-" + getVoiceName(db)).getAbsolutePath());
-			props.put(MVN, "/home/sooda/tools/apache-maven-3.0.5/bin/mvn");
+			props.put(MVN, "/usr/bin/mvn");
 		}
 		return props;
 	}
