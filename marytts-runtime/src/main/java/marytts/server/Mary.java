@@ -530,11 +530,14 @@ public class Mary {
 		}
 
 		// load Chinese pinyin dict
-		String pinyinDict = "/home/sooda/data/pinyin.txt";
+		//String pinyinDict = "/home/sooda/data/pinyin.txt";
+		//String wordDict = "/home/sooda/data/pinyin_word.txt";
+		String pinyinDict = MaryProperties.getFilename("pinyin");
+		String wordDict = MaryProperties.getFilename("pinyinWord");
+		System.out.println("pinyin dict " + pinyinDict + " " + wordDict);
+				
 		ConvertZh2Pinyin.loadDict(pinyinDict);
 		ConvertZh2Pinyin.getKeyPinyin('龙');
-		
-		String wordDict = "/home/sooda/data/pinyin_word.txt";
 		ConvertZh2Pinyin.loadWordDict(wordDict);
 		String strs = ConvertZh2Pinyin.convert2Pinyin("想着");
 		System.out.println("==> " + strs);
