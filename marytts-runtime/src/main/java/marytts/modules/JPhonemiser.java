@@ -215,6 +215,13 @@ public class JPhonemiser extends InternalModule {
 			g2pMethod.append("lexicon");
 			return result;
 		}
+		
+		// falling tone for 5-tone to 3. 
+		if (text.endsWith("5")) {
+			result = text.replace('5', '3');
+			System.out.println("for falling tone " + text + " --> " + result);
+			return phonemise(result, pos, g2pMethod);
+		}
 
 		// Lookup attempts failed. Try normalising exotic letters
 		// (diacritics on vowels, etc.), look up again:
@@ -231,6 +238,9 @@ public class JPhonemiser extends InternalModule {
 				return result;
 			}
 		}
+		
+		
+		
 
 		// Cannot find it in the lexicon -- apply letter-to-sound rules
 		// to the normalised form
