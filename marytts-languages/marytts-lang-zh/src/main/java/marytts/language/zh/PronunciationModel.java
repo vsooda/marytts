@@ -1,5 +1,7 @@
 package marytts.language.zh;
 
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Locale;
 
 import org.w3c.dom.Document;
@@ -7,38 +9,27 @@ import org.w3c.dom.Element;
 import org.w3c.dom.traversal.DocumentTraversal;
 import org.w3c.dom.traversal.NodeFilter;
 import org.w3c.dom.traversal.NodeIterator;
+import org.w3c.dom.traversal.TreeWalker;
 
+import marytts.cart.StringPredictionTree;
 import marytts.datatypes.MaryData;
-import marytts.datatypes.MaryDataType;
 import marytts.datatypes.MaryXML;
-import marytts.modules.ProsodyGeneric;
-import marytts.server.MaryProperties;
+import marytts.modules.phonemiser.AllophoneSet;
+import marytts.unitselection.select.Target;
+import marytts.util.MaryRuntimeUtils;
 import marytts.util.dom.MaryDomUtils;
 import marytts.util.dom.NameNodeFilter;
 
-public class Prosody extends ProsodyGeneric {
-	public Prosody() {
-		super(MaryDataType.PHONEMES, MaryDataType.INTONATION, Locale.CHINESE, MaryProperties.localePrefix(Locale.CHINESE)
-				+ ".prosody.tobipredparams", MaryProperties.localePrefix(Locale.CHINESE) + ".prosody.accentPriorities",
-				MaryProperties.localePrefix(Locale.CHINESE) + ".prosody.syllableaccents", MaryProperties
-						.localePrefix(Locale.CHINESE) + ".prosody.paragraphdeclination");
-		System.out.println("in chinese prosody init..");
-	}
+public class PronunciationModel extends marytts.modules.PronunciationModel {
 	
-//	public MaryData process(MaryData d) throws Exception {
-//		MaryData result = super.process(d);
-//		System.out.println("in zh_Prosody process.." );
-//		Document doc = result.getDocument();
-//		processSyllablesTone(doc);
-//		System.out.println("process syslable tone ok");
-//		result.setDocument(doc);
-//		return result;
-//	}
+	public PronunciationModel() {
+		super(Locale.CHINESE);
+	}
 	
 	/**
 	 * Go through all tokens in a document, and copy any accents to the first accented syllable.
 	 */
-	void processSyllablesTone(Document doc) {
+	void processSyllableTone(Document doc) {
 		NodeIterator tIt = ((DocumentTraversal) doc).createNodeIterator(doc, NodeFilter.SHOW_ELEMENT, new NameNodeFilter(
 				MaryXML.TOKEN), false);
 		Element t = null;
@@ -52,8 +43,8 @@ public class Prosody extends ProsodyGeneric {
 					System.out.println("syysla.." + syl.getAttribute("ph"));
 					if (syl.getAttribute("stress").equals("1")) {
 						// found
-						syl.setAttribute("accent", t.getAttribute("accent"));
-						System.out.println("setting accent  1");
+						//syl.setAttribute("accent", t.getAttribute("accent"));
+						syl.setAttribute("accent", "L*+!H");
 						assignedAccent = true;
 						break; // done for this token
 					}
@@ -63,11 +54,22 @@ public class Prosody extends ProsodyGeneric {
 					// take the first syllable then:
 					syl = MaryDomUtils.getFirstElementByTagName(t, MaryXML.SYLLABLE);
 					if (syl != null) {
-						syl.setAttribute("accent", t.getAttribute("accent"));
-						System.out.println("setting accent 2");
+						//syl.setAttribute("accent", t.getAttribute("accent"));
+						syl.setAttribute("accent", "!H*");
 					}
 				}
 			}
 		}
+	}
+
+	
+	public MaryData process(MaryData d) throws Exception {
+		MaryData result = super.process(d);
+		System.out.println("对每个单词的准确读音进行标注");
+		Document doc = result.getDocument();
+		processSyllableTone(doc);
+		System.out.println("process syslable tone ok in pronunciationModel");
+		result.setDocument(doc);
+		return result;
 	}
 }
