@@ -37,26 +37,38 @@ public class PronunciationModel extends marytts.modules.PronunciationModel {
 			if (t.hasAttribute("accent")) {
 				NodeIterator sylIt = ((DocumentTraversal) doc).createNodeIterator(t, NodeFilter.SHOW_ELEMENT, new NameNodeFilter(
 						MaryXML.SYLLABLE), false);
-				boolean assignedAccent = false;
+
 				Element syl = null;
 				while ((syl = (Element) sylIt.nextNode()) != null) {
-					System.out.println("syysla.." + syl.getAttribute("ph"));
-					if (syl.getAttribute("stress").equals("1")) {
-						// found
-						//syl.setAttribute("accent", t.getAttribute("accent"));
-						syl.setAttribute("accent", "L*+!H");
-						assignedAccent = true;
-						break; // done for this token
+					String phones = syl.getAttribute("ph");
+					String phoneArray[] = phones.split(" ");
+					String firstPhone = phoneArray[1].trim();
+					String secondPhone = phoneArray[2].trim();
+					if (phoneArray.length == 3) {
+						if (firstPhone.endsWith("M")) {
+							syl.setAttribute("accent", "L*");
+							System.out.println(phones + "=> 5");
+						} else if (firstPhone.endsWith("L")) {
+							if (secondPhone.endsWith("L")) {
+								syl.setAttribute("accent", "L*");
+								System.out.println(phones + "=> 3");
+							} else {
+								syl.setAttribute("accent", "L*+H");
+								System.out.println(phones + "=> 2");
+							}
+						} else if (firstPhone.endsWith("H")) {
+							if (secondPhone.endsWith("L")) {
+								syl.setAttribute("accent", "!H*");
+								System.out.println(phones + "=> 4");
+							} else {
+								syl.setAttribute("accent", "H*");
+								System.out.println(phones + "=> 1");
+							}
+						}
+						
 					}
-				}
-				if (!assignedAccent) {
-					// Hmm, this token does not have a stressed syllable --
-					// take the first syllable then:
-					syl = MaryDomUtils.getFirstElementByTagName(t, MaryXML.SYLLABLE);
-					if (syl != null) {
-						//syl.setAttribute("accent", t.getAttribute("accent"));
-						syl.setAttribute("accent", "!H*");
-					}
+					System.out.println("syysla.." + phones);
+					
 				}
 			}
 		}
