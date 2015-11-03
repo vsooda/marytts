@@ -53,7 +53,7 @@
 㧑挹  :    hui1 yi4 
 㧑损  :    hui1 sun3 
 㧯  :    lao3 
-㧰  :    lu:e4 
+㧰  :    lve4 
 㨫  :    lan3 
 㩐  :    den4 
 㪃  :    he2 
@@ -375,7 +375,7 @@
 一往无前  :    yi1 wang3 wu2 qian2 
 一往直前  :    yi1 wang3 zhi2 qian2 
 一径  :    yi1 jing4 
-一律  :    yi1 lu:4 
+一律  :    yi1 lv4 
 一心  :    yi1 xin1 
 一心一德  :    yi1 xin1 yi1 de2 
 一心一意  :    yi1 xin1 yi1 yi4 
@@ -807,7 +807,7 @@
 七年之痒  :    qi1 nian2 zhi1 yang3 
 七弦琴  :    qi1 xian2 qin2 
 七彩  :    qi1 cai3 
-七律  :    qi1 lu:4 
+七律  :    qi1 lv4 
 七情  :    qi1 qing2 
 七扭八歪  :    qi1 niu3 ba1 wai1 
 七拼八凑  :    qi1 pin1 ba1 cou4 
@@ -835,7 +835,7 @@
 七股乡  :    qi1 gu3 xiang1 
 七荤八素  :    qi1 hun1 ba1 su4 
 七角形  :    qi1 jiao3 xing2 
-七言律诗  :    qi1 yan2 lu:4 shi1 
+七言律诗  :    qi1 yan2 lv4 shi1 
 七边形  :    qi1 bian1 xing2 
 七里河  :    qi1 li3 he2 
 七里河区  :    qi1 li3 he2 qu1 
@@ -1016,8 +1016,8 @@
 三两  :    san1 liang3 
 三个世界  :    san1 ge4 shi4 jie4 
 三个代表  :    san1 ge4 dai4 biao3 
-三个女人一个墟  :    san1 ge4 nu:3 ren2 yi1 ge4 xu1 
-三个女人一台戏  :    san1 ge5 nu:3 ren2 yi1 tai2 xi4 
+三个女人一个墟  :    san1 ge4 nv3 ren2 yi1 ge4 xu1 
+三个女人一台戏  :    san1 ge5 nv3 ren2 yi1 tai2 xi4 
 三个臭皮匠，合成一个诸葛亮  :    san1 ge4 chou4 pi2 jiang5 , he2 cheng2 yi1 ge4 zhu1 ge3 liang4 
 三个臭皮匠，胜过一个诸葛亮  :    san1 ge4 chou4 pi2 jiang5 , sheng4 guo4 yi1 ge4 zhu1 ge3 liang4 
 三个臭皮匠，赛过一个诸葛亮  :    san1 ge4 chou4 pi2 jiang5 , sai4 guo4 yi1 ge4 zhu1 ge3 liang4 
@@ -1105,7 +1105,7 @@
 三国演义  :    san1 guo2 yan3 yi4 
 三地门  :    san1 di4 men2 
 三地门乡  :    san1 di4 men2 xiang1 
-三大纪律八项注意  :    san1 da4 ji4 lu:4 ba1 xiang4 zhu4 yi4 
+三大纪律八项注意  :    san1 da4 ji4 lv4 ba1 xiang4 zhu4 yi4 
 三天不打，上房揭瓦  :    san1 tian1 bu4 da3 , shang4 fang2 jie1 wa3 
 三天两头  :    san1 tian1 liang3 tou2 
 三天打鱼，两天晒网  :    san1 tian1 da3 yu2 , liang3 tian1 shai4 wang3 
@@ -1182,13 +1182,13 @@
 三民乡  :    san1 min2 xiang1 
 三民区  :    san1 min2 qu1 
 三氟化硼  :    san1 fu2 hua4 peng2 
-三氯化磷  :    san1 lu:4 hua4 lin2 
-三氯化铁  :    san1 lu:4 hua4 tie3 
-三氯已烯  :    san1 lu:4 yi3 xi1 
-三氯已烷  :    san1 lu:4 yi3 wan2 
-三氯氧磷  :    san1 lu:4 yang3 lin2 
-三氯氰胺  :    san1 lu:4 qing2 an4 
-三氯甲烷  :    san1 lu:4 jia3 wan2 
+三氯化磷  :    san1 lv4 hua4 lin2 
+三氯化铁  :    san1 lv4 hua4 tie3 
+三氯已烯  :    san1 lv4 yi3 xi1 
+三氯已烷  :    san1 lv4 yi3 wan2 
+三氯氧磷  :    san1 lv4 yang3 lin2 
+三氯氰胺  :    san1 lv4 qing2 an4 
+三氯甲烷  :    san1 lv4 jia3 wan2 
 三水  :    san1 shui3 
 三水区  :    san1 shui3 qu1 
 三水县  :    san1 shui3 xian4 
@@ -1196,7 +1196,7 @@
 三江平原  :    san1 jiang1 ping2 yuan2 
 三江并流  :    san1 jiang1 bing4 liu2 
 三江源  :    san1 jiang1 yuan2 
-三江生态旅游区  :    san1 jiang1 sheng1 tai4 lu:3 you2 qu1 
+三江生态旅游区  :    san1 jiang1 sheng1 tai4 lv3 you2 qu1 
 三河  :    san1 he2 
 三河县  :    san1 he2 xian4 
 三河市  :    san1 he2 shi4 
@@ -1214,7 +1214,7 @@
 三生有幸  :    san1 sheng1 you3 xing4 
 三用表  :    san1 yong4 biao3 
 三田  :    san1 tian2 
-三略  :    san1 lu:e4 
+三略  :    san1 lve4 
 三番五次  :    san1 fan1 wu3 ci4 
 三百六十行  :    san1 bai3 liu4 shi2 hang2 
 三皇  :    san1 huang2 
@@ -2407,7 +2407,7 @@
 不绝  :    bu4 jue2 
 不绝于耳  :    bu4 jue2 yu2 er3 
 不绝于途  :    bu4 jue2 yu2 tu2 
-不绝如缕  :    bu4 jue2 ru2 lu:3 
+不绝如缕  :    bu4 jue2 ru2 lv3 
 不置可否  :    bu4 zhi4 ke3 fou3 
 不羁  :    bu4 ji1 
 不翼而飞  :    bu4 yi4 er2 fei1 
@@ -2518,7 +2518,7 @@
 不足  :    bu4 zu2 
 不足为外人道  :    bu4 zu2 wei2 wai4 ren2 dao4 
 不足为奇  :    bu4 zu2 wei2 qi2 
-不足为虑  :    bu4 zu2 wei2 lu:4 
+不足为虑  :    bu4 zu2 wei2 lv4 
 不足为训  :    bu4 zu2 wei2 xun4 
 不足为道  :    bu4 zu2 wei2 dao4 
 不足挂齿  :    bu4 zu2 gua4 chi3 
@@ -2781,7 +2781,7 @@
 世界文化遗产  :    shi4 jie4 wen2 hua4 yi2 chan3 
 世界文化遗产地  :    shi4 jie4 wen2 hua4 yi2 chan3 di4 
 世界日报  :    shi4 jie4 ri4 bao4 
-世界旅游组织  :    shi4 jie4 lu:3 you2 zu3 zhi1 
+世界旅游组织  :    shi4 jie4 lv3 you2 zu3 zhi1 
 世界末日  :    shi4 jie4 mo4 ri4 
 世界杯  :    shi4 jie4 bei1 
 世界气象组织  :    shi4 jie4 qi4 xiang4 zu3 zhi1 
@@ -3167,7 +3167,7 @@
 丝绸之路  :    si1 chou2 zhi1 lu4 
 丝绸古路  :    si1 chou2 gu3 lu4 
 丝绸织物  :    si1 chou2 zhi1 wu4 
-丝缕  :    si1 lu:3 
+丝缕  :    si1 lv3 
 丝网  :    si1 wang3 
 丝袜  :    si1 wa4 
 丝足  :    si1 zu2 
@@ -3298,8 +3298,8 @@
 严  :    yan2 
 严严实实  :    yan2 yan2 shi2 shi2 
 严了眼儿  :    yan2 le5 yan3 r5 
-严于律己  :    yan2 yu2 lu:4 ji3 
-严以律己  :    yan3 yi3 lu:4 ji3 
+严于律己  :    yan2 yu2 lv4 ji3 
+严以律己  :    yan3 yi3 lv4 ji3 
 严以责己宽以待人  :    yan2 yi3 ze2 ji3 kuan1 yi3 dai4 ren2 
 严冬  :    yan2 dong1 
 严刑  :    yan2 xing2 
@@ -3481,7 +3481,7 @@
 中华人民共和国  :    zhong1 hua2 ren2 min2 gong4 he2 guo2 
 中华台北  :    zhong1 hua2 tai2 bei3 
 中华全国体育总会  :    zhong1 hua2 quan2 guo2 ti3 yu4 zong3 hui4 
-中华全国妇女联合会  :    zhong1 hua2 quan2 guo2 fu4 nu:3 lian2 he2 hui4 
+中华全国妇女联合会  :    zhong1 hua2 quan2 guo2 fu4 nv3 lian2 he2 hui4 
 中华全国总工会  :    zhong1 hua2 quan2 guo2 zong3 gong1 hui4 
 中华字海  :    zhong1 hua2 zi4 hai3 
 中华民国  :    zhong1 hua2 min2 guo2 
@@ -3568,7 +3568,7 @@
 中国大蝾螈  :    zhong1 guo2 da4 rong2 yuan2 
 中国天主教爱国会  :    zhong1 guo2 tian1 zhu3 jiao4 ai4 guo2 hui4 
 中国好声音  :    zhong1 guo2 hao3 sheng1 yin1 
-中国小说史略  :    zhong1 guo2 xiao3 shuo1 shi3 lu:e4 
+中国小说史略  :    zhong1 guo2 xiao3 shuo1 shi3 lve4 
 中国少年先锋队  :    zhong1 guo2 shao3 nian2 xian1 feng1 dui4 
 中国共产主义青年团  :    zhong1 guo2 gong4 chan3 zhu3 yi4 qing1 nian2 tuan2 
 中国共产党  :    zhong1 guo2 gong4 chan3 dang3 
@@ -3726,7 +3726,7 @@
 中共中央办公厅  :    zhong1 gong4 zhong1 yang1 ban4 gong1 ting1 
 中共中央宣传部  :    zhong1 gong4 zhong1 yang1 xuan1 chuan2 bu4 
 中共中央纪委监察部  :    zhong1 gong4 zhong1 yang1 ji4 wei3 jian1 cha2 bu4 
-中共中央纪律检查委员会  :    zhong1 gong4 zhong1 yang1 ji4 lu:4 jian3 cha2 wei3 yuan2 hui4 
+中共中央纪律检查委员会  :    zhong1 gong4 zhong1 yang1 ji4 lv4 jian3 cha2 wei3 yuan2 hui4 
 中共中央组织部  :    zhong1 gong4 zhong1 yang1 zu3 zhi1 bu4 
 中共九大  :    zhong1 gong4 jiu3 da4 
 中岛  :    zhong1 dao3 
@@ -3781,7 +3781,7 @@
 中日韩越  :    zhong1 ri4 han2 yue4 
 中旬  :    zhong1 xun2 
 中时  :    zhong1 shi2 
-中旅社  :    zhong1 lu:3 she4 
+中旅社  :    zhong1 lv3 she4 
 中暑  :    zhong4 shu3 
 中朝  :    zhong1 chao2 
 中期  :    zhong1 qi1 
@@ -4308,7 +4308,7 @@
 主攻  :    zhu3 gong1 
 主教  :    zhu3 jiao4 
 主料  :    zhu3 liao4 
-主旋律  :    zhu3 xuan2 lu:4 
+主旋律  :    zhu3 xuan2 lv4 
 主族  :    zhu3 zu2 
 主日  :    zhu3 ri4 
 主日学  :    zhu3 ri4 xue2 
@@ -4473,7 +4473,7 @@
 义和拳  :    yi4 he2 quan2 
 义士  :    yi4 shi4 
 义大利  :    yi4 da4 li4 
-义女  :    yi4 nu:3 
+义女  :    yi4 nv3 
 义学  :    yi4 xue2 
 义工  :    yi4 gong1 
 义怒  :    yi4 nu4 
@@ -4697,7 +4697,7 @@
 乐府  :    yue4 fu3 
 乐府诗集  :    yue4 fu3 shi1 ji2 
 乐开花  :    le4 kai1 hua1 
-乐律  :    yue4 lu:4 
+乐律  :    yue4 lv4 
 乐意  :    le4 yi4 
 乐手  :    yue4 shou3 
 乐捐  :    le4 juan1 
@@ -4885,7 +4885,7 @@
 九号球  :    jiu3 hao4 qiu2 
 九声六调  :    jiu3 sheng1 liu4 diao4 
 九天  :    jiu3 tian1 
-九天玄女  :    jiu3 tian1 xuan2 nu:3 
+九天玄女  :    jiu3 tian1 xuan2 nv3 
 九头鸟  :    jiu3 tou2 niao3 
 九如  :    jiu3 ru2 
 九如乡  :    jiu3 ru2 xiang1 
@@ -5133,7 +5133,7 @@
 乱抓  :    luan4 zhua1 
 乱掉  :    luan4 diao4 
 乱搞  :    luan4 gao3 
-乱搞男女关系  :    luan4 gao3 nan2 nu:3 guan1 xi4 
+乱搞男女关系  :    luan4 gao3 nan2 nv3 guan1 xi4 
 乱政  :    luan4 zheng4 
 乱民  :    luan4 min2 
 乱码  :    luan4 ma3 
@@ -5368,9 +5368,9 @@
 事先通知  :    shi4 xian1 tong1 zhi1 
 事前  :    shi4 qian2 
 事务  :    shi4 wu4 
-事务律师  :    shi4 wu4 lu:4 shi1 
+事务律师  :    shi4 wu4 lv4 shi1 
 事务所  :    shi4 wu4 suo3 
-事务所律师  :    shi4 wu4 suo3 lu:4 shi1 
+事务所律师  :    shi4 wu4 suo3 lv4 shi1 
 事务繁忙  :    shi4 wu4 fan2 mang2 
 事势  :    shi4 shi4 
 事半功倍  :    shi4 ban4 gong1 bei4 
@@ -5409,7 +5409,7 @@
 事理  :    shi4 li3 
 事由  :    shi4 you2 
 事界  :    shi4 jie4 
-事略  :    shi4 lu:e4 
+事略  :    shi4 lve4 
 事端  :    shi4 duan1 
 事证  :    shi4 zheng4 
 事过境迁  :    shi4 guo4 jing4 qian1 
@@ -5524,11 +5524,11 @@
 二氧化锰  :    er4 yang3 hua4 meng3 
 二氧杂芑  :    er4 yang3 za2 qi3 
 二氧芑  :    er4 yang3 qi3 
-二氯乙烷中毒  :    er4 lu:4 yi3 wan2 zhong1 du2 
-二氯异三聚氰酸钠  :    er4 lu:4 yi4 san1 ju4 qing2 suan1 na4 
-二氯甲烷  :    er4 lu:4 jia3 wan2 
-二氯胺  :    er4 lu:4 an4 
-二氯苯胺苯乙酸钠  :    er4 lu:4 ben3 an4 ben3 yi3 suan1 na4 
+二氯乙烷中毒  :    er4 lv4 yi3 wan2 zhong1 du2 
+二氯异三聚氰酸钠  :    er4 lv4 yi4 san1 ju4 qing2 suan1 na4 
+二氯甲烷  :    er4 lv4 jia3 wan2 
+二氯胺  :    er4 lv4 an4 
+二氯苯胺苯乙酸钠  :    er4 lv4 ben3 an4 ben3 yi3 suan1 na4 
 二水  :    er4 shui3 
 二水乡  :    er4 shui3 xiang1 
 二水货  :    er4 shui3 huo4 
@@ -5563,7 +5563,7 @@
 二胎  :    er4 tai1 
 二胡  :    er4 hu2 
 二节棍  :    er4 jie2 gun4 
-二苯氯胂  :    er4 ben3 lu:4 shen4 
+二苯氯胂  :    er4 ben3 lv4 shen4 
 二茬罪  :    er4 cha2 zui4 
 二话  :    er4 hua4 
 二话不说  :    er4 hua4 bu4 shuo1 
@@ -6163,7 +6163,7 @@
 交换以太网络  :    jiao1 huan4 yi3 tai4 wang3 luo4 
 交换价值  :    jiao1 huan4 jia4 zhi2 
 交换器  :    jiao1 huan4 qi4 
-交换律  :    jiao1 huan4 lu:4 
+交换律  :    jiao1 huan4 lv4 
 交换技术  :    jiao1 huan4 ji4 shu4 
 交换机  :    jiao1 huan4 ji1 
 交换码  :    jiao1 huan4 ma3 
@@ -6444,7 +6444,7 @@
 亲爸  :    qin1 ba4 
 亲王  :    qin1 wang2 
 亲生  :    qin1 sheng1 
-亲生子女  :    qin1 sheng1 zi3 nu:3 
+亲生子女  :    qin1 sheng1 zi3 nv3 
 亲生骨肉  :    qin1 sheng1 gu3 rou4 
 亲疏  :    qin1 shu1 
 亲疏贵贱  :    qin1 shu1 gui4 jian4 
@@ -6616,7 +6616,7 @@
 人文社科  :    ren2 wen2 she4 ke1 
 人族  :    ren2 zu2 
 人无完人  :    ren2 wu2 wan2 ren2 
-人无远虑，必有近忧  :    ren2 wu2 yuan3 lu:4 , bi4 you3 jin4 you1 
+人无远虑，必有近忧  :    ren2 wu2 yuan3 lv4 , bi4 you3 jin4 you1 
 人是铁饭是钢  :    ren2 shi4 tie3 fan4 shi4 gang1 
 人有三急  :    ren2 you3 san1 ji2 
 人有失手，马有失蹄  :    ren2 you3 shi1 shou3 , ma3 you3 shi1 ti2 
@@ -6995,7 +6995,7 @@
 仔细  :    zi3 xi4 
 仔肩  :    zi1 jian1 
 仕  :    shi4 
-仕女  :    shi4 nu:3 
+仕女  :    shi4 nv3 
 仕宦  :    shi4 huan4 
 仕途  :    shi4 tu2 
 他  :    ta1 
@@ -7057,13 +7057,13 @@
 仙台  :    xian1 tai2 
 仙后座  :    xian1 hou4 zuo4 
 仙境  :    xian1 jing4 
-仙女  :    xian1 nu:3 
-仙女座  :    xian1 nu:3 zuo4 
-仙女座大星云  :    xian1 nu:3 zuo4 da4 xing1 yun2 
-仙女座星系  :    xian1 nu:3 zuo4 xing1 xi4 
-仙女星座  :    xian1 nu:3 xing1 zuo4 
-仙女星系  :    xian1 nu:3 xing1 xi4 
-仙女棒  :    xian1 nu:3 bang4 
+仙女  :    xian1 nv3 
+仙女座  :    xian1 nv3 zuo4 
+仙女座大星云  :    xian1 nv3 zuo4 da4 xing1 yun2 
+仙女座星系  :    xian1 nv3 zuo4 xing1 xi4 
+仙女星座  :    xian1 nv3 xing1 zuo4 
+仙女星系  :    xian1 nv3 xing1 xi4 
+仙女棒  :    xian1 nv3 bang4 
 仙姑  :    xian1 gu1 
 仙姿玉色  :    xian1 zi1 yu4 se4 
 仙子  :    xian1 zi3 
@@ -7265,7 +7265,7 @@
 以弱胜强  :    yi3 ruo4 sheng4 qiang2 
 以强凌弱  :    yi3 qiang2 ling2 ruo4 
 以往  :    yi3 wang3 
-以律  :    yi3 lu:4 
+以律  :    yi3 lv4 
 以德报怨  :    yi3 de2 bao4 yuan4 
 以慎为键  :    yi3 shen4 wei2 jian4 
 以撒  :    yi3 sa3 
@@ -7687,7 +7687,7 @@
 休整  :    xiu1 zheng3 
 休斯敦  :    xiu1 si1 dun1 
 休斯顿  :    xiu1 si1 dun4 
-休旅车  :    xiu1 lu:3 che1 
+休旅车  :    xiu1 lv3 che1 
 休止  :    xiu1 zhi3 
 休止符  :    xiu1 zhi3 fu2 
 休眠火山  :    xiu1 mian2 huo3 shan1 
@@ -8015,8 +8015,8 @@
 伱  :    ni3 
 伲  :    ni3 
 伴  :    ban4 
-伴侣  :    ban4 lu:3 
-伴侣号  :    ban4 lu:3 hao4 
+伴侣  :    ban4 lv3 
+伴侣号  :    ban4 lv3 hao4 
 伴同  :    ban4 tong2 
 伴君如伴虎  :    ban4 jun1 ru2 ban4 hu3 
 伴唱  :    ban4 chang4 
@@ -8079,9 +8079,9 @@
 伽  :    jia1 
 伽倻  :    jia1 ye1 
 伽倻琴  :    jia1 ye1 qin2 
-伽利略  :    jia1 li4 lu:e4 
-伽利略・伽利雷  :    jia1 li4 lu:e4 · jia1 li4 lei2 
-伽利略探测器  :    jia1 li4 lu:e4 tan4 ce4 qi4 
+伽利略  :    jia1 li4 lve4 
+伽利略・伽利雷  :    jia1 li4 lve4 · jia1 li4 lei2 
+伽利略探测器  :    jia1 li4 lve4 tan4 ce4 qi4 
 伽师  :    jia1 shi1 
 伽师县  :    jia1 shi1 xian4 
 伽罗华  :    jia1 luo2 hua4 
@@ -8169,7 +8169,7 @@
 传热  :    chuan2 re4 
 传热学  :    zhuan4 re4 xue2 
 传球  :    chuan2 qiu2 
-传略  :    zhuan4 lu:e4 
+传略  :    zhuan4 lve4 
 传真  :    chuan2 zhen1 
 传真发送  :    chuan2 zhen1 fa1 song4 
 传真号码  :    chuan2 zhen1 hao4 ma3 
@@ -8211,12 +8211,12 @@
 传输控制协定  :    chuan2 shu1 kong4 zhi4 xie2 ding4 
 传输服务  :    chuan2 shu1 fu2 wu4 
 传输模式  :    chuan2 shu1 mo2 shi4 
-传输率  :    chuan2 shu1 lu:4 
+传输率  :    chuan2 shu1 lv4 
 传输线  :    chuan2 shu1 xian4 
 传输设备  :    chuan2 shu1 she4 bei4 
 传输距离  :    chuan2 shu1 ju4 li2 
 传输通道  :    chuan2 shu1 tong1 dao4 
-传输速率  :    chuan2 shu1 su4 lu:4 
+传输速率  :    chuan2 shu1 su4 lv4 
 传达  :    chuan2 da2 
 传达员  :    chuan2 da2 yuan2 
 传达室  :    chuan2 da2 shi4 
@@ -8345,7 +8345,7 @@
 低迷  :    di1 mi2 
 低速层  :    di1 su4 ceng2 
 低速挡  :    di1 su4 dang3 
-低速率  :    di1 su4 lu:4 
+低速率  :    di1 su4 lv4 
 低阶  :    di1 jie1 
 低阶语言  :    di1 jie1 yu3 yan2 
 低陷  :    di1 xian4 
@@ -8890,12 +8890,12 @@
 侃星  :    kan3 xing1 
 侃爷  :    kan3 ye2 
 侄  :    zhi2 
-侄女  :    zhi2 nu:3 
-侄女婿  :    zhi2 nu:3 xu5 
+侄女  :    zhi2 nv3 
+侄女婿  :    zhi2 nv3 xu5 
 侄媳妇  :    zhi2 xi2 fu5 
 侄子  :    zhi2 zi5 
 侄孙  :    zhi2 sun1 
-侄孙女  :    zhi2 sun1 nu:3 
+侄孙女  :    zhi2 sun1 nv3 
 侇  :    yi2 
 侈  :    chi3 
 侈糜  :    chi3 mi2 
@@ -8925,7 +8925,7 @@
 侍卫  :    shi4 wei4 
 侍卫官  :    shi4 wei4 guan1 
 侍奉  :    shi4 feng4 
-侍女  :    shi4 nu:3 
+侍女  :    shi4 nv3 
 侍妾  :    shi4 qie4 
 侍弄  :    shi4 nong4 
 侍立  :    shi4 li4 
@@ -9027,7 +9027,7 @@
 依顺  :    yi1 shun4 
 価  :    jia4 
 侢  :    dai4 
-侣  :    lu:3 
+侣  :    lv3 
 侥  :    jiao3 
 侥幸  :    jiao3 xing4 
 侥幸心理  :    jiao3 xing4 xin1 li3 
@@ -9108,9 +9108,9 @@
 侵权  :    qin1 quan2 
 侵权行为  :    qin1 quan2 xing2 wei2 
 侵犯  :    qin1 fan4 
-侵略  :    qin1 lu:e4 
-侵略军  :    qin1 lu:e4 jun1 
-侵略者  :    qin1 lu:e4 zhe3 
+侵略  :    qin1 lve4 
+侵略军  :    qin1 lve4 jun1 
+侵略者  :    qin1 lve4 zhe3 
 侵蚀  :    qin1 shi2 
 侵蚀作用  :    qin1 shi2 zuo4 yong4 
 侵袭  :    qin1 xi2 
@@ -9160,7 +9160,7 @@
 便装  :    bian4 zhuang1 
 便览  :    bian4 lan3 
 便车  :    bian4 che1 
-便车旅行者  :    bian4 che1 lu:3 xing2 zhe3 
+便车旅行者  :    bian4 che1 lv3 xing2 zhe3 
 便道  :    bian4 dao4 
 便酌  :    bian4 zhuo2 
 便门  :    bian4 men2 
@@ -9380,7 +9380,7 @@
 保角对应  :    bao3 jiao3 dui4 ying4 
 保证  :    bao3 zheng4 
 保证人  :    bao3 zheng4 ren2 
-保证破坏战略  :    bao3 zheng4 po4 huai4 zhan4 lu:e4 
+保证破坏战略  :    bao3 zheng4 po4 huai4 zhan4 lve4 
 保证金  :    bao3 zheng4 jin1 
 保语  :    bao3 yu3 
 保质期  :    bao3 zhi4 qi1 
@@ -9554,7 +9554,7 @@
 修图  :    xiu1 tu2 
 修士  :    xiu1 shi4 
 修复  :    xiu1 fu4 
-修女  :    xiu1 nu:3 
+修女  :    xiu1 nv3 
 修好  :    xiu1 hao3 
 修养  :    xiu1 yang3 
 修建  :    xiu1 jian4 
@@ -10145,7 +10145,7 @@
 偏微分  :    pian1 wei1 fen1 
 偏微分方程  :    pian1 wei1 fen1 fang1 cheng2 
 偏心  :    pian1 xin1 
-偏心率  :    pian1 xin1 lu:4 
+偏心率  :    pian1 xin1 lv4 
 偏心眼  :    pian1 xin1 yan3 
 偏心矩  :    pian1 xin1 ju3 
 偏态  :    pian1 tai4 
@@ -10163,7 +10163,7 @@
 偏旁  :    pian1 pang2 
 偏极  :    pian1 ji2 
 偏极化  :    pian1 ji2 hua4 
-偏极滤光镜  :    pian1 ji2 lu:4 guang1 jing4 
+偏极滤光镜  :    pian1 ji2 lv4 guang1 jing4 
 偏极镜  :    pian1 ji2 jing4 
 偏析  :    pian1 xi1 
 偏正式合成词  :    pian1 zheng4 shi4 he2 cheng2 ci2 
@@ -10500,7 +10500,7 @@
 储蓄  :    chu3 xu4 
 储蓄卡  :    chu3 xu4 ka3 
 储蓄帐户  :    chu3 xu4 zhang4 hu4 
-储蓄率  :    chu3 xu4 lu:4 
+储蓄率  :    chu3 xu4 lv4 
 储藏  :    chu3 cang2 
 储藏室  :    chu3 cang2 shi4 
 储量  :    chu3 liang4 
@@ -10628,7 +10628,7 @@
 僧  :    seng1 
 僧人  :    seng1 ren2 
 僧伽  :    seng1 qie2 
-僧侣  :    seng1 lu:3 
+僧侣  :    seng1 lv3 
 僧俗  :    seng1 su2 
 僧加罗语  :    seng1 jia1 luo2 yu3 
 僧多粥少  :    seng1 duo1 zhou1 shao3 
@@ -10760,7 +10760,7 @@
 儒教  :    ru2 jiao4 
 儒林外史  :    ru2 lin2 wai4 shi3 
 儒生  :    ru2 sheng1 
-儒略日  :    ru2 lu:e4 ri4 
+儒略日  :    ru2 lve4 ri4 
 儒者  :    ru2 zhe3 
 儒雅  :    ru2 ya3 
 儓  :    tai2 
@@ -10778,8 +10778,8 @@
 儿  :    er2 
 儿化  :    er2 hua4 
 儿化韵  :    er2 hua4 yun4 
-儿女  :    er2 nu:3 
-儿女英雄传  :    er2 nu:3 ying1 xiong2 zhuan4 
+儿女  :    er2 nv3 
+儿女英雄传  :    er2 nv3 ying1 xiong2 zhuan4 
 儿媳  :    er2 xi2 
 儿媳妇  :    er2 xi2 fu5 
 儿媳妇儿  :    er2 xi2 fu5 r5 
@@ -11048,7 +11048,7 @@
 军政  :    jun1 zheng4 
 军政府  :    jun1 zheng4 fu3 
 军方  :    jun1 fang1 
-军旅  :    jun1 lu:3 
+军旅  :    jun1 lv3 
 军曹鱼  :    jun1 cao2 yu2 
 军机  :    jun1 ji1 
 军机处  :    jun1 ji1 chu4 
@@ -11064,7 +11064,7 @@
 军火库  :    jun1 huo3 ku4 
 军用  :    jun1 yong4 
 军粮  :    jun1 liang2 
-军绿  :    jun1 lu:4 
+军绿  :    jun1 lv4 
 军舰  :    jun1 jian4 
 军营  :    jun1 ying2 
 军衔  :    jun1 xian2 
@@ -11838,7 +11838,7 @@
 凌源市  :    ling2 yuan2 shi4 
 凌空  :    ling2 kong1 
 凌蒙初  :    ling2 meng2 chu1 
-凌虐  :    ling2 nu:e4 
+凌虐  :    ling2 nve4 
 凌辱  :    ling2 ru3 
 凌迟  :    ling2 chi2 
 凌霄花  :    ling2 xiao1 hua1 
@@ -12302,7 +12302,7 @@
 出生地点  :    chu1 sheng1 di4 dian3 
 出生入死  :    chu1 sheng1 ru4 si3 
 出生日期  :    chu1 sheng1 ri4 qi1 
-出生率  :    chu1 sheng1 lu:4 
+出生率  :    chu1 sheng1 lv4 
 出生缺陷  :    chu1 sheng1 que1 xian4 
 出生证  :    chu1 sheng1 zheng4 
 出生证明  :    chu1 sheng1 zheng4 ming2 
@@ -12470,7 +12470,7 @@
 几样  :    ji3 yang4 
 几点  :    ji3 dian3 
 几点了  :    ji3 dian3 le5 
-几率  :    ji1 lu:4 
+几率  :    ji1 lv4 
 几百  :    ji3 bai3 
 几米  :    ji1 mi3 
 几经  :    ji3 jing1 
@@ -12612,7 +12612,7 @@
 分散  :    fen1 san4 
 分散式  :    fen1 san4 shi4 
 分散注意  :    fen1 san4 zhu4 yi4 
-分散的策略  :    fen1 san4 de5 ce4 lu:e4 
+分散的策略  :    fen1 san4 de5 ce4 lve4 
 分数  :    fen1 shu4 
 分数挂帅  :    fen1 shu4 gua4 shuai4 
 分文  :    fen1 wen2 
@@ -12717,7 +12717,7 @@
 分赃  :    fen1 zang1 
 分身  :    fen1 shen1 
 分辨  :    fen1 bian4 
-分辨率  :    fen1 bian4 lu:4 
+分辨率  :    fen1 bian4 lv4 
 分辩  :    fen1 bian4 
 分送  :    fen1 song4 
 分道扬镳  :    fen1 dao4 yang2 biao1 
@@ -12726,7 +12726,7 @@
 分量  :    fen1 liang4 
 分配  :    fen1 pei4 
 分配器  :    fen1 pei4 qi4 
-分配律  :    fen1 pei4 lu:4 
+分配律  :    fen1 pei4 lv4 
 分针  :    fen1 zhen1 
 分钟  :    fen1 zhong1 
 分钱  :    fen1 qian2 
@@ -12855,7 +12855,7 @@
 刑天  :    xing2 tian1 
 刑具  :    xing2 ju4 
 刑庭  :    xing2 ting2 
-刑律  :    xing2 lu:4 
+刑律  :    xing2 lv4 
 刑戮  :    xing2 lu4 
 刑房  :    xing2 fang2 
 刑拘  :    xing2 ju1 
@@ -13212,7 +13212,7 @@
 利得  :    li4 de2 
 利得税  :    li4 de2 shui4 
 利息  :    li4 xi1 
-利息率  :    li4 xi5 lu:4 
+利息率  :    li4 xi5 lv4 
 利手  :    li4 shou3 
 利是  :    li4 shi4 
 利未记  :    li4 wei4 ji4 
@@ -13225,10 +13225,10 @@
 利津  :    li4 jin1 
 利津县  :    li4 jin1 xian4 
 利润  :    li4 run4 
-利润率  :    li4 run4 lu:4 
+利润率  :    li4 run4 lv4 
 利爪  :    li4 zhao3 
 利物浦  :    li4 wu4 pu3 
-利率  :    li4 lu:4 
+利率  :    li4 lv4 
 利玛窦  :    li4 ma3 dou4 
 利用  :    li4 yong4 
 利用人工吹气  :    li4 yong4 ren2 gong1 chui1 qi4 
@@ -13333,7 +13333,7 @@
 到时  :    dao4 shi2 
 到时候  :    dao4 shi2 hou4 
 到期  :    dao4 qi1 
-到期收益率  :    dao4 qi1 shou1 yi4 lu:4 
+到期收益率  :    dao4 qi1 shou1 yi4 lv4 
 到期日  :    dao4 qi1 ri4 
 到来  :    dao4 lai2 
 到案  :    dao4 an4 
@@ -13619,7 +13619,7 @@
 削籍  :    xue1 ji2 
 削职  :    xue1 zhi2 
 削职为民  :    xue1 zhi2 wei2 min2 
-削足适履  :    xue1 zu2 shi4 lu:3 
+削足适履  :    xue1 zu2 shi4 lv3 
 削铅笔机  :    xiao1 qian1 bi3 ji1 
 削除  :    xue1 chu2 
 剌  :    la2 
@@ -13700,7 +13700,7 @@
 前所未有的  :    qian2 suo3 wei4 you3 de5 
 前所未见  :    qian2 suo3 wei4 jian4 
 前所未闻  :    qian2 suo3 wei4 wen2 
-前掠翼  :    qian2 lu:e4 yi4 
+前掠翼  :    qian2 lve4 yi4 
 前提  :    qian2 ti2 
 前提条件  :    qian2 ti2 tiao2 jian4 
 前揭  :    qian2 jie1 
@@ -13885,7 +13885,7 @@
 剩余定理  :    sheng4 yu2 ding4 li3 
 剩余放射性  :    sheng4 yu2 fang4 she4 xing4 
 剩余辐射  :    sheng4 yu2 fu2 she4 
-剩女  :    sheng4 nu:3 
+剩女  :    sheng4 nv3 
 剩磁  :    sheng4 ci2 
 剩菜  :    sheng4 cai4 
 剩钱  :    sheng4 qian2 
@@ -14006,7 +14006,7 @@
 光刻胶  :    guang1 ke4 jiao1 
 光光  :    guang1 guang1 
 光前裕后  :    guang1 qian2 yu4 hou4 
-光功率  :    guang1 gong1 lu:4 
+光功率  :    guang1 gong1 lv4 
 光动嘴  :    guang1 dong4 zui3 
 光化作用  :    guang1 hua4 zuo4 yong4 
 光化学  :    guang1 hua4 xue2 
@@ -14280,9 +14280,9 @@
 功成名就  :    gong1 cheng2 ming2 jiu4 
 功效  :    gong1 xiao4 
 功烈  :    gong1 lie4 
-功率  :    gong1 lu:4 
-功率恶化  :    gong1 lu:4 e4 hua4 
-功率输出  :    gong1 lu:4 shu1 chu1 
+功率  :    gong1 lv4 
+功率恶化  :    gong1 lv4 e4 hua4 
+功率输出  :    gong1 lv4 shu1 chu1 
 功用  :    gong1 yong4 
 功绩  :    gong1 ji4 
 功罪  :    gong1 zui4 
@@ -14437,7 +14437,7 @@
 助熔剂  :    zhu4 rong2 ji4 
 助理  :    zhu4 li3 
 助益  :    zhu4 yi4 
-助纣为虐  :    zhu4 zhou4 wei2 nu:e4 
+助纣为虐  :    zhu4 zhou4 wei2 nve4 
 助记方法  :    zhu4 ji4 fang1 fa3 
 助记符  :    zhu4 ji4 fu2 
 助词  :    zhu4 ci2 
@@ -14469,7 +14469,7 @@
 劫寨  :    jie2 zhai4 
 劫持  :    jie2 chi2 
 劫持者  :    jie2 chi2 zhe3 
-劫掠  :    jie2 lu:e4 
+劫掠  :    jie2 lve4 
 劫数  :    jie2 shu4 
 劫数难逃  :    jie2 shu4 nan2 tao2 
 劫机  :    jie2 ji1 
@@ -14500,7 +14500,7 @@
 劲拔  :    jing4 ba2 
 劲挺  :    jing4 ting3 
 劲敌  :    jing4 di2 
-劲旅  :    jing4 lu:3 
+劲旅  :    jing4 lv3 
 劲烈  :    jing4 lie4 
 劲直  :    jing4 zhi2 
 劲草  :    jing4 cao3 
@@ -14657,7 +14657,7 @@
 加工  :    jia1 gong1 
 加工厂  :    jia1 gong1 chang3 
 加工成本  :    jia1 gong1 cheng2 ben3 
-加工效率  :    jia1 gong1 xiao4 lu:4 
+加工效率  :    jia1 gong1 xiao4 lv4 
 加工时序  :    jia1 gong1 shi2 xu4 
 加工贸易  :    jia1 gong1 mao4 yi4 
 加兹尼  :    jia1 zi1 ni2 
@@ -14794,7 +14794,7 @@
 勇武  :    yong3 wu3 
 勇气  :    yong3 qi4 
 勇猛  :    yong3 meng3 
-勇略  :    yong3 lu:e4 
+勇略  :    yong3 lve4 
 勈  :    yong3 
 勉  :    mian3 
 勉力  :    mian3 li4 
@@ -15493,7 +15493,7 @@
 包产  :    bao1 chan3 
 包产到户  :    bao1 chan3 dao4 hu4 
 包产到户制  :    bao1 chan3 dao4 hu4 zhi4 
-包价旅游  :    bao1 jia4 lu:3 you2 
+包价旅游  :    bao1 jia4 lv3 you2 
 包伙  :    bao1 huo3 
 包住  :    bao1 zhu4 
 包剪锤  :    bao1 jian3 chui2 
@@ -15621,7 +15621,7 @@
 十二分  :    shi2 er4 fen1 
 十二地支  :    shi2 er4 di4 zhi1 
 十二宫  :    shi2 er4 gong1 
-十二平均律  :    shi2 er4 ping2 jun1 lu:4 
+十二平均律  :    shi2 er4 ping2 jun1 lv4 
 十二指肠  :    shi2 er4 zhi3 chang2 
 十二支  :    shi2 er4 zhi1 
 十二时辰  :    shi2 er4 shi2 chen5 
@@ -15705,7 +15705,7 @@
 卂  :    xun4 
 千  :    qian1 
 千万  :    qian1 wan4 
-千丝万缕  :    qian1 si1 wan4 lu:3 
+千丝万缕  :    qian1 si1 wan4 lv3 
 千亿  :    qian1 yi4 
 千伏  :    qian1 fu2 
 千位  :    qian1 wei4 
@@ -15757,11 +15757,11 @@
 千禧年  :    qian1 xi3 nian2 
 千秋  :    qian1 qiu1 
 千秋万代  :    qian1 qiu1 wan4 dai4 
-千篇一律  :    qian1 pian1 yi1 lu:4 
+千篇一律  :    qian1 pian1 yi1 lv4 
 千米  :    qian1 mi3 
 千经万卷  :    qian1 jing1 wan4 juan3 
-千虑一失  :    qian1 lu:4 yi1 shi1 
-千虑一得  :    qian1 lu:4 yi1 de2 
+千虑一失  :    qian1 lv4 yi1 shi1 
+千虑一得  :    qian1 lv4 yi1 de2 
 千言万语  :    qian1 yan2 wan4 yu3 
 千赫  :    qian1 he4 
 千赫兹  :    qian1 he4 zi1 
@@ -15887,7 +15887,7 @@
 半封建  :    ban4 feng1 jian4 
 半封建半殖民地  :    ban4 feng1 jian4 ban4 zhi2 min2 di4 
 半小时  :    ban4 xiao3 shi2 
-半履带  :    ban4 lu:3 dai4 
+半履带  :    ban4 lv3 dai4 
 半山区  :    ban4 shan1 qu1 
 半岛  :    ban4 dao3 
 半岛和东方航海  :    ban4 dao3 he2 dong1 fang1 hang2 hai3 
@@ -16180,7 +16180,7 @@
 单侧  :    dan1 ce4 
 单倍体  :    dan1 bei4 ti3 
 单元  :    dan1 yuan2 
-单元频率  :    dan1 yuan2 pin2 lu:4 
+单元频率  :    dan1 yuan2 pin2 lv4 
 单击  :    dan1 ji1 
 单刀直入  :    dan1 dao1 zhi2 ru4 
 单刀赴会  :    dan1 dao1 fu4 hui4 
@@ -16605,7 +16605,7 @@
 博古  :    bo2 gu3 
 博古通今  :    bo2 gu3 tong1 jin1 
 博士  :    bo2 shi4 
-博士买驴  :    bo2 shi4 mai3 lu:2 
+博士买驴  :    bo2 shi4 mai3 lv2 
 博士后  :    bo2 shi4 hou4 
 博士学位  :    bo2 shi4 xue2 wei4 
 博士山  :    bo2 shi4 shan1 
@@ -16684,7 +16684,7 @@
 博鳌  :    bo2 ao2 
 博鳌亚洲论坛  :    bo2 ao2 ya4 zhou1 lun4 tan2 
 博鳌镇  :    bo2 ao2 zhen4 
-卛  :    lu:4 
+卛  :    lv4 
 卜  :    bu3 
 卜占  :    bu3 zhan1 
 卜卜米  :    bo5 bo5 mi3 
@@ -17185,7 +17185,7 @@
 卸头  :    xie4 tou2 
 卸套  :    xie4 tao4 
 卸妆  :    xie4 zhuang1 
-卸磨杀驴  :    xie4 mo4 sha1 lu:2 
+卸磨杀驴  :    xie4 mo4 sha1 lv2 
 卸职  :    xie4 zhi2 
 卸肩儿  :    xie4 jian1 r5 
 卸装  :    xie4 zhuang1 
@@ -17229,7 +17229,7 @@
 占星师  :    zhan1 xing1 shi1 
 占星术  :    zhan1 xing1 shu4 
 占有  :    zhan4 you3 
-占有率  :    zhan4 you3 lu:4 
+占有率  :    zhan4 you3 lv4 
 占满  :    zhan4 man3 
 占用  :    zhan4 yong4 
 免疫  :    mian3 yi4 
@@ -17869,9 +17869,9 @@
 双桥  :    shuang1 qiao2 
 双桥区  :    shuang1 qiao2 qu1 
 双氧水  :    shuang1 yang3 shui3 
-双氯灭痛  :    shuang1 lu:4 mie4 tong4 
-双氯芬酸钠  :    shuang1 lu:4 fen1 suan1 na4 
-双氯醇胺  :    shuang1 lu:4 chun2 an4 
+双氯灭痛  :    shuang1 lv4 mie4 tong4 
+双氯芬酸钠  :    shuang1 lv4 fen1 suan1 na4 
+双氯醇胺  :    shuang1 lv4 chun2 an4 
 双江县  :    shuang1 jiang1 xian4 
 双江拉祜族佤族布朗族傣族自治县  :    shuang1 jiang1 la1 hu4 zu2 wa3 zu2 bu4 lang3 zu2 dai3 zu2 zi4 zhi4 xian4 
 双流  :    shuang1 liu2 
@@ -18102,7 +18102,7 @@
 反社会行为  :    fan3 she4 hui4 xing2 wei2 
 反照  :    fan3 zhao4 
 反科学  :    fan3 ke1 xue2 
-反照率  :    fan3 zhao4 lu:4 
+反照率  :    fan3 zhao4 lv4 
 反空降  :    fan3 kong1 jiang4 
 反粒子  :    fan3 li4 zi3 
 反美  :    fan3 mei3 
@@ -18313,7 +18313,7 @@
 发球  :    fa1 qiu2 
 发球区  :    fa1 qiu2 qu1 
 发生  :    fa1 sheng1 
-发生率  :    fa1 sheng1 lu:4 
+发生率  :    fa1 sheng1 lv4 
 发电  :    fa1 dian4 
 发电厂  :    fa1 dian4 chang3 
 发电机  :    fa1 dian4 ji1 
@@ -18323,7 +18323,7 @@
 发病  :    fa1 bing4 
 发痒  :    fa1 yang3 
 发痛  :    fa1 tong4 
-发病率  :    fa1 bing4 lu:4 
+发病率  :    fa1 bing4 lv4 
 发白  :    fa1 bai2 
 发直  :    fa1 zhi2 
 发短信  :    fa1 duan3 xin4 
@@ -18396,7 +18396,7 @@
 发运  :    fa1 yun4 
 发迹  :    fa1 ji4 
 发送  :    fa1 song4 
-发送功率  :    fa1 song4 gong1 lu:4 
+发送功率  :    fa1 song4 gong1 lv4 
 发送器  :    fa1 song4 qi4 
 发配  :    fa1 pei4 
 发钗  :    fa4 chai1 
@@ -18527,7 +18527,7 @@
 受欢迎  :    shou4 huan1 ying2 
 受气  :    shou4 qi4 
 受气包  :    shou4 qi4 bao1 
-受法律保护权  :    shou4 fa3 lu:4 bao3 hu4 quan2 
+受法律保护权  :    shou4 fa3 lv4 bao3 hu4 quan2 
 受洗  :    shou4 xi3 
 受洗命名  :    shou4 xi3 ming4 ming2 
 受格  :    shou4 ge2 
@@ -18560,8 +18560,8 @@
 受聘于  :    shou4 pin4 yu2 
 受胎  :    shou4 tai1 
 受苦  :    shou4 ku3 
-受虐  :    shou4 nu:e4 
-受虐狂  :    shou4 nu:e4 kuang2 
+受虐  :    shou4 nve4 
+受虐狂  :    shou4 nve4 kuang2 
 受训  :    shou4 xun4 
 受访  :    shou4 fang3 
 受访者  :    shou4 fang3 zhe3 
@@ -19051,7 +19051,7 @@
 叫醒  :    jiao4 xing3 
 叫醒服务  :    jiao4 xing3 fu2 wu4 
 叫阵  :    jiao4 zhen4 
-叫驴  :    jiao4 lu:2 
+叫驴  :    jiao4 lv2 
 叫鸡  :    jiao4 ji1 
 召  :    zhao4 
 召唤  :    zhao4 huan4 
@@ -19098,7 +19098,7 @@
 可再生  :    ke3 zai4 sheng1 
 可再生原  :    ke3 zai4 sheng1 yuan2 
 可决  :    ke3 jue2 
-可决率  :    ke3 jue2 lu:4 
+可决率  :    ke3 jue2 lv4 
 可决票  :    ke3 jue2 piao4 
 可分  :    ke3 fen1 
 可加  :    ke3 jia1 
@@ -19215,7 +19215,7 @@
 可耻  :    ke3 chi3 
 可能  :    ke3 neng2 
 可能性  :    ke3 neng2 xing4 
-可虑  :    ke3 lu:4 
+可虑  :    ke3 lv4 
 可行  :    ke3 xing2 
 可行性  :    ke3 xing2 xing4 
 可行性研究  :    ke3 xing2 xing4 yan2 jiu1 
@@ -19448,8 +19448,8 @@
 叶片状  :    ye4 pian4 zhuang4 
 叶瑟  :    ye4 se4 
 叶礼庭  :    ye4 li3 ting2 
-叶绿体  :    ye4 lu:4 ti3 
-叶绿素  :    ye4 lu:4 su4 
+叶绿体  :    ye4 lv4 ti3 
+叶绿素  :    ye4 lv4 su4 
 叶脉  :    ye4 mai4 
 叶脉序  :    ye4 mai4 xu4 
 叶苔  :    ye4 tai2 
@@ -20510,22 +20510,22 @@
 吓破胆  :    xia4 po4 dan3 
 吓跑  :    xia4 pao3 
 吔  :    ye1 
-吕  :    lu:3 
-吕不韦  :    lu:3 bu4 wei2 
-吕塞尔斯海姆  :    lu:3 sai1 er3 si1 hai3 mu3 
-吕宋岛  :    lu:3 song4 dao3 
-吕宋海峡  :    lu:3 song4 hai3 xia2 
-吕岩  :    lu:3 yan2 
-吕布  :    lu:3 bu4 
-吕布戟  :    lu:3 bu4 ji3 
-吕望  :    lu:3 wang4 
-吕梁  :    lu:3 liang2 
-吕梁市  :    lu:3 liang2 shi4 
-吕氏春秋  :    lu:3 shi4 chun1 qiu1 
-吕洞宾  :    lu:3 dong4 bin1 
-吕蒙  :    lu:3 meng2 
-吕览  :    lu:3 lan3 
-吕贝克  :    lu:3 bei4 ke4 
+吕  :    lv3 
+吕不韦  :    lv3 bu4 wei2 
+吕塞尔斯海姆  :    lv3 sai1 er3 si1 hai3 mu3 
+吕宋岛  :    lv3 song4 dao3 
+吕宋海峡  :    lv3 song4 hai3 xia2 
+吕岩  :    lv3 yan2 
+吕布  :    lv3 bu4 
+吕布戟  :    lv3 bu4 ji3 
+吕望  :    lv3 wang4 
+吕梁  :    lv3 liang2 
+吕梁市  :    lv3 liang2 shi4 
+吕氏春秋  :    lv3 shi4 chun1 qiu1 
+吕洞宾  :    lv3 dong4 bin1 
+吕蒙  :    lv3 meng2 
+吕览  :    lv3 lan3 
+吕贝克  :    lv3 bei4 ke4 
 吖  :    a1 
 吖啶  :    a1 ding4 
 吖嗪  :    a1 qin2 
@@ -20615,9 +20615,9 @@
 吧唧  :    ba1 ji1 
 吧唧吧唧  :    ba1 ji5 ba1 ji5 
 吧嗒  :    ba1 da5 
-吧女  :    ba1 nu:3 
+吧女  :    ba1 nv3 
 吧托  :    ba1 tuo1 
-吧托女  :    ba1 tuo1 nu:3 
+吧托女  :    ba1 tuo1 nv3 
 吨  :    dun1 
 吨位  :    dun1 wei4 
 吨公里  :    dun1 gong1 li3 
@@ -20829,7 +20829,7 @@
 吴牛见月  :    wu2 niu2 jian4 yue4 
 吴玉章  :    wu2 yu4 zhang1 
 吴王阖庐  :    wu2 wang2 he2 lu2 
-吴王阖闾  :    wu2 wang2 he2 lu:2 
+吴王阖闾  :    wu2 wang2 he2 lv2 
 吴用  :    wu2 yong4 
 吴自牧  :    wu2 zi4 mu4 
 吴语  :    wu2 yu3 
@@ -21296,7 +21296,7 @@
 命不久已  :    ming4 bu4 jiu3 yi3 
 命中  :    ming4 zhong4 
 命中注定  :    ming4 zhong1 zhu4 ding4 
-命中率  :    ming4 zhong4 lu:4 
+命中率  :    ming4 zhong4 lv4 
 命令  :    ming4 ling4 
 命令句  :    ming4 ling4 ju4 
 命令行  :    ming4 ling4 hang2 
@@ -21328,7 +21328,7 @@
 呿  :    qu1 
 兑付  :    dui4 fu4 
 兑换  :    dui4 huan4 
-兑换率  :    dui4 huan4 lu:4 
+兑换率  :    dui4 huan4 lv4 
 兑现  :    dui4 xian4 
 咅  :    pou3 
 咠  :    qi4 
@@ -21471,7 +21471,7 @@
 咖  :    ka1 
 咖哩  :    ka1 li5 
 咖啡  :    ka1 fei1 
-咖啡伴侣  :    ka1 fei1 ban4 lu:3 
+咖啡伴侣  :    ka1 fei1 ban4 lv3 
 咖啡厅  :    ka1 fei1 ting1 
 咖啡因  :    ka1 fei1 yin1 
 咖啡壶  :    ka1 fei1 hu2 
@@ -21674,7 +21674,7 @@
 品系  :    pin3 xi4 
 品红  :    pin3 hong2 
 品级  :    pin3 ji2 
-品绿  :    pin3 lu:4 
+品绿  :    pin3 lv4 
 品脱  :    pin3 tuo1 
 品色  :    pin3 se4 
 品节  :    pin3 jie2 
@@ -22305,7 +22305,7 @@
 商城  :    shang1 cheng2 
 商城县  :    shang1 cheng2 xian4 
 商域  :    shang1 yu4 
-商女  :    shang1 nu:3 
+商女  :    shang1 nv3 
 商学  :    shang1 xue2 
 商学院  :    shang1 xue2 yuan4 
 商定  :    shang1 ding4 
@@ -22320,7 +22320,7 @@
 商户  :    shang1 hu4 
 商报  :    shang1 bao4 
 商数  :    shang1 shu4 
-商旅  :    shang1 lu:3 
+商旅  :    shang1 lv3 
 商朝  :    shang1 chao2 
 商机  :    shang1 ji1 
 商检  :    shang1 jian3 
@@ -22505,7 +22505,7 @@
 善本  :    shan4 ben3 
 善款  :    shan4 kuan3 
 善用  :    shan4 yong4 
-善男信女  :    shan4 nan2 xin4 nu:3 
+善男信女  :    shan4 nan2 xin4 nv3 
 善策  :    shan4 ce4 
 善缘  :    shan4 yuan2 
 善罢甘休  :    shan4 ba4 gan1 xiu1 
@@ -23210,7 +23210,7 @@
 四大皆空  :    si4 da4 jie1 kong1 
 四大盆地  :    si4 da4 pen2 di4 
 四大石窟  :    si4 da4 shi2 ku1 
-四大美女  :    si4 da4 mei3 nu:3 
+四大美女  :    si4 da4 mei3 nv3 
 四大须生  :    si4 da4 xu1 sheng1 
 四头肌  :    si4 tou2 ji1 
 四子王  :    si4 zi3 wang2 
@@ -23260,8 +23260,8 @@
 四氟化硅  :    si4 fu2 hua4 gui1 
 四氟化铀  :    si4 fu2 hua4 you2 
 四氢大麻酚  :    si4 qing1 da4 ma2 fen1 
-四氯乙烯  :    si4 lu:4 yi3 xi1 
-四氯化碳  :    si4 lu:4 hua4 tan4 
+四氯乙烯  :    si4 lv4 yi3 xi1 
+四氯化碳  :    si4 lv4 hua4 tan4 
 四海为家  :    si4 hai3 wei2 jia1 
 四海之内皆兄弟  :    si4 hai3 zhi1 nei4 jie1 xiong1 di4 
 四海升平  :    si4 hai3 sheng1 ping2 
@@ -23700,7 +23700,7 @@
 国家文物委员会  :    guo2 jia1 wen2 wu4 wei3 yuan2 hui4 
 国家文物局  :    guo2 jia1 wen2 wu4 ju2 
 国家文物鉴定委员会  :    guo2 jia1 wen2 wu4 jian4 ding4 wei3 yuan2 hui4 
-国家旅游度假区  :    guo2 jia1 lu:3 you2 du4 jia4 qu1 
+国家旅游度假区  :    guo2 jia1 lv3 you2 du4 jia4 qu1 
 国家汉办  :    guo2 jia1 han4 ban4 
 国家海洋局  :    guo2 jia1 hai3 yang2 ju2 
 国家火山公园  :    guo2 jia1 huo3 shan1 gong1 yuan2 
@@ -23845,7 +23845,7 @@
 国际太空站  :    guo2 ji4 tai4 kong1 zhan4 
 国际奥委会  :    guo2 ji4 ao4 wei3 hui4 
 国际奥林匹克委员会  :    guo2 ji4 ao4 lin2 pi3 ke4 wei3 yuan2 hui4 
-国际妇女节  :    guo2 ji4 fu4 nu:3 jie2 
+国际妇女节  :    guo2 ji4 fu4 nv3 jie2 
 国际媒体  :    guo2 ji4 mei2 ti3 
 国际公认  :    guo2 ji4 gong1 ren4 
 国际共产主义运动  :    guo2 ji4 gong4 chan3 zhu3 yi4 yun4 dong4 
@@ -24014,7 +24014,7 @@
 圆光  :    yuan2 guang1 
 圆口纲脊椎动物  :    yuan2 kou3 gang1 ji3 zhui1 dong4 wu4 
 圆周  :    yuan2 zhou1 
-圆周率  :    yuan2 zhou1 lu:4 
+圆周率  :    yuan2 zhou1 lv4 
 圆圈  :    yuan2 quan1 
 圆场  :    yuan2 chang3 
 圆子  :    yuan2 zi5 
@@ -24086,9 +24086,9 @@
 圌  :    chui2 
 圏  :    quan1 
 圐  :    ku1 
-圐圙  :    ku1 lu:e4 
+圐圙  :    ku1 lve4 
 圕  :    tuan1 
-圙  :    lu:e4 
+圙  :    lve4 
 圛  :    yi4 
 圜  :    yuan2 
 圞  :    luan2 
@@ -24237,8 +24237,8 @@
 圣多美和普林西比  :    sheng4 duo1 mei3 he2 pu3 lin2 xi1 bi3 
 圣大非  :    sheng4 da4 fei1 
 圣奥古斯丁  :    sheng4 ao4 gu3 si1 ding1 
-圣女果  :    sheng4 nu:3 guo3 
-圣女贞德  :    sheng4 nu:3 zhen1 de2 
+圣女果  :    sheng4 nv3 guo3 
+圣女贞德  :    sheng4 nv3 zhen1 de2 
 圣婴  :    sheng4 ying1 
 圣子  :    sheng4 zi3 
 圣安东尼奥  :    sheng4 an1 dong1 ni2 ao4 
@@ -24568,7 +24568,7 @@
 地级市  :    di4 ji2 shi4 
 地线  :    di4 xian4 
 地缘  :    di4 yuan2 
-地缘战略  :    di4 yuan2 zhan4 lu:e4 
+地缘战略  :    di4 yuan2 zhan4 lve4 
 地缘政治  :    di4 yuan2 zheng4 zhi4 
 地缘政治学  :    di4 yuan2 zheng4 zhi4 xue2 
 地老天荒  :    di4 lao3 tian1 huang1 
@@ -25327,7 +25327,7 @@
 基数词  :    ji1 shu4 ci2 
 基本  :    ji1 ben3 
 基本上  :    ji1 ben3 shang5 
-基本利率  :    ji1 ben3 li4 lu:4 
+基本利率  :    ji1 ben3 li4 lv4 
 基本功  :    ji1 ben3 gong1 
 基本单位  :    ji1 ben3 dan1 wei4 
 基本原则  :    ji1 ben3 yuan2 ze2 
@@ -25368,7 +25368,7 @@
 基础结构  :    ji1 chu3 jie2 gou4 
 基础设施  :    ji1 chu3 she4 shi1 
 基础课  :    ji1 chu3 ke4 
-基础速率  :    ji1 chu3 su4 lu:4 
+基础速率  :    ji1 chu3 su4 lv4 
 基础问题  :    ji1 chu3 wen4 ti2 
 基站  :    ji1 zhan4 
 基线  :    ji1 xian4 
@@ -25656,7 +25656,7 @@
 增量参数  :    zeng1 liang4 can1 shu4 
 增长  :    zeng1 zhang3 
 增长天  :    zeng1 zhang3 tian1 
-增长率  :    zeng1 zhang3 lu:4 
+增长率  :    zeng1 zhang3 lv4 
 增防  :    zeng1 fang2 
 增高  :    zeng1 gao1 
 墟  :    xu1 
@@ -25694,8 +25694,8 @@
 墨累达令流域  :    mo4 lei4 da2 ling4 liu2 yu4 
 墨纸  :    mo4 zhi3 
 墨线  :    mo4 xian4 
-墨绿  :    mo4 lu:4 
-墨绿色  :    mo4 lu:4 se4 
+墨绿  :    mo4 lv4 
+墨绿色  :    mo4 lv4 se4 
 墨翟  :    mo4 di2 
 墨者  :    mo4 zhe3 
 墨脱  :    mo4 tuo1 
@@ -25765,7 +25765,7 @@
 壤塘县  :    rang3 tang2 xian4 
 士  :    shi4 
 士丹利  :    shi4 dan1 li4 
-士为知己者死，女为悦己者容  :    shi4 wei4 zhi1 ji3 zhe3 si3 , nu:3 wei4 yue4 ji3 zhe3 rong2 
+士为知己者死，女为悦己者容  :    shi4 wei4 zhi1 ji3 zhe3 si3 , nv3 wei4 yue4 ji3 zhe3 rong2 
 士人  :    shi4 ren2 
 士农工商  :    shi4 nong2 gong1 shang1 
 士力架  :    shi4 li4 jia4 
@@ -25904,14 +25904,14 @@
 处在  :    chu3 zai4 
 处境  :    chu3 jing4 
 处处  :    chu4 chu4 
-处女  :    chu3 nu:3 
-处女作  :    chu3 nu:3 zuo4 
-处女座  :    chu3 nu:3 zuo4 
-处女膜  :    chu3 nu:3 mo2 
-处女航  :    chu3 nu:3 hang2 
+处女  :    chu3 nv3 
+处女作  :    chu3 nv3 zuo4 
+处女座  :    chu3 nv3 zuo4 
+处女膜  :    chu3 nv3 mo2 
+处女航  :    chu3 nv3 hang2 
 处子  :    chu3 zi3 
 处子秀  :    chu3 zi3 xiu4 
-处心积虑  :    chu3 xin1 ji1 lu:4 
+处心积虑  :    chu3 xin1 ji1 lv4 
 处所  :    chu4 suo3 
 处方  :    chu3 fang1 
 处暑  :    chu3 shu3 
@@ -26180,7 +26180,7 @@
 外国媒体  :    wai4 guo2 mei2 ti3 
 外国公司  :    wai4 guo2 gong1 si1 
 外国投资者  :    wai4 guo2 tou2 zi1 zhe3 
-外国旅游者  :    wai4 guo2 lu:3 you2 zhe3 
+外国旅游者  :    wai4 guo2 lv3 you2 zhe3 
 外国电影  :    wai4 guo2 dian4 ying3 
 外国话  :    wai4 guo2 hua4 
 外国语  :    wai4 guo2 yu3 
@@ -26204,8 +26204,8 @@
 外八字腿  :    wai4 ba1 zi4 tui3 
 外公  :    wai4 gong1 
 外孙  :    wai4 sun1 
-外孙女  :    wai4 sun1 nu:3 
-外孙女儿  :    wai4 sun1 nu:3 r5 
+外孙女  :    wai4 sun1 nv3 
+外孙女儿  :    wai4 sun1 nv3 r5 
 外孙子  :    wai4 sun1 zi5 
 外宽内忌  :    wai4 kuan1 nei4 ji4 
 外宾  :    wai4 bin1 
@@ -26257,8 +26257,8 @@
 外爷  :    wai4 ye5 
 外环线  :    wai4 huan2 xian4 
 外甥  :    wai4 sheng1 
-外甥女  :    wai4 sheng5 nu:3 
-外甥女婿  :    wai4 sheng5 nu:3 xu5 
+外甥女  :    wai4 sheng5 nv3 
+外甥女婿  :    wai4 sheng5 nv3 xu5 
 外甥媳妇  :    wai4 sheng5 xi2 fu4 
 外用  :    wai4 yong4 
 外电  :    wai4 dian4 
@@ -26472,7 +26472,7 @@
 多此一举  :    duo1 ci3 yi1 ju3 
 多民族  :    duo1 min2 zu2 
 多民族国家  :    duo1 min2 zu2 guo2 jia1 
-多氯联苯  :    duo1 lu:4 lian2 ben3 
+多氯联苯  :    duo1 lv4 lian2 ben3 
 多水分  :    duo1 shui3 fen4 
 多汁  :    duo1 zhi1 
 多样  :    duo1 yang4 
@@ -27226,7 +27226,7 @@
 大甲镇  :    da4 jia3 zhen4 
 大男子主义  :    da4 nan2 zi3 zhu3 yi4 
 大男子主义者  :    da4 nan2 zi3 zhu3 yi4 zhe3 
-大略  :    da4 lu:e4 
+大略  :    da4 lve4 
 大疮  :    da4 chuang1 
 大病  :    da4 bing4 
 大白天  :    da4 bai2 tian1 
@@ -27266,7 +27266,7 @@
 大破大立  :    da4 po4 da4 li4 
 大红  :    da4 hong2 
 大红大紫  :    da4 hong2 da4 zi3 
-大红大绿  :    da4 hong2 da4 lu:4 
+大红大绿  :    da4 hong2 da4 lv4 
 大红灯笼高高挂  :    da4 hong2 deng1 long2 gao1 gao1 gua4 
 大红袍  :    da4 hong2 pao2 
 大红鼻子  :    da4 hong2 bi2 zi5 
@@ -27995,7 +27995,7 @@
 夯砣  :    hang1 tuo2 
 失  :    shi1 
 失业  :    shi1 ye4 
-失业率  :    shi1 ye4 lu:4 
+失业率  :    shi1 ye4 lv4 
 失业者  :    shi1 ye4 zhe3 
 失主  :    shi1 zhu3 
 失之东隅，收之桑榆  :    shi1 zhi1 dong1 yu2 , shou1 zhi1 sang1 yu2 
@@ -28507,7 +28507,7 @@
 奖  :    jiang3 
 奖券  :    jiang3 quan4 
 奖励  :    jiang3 li4 
-奖励旅行  :    jiang3 li4 lu:3 xing2 
+奖励旅行  :    jiang3 li4 lv3 xing2 
 奖品  :    jiang3 pin3 
 奖学金  :    jiang3 xue2 jin1 
 奖得主  :    jiang3 de2 zhu3 
@@ -28687,99 +28687,99 @@
 奬  :    jiang3 
 奭  :    shi4 
 奰  :    bi4 
-女  :    nu:3 
-女主人  :    nu:3 zhu3 ren2 
-女主人公  :    nu:3 zhu3 ren2 gong1 
-女乘务员  :    nu:3 cheng2 wu4 yuan2 
-女书  :    nu:3 shu1 
-女人  :    nu:3 ren2 
-女人气  :    nu:3 ren2 qi4 
-女仆  :    nu:3 pu2 
-女优  :    nu:3 you1 
-女伴  :    nu:3 ban4 
-女体盛  :    nu:3 ti3 cheng2 
-女佣  :    nu:3 yong1 
-女修道  :    nu:3 xiu1 dao4 
-女修道张  :    nu:3 xiu1 dao4 zhang1 
-女修道院  :    nu:3 xiu1 dao4 yuan4 
-女傧相  :    nu:3 bin1 xiang4 
-女儿  :    nu:3 er2 
-女儿墙  :    nu:3 er2 qiang2 
-女儿红  :    nu:3 er2 hong2 
-女功  :    nu:3 gong1 
-女单  :    nu:3 dan1 
-女厕  :    nu:3 ce4 
-女友  :    nu:3 you3 
-女双  :    nu:3 shuang1 
-女同  :    nu:3 tong2 
-女同胞  :    nu:3 tong2 bao1 
-女墙  :    nu:3 qiang2 
-女士  :    nu:3 shi4 
-女士优先  :    nu:3 shi4 you1 xian1 
-女大不中留  :    nu:3 da4 bu4 zhong1 liu2 
-女大十八变  :    nu:3 da4 shi2 ba1 bian4 
-女娃  :    nu:3 wa2 
-女娲  :    nu:3 wa1 
-女娲氏  :    nu:3 wa1 shi4 
-女婴  :    nu:3 ying1 
-女婿  :    nu:3 xu5 
-女公子  :    nu:3 gong1 zi3 
-女公爵  :    nu:3 gong1 jue2 
-女子  :    nu:3 zi3 
-女子参政权  :    nu:3 zi3 can1 zheng4 quan2 
-女子无才便是德  :    nu:3 zi3 wu2 cai2 bian4 shi4 de2 
-女孩  :    nu:3 hai2 
-女孩儿  :    nu:3 hai2 r5 
-女孩子  :    nu:3 hai2 zi5 
-女家  :    nu:3 jia1 
-女工  :    nu:3 gong1 
-女巫  :    nu:3 wu1 
-女店员  :    nu:3 dian4 yuan2 
-女强人  :    nu:3 qiang2 ren2 
-女性  :    nu:3 xing4 
-女性主义  :    nu:3 xing4 zhu3 yi4 
-女性化  :    nu:3 xing4 hua4 
-女性厌恶  :    nu:3 xing4 yan4 wu4 
-女性贬抑  :    nu:3 xing4 bian3 yi4 
-女房东  :    nu:3 fang2 dong1 
-女排  :    nu:3 pai2 
-女方  :    nu:3 fang1 
-女星  :    nu:3 xing1 
-女朋友  :    nu:3 peng2 you5 
-女权  :    nu:3 quan2 
-女权主义  :    nu:3 quan2 zhu3 yi4 
-女杰  :    nu:3 jie2 
-女武神  :    nu:3 wu3 shen2 
-女汉子  :    nu:3 han4 zi5 
-女流  :    nu:3 liu2 
-女犯  :    nu:3 fan4 
-女王  :    nu:3 wang2 
-女生  :    nu:3 sheng1 
-女生外向  :    nu:3 sheng1 wai4 xiang4 
-女的  :    nu:3 de5 
-女皇  :    nu:3 huang2 
-女皇大学  :    nu:3 huang2 da4 xue2 
-女皇帝  :    nu:3 huang2 di4 
-女真  :    nu:3 zhen1 
-女真语  :    nu:3 zhen1 yu3 
-女眷  :    nu:3 juan4 
-女神  :    nu:3 shen2 
-女神蛤  :    nu:3 shen2 ge2 
-女童  :    nu:3 tong2 
-女管家  :    nu:3 guan3 jia1 
-女红  :    nu:3 gong1 
-女继承人  :    nu:3 ji4 cheng2 ren2 
-女舍监  :    nu:3 she4 jian1 
-女色  :    nu:3 se4 
-女衬衫  :    nu:3 chen4 shan1 
-女装  :    nu:3 zhuang1 
-女装裁缝师  :    nu:3 zhuang1 cai2 feng5 shi1 
-女警  :    nu:3 jing3 
-女警员  :    nu:3 jing3 yuan2 
-女贞  :    nu:3 zhen1 
-女郎  :    nu:3 lang2 
-女阴  :    nu:3 yin1 
-女高音  :    nu:3 gao1 yin1 
+女  :    nv3 
+女主人  :    nv3 zhu3 ren2 
+女主人公  :    nv3 zhu3 ren2 gong1 
+女乘务员  :    nv3 cheng2 wu4 yuan2 
+女书  :    nv3 shu1 
+女人  :    nv3 ren2 
+女人气  :    nv3 ren2 qi4 
+女仆  :    nv3 pu2 
+女优  :    nv3 you1 
+女伴  :    nv3 ban4 
+女体盛  :    nv3 ti3 cheng2 
+女佣  :    nv3 yong1 
+女修道  :    nv3 xiu1 dao4 
+女修道张  :    nv3 xiu1 dao4 zhang1 
+女修道院  :    nv3 xiu1 dao4 yuan4 
+女傧相  :    nv3 bin1 xiang4 
+女儿  :    nv3 er2 
+女儿墙  :    nv3 er2 qiang2 
+女儿红  :    nv3 er2 hong2 
+女功  :    nv3 gong1 
+女单  :    nv3 dan1 
+女厕  :    nv3 ce4 
+女友  :    nv3 you3 
+女双  :    nv3 shuang1 
+女同  :    nv3 tong2 
+女同胞  :    nv3 tong2 bao1 
+女墙  :    nv3 qiang2 
+女士  :    nv3 shi4 
+女士优先  :    nv3 shi4 you1 xian1 
+女大不中留  :    nv3 da4 bu4 zhong1 liu2 
+女大十八变  :    nv3 da4 shi2 ba1 bian4 
+女娃  :    nv3 wa2 
+女娲  :    nv3 wa1 
+女娲氏  :    nv3 wa1 shi4 
+女婴  :    nv3 ying1 
+女婿  :    nv3 xu5 
+女公子  :    nv3 gong1 zi3 
+女公爵  :    nv3 gong1 jue2 
+女子  :    nv3 zi3 
+女子参政权  :    nv3 zi3 can1 zheng4 quan2 
+女子无才便是德  :    nv3 zi3 wu2 cai2 bian4 shi4 de2 
+女孩  :    nv3 hai2 
+女孩儿  :    nv3 hai2 r5 
+女孩子  :    nv3 hai2 zi5 
+女家  :    nv3 jia1 
+女工  :    nv3 gong1 
+女巫  :    nv3 wu1 
+女店员  :    nv3 dian4 yuan2 
+女强人  :    nv3 qiang2 ren2 
+女性  :    nv3 xing4 
+女性主义  :    nv3 xing4 zhu3 yi4 
+女性化  :    nv3 xing4 hua4 
+女性厌恶  :    nv3 xing4 yan4 wu4 
+女性贬抑  :    nv3 xing4 bian3 yi4 
+女房东  :    nv3 fang2 dong1 
+女排  :    nv3 pai2 
+女方  :    nv3 fang1 
+女星  :    nv3 xing1 
+女朋友  :    nv3 peng2 you5 
+女权  :    nv3 quan2 
+女权主义  :    nv3 quan2 zhu3 yi4 
+女杰  :    nv3 jie2 
+女武神  :    nv3 wu3 shen2 
+女汉子  :    nv3 han4 zi5 
+女流  :    nv3 liu2 
+女犯  :    nv3 fan4 
+女王  :    nv3 wang2 
+女生  :    nv3 sheng1 
+女生外向  :    nv3 sheng1 wai4 xiang4 
+女的  :    nv3 de5 
+女皇  :    nv3 huang2 
+女皇大学  :    nv3 huang2 da4 xue2 
+女皇帝  :    nv3 huang2 di4 
+女真  :    nv3 zhen1 
+女真语  :    nv3 zhen1 yu3 
+女眷  :    nv3 juan4 
+女神  :    nv3 shen2 
+女神蛤  :    nv3 shen2 ge2 
+女童  :    nv3 tong2 
+女管家  :    nv3 guan3 jia1 
+女红  :    nv3 gong1 
+女继承人  :    nv3 ji4 cheng2 ren2 
+女舍监  :    nv3 she4 jian1 
+女色  :    nv3 se4 
+女衬衫  :    nv3 chen4 shan1 
+女装  :    nv3 zhuang1 
+女装裁缝师  :    nv3 zhuang1 cai2 feng5 shi1 
+女警  :    nv3 jing3 
+女警员  :    nv3 jing3 yuan2 
+女贞  :    nv3 zhen1 
+女郎  :    nv3 lang2 
+女阴  :    nv3 yin1 
+女高音  :    nv3 gao1 yin1 
 奴  :    nu2 
 奴仆  :    nu2 pu2 
 奴儿干  :    nu2 er2 gan1 
@@ -28914,7 +28914,7 @@
 好康  :    hao3 kang1 
 好强  :    hao4 qiang2 
 好心  :    hao3 xin1 
-好心倒做了驴肝肺  :    hao3 xin1 dao4 zuo4 le5 lu:2 gan1 fei1 
+好心倒做了驴肝肺  :    hao3 xin1 dao4 zuo4 le5 lv2 gan1 fei1 
 好恶  :    hao4 wu4 
 好意  :    hao3 yi4 
 好意思  :    hao3 yi4 si5 
@@ -28945,7 +28945,7 @@
 好玩儿  :    hao3 wan2 r5 
 好球  :    hao3 qiu2 
 好用  :    hao3 yong4 
-好男不跟女斗  :    hao3 nan2 bu4 gen1 nu:3 dou4 
+好男不跟女斗  :    hao3 nan2 bu4 gen1 nv3 dou4 
 好看  :    hao3 kan4 
 好睇  :    hao3 di4 
 好睡  :    hao3 shui4 
@@ -29016,7 +29016,7 @@
 入声  :    ru4 sheng1 
 入夜  :    ru4 ye4 
 入学  :    ru4 xue2 
-入学率  :    ru4 xue2 lu:4 
+入学率  :    ru4 xue2 lv4 
 奠定  :    dian4 ding4 
 入关  :    ru4 guan1 
 入座  :    ru4 zuo4 
@@ -29155,10 +29155,10 @@
 妇产科  :    fu4 chan3 ke1 
 妇人  :    fu4 ren2 
 妇人之仁  :    fu4 ren2 zhi1 ren2 
-妇女  :    fu4 nu:3 
-妇女能顶半边天  :    fu4 nu:3 neng2 ding3 ban4 bian1 tian1 
-妇女节  :    fu4 nu:3 jie2 
-妇女运动  :    fu4 nu:3 yun4 dong4 
+妇女  :    fu4 nv3 
+妇女能顶半边天  :    fu4 nv3 neng2 ding3 ban4 bian1 tian1 
+妇女节  :    fu4 nv3 jie2 
+妇女运动  :    fu4 nv3 yun4 dong4 
 妇好  :    fu4 hao3 
 妇姑勃溪  :    fu4 gu1 bo2 xi1 
 妇孺皆知  :    fu4 ru2 jie1 zhi1 
@@ -29186,14 +29186,14 @@
 妒能害贤  :    du4 neng2 hai4 xian2 
 妒贤忌能  :    du4 xian2 ji4 neng2 
 妓  :    ji4 
-妓女  :    ji4 nu:3 
+妓女  :    ji4 nv3 
 妓寨  :    ji4 zhai4 
 妓院  :    ji4 yuan4 
 妓馆  :    ji4 guan3 
 妖  :    yao1 
 妖人  :    yao1 ren2 
 妖冶  :    yao1 ye3 
-妖女  :    yao1 nu:3 
+妖女  :    yao1 nv3 
 妖妇  :    yao1 fu4 
 妖姬  :    yao1 ji1 
 妖娆  :    yao1 rao2 
@@ -29422,7 +29422,7 @@
 姨娘  :    yi2 niang2 
 姨母  :    yi2 mu3 
 姨父  :    yi2 fu5 
-姨甥男女  :    yi2 sheng5 nan2 nu:3 
+姨甥男女  :    yi2 sheng5 nan2 nv3 
 姫  :    ji1 
 姫路市  :    ji1 lu4 shi4 
 姬  :    ji1 
@@ -29435,7 +29435,7 @@
 姵  :    pei4 
 姸  :    yan2 
 姹  :    cha4 
-姹女  :    cha4 nu:3 
+姹女  :    cha4 nv3 
 姹紫嫣红  :    cha4 zi3 yan1 hong2 
 姺  :    xian3 
 姻  :    yin1 
@@ -29637,7 +29637,7 @@
 娶媳妇  :    qu3 xi2 fu4 
 娸  :    qi2 
 娼  :    chang1 
-娼女  :    chang1 nu:3 
+娼女  :    chang1 nv3 
 娼妇  :    chang1 fu4 
 娼妓  :    chang1 ji4 
 娼家  :    chang1 jia1 
@@ -29863,7 +29863,7 @@
 婚龄  :    hun1 ling2 
 婞  :    xing4 
 婢  :    bi4 
-婢女  :    bi4 nu:3 
+婢女  :    bi4 nv3 
 婤  :    zhou1 
 婥  :    chuo4 
 婧  :    jing4 
@@ -29893,7 +29893,7 @@
 婺  :    wu4 
 婺城  :    wu4 cheng2 
 婺城区  :    wu4 cheng2 qu1 
-婺女  :    wu4 nu:3 
+婺女  :    wu4 nv3 
 婺源  :    wu4 yuan2 
 婺源县  :    wu4 yuan2 xian4 
 婼  :    chuo4 
@@ -29967,7 +29967,7 @@
 嫠  :    li2 
 嫁  :    jia4 
 嫁人  :    jia4 ren2 
-嫁女  :    jia4 nu:3 
+嫁女  :    jia4 nv3 
 嫁妆  :    jia4 zhuang5 
 嫁娶  :    jia4 qu3 
 嫁接  :    jia4 jie1 
@@ -30032,7 +30032,7 @@
 嫩江  :    nen4 jiang1 
 嫩江县  :    nen4 jiang1 xian4 
 嫩江地区  :    nen4 jiang1 di4 qu1 
-嫩绿  :    nen4 lu:4 
+嫩绿  :    nen4 lv4 
 嫩芽  :    nen4 ya2 
 嫩苗  :    nen4 miao2 
 嫩苗龟  :    nen4 miao2 gui1 
@@ -30470,7 +30470,7 @@
 子囊菌  :    zi3 nang2 jun1 
 子域  :    zi3 yu4 
 子夜  :    zi3 ye4 
-子女  :    zi3 nu:3 
+子女  :    zi3 nv3 
 子公司  :    zi3 gong1 si1 
 子子孙孙  :    zi3 zi3 sun1 sun1 
 子孙  :    zi3 sun1 
@@ -30654,12 +30654,12 @@
 存档  :    cun2 dang4 
 存款  :    cun2 kuan3 
 存款准备金  :    cun2 kuan3 zhun3 bei4 jin1 
-存款准备金率  :    cun2 kuan3 zhun3 bei4 jin1 lu:4 
+存款准备金率  :    cun2 kuan3 zhun3 bei4 jin1 lv4 
 存款单  :    cun2 kuan3 dan1 
 存款者  :    cun2 kuan3 zhe3 
 存款证  :    cun2 kuan3 zheng4 
 存活  :    cun2 huo2 
-存活率  :    cun2 huo2 lu:4 
+存活率  :    cun2 huo2 lv4 
 存根  :    cun2 gen1 
 存留  :    cun2 liu2 
 存簿  :    cun2 bu4 
@@ -30680,9 +30680,9 @@
 孙吴县  :    sun1 wu2 xian4 
 孙坚  :    sun1 jian1 
 孙大圣  :    sun1 da4 sheng4 
-孙女  :    sun1 nu:3 
-孙女儿  :    sun1 nu:3 r5 
-孙女婿  :    sun1 nu:3 xu5 
+孙女  :    sun1 nv3 
+孙女儿  :    sun1 nv3 r5 
+孙女婿  :    sun1 nv3 xu5 
 孙媳夫  :    sun1 xi2 fu5 
 孙子  :    sun1 zi3 
 孙子定理  :    sun1 zi5 ding4 li3 
@@ -30745,7 +30745,7 @@
 孟加拉湾  :    meng4 jia1 la1 wan1 
 孟加拉语  :    meng4 jia1 la1 yu3 
 孟县  :    meng4 xian4 
-孟姜女  :    meng4 jiang1 nu:3 
+孟姜女  :    meng4 jiang1 nv3 
 孟子  :    meng4 zi3 
 孟宗竹  :    meng4 zong1 zhu2 
 孟尝君  :    meng4 chang2 jun1 
@@ -31037,7 +31037,7 @@
 六陈  :    liu4 chen2 
 六面体  :    liu4 mian4 ti3 
 六韬  :    liu4 tao1 
-六韬三略  :    liu4 tao1 san1 lu:e4 
+六韬三略  :    liu4 tao1 san1 lve4 
 六龟  :    liu4 gui1 
 六龟乡  :    liu4 gui1 xiang1 
 堮  :    e4 
@@ -31162,7 +31162,7 @@
 守兵  :    shou3 bing1 
 守御  :    shou3 yu4 
 守恒  :    shou3 heng2 
-守恒定律  :    shou3 heng2 ding4 lu:4 
+守恒定律  :    shou3 heng2 ding4 lv4 
 守成  :    shou3 cheng2 
 守护  :    shou3 hu4 
 守护神  :    shou3 hu4 shen2 
@@ -31259,8 +31259,8 @@
 安多  :    an1 duo1 
 安多县  :    an1 duo1 xian4 
 安多芬  :    an1 duo1 fen1 
-安大略湖  :    an1 da4 lu:e4 hu2 
-安大略省  :    an1 da4 lu:e4 sheng3 
+安大略湖  :    an1 da4 lve4 hu2 
+安大略省  :    an1 da4 lve4 sheng3 
 安好  :    an1 hao3 
 安如泰山  :    an1 ru2 tai4 shan1 
 安如磐石  :    an1 ru2 pan2 shi2 
@@ -31288,7 +31288,7 @@
 安全理事会  :    an1 quan2 li3 shi4 hui4 
 安全眼罩  :    an1 quan2 yan3 zhao4 
 安全网  :    an1 quan2 wang3 
-安全考虑  :    an1 quan2 kao3 lu:4 
+安全考虑  :    an1 quan2 kao3 lv4 
 安全问题  :    an1 quan2 wen4 ti2 
 安全阀  :    an1 quan2 fa2 
 安宁  :    an1 ning2 
@@ -31660,12 +31660,12 @@
 定州  :    ding4 zhou1 
 定州市  :    ding4 zhou1 shi4 
 定常态  :    ding4 chang2 tai4 
-定座率  :    ding4 zuo4 lu:4 
+定座率  :    ding4 zuo4 lv4 
 定式  :    ding4 shi4 
 定弦  :    ding4 xian2 
 定当  :    ding4 dang1 
 定影  :    ding4 ying3 
-定律  :    ding4 lu:4 
+定律  :    ding4 lv4 
 定心丸  :    ding4 xin1 wan2 
 定性  :    ding4 xing4 
 定性分析  :    ding4 xing4 fen1 xi1 
@@ -31887,7 +31887,7 @@
 实在  :    shi2 zai4 
 实地  :    shi2 di4 
 实地访视  :    shi2 di4 fang3 shi4 
-实女  :    shi2 nu:3 
+实女  :    shi2 nv3 
 实属  :    shi2 shu3 
 实属不易  :    shi2 shu3 bu4 yi4 
 实岁  :    shi2 sui4 
@@ -32101,8 +32101,8 @@
 室内设计  :    shi4 nei4 she4 ji4 
 室友  :    shi4 you3 
 室外  :    shi4 wai4 
-室女  :    shi4 nu:3 
-室女座  :    shi4 nu:3 zuo4 
+室女  :    shi4 nv3 
+室女座  :    shi4 nv3 zuo4 
 室温  :    shi4 wen1 
 室町  :    shi4 ting3 
 室町幕府  :    shi4 ting3 mu4 fu3 
@@ -32136,7 +32136,7 @@
 宫商角徵羽  :    gong1 shang1 jue2 zhi3 yu3 
 宫城  :    gong1 cheng2 
 宫城县  :    gong1 cheng2 xian4 
-宫女  :    gong1 nu:3 
+宫女  :    gong1 nv3 
 宫崎  :    gong1 qi2 
 宫崎县  :    gong1 qi2 xian4 
 宫崎吾朗  :    gong1 qi2 wu2 lang3 
@@ -32319,7 +32319,7 @@
 家门  :    jia1 men2 
 家雀儿  :    jia1 qiao3 r5 
 家鸭  :    jia1 ya1 
-家鸭绿头鸭  :    jia1 ya1 lu:4 tou2 ya1 
+家鸭绿头鸭  :    jia1 ya1 lv4 tou2 ya1 
 宸  :    chen2 
 容  :    rong2 
 容下  :    rong2 xia4 
@@ -32338,7 +32338,7 @@
 容止  :    rong2 zhi3 
 容祖儿  :    rong2 zu3 er2 
 容积  :    rong2 ji1 
-容积效率  :    rong2 ji1 xiao4 lu:4 
+容积效率  :    rong2 ji1 xiao4 lv4 
 容纳  :    rong2 na4 
 容让  :    rong2 rang4 
 容许  :    rong2 xu3 
@@ -32489,7 +32489,7 @@
 宠信  :    chong3 xin4 
 宠儿  :    chong3 er2 
 宠坏  :    chong3 huai4 
-宅女  :    zhai2 nu:3 
+宅女  :    zhai2 nv3 
 宠妾  :    chong3 qie4 
 宠妾灭妻  :    chong3 qie4 mie4 qi1 
 宅子  :    zhai2 zi5 
@@ -32528,7 +32528,7 @@
 寄发  :    ji4 fa1 
 寄名  :    ji4 ming2 
 寄售  :    ji4 shou4 
-寄女  :    ji4 nu:3 
+寄女  :    ji4 nv3 
 寄子  :    ji4 zi3 
 寄存  :    ji4 cun2 
 寄存器  :    ji4 cun2 qi4 
@@ -33384,7 +33384,7 @@
 小夜曲  :    xiao3 ye4 qu3 
 小天鹅  :    xiao3 tian1 e2 
 小太太  :    xiao3 tai4 tai5 
-小女  :    xiao3 nu:3 
+小女  :    xiao3 nv3 
 小妖  :    xiao3 yao1 
 小妖精  :    xiao3 yao1 jing1 
 小妹  :    xiao3 mei4 
@@ -33565,7 +33565,7 @@
 小组  :    xiao3 zu3 
 小组委员会  :    xiao3 zu3 wei3 yuan2 hui4 
 小结  :    xiao3 jie2 
-小绿人  :    xiao3 lu:4 ren2 
+小绿人  :    xiao3 lv4 ren2 
 小编  :    xiao3 bian1 
 小缸缸儿  :    xiao3 gang1 gang5 r5 
 小羊  :    xiao3 yang2 
@@ -33687,9 +33687,9 @@
 少块肉  :    shao3 kuai4 rou4 
 少壮不努力，老大徒伤悲  :    shao4 zhuang4 bu4 nu3 li4 , lao3 da4 tu2 shang1 bei1 
 少壮派  :    shao4 zhuang4 pai4 
-少女  :    shao4 nu:3 
-少女峰  :    shao4 nu:3 feng1 
-少女露笑脸，婚事半成全  :    shao4 nu:3 lu4 xiao4 lian3 , hun1 shi4 ban4 cheng2 quan2 
+少女  :    shao4 nv3 
+少女峰  :    shao4 nv3 feng1 
+少女露笑脸，婚事半成全  :    shao4 nv3 lu4 xiao4 lian3 , hun1 shi4 ban4 cheng2 quan2 
 少奶奶  :    shao4 nai3 nai5 
 少妇  :    shao4 fu4 
 少安无躁  :    shao3 an1 wu2 zao4 
@@ -33716,7 +33716,7 @@
 少校  :    shao4 xiao4 
 少根筋  :    shao3 gen1 jin1 
 少爷  :    shao4 ye5 
-少男少女  :    shao4 nan2 shao4 nu:3 
+少男少女  :    shao4 nan2 shao4 nv3 
 少突胶质  :    shao3 tu1 jiao1 zhi4 
 少管闲事  :    shao3 guan3 xian2 shi4 
 少见  :    shao3 jian4 
@@ -33853,7 +33853,7 @@
 就业培训  :    jiu4 ye4 pei2 xun4 
 就业安定费  :    jiu4 ye4 an1 ding4 fei4 
 就业机会  :    jiu4 ye4 ji1 hui4 
-就业率  :    jiu4 ye4 lu:4 
+就业率  :    jiu4 ye4 lv4 
 就义  :    jiu4 yi4 
 就事论事  :    jiu4 shi4 lun4 shi4 
 就任  :    jiu4 ren4 
@@ -34041,7 +34041,7 @@
 尾翼  :    wei3 yi4 
 尾蚴  :    wei3 you4 
 尾部  :    wei3 bu4 
-尾闾骨  :    wei3 lu:2 gu3 
+尾闾骨  :    wei3 lv2 gu3 
 尾随  :    wei3 sui2 
 尾音  :    wei3 yin1 
 尾韵  :    wei3 yun4 
@@ -34305,33 +34305,33 @@
 属灵  :    shu3 ling2 
 属相  :    shu3 xiang4 
 属象  :    shu3 xiang4 
-屡  :    lu:3 
-屡出狂言  :    lu:3 chu1 kuang2 yan2 
-屡加  :    lu:3 jia1 
-屡屡  :    lu:3 lu:3 
-屡战屡败  :    lu:3 zhan4 lu:3 bai4 
-屡教不改  :    lu:3 jiao4 bu4 gai3 
-屡次  :    lu:3 ci4 
-屡禁不止  :    lu:3 jin4 bu4 zhi3 
-屡禁不绝  :    lu:3 jin4 bu4 jue2 
-屡见不鲜  :    lu:3 jian4 bu4 xian1 
-屡试不爽  :    lu:3 shi4 bu4 shuang3 
-屡败屡战  :    lu:3 bai4 lu:3 zhan4 
-屡遭  :    lu:3 zao1 
-屡遭不测  :    lu:3 zao1 bu4 ce4 
+屡  :    lv3 
+屡出狂言  :    lv3 chu1 kuang2 yan2 
+屡加  :    lv3 jia1 
+屡屡  :    lv3 lv3 
+屡战屡败  :    lv3 zhan4 lv3 bai4 
+屡教不改  :    lv3 jiao4 bu4 gai3 
+屡次  :    lv3 ci4 
+屡禁不止  :    lv3 jin4 bu4 zhi3 
+屡禁不绝  :    lv3 jin4 bu4 jue2 
+屡见不鲜  :    lv3 jian4 bu4 xian1 
+屡试不爽  :    lv3 shi4 bu4 shuang3 
+屡败屡战  :    lv3 bai4 lv3 zhan4 
+屡遭  :    lv3 zao1 
+屡遭不测  :    lv3 zao1 bu4 ce4 
 屣  :    xi3 
-履  :    lu:3 
-履历  :    lu:3 li4 
-履历片  :    lu:3 li4 pian4 
-履历表  :    lu:3 li4 biao3 
-履带  :    lu:3 dai4 
-履带车  :    lu:3 dai4 che1 
-履约  :    lu:3 yue1 
-履约保证金  :    lu:3 yue1 bao3 zheng4 jin1 
-履舄交错  :    lu:3 xi4 jiao1 cuo4 
-履行  :    lu:3 xing2 
-履践  :    lu:3 jian4 
-履险如夷  :    lu:3 xian3 ru2 yi2 
+履  :    lv3 
+履历  :    lv3 li4 
+履历片  :    lv3 li4 pian4 
+履历表  :    lv3 li4 biao3 
+履带  :    lv3 dai4 
+履带车  :    lv3 dai4 che1 
+履约  :    lv3 yue1 
+履约保证金  :    lv3 yue1 bao3 zheng4 jin1 
+履舄交错  :    lv3 xi4 jiao1 cuo4 
+履行  :    lv3 xing2 
+履践  :    lv3 jian4 
+履险如夷  :    lv3 xian3 ru2 yi2 
 屦  :    ju4 
 屧  :    xie4 
 屩  :    jue1 
@@ -35046,7 +35046,7 @@
 崖壑  :    ya2 he4 
 崖岸  :    ya2 an4 
 崖州  :    ya2 zhou1 
-崖略  :    ya2 lu:e4 
+崖略  :    ya2 lve4 
 崖谷  :    ya2 gu3 
 崖限  :    ya2 xian4 
 崚  :    leng2 
@@ -35171,7 +35171,7 @@
 兴高采烈  :    xing4 gao1 cai3 lie4 
 兵  :    bing1 
 堵  :    du3 
-嵂  :    lu:4 
+嵂  :    lv4 
 嵄  :    mei3 
 嵇  :    ji1 
 嵊  :    sheng4 
@@ -35666,7 +35666,7 @@
 差役  :    chai1 yi4 
 差得多  :    cha4 de2 duo1 
 差数  :    cha1 shu4 
-差旅费  :    chai1 lu:3 fei4 
+差旅费  :    chai1 lv3 fei4 
 差池  :    cha1 chi2 
 差派  :    chai1 pai4 
 差点  :    cha4 dian3 
@@ -35909,7 +35909,7 @@
 巴黎  :    ba1 li2 
 巴黎大学  :    ba1 li2 da4 xue2 
 巴黎公社  :    ba1 li2 gong1 she4 
-巴黎绿  :    ba1 li2 lu:4 
+巴黎绿  :    ba1 li2 lv4 
 巷  :    xiang4 
 巷子  :    xiang4 zi5 
 巷弄  :    xiang4 long4 
@@ -35954,14 +35954,14 @@
 市北区  :    shi4 bei3 qu1 
 市区  :    shi4 qu1 
 市南区  :    shi4 nan2 qu1 
-市占率  :    shi4 zhan4 lu:4 
+市占率  :    shi4 zhan4 lv4 
 市县  :    shi4 xian4 
 市场  :    shi4 chang3 
 市场价  :    shi4 chang3 jia4 
 市场份额  :    shi4 chang3 fen4 e2 
 市场准入  :    shi4 chang3 zhun3 ru4 
 市场化  :    shi4 chang3 hua4 
-市场占有率  :    shi4 chang3 zhan4 you3 lu:4 
+市场占有率  :    shi4 chang3 zhan4 you3 lv4 
 市场定位  :    shi4 chang3 ding4 wei4 
 市场竞争  :    shi4 chang3 jing4 zheng1 
 市场经济  :    shi4 chang3 jing1 ji4 
@@ -35980,7 +35980,7 @@
 市曹  :    shi4 cao2 
 市民  :    shi4 min2 
 市民社会  :    shi4 min2 she4 hui4 
-市盈率  :    shi4 ying2 lu:4 
+市盈率  :    shi4 ying2 lv4 
 市立  :    shi4 li4 
 市议会  :    shi4 yi4 hui4 
 市议员  :    shi4 yi4 yuan2 
@@ -36178,7 +36178,7 @@
 希尔内科斯  :    xi1 er3 nei4 ke1 si1 
 希尔弗瑟姆  :    xi1 er3 fu2 se4 mu3 
 希尔顿  :    xi1 er3 dun4 
-希律王  :    xi1 lu:4 wang2 
+希律王  :    xi1 lv4 wang2 
 希思罗  :    xi1 si1 luo1 
 希拉克  :    xi1 la1 ke4 
 希拉蕊  :    xi1 la1 rui3 
@@ -36339,7 +36339,7 @@
 带电  :    dai4 dian4 
 带电粒子  :    dai4 dian4 li4 zi3 
 带病  :    dai4 bing4 
-带着希望去旅行，比到达终点更美好  :    dai4 zhe5 xi1 wang4 qu4 lu:3 xing2 , bi3 dao4 da2 zhong1 dian3 geng4 mei3 hao3 
+带着希望去旅行，比到达终点更美好  :    dai4 zhe5 xi1 wang4 qu4 lv3 xing2 , bi3 dao4 da2 zhong1 dian3 geng4 mei3 hao3 
 带种  :    dai4 zhong3 
 带累  :    dai4 lei4 
 带红色  :    dai4 hong2 se4 
@@ -36360,7 +36360,7 @@
 帧中继  :    zhen1 zhong1 ji4 
 帧检验序列  :    zhen1 jian3 yan4 xu4 lie4 
 帧格式  :    zhen1 ge2 shi4 
-帧率  :    zhen1 lu:4 
+帧率  :    zhen1 lv4 
 帧频  :    zhen1 pin2 
 帧首定界符  :    zhen1 shou3 ding4 jie4 fu2 
 帨  :    shui4 
@@ -36444,9 +36444,9 @@
 常用  :    chang2 yong4 
 常用品  :    chang2 yong4 pin3 
 常用字  :    chang2 yong4 zi4 
-常绿  :    chang2 lu:4 
-常绿树  :    chang2 lu:4 shu4 
-常绿植物  :    chang2 lu:4 zhi2 wu4 
+常绿  :    chang2 lv4 
+常绿树  :    chang2 lv4 shu4 
+常绿植物  :    chang2 lv4 zhi2 wu4 
 常胜军  :    chang2 sheng4 jun1 
 常衡制  :    chang2 heng2 zhi4 
 常见  :    chang2 jian4 
@@ -36555,7 +36555,7 @@
 干啥  :    gan4 sha2 
 干嘛  :    gan4 ma2 
 干嚎  :    gan1 hao2 
-干女儿  :    gan1 nu:3 er2 
+干女儿  :    gan1 nv3 er2 
 干妈  :    gan1 ma1 
 干姜  :    gan1 jiang1 
 干娘  :    gan1 niang2 
@@ -36676,7 +36676,7 @@
 平均值定理  :    ping2 jun1 zhi2 ding4 li3 
 平均剂量  :    ping2 jun1 ji4 liang4 
 平均寿命  :    ping2 jun1 shou4 ming4 
-平均律  :    ping2 jun1 lu:4 
+平均律  :    ping2 jun1 lv4 
 平均指数  :    ping2 jun1 zhi3 shu4 
 平均收入  :    ping2 jun1 shou1 ru4 
 平均数  :    ping2 jun1 shu4 
@@ -36740,8 +36740,8 @@
 平整  :    ping2 zheng3 
 平方  :    ping2 fang1 
 平方千米  :    ping2 fang1 qian1 mi3 
-平方反比定律  :    ping2 fang1 fan3 bi4 ding4 lu:4 
-平方反比律  :    ping2 fang1 fan3 bi3 lu:4 
+平方反比定律  :    ping2 fang1 fan3 bi4 ding4 lv4 
+平方反比律  :    ping2 fang1 fan3 bi3 lv4 
 平方公里  :    ping2 fang1 gong1 li3 
 平方成反比  :    ping2 fang1 cheng2 fan3 bi3 
 平方根  :    ping2 fang1 gen1 
@@ -36799,7 +36799,7 @@
 平等  :    ping2 deng3 
 平等主义  :    ping2 deng3 zhu3 yi4 
 平等互利  :    ping2 deng3 hu4 li4 
-平等的法律地位  :    ping2 deng3 de5 fa3 lu:4 di4 wei4 
+平等的法律地位  :    ping2 deng3 de5 fa3 lv4 di4 wei4 
 平米  :    ping2 mi3 
 平素  :    ping2 su4 
 平缓  :    ping2 huan3 
@@ -36884,7 +36884,7 @@
 年友  :    nian2 you3 
 年号  :    nian2 hao4 
 年均  :    nian2 jun1 
-年均增长率  :    nian2 jun1 zeng1 zhang3 lu:4 
+年均增长率  :    nian2 jun1 zeng1 zhang3 lv4 
 年均日照  :    nian2 jun1 ri4 zhao4 
 年复一年  :    nian2 fu4 yi1 nian2 
 年夜  :    nian2 ye4 
@@ -37037,7 +37037,7 @@
 幼发拉底河  :    you4 fa1 la1 di3 he2 
 幼发拉底河谷  :    you4 fa1 la1 di3 he2 gu3 
 幼吾幼，以及人之幼  :    you4 wu2 you4 , yi3 ji2 ren2 zhi1 you4 
-幼女  :    you4 nu:3 
+幼女  :    you4 nv3 
 幼妹  :    you4 mei4 
 幼小  :    you4 xiao3 
 幼年  :    you4 nian2 
@@ -37068,7 +37068,7 @@
 幽深  :    you1 shen1 
 幽灵  :    you1 ling2 
 幽禁  :    you1 jin4 
-幽绿  :    you1 lu:4 
+幽绿  :    you1 lv4 
 幽美  :    you1 mei3 
 幽谷  :    you1 gu3 
 幽邃  :    you1 sui4 
@@ -37161,7 +37161,7 @@
 广河县  :    guang3 he2 xian4 
 广泛  :    guang3 fan4 
 广泛影响  :    guang3 fan4 ying3 xiang3 
-广泛性焦虑症  :    guang3 fan4 xing4 jiao1 lu:4 zheng4 
+广泛性焦虑症  :    guang3 fan4 xing4 jiao1 lv4 zheng4 
 广游  :    guang3 you2 
 广漠  :    guang3 mo4 
 广灵  :    guang3 ling2 
@@ -37295,7 +37295,7 @@
 庑  :    wu3 
 库  :    ku4 
 库仑  :    ku4 lun2 
-库仑定律  :    ku4 lun2 ding4 lu:4 
+库仑定律  :    ku4 lun2 ding4 lv4 
 库仑计  :    ku4 lun2 ji4 
 库伦  :    ku4 lun2 
 库伦旗  :    ku4 lun2 qi2 
@@ -37349,7 +37349,7 @@
 应变  :    ying4 bian4 
 应变力  :    ying4 bian4 li4 
 应召  :    ying4 zhao4 
-应召女郎  :    ying4 zhao4 nu:3 lang2 
+应召女郎  :    ying4 zhao4 nv3 lang2 
 应召站  :    ying4 zhao4 zhan4 
 应名  :    ying1 ming2 
 应名儿  :    ying1 ming2 r5 
@@ -37438,7 +37438,7 @@
 底格里斯河  :    di3 ge2 li3 si1 he2 
 底片  :    di3 pian4 
 底版  :    di3 ban3 
-底特律  :    di3 te4 lu:4 
+底特律  :    di3 te4 lv4 
 底界  :    di3 jie4 
 底盘  :    di3 pan2 
 底端  :    di3 duan1 
@@ -37842,7 +37842,7 @@
 养儿防老  :    yang3 er2 fang2 lao3 
 养分  :    yang3 fen4 
 养地  :    yang3 di4 
-养女  :    yang3 nu:3 
+养女  :    yang3 nv3 
 养子  :    yang3 zi3 
 养家  :    yang3 jia1 
 养家活口  :    yang3 jia1 huo2 kou3 
@@ -38046,7 +38046,7 @@
 开明君主  :    kai1 ming2 jun1 zhu3 
 开春  :    kai1 chun1 
 开普勒  :    kai1 pu3 le4 
-开普勒定律  :    kai1 pu3 le4 ding4 lu:4 
+开普勒定律  :    kai1 pu3 le4 ding4 lv4 
 开普敦  :    kai1 pu3 dun1 
 开晴  :    kai1 qing2 
 开曼群岛  :    kai1 man4 qun2 dao3 
@@ -38083,7 +38083,7 @@
 开疆  :    kai1 jiang1 
 开皌  :    kai1 mo4 
 开盘  :    kai1 pan2 
-开盘汇率  :    kai1 pan2 hui4 lu:4 
+开盘汇率  :    kai1 pan2 hui4 lv4 
 开眼  :    kai1 yan3 
 开眼界  :    kai1 yan3 jie4 
 开矿  :    kai1 kuang4 
@@ -38100,7 +38100,7 @@
 开篇  :    kai1 pian1 
 开线  :    kai1 xian4 
 开绽  :    kai1 zhan4 
-开绿灯  :    kai1 lu:4 deng1 
+开绿灯  :    kai1 lv4 deng1 
 开罗  :    kai1 luo2 
 开罗大学  :    kai1 luo2 da4 xue2 
 开罚单  :    kai1 fa2 dan1 
@@ -39383,15 +39383,15 @@
 很多时  :    hen3 duo1 shi2 
 徉  :    yang2 
 徊  :    huai2 
-律  :    lu:4 
-律动  :    lu:4 dong4 
-律吕  :    lu:4 lu:3 
-律师  :    lu:4 shi1 
-律师事务所  :    lu:4 shi1 shi4 wu4 suo3 
-律政司  :    lu:4 zheng4 si1 
-律条  :    lu:4 tiao2 
-律法  :    lu:4 fa3 
-律诗  :    lu:4 shi1 
+律  :    lv4 
+律动  :    lv4 dong4 
+律吕  :    lv4 lv3 
+律师  :    lv4 shi1 
+律师事务所  :    lv4 shi1 shi4 wu4 suo3 
+律政司  :    lv4 zheng4 si1 
+律条  :    lv4 tiao2 
+律法  :    lv4 fa3 
+律诗  :    lv4 shi1 
 徐  :    xu2 
 徐世昌  :    xu2 shi4 chang1 
 徐俊  :    xu2 jun4 
@@ -39438,7 +39438,7 @@
 徒有其名  :    tu2 you3 qi2 ming2 
 徒有虚名  :    tu2 you3 xu1 ming2 
 徒步  :    tu2 bu4 
-徒步旅行  :    tu2 bu4 lu:3 xing2 
+徒步旅行  :    tu2 bu4 lv3 xing2 
 徒然  :    tu2 ran2 
 徒自惊扰  :    tu2 zi4 jing1 rao3 
 徒裼  :    tu2 xi1 
@@ -39493,7 +39493,7 @@
 得着  :    de2 zhao2 
 得知  :    de2 zhi1 
 得票  :    de2 piao4 
-得票率  :    de2 piao4 lu:4 
+得票率  :    de2 piao4 lv4 
 得罪  :    de2 zui4 
 得而复失  :    de2 er2 fu4 shi1 
 得胜  :    de2 sheng4 
@@ -39526,7 +39526,7 @@
 御手  :    yu4 shou3 
 御敌  :    yu4 di2 
 御用  :    yu4 yong4 
-御用大律师  :    yu4 yong4 da4 lu:4 shi1 
+御用大律师  :    yu4 yong4 da4 lv4 shi1 
 御膳房  :    yu4 shan4 fang2 
 御赐  :    yu4 ci4 
 御酒  :    yu4 jiu3 
@@ -39701,7 +39701,7 @@
 德庆  :    de2 qing4 
 德庆县  :    de2 qing4 xian4 
 德彪西  :    de2 biao1 xi1 
-德律风  :    de2 lu:4 feng1 
+德律风  :    de2 lv4 feng1 
 德性  :    de2 xing4 
 德惠  :    de2 hui4 
 德惠地区  :    de2 hui4 di4 qu1 
@@ -39841,9 +39841,9 @@
 心底  :    xin1 di3 
 心弦  :    xin1 xian2 
 心影儿  :    xin1 ying3 er2 
-心律不整  :    xin1 lu:4 bu4 zheng3 
-心律不齐  :    xin1 lu:4 bu4 qi2 
-心律失常  :    xin1 lu:4 shi1 chang2 
+心律不整  :    xin1 lv4 bu4 zheng3 
+心律不齐  :    xin1 lv4 bu4 qi2 
+心律失常  :    xin1 lv4 shi1 chang2 
 心得  :    xin1 de2 
 心得安  :    xin1 de2 an1 
 心心相印  :    xin1 xin1 xiang1 yin4 
@@ -39908,7 +39908,7 @@
 心爱  :    xin1 ai4 
 心狠手辣  :    xin1 hen3 shou3 la4 
 心猿意马  :    xin1 yuan2 yi4 ma3 
-心率  :    xin1 lu:4 
+心率  :    xin1 lv4 
 心理  :    xin1 li3 
 心理作用  :    xin1 li3 zuo4 yong4 
 心理学  :    xin1 li3 xue2 
@@ -40140,7 +40140,7 @@
 忧愁  :    you1 chou2 
 忧灼  :    you1 zhuo2 
 忧苦以终  :    you1 ku3 yi3 zhong1 
-忧虑  :    you1 lu:4 
+忧虑  :    you1 lv4 
 忧郁  :    you1 yu4 
 忧郁症  :    you1 yu4 zheng4 
 忧闷  :    you1 men4 
@@ -40244,7 +40244,7 @@
 忽必烈  :    hu1 bi4 lie4 
 忽悠  :    hu1 you5 
 忽然  :    hu1 ran2 
-忽略  :    hu1 lu:e4 
+忽略  :    hu1 lve4 
 忽而  :    hu1 er2 
 忽视  :    hu1 shi4 
 忽闪  :    hu1 shan3 
@@ -40314,7 +40314,7 @@
 充军  :    chong1 jun1 
 充分  :    chong1 fen4 
 充分就业  :    chong1 fen4 jiu4 ye4 
-充分考虑  :    chong1 fen4 kao3 lu:4 
+充分考虑  :    chong1 fen4 kao3 lv4 
 充发  :    chong1 fa1 
 充塞  :    chong1 se4 
 充填  :    chong1 tian2 
@@ -40344,7 +40344,7 @@
 充裕  :    chong1 yu4 
 充要条件  :    chong1 yao4 tiao2 jian4 
 充足  :    chong1 zu2 
-充足理由律  :    chong1 zu2 li3 you2 lu:4 
+充足理由律  :    chong1 zu2 li3 you2 lv4 
 充车  :    chong1 che1 
 充饥  :    chong1 ji1 
 充饥止渴  :    chong1 ji1 zhi3 ke3 
@@ -40518,7 +40518,7 @@
 思茅区  :    si1 mao2 qu1 
 思茅地区  :    si1 mao2 di4 qu1 
 思茅市  :    si1 mao2 shi4 
-思虑  :    si1 lu:4 
+思虑  :    si1 lv4 
 思觉失调  :    si1 jue2 shi1 tiao2 
 思议  :    si1 yi4 
 思谋  :    si1 mou2 
@@ -40609,7 +40609,7 @@
 性价比  :    xing4 jia4 bi3 
 性伙伴  :    xing4 huo3 ban4 
 性伴  :    xing4 ban4 
-性伴侣  :    xing4 ban4 lu:3 
+性伴侣  :    xing4 ban4 lv3 
 性传播  :    xing4 chuan2 bo1 
 性侵  :    xing4 qin1 
 性侵害  :    xing4 qin1 hai4 
@@ -40668,7 +40668,7 @@
 性禁忌  :    xing4 jin4 ji4 
 性细胞  :    xing4 xi4 bao1 
 性能  :    xing4 neng2 
-性虐待  :    xing4 nu:e4 dai4 
+性虐待  :    xing4 nve4 dai4 
 性行  :    xing4 xing2 
 性行为  :    xing4 xing2 wei2 
 性质  :    xing4 zhi4 
@@ -40684,7 +40684,7 @@
 怨声载道  :    yuan4 sheng1 zai4 dao4 
 怨天尤人  :    yuan4 tian1 you2 ren2 
 怨天载道  :    yuan4 tian1 zai4 dao4 
-怨女  :    yuan4 nu:3 
+怨女  :    yuan4 nv3 
 怨怼  :    yuan4 dui4 
 怨恨  :    yuan4 hen4 
 怨愤  :    yuan4 fen4 
@@ -40960,7 +40960,7 @@
 恒生银行  :    heng2 sheng1 yin2 hang2 
 恒等  :    heng2 deng3 
 恒等式  :    heng2 deng3 shi4 
-恒速率  :    heng2 su4 lu:4 
+恒速率  :    heng2 su4 lv4 
 恓  :    xi1 
 恓惶  :    xi1 huang2 
 恔  :    xiao4 
@@ -40996,7 +40996,7 @@
 恤匮  :    xu4 kui4 
 恤嫠  :    xu4 li2 
 恤衫  :    xu4 shan1 
-恧  :    nu:4 
+恧  :    nv4 
 恨  :    hen4 
 恨不得  :    hen4 bu5 de5 
 恨不能  :    hen4 bu5 neng2 
@@ -41097,7 +41097,7 @@
 息息相关  :    xi1 xi1 xiang1 guan1 
 息烽  :    xi1 feng1 
 息烽县  :    xi1 feng1 xian4 
-息率  :    xi1 lu:4 
+息率  :    xi1 lv4 
 息票  :    xi1 piao4 
 息肉  :    xi1 rou4 
 恰  :    qia4 
@@ -41152,7 +41152,7 @@
 恶心  :    e3 xin1 
 恶性  :    e4 xing4 
 恶性循环  :    e4 xing4 xun2 huan2 
-恶性疟原虫  :    e4 xing4 nu:e4 yuan2 chong2 
+恶性疟原虫  :    e4 xing4 nve4 yuan2 chong2 
 恶性肿瘤  :    e4 xing4 zhong3 liu2 
 恶性通货膨胀  :    e4 xing4 tong1 huo4 peng2 zhang4 
 恶恨  :    e4 hen4 
@@ -41691,8 +41691,8 @@
 情人眼里有西施  :    qing2 ren2 yan3 li3 you3 xi1 shi1 
 情人节  :    qing2 ren2 jie2 
 情何以堪  :    qing2 he2 yi3 kan1 
-情侣  :    qing2 lu:3 
-情侣鹦鹉  :    qing2 lu:3 ying1 wu3 
+情侣  :    qing2 lv3 
+情侣鹦鹉  :    qing2 lv3 ying1 wu3 
 情儿  :    qing2 r5 
 惠农  :    hui4 nong2 
 惠农区  :    hui4 nong2 qu1 
@@ -41969,7 +41969,7 @@
 感染人数  :    gan3 ran3 ren2 shu4 
 感染力  :    gan3 ran3 li4 
 感染性腹泻  :    gan3 ran3 xing4 fu4 xie4 
-感染率  :    gan3 ran3 lu:4 
+感染率  :    gan3 ran3 lv4 
 感染者  :    gan3 ran3 zhe3 
 感慨  :    gan3 kai3 
 感激  :    gan3 ji1 
@@ -42109,7 +42109,7 @@
 懒猫  :    lan3 mao1 
 懒虫  :    lan3 chong2 
 懒腰  :    lan3 yao1 
-懒驴上磨屎尿多  :    lan3 lu:2 shang4 mo4 shi3 niao4 duo1 
+懒驴上磨屎尿多  :    lan3 lv2 shang4 mo4 shi3 niao4 duo1 
 懒骨头  :    lan3 gu3 tou5 
 懒鬼  :    lan3 gui3 
 懔  :    lin3 
@@ -42121,7 +42121,7 @@
 懦弱  :    nuo4 ruo4 
 懫  :    zhi2 
 懮  :    you3 
-懮虑  :    you1 lu:4 
+懮虑  :    you1 lv4 
 懰  :    liu2 
 懱  :    mie4 
 懵  :    meng3 
@@ -42373,7 +42373,7 @@
 成武县  :    cheng2 wu3 xian4 
 成汉  :    cheng2 han4 
 成活  :    cheng2 huo2 
-成活率  :    cheng2 huo2 lu:4 
+成活率  :    cheng2 huo2 lv4 
 成样  :    cheng2 yang4 
 成样子  :    cheng2 yang4 zi5 
 成核  :    cheng2 he2 
@@ -42420,7 +42420,7 @@
 成都体育大学  :    cheng2 du1 ti3 yu4 da4 xue2 
 成都市  :    cheng2 du1 shi4 
 成长  :    cheng2 zhang3 
-成长率  :    cheng2 zhang3 lu:4 
+成长率  :    cheng2 zhang3 lv4 
 成骨  :    cheng2 gu3 
 成骨不全症  :    cheng2 gu3 bu4 quan2 zheng4 
 成龙  :    cheng2 long2 
@@ -42445,7 +42445,7 @@
 戒备森严  :    jie4 bei4 sen1 yan2 
 戒奢崇俭  :    jie4 she1 chong2 jian3 
 戒子  :    jie4 zi5 
-戒律  :    jie4 lu:4 
+戒律  :    jie4 lv4 
 戒心  :    jie4 xin1 
 戒忌  :    jie4 ji4 
 戒惧  :    jie4 ju4 
@@ -42531,16 +42531,16 @@
 战火  :    zhan4 huo3 
 战火纷飞  :    zhan4 huo3 fen1 fei1 
 战犯  :    zhan4 fan4 
-战略  :    zhan4 lu:e4 
-战略伙伴  :    zhan4 lu:e4 huo3 ban4 
-战略夥伴  :    zhan4 lu:e4 huo3 ban4 
-战略家  :    zhan4 lu:e4 jia1 
-战略性  :    zhan4 lu:e4 xing4 
-战略核力量  :    zhan4 lu:e4 he2 li4 liang5 
-战略核武器  :    zhan4 lu:e4 he2 wu3 qi4 
-战略要点  :    zhan4 lu:e4 yao4 dian3 
-战略轰炸机  :    zhan4 lu:e4 hong1 zha4 ji1 
-战略防御倡议  :    zhan4 lu:e4 fang2 yu4 chang4 yi4 
+战略  :    zhan4 lve4 
+战略伙伴  :    zhan4 lve4 huo3 ban4 
+战略夥伴  :    zhan4 lve4 huo3 ban4 
+战略家  :    zhan4 lve4 jia1 
+战略性  :    zhan4 lve4 xing4 
+战略核力量  :    zhan4 lve4 he2 li4 liang5 
+战略核武器  :    zhan4 lve4 he2 wu3 qi4 
+战略要点  :    zhan4 lve4 yao4 dian3 
+战略轰炸机  :    zhan4 lve4 hong1 zha4 ji1 
+战略防御倡议  :    zhan4 lve4 fang2 yu4 chang4 yi4 
 战祸  :    zhan4 huo4 
 战线  :    zhan4 xian4 
 战绩  :    zhan4 ji4 
@@ -42638,8 +42638,8 @@
 戴维斯  :    dai4 wei2 si1 
 戴维斯杯  :    dai4 wei2 si1 bei1 
 戴维营  :    dai4 wei2 ying2 
-戴绿头巾  :    dai4 lu:4 tou2 jin1 
-戴绿帽子  :    dai4 lu:4 mao4 zi5 
+戴绿头巾  :    dai4 lv4 tou2 jin1 
+戴绿帽子  :    dai4 lv4 mao4 zi5 
 戴胜  :    dai4 sheng4 
 戴菊  :    dai4 ju2 
 戴菊鸟  :    dai4 ju2 niao3 
@@ -42988,7 +42988,7 @@
 才华横溢  :    cai2 hua2 heng2 yi4 
 才华盖世  :    cai2 hua2 gai4 shi4 
 才外流  :    cai2 wai4 liu2 
-才女  :    cai2 nu:3 
+才女  :    cai2 nv3 
 才子  :    cai2 zi3 
 才子佳人  :    cai2 zi3 jia1 ren2 
 才学  :    cai2 xue2 
@@ -43001,7 +43001,7 @@
 才气  :    cai2 qi4 
 才气过人  :    cai2 qi4 guo4 ren2 
 才然  :    cai2 ran2 
-才略  :    cai2 lu:e4 
+才略  :    cai2 lve4 
 才疏学浅  :    cai2 shu1 xue2 qian3 
 才能  :    cai2 neng2 
 才艺  :    cai2 yi4 
@@ -43397,7 +43397,7 @@
 托钵修会  :    tuo1 bo1 xiu1 hui4 
 托马斯  :    tuo1 ma3 si1 
 托马斯・哈代  :    tuo1 ma3 si1 · ha1 dai4 
-托马斯・斯特恩斯・艾略特  :    tuo1 ma3 si1 · si4 te4 en1 si1 · ai4 lu:e4 te4 
+托马斯・斯特恩斯・艾略特  :    tuo1 ma3 si1 · si4 te4 en1 si1 · ai4 lve4 te4 
 托马斯・阿奎纳  :    tuo1 ma3 si1 · a1 kui2 na4 
 扛  :    gang1 
 扡  :    chi3 
@@ -43411,7 +43411,7 @@
 扣压  :    kou4 ya1 
 扣去  :    kou4 qu4 
 扣发  :    kou4 fa1 
-扣女  :    kou4 nu:3 
+扣女  :    kou4 nv3 
 扣子  :    kou4 zi5 
 扣屎盆子  :    kou4 shi3 pen2 zi5 
 扣屎盔子  :    kou4 shi3 kui1 zi5 
@@ -43989,7 +43989,7 @@
 投票地点  :    tou2 piao4 di4 dian3 
 投票机器  :    tou2 piao4 ji1 qi4 
 投票权  :    tou2 piao4 quan2 
-投票率  :    tou2 piao4 lu:4 
+投票率  :    tou2 piao4 lv4 
 投票站  :    tou2 piao4 zhan4 
 投票箱  :    tou2 piao4 xiang1 
 投票者  :    tou2 piao4 zhe3 
@@ -44007,9 +44007,9 @@
 投诚  :    tou2 cheng2 
 投资  :    tou2 zi1 
 投资人  :    tou2 zi1 ren2 
-投资回报率  :    tou2 zi1 hui2 bao4 lu:4 
+投资回报率  :    tou2 zi1 hui2 bao4 lv4 
 投资家  :    tou2 zi1 jia1 
-投资报酬率  :    tou2 zi1 bao4 chou2 lu:4 
+投资报酬率  :    tou2 zi1 bao4 chou2 lv4 
 投资者  :    tou2 zi1 zhe3 
 投资风险  :    tou2 zi1 feng1 xian3 
 投身  :    tou2 shen1 
@@ -44112,14 +44112,14 @@
 折子戏  :    zhe2 zi5 xi4 
 折寿  :    zhe2 shou4 
 折射  :    zhe2 she4 
-折射率  :    zhe2 she4 lu:4 
+折射率  :    zhe2 she4 lv4 
 折尺  :    zhe2 chi3 
 折扇  :    zhe2 shan4 
 折扣  :    zhe2 kou4 
 折挫  :    zhe2 cuo4 
 折断  :    zhe2 duan4 
 折旧  :    zhe2 jiu4 
-折旧率  :    zhe2 jiu4 lu:4 
+折旧率  :    zhe2 jiu4 lv4 
 折服  :    zhe2 fu2 
 折本  :    she2 ben3 
 折杀  :    zhe2 sha1 
@@ -44127,7 +44127,7 @@
 折桂  :    zhe2 gui4 
 折椅  :    zhe2 yi3 
 折现  :    zhe2 xian4 
-折现率  :    zhe2 xian4 lu:4 
+折现率  :    zhe2 xian4 lv4 
 折痕  :    zhe2 hen2 
 折皱  :    zhe2 zhou4 
 折煞  :    zhe2 sha1 
@@ -44232,7 +44232,7 @@
 抢婚  :    qiang3 hun1 
 抢手  :    qiang3 shou3 
 抢手货  :    qiang3 shou3 huo4 
-抢掠  :    qiang3 lu:e4 
+抢掠  :    qiang3 lve4 
 抢救  :    qiang3 jiu4 
 抢滩  :    qiang3 tan1 
 抢生意  :    qiang3 sheng1 yi5 
@@ -44890,7 +44890,7 @@
 拖住  :    tuo1 zhu4 
 拖债  :    tuo1 zhai4 
 拖堂  :    tuo1 tang2 
-拖儿带女  :    tuo1 er2 dai4 nu:3 
+拖儿带女  :    tuo1 er2 dai4 nv3 
 拖动  :    tuo1 dong4 
 拖动力  :    tuo1 dong4 li4 
 拖吊  :    tuo1 diao4 
@@ -45098,7 +45098,7 @@
 拜谒  :    bai4 ye4 
 拜金  :    bai4 jin1 
 拜金主义  :    bai4 jin1 zhu3 yi4 
-拜金女  :    bai4 jin1 nu:3 
+拜金女  :    bai4 jin1 nv3 
 拝  :    bai4 
 拟  :    ni3 
 拟于不伦  :    ni3 yu2 bu4 lun2 
@@ -45259,7 +45259,7 @@
 拶指  :    zan3 zhi3 
 拷  :    kao3 
 拷打  :    kao3 da3 
-拷掠  :    kao3 lu:e4 
+拷掠  :    kao3 lve4 
 拷花  :    kao3 hua1 
 拷贝  :    kao3 bei4 
 拷问  :    kao3 wen4 
@@ -45444,7 +45444,7 @@
 挂线  :    gua4 xian4 
 挂羊头卖狗肉  :    gua4 yang2 tou2 mai4 gou3 rou4 
 挂职  :    gua4 zhi2 
-挂虑  :    gua4 lu:4 
+挂虑  :    gua4 lv4 
 挂钟  :    gua4 zhong1 
 挂钩  :    gua4 gou1 
 挂钩儿  :    gua4 gou1 r5 
@@ -45567,7 +45567,7 @@
 按理说  :    an4 li3 shuo1 
 按照  :    an4 zhao4 
 按照字面  :    an4 zhao4 zi4 mian4 
-按照法律  :    an4 zhao4 fa3 lu:4 
+按照法律  :    an4 zhao4 fa3 lv4 
 按照计划  :    an4 zhao4 ji4 hua4 
 按立  :    an4 li4 
 按立宪治国  :    an4 li4 xian4 zhi4 guo2 
@@ -45638,7 +45638,7 @@
 挑逗性  :    tiao3 dou4 xing4 
 挑食  :    tiao1 shi2 
 挓  :    zha1 
-挔  :    lu:3 
+挔  :    lv3 
 挖  :    wa1 
 挖土机  :    wa1 tu3 ji1 
 挖墙脚  :    wa1 qiang2 jiao3 
@@ -45854,7 +45854,7 @@
 慌忙  :    huang1 mang2 
 慌慌张张  :    huang1 huang1 zhang1 zhang1 
 挠曲  :    nao2 qu1 
-挠率  :    nao2 lu:4 
+挠率  :    nao2 lv4 
 挠痒痒  :    nao2 yang3 yang5 
 慌神  :    huang1 shen2 
 挠裂  :    nao2 lie4 
@@ -45881,7 +45881,7 @@
 捉获  :    zhuo1 huo4 
 捉襟见肘  :    zhuo1 jin1 jian4 zhou3 
 捉迷藏  :    zhuo1 mi2 cang2 
-捋  :    lu:3 
+捋  :    lv3 
 捋胳膊  :    luo1 ge1 bo5 
 捋臂揎拳  :    luo1 bi4 xuan1 quan2 
 捋虎须  :    luo1 hu3 xu1 
@@ -45989,7 +45989,7 @@
 换工  :    huan4 gong1 
 换帖  :    huan4 tie3 
 换成  :    huan4 cheng2 
-换房旅游  :    huan4 fang2 lu:3 you2 
+换房旅游  :    huan4 fang2 lv3 you2 
 换挡  :    huan4 dang3 
 换挡杆  :    huan4 dang3 gan3 
 换新  :    huan4 xin1 
@@ -46107,7 +46107,7 @@
 捅马蜂窝  :    tong3 ma3 feng1 wo1 
 栎  :    li4 
 慎  :    shen4 
-掠  :    lu:e4 
+掠  :    lve4 
 掀  :    xian1 
 掀动  :    xian1 dong4 
 掀天揭地  :    xian1 tian1 jie1 di4 
@@ -46234,10 +46234,10 @@
 排屋  :    pai2 wu1 
 排山倒海  :    pai2 shan1 dao3 hai3 
 排序  :    pai2 xu4 
-排律  :    pai2 lu:4 
+排律  :    pai2 lv4 
 排忧解难  :    pai2 you1 jie3 nan4 
 排挡  :    pai2 dang3 
-排挡速率  :    pai2 dang3 su4 lu:4 
+排挡速率  :    pai2 dang3 su4 lv4 
 排挤  :    pai2 ji3 
 排放  :    pai2 fang4 
 排斥  :    pai2 chi4 
@@ -46245,7 +46245,7 @@
 排查  :    pai2 cha2 
 排查故障  :    pai2 cha2 gu4 zhang4 
 排档  :    pai2 dang3 
-排档速率  :    pai2 dang3 su4 lu:4 
+排档速率  :    pai2 dang3 su4 lv4 
 排检  :    pai2 jian3 
 排毒  :    pai2 du2 
 排比  :    pai2 bi3 
@@ -46624,7 +46624,7 @@
 掲  :    jie1 
 掳  :    lu3 
 掳人勒赎  :    lu3 ren2 le4 shu2 
-掳掠  :    lu3 lu:e4 
+掳掠  :    lu3 lve4 
 掳获  :    lu3 huo4 
 掴  :    guo2 
 掷  :    zhi4 
@@ -46641,22 +46641,22 @@
 掺水  :    chan1 shui3 
 掼  :    guan4 
 掾  :    yuan4 
-掠卖  :    lu:e4 mai4 
-掠卖华工  :    lu:e4 mai4 hua2 gong1 
-掠取  :    lu:e4 qu3 
-掠夺  :    lu:e4 duo2 
-掠夺者  :    lu:e4 duo2 zhe3 
+掠卖  :    lve4 mai4 
+掠卖华工  :    lve4 mai4 hua2 gong1 
+掠取  :    lve4 qu3 
+掠夺  :    lve4 duo2 
+掠夺者  :    lve4 duo2 zhe3 
 慎入  :    shen4 ru4 
 慎密  :    shen4 mi4 
 栎树  :    li4 shu4 
 慎独  :    shen4 du2 
 慎终追远  :    shen4 zhong1 zhui1 yuan3 
-掠美  :    lu:e4 mei3 
+掠美  :    lve4 mei3 
 慎言  :    shen4 yan2 
-掠过  :    lu:e4 guo4 
+掠过  :    lve4 guo4 
 慎重  :    shen4 zhong4 
 慎重其事  :    shen4 zhong4 qi2 shi4 
-掠食  :    lu:e4 shi2 
+掠食  :    lve4 shi2 
 栏  :    lan2 
 揠  :    ya4 
 揅  :    yan2 
@@ -47359,8 +47359,8 @@
 摩蟹座  :    mo2 xie4 zuo4 
 摩西  :    mo2 xi1 
 摩西五经  :    mo2 xi1 wu3 jing1 
-摩西律法  :    mo2 xi1 lu:4 fa3 
-摩西的律法  :    mo2 xi1 de5 lu:4 fa3 
+摩西律法  :    mo2 xi1 lv4 fa3 
+摩西的律法  :    mo2 xi1 de5 lv4 fa3 
 摩诃  :    mo2 he1 
 摩诃婆罗多  :    mo2 he1 po2 luo2 duo1 
 摩门  :    mo2 men2 
@@ -47653,7 +47653,7 @@
 操作系统  :    cao1 zuo4 xi4 tong3 
 操作者  :    cao1 zuo4 zhe3 
 操作规程  :    cao1 zuo4 gui1 cheng2 
-操作速率  :    cao1 zuo4 su4 lu:4 
+操作速率  :    cao1 zuo4 su4 lv4 
 操你妈  :    cao4 ni3 ma1 
 操刀手  :    cao1 dao1 shou3 
 操切  :    cao1 qie4 
@@ -47717,7 +47717,7 @@
 擦干  :    ca1 gan1 
 擦抹  :    ca1 mo3 
 擦拭  :    ca1 shi4 
-擦掠  :    ca1 lu:e4 
+擦掠  :    ca1 lve4 
 擦掉  :    ca1 diao4 
 擦擦笔  :    ca1 ca1 bi3 
 擦枪走火  :    ca1 qiang1 zou3 huo3 
@@ -47836,7 +47836,7 @@
 支招  :    zhi1 zhao1 
 支持  :    zhi1 chi2 
 支持度  :    zhi1 chi2 du4 
-支持率  :    zhi1 chi2 lu:4 
+支持率  :    zhi1 chi2 lv4 
 支持者  :    zhi1 chi2 zhe3 
 支援  :    zhi1 yuan2 
 支撑  :    zhi1 cheng1 
@@ -47942,7 +47942,7 @@
 收留所  :    shou1 liu2 suo3 
 收益  :    shou1 yi4 
 收益帐户  :    shou1 yi4 zhang4 hu4 
-收益率  :    shou1 yi4 lu:4 
+收益率  :    shou1 yi4 lv4 
 收监  :    shou1 jian1 
 收盘  :    shou1 pan2 
 收盘价  :    shou1 pan2 jia4 
@@ -47963,7 +47963,7 @@
 收藏  :    shou1 cang2 
 收藏夹  :    shou1 cang2 jia1 
 收藏家  :    shou1 cang2 jia1 
-收视率  :    shou1 shi4 lu:4 
+收视率  :    shou1 shi4 lv4 
 收讫  :    shou1 qi4 
 收讯  :    shou1 xun4 
 收词  :    shou1 ci2 
@@ -48067,7 +48067,7 @@
 攻打  :    gong1 da3 
 攻无不克，战无不胜  :    gong1 wu2 bu4 ke4 , zhan4 wu2 bu4 sheng4 
 攻灭  :    gong1 mie4 
-攻略  :    gong1 lu:e4 
+攻略  :    gong1 lve4 
 攻砭  :    gong1 bian1 
 攻破  :    gong1 po4 
 攻讦  :    gong1 jie2 
@@ -48301,7 +48301,7 @@
 效果  :    xiao4 guo3 
 效果图  :    xiao4 guo3 tu2 
 效法  :    xiao4 fa3 
-效率  :    xiao4 lu:4 
+效率  :    xiao4 lv4 
 效用  :    xiao4 yong4 
 效益  :    xiao4 yi4 
 效能  :    xiao4 neng2 
@@ -49202,7 +49202,7 @@
 斜方型  :    xie2 fang1 xing2 
 斜方肌  :    xie2 fang1 ji1 
 斜杠  :    xie2 gang4 
-斜率  :    xie2 lu:4 
+斜率  :    xie2 lv4 
 斜眼  :    xie2 yan3 
 斜眼看  :    xie2 yan3 kan4 
 斜睨  :    xie2 ni4 
@@ -49827,7 +49827,7 @@
 施舍  :    shi1 she3 
 施蒂利尔  :    shi1 di4 li4 er3 
 施蒂利尔州  :    shi1 di4 li4 er3 zhou1 
-施虐受虐  :    shi1 nu:e4 shou4 nu:e4 
+施虐受虐  :    shi1 nve4 shou4 nve4 
 施行  :    shi1 xing2 
 施食  :    shi1 shi2 
 斾  :    pei4 
@@ -49842,7 +49842,7 @@
 栖霞市  :    xi1 xia2 shi4 
 栗  :    li4 
 无  :    wu2 
-旅  :    lu:3 
+旅  :    lv3 
 旀  :    mie5 
 旁  :    pang2 
 旁人  :    pang2 ren2 
@@ -49884,7 +49884,7 @@
 旋子  :    xuan2 zi5 
 旋工  :    xuan4 gong1 
 旋床  :    xuan4 chuang2 
-旋律  :    xuan2 lu:4 
+旋律  :    xuan2 lv4 
 旋木  :    xuan4 mu4 
 旋梯  :    xuan2 ti1 
 旋流  :    xuan2 liu2 
@@ -50370,7 +50370,7 @@
 时点  :    shi2 dian3 
 时程  :    shi2 cheng2 
 时空  :    shi2 kong1 
-时空旅行  :    shi2 kong1 lu:3 xing2 
+时空旅行  :    shi2 kong1 lv3 xing2 
 时空穿梭  :    shi2 kong1 chuan1 suo1 
 时绥  :    shi2 sui2 
 时而  :    shi2 er2 
@@ -50547,10 +50547,10 @@
 无处不在  :    wu2 chu4 bu4 zai4 
 无处可寻  :    wu2 chu4 ke3 xun2 
 无处容身  :    wu2 chu4 rong2 shen1 
-旅大  :    lu:3 da4 
-旅大市  :    lu:3 da4 shi4 
+旅大  :    lv3 da4 
+旅大市  :    lv3 da4 shi4 
 无大无小  :    wu2 da4 wu2 xiao3 
-旅大租地条约  :    lu:3 da4 zu1 di4 tiao2 yue1 
+旅大租地条约  :    lv3 da4 zu1 di4 tiao2 yue1 
 无奇不有  :    wu2 qi2 bu4 you3 
 无奈  :    wu2 nai4 
 无奸不商  :    wu2 jian1 bu4 shang1 
@@ -50560,7 +50560,7 @@
 无字碑  :    wu2 zi4 bei1 
 无宁  :    wu2 ning2 
 无定形碳  :    wu2 ding4 xing2 tan4 
-旅客  :    lu:3 ke4 
+旅客  :    lv3 ke4 
 无害  :    wu2 hai4 
 无家可归  :    wu2 jia1 ke3 gui1 
 无容置疑  :    wu2 rong2 zhi4 yi2 
@@ -50568,7 +50568,7 @@
 无尽  :    wu2 jin4 
 无尾熊  :    wu2 wei3 xiong2 
 无尾猿  :    wu2 wei3 yuan2 
-旅居  :    lu:3 ju1 
+旅居  :    lv3 ju1 
 无局  :    wu2 ju2 
 无关  :    wu2 guan1 
 无关紧要  :    wu2 guan1 jin3 yao4 
@@ -50581,7 +50581,7 @@
 无底  :    wu2 di3 
 无底坑  :    wu2 di3 keng1 
 无底洞  :    wu2 di3 dong4 
-旅店  :    lu:3 dian4 
+旅店  :    lv3 dian4 
 无度  :    wu2 du4 
 无庸  :    wu2 yong1 
 无异  :    wu2 yi4 
@@ -50595,7 +50595,7 @@
 无微不至  :    wu2 wei1 bu4 zhi4 
 无心  :    wu2 xin1 
 无心插柳柳成阴  :    wu2 xin1 cha1 liu3 liu3 cheng2 yin1 
-无忧无虑  :    wu2 you1 wu2 lu:4 
+无忧无虑  :    wu2 you1 wu2 lv4 
 无性  :    wu2 xing4 
 无性繁殖  :    wu2 xing4 fan2 zhi2 
 无怨无悔  :    wu2 yuan4 wu2 hui3 
@@ -50658,7 +50658,7 @@
 无条件投降  :    wu2 tiao2 jian4 tou2 xiang2 
 无极  :    wu2 ji2 
 无极县  :    wu2 ji2 xian4 
-旅检  :    lu:3 jian3 
+旅检  :    lv3 jian3 
 无棣  :    wu2 di4 
 无棣县  :    wu2 di4 xian4 
 无毒  :    wu2 du2 
@@ -50676,16 +50676,16 @@
 无法替代  :    wu2 fa3 ti4 dai4 
 无济于事  :    wu2 ji4 yu2 shi4 
 无核  :    wu2 he2 
-旅游  :    lu:3 you2 
-旅游业  :    lu:3 you2 ye4 
-旅游团  :    lu:3 you2 tuan2 
-旅游城市  :    lu:3 you2 cheng2 shi4 
-旅游客  :    lu:3 you2 ke4 
-旅游景点  :    lu:3 you2 jing3 dian3 
-旅游热点  :    lu:3 you2 re4 dian3 
-旅游者  :    lu:3 you2 zhe3 
-旅游胜地  :    lu:3 you2 sheng4 di4 
-旅游集散  :    lu:3 you2 ji2 san4 
+旅游  :    lv3 you2 
+旅游业  :    lv3 you2 ye4 
+旅游团  :    lv3 you2 tuan2 
+旅游城市  :    lv3 you2 cheng2 shi4 
+旅游客  :    lv3 you2 ke4 
+旅游景点  :    lv3 you2 jing3 dian3 
+旅游热点  :    lv3 you2 re4 dian3 
+旅游者  :    lv3 you2 zhe3 
+旅游胜地  :    lv3 you2 sheng4 di4 
+旅游集散  :    lv3 you2 ji2 san4 
 无核化  :    wu2 he2 hua4 
 无核区  :    wu2 he2 qu1 
 无码  :    wu2 ma3 
@@ -50719,7 +50719,7 @@
 无知觉  :    wu2 zhi1 jue2 
 无碍  :    wu2 ai4 
 无礼  :    wu2 li3 
-旅社  :    lu:3 she4 
+旅社  :    lv3 she4 
 无神论  :    wu2 shen2 lun4 
 无神论者  :    wu2 shen2 lun4 zhe3 
 无禄  :    wu2 lu4 
@@ -50727,8 +50727,8 @@
 无私  :    wu2 si1 
 无秩序  :    wu2 zhi4 xu4 
 无照经营  :    wu2 zhao4 jing1 ying2 
-旅程  :    lu:3 cheng2 
-旅程表  :    lu:3 cheng2 biao3 
+旅程  :    lv3 cheng2 
+旅程表  :    lv3 cheng2 biao3 
 无稽  :    wu2 ji1 
 无稽之谈  :    wu2 ji1 zhi1 tan2 
 无穷  :    wu2 qiong2 
@@ -50773,7 +50773,7 @@
 无脊椎  :    wu2 ji3 zhui1 
 无脊椎动物  :    wu2 ji3 zhui1 dong4 wu4 
 无脚蟹  :    wu2 jiao3 xie4 
-旅舍  :    lu:3 she4 
+旅舍  :    lv3 she4 
 无船承运人  :    wu2 chuan2 cheng2 yun4 ren2 
 栗色  :    li4 se4 
 无色  :    wu2 se4 
@@ -50783,13 +50783,13 @@
 无菌性  :    wu2 jun1 xing4 
 无虞  :    wu2 yu2 
 无虞匮乏  :    wu2 yu2 kui4 fa2 
-旅行  :    lu:3 xing2 
-旅行团  :    lu:3 xing2 tuan2 
-旅行支票  :    lu:3 xing2 zhi1 piao4 
-旅行社  :    lu:3 xing2 she4 
-旅行者  :    lu:3 xing2 zhe3 
-旅行袋  :    lu:3 xing2 dai4 
-旅行装备  :    lu:3 xing2 zhuang1 bei4 
+旅行  :    lv3 xing2 
+旅行团  :    lv3 xing2 tuan2 
+旅行支票  :    lv3 xing2 zhi1 piao4 
+旅行社  :    lv3 xing2 she4 
+旅行者  :    lv3 xing2 zhe3 
+旅行袋  :    lv3 xing2 dai4 
+旅行装备  :    lv3 xing2 zhuang1 bei4 
 无补  :    wu2 bu3 
 无表情  :    wu2 biao3 qing2 
 无视  :    wu2 shi4 
@@ -50810,7 +50810,7 @@
 无误  :    wu2 wu4 
 无谓  :    wu2 wei4 
 无货  :    wu2 huo4 
-旅费  :    lu:3 fei4 
+旅费  :    lv3 fei4 
 无赖  :    wu2 lai4 
 无趣  :    wu2 qu4 
 无足轻重  :    wu2 zu2 qing1 zhong4 
@@ -50824,7 +50824,7 @@
 无边无际  :    wu2 bian1 wu2 ji4 
 无远弗届  :    wu2 yuan3 fu2 jie4 
 无连接  :    wu2 lian2 jie1 
-旅途  :    lu:3 tu2 
+旅途  :    lv3 tu2 
 无道  :    wu2 dao4 
 无遗  :    wu2 yi2 
 无邪  :    wu2 xie2 
@@ -50847,15 +50847,15 @@
 无需  :    wu2 xu1 
 无霜期  :    wu2 shuang1 qi1 
 无非  :    wu2 fei1 
-旅顺  :    lu:3 shun4 
-旅顺口  :    lu:3 shun4 kou3 
-旅顺口区  :    lu:3 shun4 kou3 qu1 
-旅顺港  :    lu:3 shun4 gang3 
+旅顺  :    lv3 shun4 
+旅顺口  :    lv3 shun4 kou3 
+旅顺口区  :    lv3 shun4 kou3 qu1 
+旅顺港  :    lv3 shun4 gang3 
 无须  :    wu2 xu1 
 无颌  :    wu2 he2 
 无题  :    wu2 ti2 
 无风不起浪  :    wu2 feng1 bu4 qi3 lang4 
-旅馆  :    lu:3 guan3 
+旅馆  :    lv3 guan3 
 栗鼠  :    li4 shu3 
 无齿翼龙  :    wu2 chi3 yi4 long2 
 栘  :    yi2 
@@ -51203,7 +51203,7 @@
 星辰  :    xing1 chen2 
 星际  :    xing1 ji4 
 星际争霸  :    xing1 ji4 zheng1 ba4 
-星际旅行  :    xing1 ji4 lu:3 xing2 
+星际旅行  :    xing1 ji4 lv3 xing2 
 星驰  :    xing1 chi2 
 昡  :    xuan4 
 昤  :    ling1 
@@ -51348,7 +51348,7 @@
 昼伏夜出  :    zhou4 fu2 ye4 chu1 
 昼夜  :    zhou4 ye4 
 昼夜平分点  :    zhou4 ye4 ping2 fen1 dian3 
-昼夜节律  :    zhou4 ye4 jie2 lu:4 
+昼夜节律  :    zhou4 ye4 jie2 lv4 
 昼短夜长  :    zhou4 duan3 ye4 chang2 
 昽  :    long2 
 显  :    xian3 
@@ -51760,7 +51760,7 @@
 智珠在握  :    zhi4 zhu1 zai4 wo4 
 智神星  :    zhi4 shen2 xing1 
 智者  :    zhi4 zhe3 
-智者千虑，必有一失  :    zhi4 zhe3 qian1 lu:4 , bi4 you3 yi1 shi1 
+智者千虑，必有一失  :    zhi4 zhe3 qian1 lv4 , bi4 you3 yi1 shi1 
 智育  :    zhi4 yu4 
 智能  :    zhi4 neng2 
 智能卡  :    zhi4 neng2 ka3 
@@ -51957,7 +51957,7 @@
 暴燥  :    bao4 zao4 
 暴病  :    bao4 bing4 
 暴虎冯河  :    bao4 hu3 ping2 he2 
-暴虐  :    bao4 nu:e4 
+暴虐  :    bao4 nve4 
 暴行  :    bao4 xing2 
 暴走漫画  :    bao4 zou3 man4 hua4 
 暴跌  :    bao4 die1 
@@ -52031,8 +52031,8 @@
 曲池穴  :    qu1 chi2 xue2 
 曲沃  :    qu3 wo4 
 曲沃县  :    qu3 wo4 xian4 
-曲率  :    qu1 lu:4 
-曲率向量  :    qu1 lu:4 xiang4 liang4 
+曲率  :    qu1 lv4 
+曲率向量  :    qu1 lv4 xiang4 liang4 
 曲目  :    qu3 mu4 
 曲直  :    qu1 zhi2 
 曲笔  :    qu1 bi3 
@@ -52138,7 +52138,7 @@
 曼联球迷  :    man4 lian2 qiu2 mi2 
 曼联队  :    man4 lian2 dui4 
 曼苏尔  :    man4 su1 er3 
-曼荷莲女子学院  :    man4 he2 lian2 nu:3 zi3 xue2 yuan4 
+曼荷莲女子学院  :    man4 he2 lian2 nv3 zi3 xue2 yuan4 
 曼荼罗  :    man4 tu2 luo2 
 曼谷  :    man4 gu3 
 曼达尔  :    man4 da2 er3 
@@ -52152,7 +52152,7 @@
 曾外祖父  :    zeng1 wai4 zu3 fu4 
 曾子  :    zeng1 zi3 
 曾孙  :    zeng1 sun1 
-曾孙女  :    zeng1 sun1 nu:3 
+曾孙女  :    zeng1 sun1 nv3 
 曾孝谷  :    zeng1 xiao4 gu3 
 曾巩  :    zeng1 gong3 
 曾庆红  :    zeng1 qing4 hong2 
@@ -52218,7 +52218,7 @@
 最大化  :    zui4 da4 hua4 
 最大公因子  :    zui4 da4 gong1 yin1 zi3 
 最大公约数  :    zui4 da4 gong1 yue1 shu4 
-最大速率  :    zui4 da4 su4 lu:4 
+最大速率  :    zui4 da4 su4 lv4 
 最好  :    zui4 hao3 
 最密堆积  :    zui4 mi4 dui1 ji1 
 最小二乘  :    zui4 xiao3 er4 cheng2 
@@ -52253,7 +52253,7 @@
 月事  :    yue4 shi4 
 月亏  :    yue4 kui1 
 月亮  :    yue4 liang5 
-月亮女神  :    yue4 liang5 nu:3 shen2 
+月亮女神  :    yue4 liang5 nv3 shen2 
 月令  :    yue4 ling4 
 月份  :    yue4 fen4 
 月份会议  :    yue4 fen4 hui4 yi4 
@@ -52280,7 +52280,7 @@
 月夕  :    yue4 xi1 
 月夜  :    yue4 ye4 
 月头儿  :    yue4 tou2 r5 
-月女神  :    yue4 nu:3 shen2 
+月女神  :    yue4 nv3 shen2 
 月全食  :    yue4 quan2 shi2 
 月婆子  :    yue4 po2 zi5 
 月嫂  :    yue4 sao3 
@@ -52768,7 +52768,7 @@
 朝  :    zhao1 
 朝三暮四  :    zhao1 san1 mu4 si4 
 朝不保夕  :    zhao1 bu4 bao3 xi1 
-朝不虑夕  :    zhao1 bu4 lu:4 xi1 
+朝不虑夕  :    zhao1 bu4 lv4 xi1 
 朝中  :    chao2 zhong1 
 朝中社  :    chao2 zhong1 she4 
 朝乾夕惕  :    zhao1 qian2 xi1 ti4 
@@ -53331,7 +53331,7 @@
 机油  :    ji1 you2 
 机灵  :    ji1 ling5 
 机灵鬼  :    ji1 ling2 gui3 
-机率  :    ji1 lu:4 
+机率  :    ji1 lv4 
 机理  :    ji1 li3 
 机电  :    ji1 dian4 
 机票  :    ji1 piao4 
@@ -53662,7 +53662,7 @@
 李维  :    li3 wei2 
 李维史陀  :    li3 wei2 shi3 tuo2 
 李维斯  :    li3 wei2 si1 
-李绿园  :    li3 lu:4 yuan2 
+李绿园  :    li3 lv4 yuan2 
 李缨  :    li3 ying1 
 李群  :    li3 qun2 
 李翱  :    li3 ao2 
@@ -53799,7 +53799,7 @@
 杞国  :    qi3 guo2 
 杞国之忧  :    qi3 guo2 zhi1 you1 
 杞国忧天  :    qi3 guo2 you1 tian1 
-杞天之虑  :    qi3 tian1 zhi1 lu:4 
+杞天之虑  :    qi3 tian1 zhi1 lv4 
 杞梓之林  :    qi3 zi3 zhi1 lin2 
 束  :    shu4 
 束之高阁  :    shu4 zhi1 gao1 ge2 
@@ -53829,11 +53829,11 @@
 条件反应  :    tiao2 jian4 fan3 ying4 
 条件句  :    tiao2 jian4 ju4 
 条件式  :    tiao2 jian4 shi4 
-条件概率  :    tiao2 jian4 gai4 lu:4 
+条件概率  :    tiao2 jian4 gai4 lv4 
 条例  :    tiao2 li4 
 条几  :    tiao2 ji1 
 条凳  :    tiao2 deng4 
-条分缕析  :    tiao2 fen1 lu:3 xi1 
+条分缕析  :    tiao2 fen1 lv3 xi1 
 条子  :    tiao2 zi5 
 条幅  :    tiao2 fu2 
 条幅广告  :    tiao2 fu2 guang3 gao4 
@@ -54821,7 +54821,7 @@
 柳河县  :    liu3 he2 xian4 
 柳烟花雾  :    liu3 yan1 hua1 wu4 
 柳琴  :    liu3 qin2 
-柳绿花红  :    liu3 lu:4 hua1 hong2 
+柳绿花红  :    liu3 lv4 hua1 hong2 
 柳莺  :    liu3 ying1 
 柳营  :    liu3 ying2 
 柳营乡  :    liu3 ying2 xiang1 
@@ -55142,7 +55142,7 @@
 校验码  :    xiao4 yan4 ma3 
 慢  :    man4 
 梅  :    mei2 
-梠  :    lu:3 
+梠  :    lv3 
 梁  :    liang2 
 梁上君子  :    liang2 shang4 jun1 zi3 
 梁书  :    liang2 shu1 
@@ -55493,11 +55493,11 @@
 棕树  :    zong1 shu4 
 棕枝主日  :    zong1 zhi1 zhu3 ri4 
 棕枝全日  :    zong1 zhi1 quan2 ri4 
-棕榈  :    zong1 lu:2 
-棕榈属  :    zong1 lu:2 shu3 
-棕榈树  :    zong1 lu:2 shu4 
-棕榈油  :    zong1 lu:2 you2 
-棕榈科  :    zong1 lu:2 ke1 
+棕榈  :    zong1 lv2 
+棕榈属  :    zong1 lv2 shu3 
+棕榈树  :    zong1 lv2 shu4 
+棕榈油  :    zong1 lv2 you2 
+棕榈科  :    zong1 lv2 ke1 
 棕毛  :    zong1 mao2 
 棕毯  :    zong1 tan3 
 棕熊  :    zong1 xiong2 
@@ -55510,7 +55510,7 @@
 棕色  :    zong1 se4 
 棕蓑猫  :    zong1 suo1 mao1 
 棕褐色  :    zong1 he4 se4 
-棕闾  :    zong1 lu:2 
+棕闾  :    zong1 lv2 
 棕黄  :    zong1 huang2 
 棕黑  :    zong1 hei1 
 棘  :    ji2 
@@ -55765,9 +55765,9 @@
 概括化  :    gai4 kuo4 hua4 
 概数  :    gai4 shu4 
 概测法  :    gai4 ce4 fa3 
-概率  :    gai4 lu:4 
-概率和数理统计  :    gai4 lu:4 he2 shu4 li3 tong3 ji4 
-概率论  :    gai4 lu:4 lun4 
+概率  :    gai4 lv4 
+概率和数理统计  :    gai4 lv4 he2 shu4 li3 tong3 ji4 
+概率论  :    gai4 lv4 lun4 
 概而言之  :    gai4 er2 yan2 zhi1 
 概要  :    gai4 yao4 
 概观  :    gai4 guan1 
@@ -55794,7 +55794,7 @@
 榆阳  :    yu2 yang2 
 榆阳区  :    yu2 yang2 qu1 
 榇  :    chen4 
-榈  :    lu:2 
+榈  :    lv2 
 榉  :    ju3 
 榉木  :    ju3 mu4 
 榊  :    shen2 
@@ -56128,7 +56128,7 @@
 橄榄油  :    gan3 lan3 you2 
 橄榄球  :    gan3 lan3 qiu2 
 橄榄石  :    gan3 lan3 shi2 
-橄榄绿  :    gan3 lan3 lu:4 
+橄榄绿  :    gan3 lan3 lv4 
 橆  :    wu3 
 橇  :    qiao1 
 橊  :    liu2 
@@ -56257,7 +56257,7 @@
 次品  :    ci4 pin3 
 次声波  :    ci4 sheng1 bo1 
 次大陆  :    ci4 da4 lu4 
-次女  :    ci4 nu:3 
+次女  :    ci4 nv3 
 次子  :    ci4 zi3 
 次官  :    ci4 guan1 
 次序  :    ci4 xu4 
@@ -56265,7 +56265,7 @@
 次文化  :    ci4 wen2 hua4 
 次方  :    ci4 fang1 
 次日  :    ci4 ri4 
-次氯酸  :    ci4 lu:4 suan1 
+次氯酸  :    ci4 lv4 suan1 
 次溴酸  :    ci4 xiu4 suan1 
 次生  :    ci4 sheng1 
 次生林  :    ci4 sheng1 lin2 
@@ -56414,7 +56414,7 @@
 欲取姑予  :    yu4 qu3 gu1 yu3 
 欲善其事，必先利其器  :    yu4 shan4 qi2 shi4 , bi4 xian1 li4 qi2 qi4 
 欲壑难填  :    yu4 he4 nan2 tian2 
-欲女  :    yu4 nu:3 
+欲女  :    yu4 nv3 
 欲念  :    yu4 nian4 
 欲振乏力  :    yu4 zhen4 fa2 li4 
 欲擒故纵  :    yu4 qin2 gu4 zong4 
@@ -56445,7 +56445,7 @@
 欺压  :    qi1 ya1 
 欺哄  :    qi1 hong3 
 欺生  :    qi1 sheng1 
-欺男霸女  :    qi1 nan2 ba4 nu:3 
+欺男霸女  :    qi1 nan2 ba4 nv3 
 欺瞒  :    qi1 man2 
 欺诈  :    qi1 zha4 
 欺诈者  :    qi1 zha4 zhe3 
@@ -56525,7 +56525,7 @@
 歌唱赛  :    ge1 chang4 sai4 
 歌坛  :    ge1 tan2 
 歌声  :    ge1 sheng1 
-歌女  :    ge1 nu:3 
+歌女  :    ge1 nv3 
 歌姬  :    ge1 ji1 
 歌子  :    ge1 zi5 
 歌德  :    ge1 de2 
@@ -56776,9 +56776,9 @@
 步哨  :    bu4 shao4 
 步入  :    bu4 ru4 
 步子  :    bu4 zi5 
-步履  :    bu4 lu:3 
-步履紊乱  :    bu4 lu:3 wen3 luan4 
-步履维艰  :    bu4 lu:3 wei2 jian1 
+步履  :    bu4 lv3 
+步履紊乱  :    bu4 lv3 wen3 luan4 
+步履维艰  :    bu4 lv3 wei2 jian1 
 步兵  :    bu4 bing1 
 步态  :    bu4 tai4 
 步态蹒跚  :    bu4 tai4 pan2 shan1 
@@ -56894,7 +56894,7 @@
 武溪  :    wu3 xi1 
 武王伐纣  :    wu3 wang2 fa2 zhou4 
 武生  :    wu3 sheng1 
-武略  :    wu3 lu:e4 
+武略  :    wu3 lve4 
 武穴  :    wu3 xue2 
 武穴市  :    wu3 xue2 shi4 
 武经七书  :    wu3 jing1 qi1 shu1 
@@ -56975,7 +56975,7 @@
 死于非命  :    si3 yu2 fei1 ming4 
 死亡  :    si3 wang2 
 死亡人数  :    si3 wang2 ren2 shu4 
-死亡率  :    si3 wang2 lu:4 
+死亡率  :    si3 wang2 lv4 
 死亡笔记  :    si3 wang2 bi3 ji4 
 死产  :    si3 chan3 
 死人  :    si3 ren2 
@@ -57140,7 +57140,7 @@
 残花败柳  :    can2 hua1 bai4 liu3 
 残茎  :    can2 jing1 
 残茶剩饭  :    can2 cha2 sheng4 fan4 
-残虐  :    can2 nu:e4 
+残虐  :    can2 nve4 
 残败  :    can2 bai4 
 残部  :    can2 bu4 
 残障  :    can2 zhang4 
@@ -57169,8 +57169,8 @@
 殚心  :    dan1 xin1 
 殚残  :    dan1 can2 
 殚竭  :    dan1 jie2 
-殚精极虑  :    dan1 jing1 ji2 lu:4 
-殚精竭虑  :    dan1 jing1 jie2 lu:4 
+殚精极虑  :    dan1 jing1 ji2 lv4 
+殚精竭虑  :    dan1 jing1 jie2 lv4 
 殚闷  :    dan1 men4 
 殛  :    ji2 
 殜  :    die2 
@@ -57251,7 +57251,7 @@
 母函数  :    mu3 han2 shu4 
 母党  :    mu3 dang3 
 母夜叉  :    mu3 ye4 cha1 
-母女  :    mu3 nu:3 
+母女  :    mu3 nv3 
 母公司  :    mu3 gong1 si1 
 母子  :    mu3 zi3 
 母子垂直感染  :    mu3 zi3 chui2 zhi2 gan3 ran3 
@@ -57417,7 +57417,7 @@
 比特  :    bi3 te4 
 比特币  :    bi3 te4 bi4 
 比特犬  :    bi3 te4 quan3 
-比率  :    bi3 lu:4 
+比率  :    bi3 lv4 
 比画  :    bi3 hua4 
 比登天还难  :    bi3 deng1 tian1 hai2 nan2 
 比目鱼  :    bi3 mu4 yu2 
@@ -57556,7 +57556,7 @@
 毛里塔尼亚  :    mao2 li3 ta3 ni2 ya4 
 毛里求斯  :    mao2 li3 qiu2 si1 
 毛重  :    mao2 zhong4 
-毛驴  :    mao2 lu:2 
+毛驴  :    mao2 lv2 
 毛骨悚然  :    mao2 gu3 song3 ran2 
 毛酸浆  :    mao2 suan1 jiang1 
 毡  :    zhan1 
@@ -57652,7 +57652,7 @@
 民团  :    min2 tuan2 
 民国  :    min2 guo2 
 民国通俗演义  :    min2 guo2 tong1 su2 yan3 yi4 
-民女  :    min2 nu:3 
+民女  :    min2 nv3 
 民宅  :    min2 zhai2 
 民家  :    min2 jia1 
 民宿  :    min2 su4 
@@ -57913,11 +57913,11 @@
 氢氧化钠  :    qing1 yang3 hua4 na4 
 氢氧化钙  :    qing1 yang3 hua4 gai4 
 氢氧化钾  :    qing1 yang3 hua4 jia3 
-氢氧化铝  :    qing1 yang3 hua4 lu:3 
+氢氧化铝  :    qing1 yang3 hua4 lv3 
 氢氧根  :    qing1 yang3 gen1 
 氢氧根离子  :    qing1 yang3 gen1 li2 zi3 
 氢氧离子  :    qing1 yang3 li2 zi3 
-氢氯酸  :    qing1 lu:4 suan1 
+氢氯酸  :    qing1 lv4 suan1 
 氢溴酸  :    qing1 xiu4 suan1 
 氢键  :    qing1 jian4 
 氢酶  :    qing1 mei2 
@@ -57938,7 +57938,7 @@
 氧化罐  :    yang3 hua4 guan4 
 氧化钙  :    yang3 hua4 gai4 
 氧化铀  :    yang3 hua4 you2 
-氧化铝  :    yang3 hua4 lu:3 
+氧化铝  :    yang3 hua4 lv3 
 氧化锌  :    yang3 hua4 xin1 
 氧化镁  :    yang3 hua4 mei3 
 氧原子  :    yang3 yuan2 zi3 
@@ -57965,37 +57965,37 @@
 氮气  :    dan4 qi4 
 氮氧化物  :    dan4 yang3 hua4 wu4 
 氮芥气  :    dan4 jie4 qi4 
-氯  :    lu:4 
-氯丁橡胶  :    lu:4 ding1 xiang4 jiao1 
-氯乙烯  :    lu:4 yi3 xi1 
-氯仿  :    lu:4 fang3 
-氯化氢  :    lu:4 hua4 qing1 
-氯化氰  :    lu:4 hua4 qing2 
-氯化物  :    lu:4 hua4 wu4 
-氯化苦  :    lu:4 hua4 ku3 
-氯化钠  :    lu:4 hua4 na4 
-氯化钙  :    lu:4 hua4 gai4 
-氯化钾  :    lu:4 hua4 jia3 
-氯化铝  :    lu:4 hua4 lu:3 
-氯化铵  :    lu:4 hua4 an3 
-氯化锌  :    lu:4 hua4 xin1 
-氯单质  :    lu:4 dan1 zhi4 
-氯喹  :    lu:4 kui2 
-氯安酮  :    lu:4 an1 tong2 
-氯已烯  :    lu:4 yi3 xi1 
-氯林可霉素  :    lu:4 lin2 ke3 mei2 su4 
-氯气  :    lu:4 qi4 
-氯洁霉素  :    lu:4 jie2 mei2 su4 
-氯甲烷  :    lu:4 jia3 wan2 
-氯痤疮  :    lu:4 cuo2 chuang1 
-氯磷定  :    lu:4 lin2 ding4 
-氯纶  :    lu:4 lun2 
-氯胺酮  :    lu:4 an4 tong2 
-氯苯  :    lu:4 ben3 
-氯霉素  :    lu:4 mei2 su4 
-氯酸  :    lu:4 suan1 
-氯酸钠  :    lu:4 suan1 na4 
-氯酸钾  :    lu:4 suan1 jia3 
+氯  :    lv4 
+氯丁橡胶  :    lv4 ding1 xiang4 jiao1 
+氯乙烯  :    lv4 yi3 xi1 
+氯仿  :    lv4 fang3 
+氯化氢  :    lv4 hua4 qing1 
+氯化氰  :    lv4 hua4 qing2 
+氯化物  :    lv4 hua4 wu4 
+氯化苦  :    lv4 hua4 ku3 
+氯化钠  :    lv4 hua4 na4 
+氯化钙  :    lv4 hua4 gai4 
+氯化钾  :    lv4 hua4 jia3 
+氯化铝  :    lv4 hua4 lv3 
+氯化铵  :    lv4 hua4 an3 
+氯化锌  :    lv4 hua4 xin1 
+氯单质  :    lv4 dan1 zhi4 
+氯喹  :    lv4 kui2 
+氯安酮  :    lv4 an1 tong2 
+氯已烯  :    lv4 yi3 xi1 
+氯林可霉素  :    lv4 lin2 ke3 mei2 su4 
+氯气  :    lv4 qi4 
+氯洁霉素  :    lv4 jie2 mei2 su4 
+氯甲烷  :    lv4 jia3 wan2 
+氯痤疮  :    lv4 cuo2 chuang1 
+氯磷定  :    lv4 lin2 ding4 
+氯纶  :    lv4 lun2 
+氯胺酮  :    lv4 an4 tong2 
+氯苯  :    lv4 ben3 
+氯霉素  :    lv4 mei2 su4 
+氯酸  :    lv4 suan1 
+氯酸钠  :    lv4 suan1 na4 
+氯酸钾  :    lv4 suan1 jia3 
 氰  :    qing2 
 氰化  :    qing2 hua4 
 氰化物  :    qing2 hua4 wu4 
@@ -58199,7 +58199,7 @@
 水煮鱼  :    shui3 zhu3 yu2 
 水系  :    shui3 xi4 
 水纹  :    shui3 wen2 
-水绿  :    shui3 lu:4 
+水绿  :    shui3 lv4 
 水缸  :    shui3 gang1 
 水翼船  :    shui3 yi4 chuan2 
 水老鸦  :    shui3 lao3 ya1 
@@ -58463,7 +58463,7 @@
 汇流环  :    hui4 liu2 huan2 
 汇演  :    hui4 yan3 
 汇点  :    hui4 dian3 
-汇率  :    hui4 lu:4 
+汇率  :    hui4 lv4 
 汇票  :    hui4 piao4 
 汇编  :    hui4 bian1 
 汇编语言  :    hui4 bian1 yu3 yan2 
@@ -58823,7 +58823,7 @@
 汽车展览会  :    qi4 che1 zhan3 lan3 hui4 
 汽车戏院  :    qi4 che1 xi4 yuan4 
 汽车技工  :    qi4 che1 ji4 gong1 
-汽车旅馆  :    qi4 che1 lu:3 guan3 
+汽车旅馆  :    qi4 che1 lv3 guan3 
 汽车炸弹  :    qi4 che1 zha4 dan4 
 汽车炸弹事件  :    qi4 che1 zha4 dan4 shi4 jian4 
 汽车站  :    qi4 che1 zhan4 
@@ -59036,7 +59036,7 @@
 沙市  :    sha1 shi4 
 沙市区  :    sha1 shi4 qu1 
 沙弥  :    sha1 mi2 
-沙律  :    sha1 lu:4 
+沙律  :    sha1 lv4 
 沙悟净  :    sha1 wu4 jing4 
 沙拉  :    sha1 la1 
 沙捞越  :    sha1 lao1 yue4 
@@ -59640,10 +59640,10 @@
 法庭  :    fa3 ting2 
 法式  :    fa3 shi4 
 法式色拉酱  :    fa3 shi4 se4 la1 jiang4 
-法律  :    fa3 lu:4 
-法律制裁  :    fa3 lu:4 zhi4 cai2 
-法律约束力  :    fa3 lu:4 yue1 shu4 li4 
-法律责任  :    fa3 lu:4 ze2 ren4 
+法律  :    fa3 lv4 
+法律制裁  :    fa3 lv4 zhi4 cai2 
+法律约束力  :    fa3 lv4 yue1 shu4 li4 
+法律责任  :    fa3 lv4 ze2 ren4 
 法拉  :    fa3 la1 
 法拉利  :    fa3 la1 li4 
 法拉盛  :    fa3 la1 sheng4 
@@ -59846,7 +59846,7 @@
 波澜起伏  :    bo1 lan2 qi3 fu2 
 波特  :    bo1 te4 
 波特兰市  :    bo1 te4 lan2 shi4 
-波特率  :    bo1 te4 lu:4 
+波特率  :    bo1 te4 lv4 
 波特酒  :    bo1 te4 jiu3 
 波状  :    bo1 zhuang4 
 波状云  :    bo1 zhuang4 yun2 
@@ -60105,7 +60105,7 @@
 泽兰  :    ze2 lan2 
 泽州  :    ze2 zhou1 
 泽州县  :    ze2 zhou1 xian4 
-泽布吕赫  :    ze2 bu4 lu:3 he4 
+泽布吕赫  :    ze2 bu4 lv3 he4 
 泽库  :    ze2 ku4 
 泽库县  :    ze2 ku4 xian4 
 泽当  :    ze2 dang1 
@@ -60753,9 +60753,9 @@
 浊酒  :    zhuo2 jiu3 
 浊音  :    zhuo2 yin1 
 测  :    ce4 
-测地曲率  :    ce4 di4 qu1 lu:4 
+测地曲率  :    ce4 di4 qu1 lv4 
 测地线  :    ce4 di4 xian4 
-测地线曲率  :    ce4 di4 xian4 qu1 lu:4 
+测地线曲率  :    ce4 di4 xian4 qu1 lv4 
 测天  :    ce4 tian1 
 测孕  :    ce4 yun4 
 测定  :    ce4 ding4 
@@ -60884,7 +60884,7 @@
 浜  :    bang1 
 浡  :    bo2 
 浣  :    huan4 
-浣女  :    huan4 nu:3 
+浣女  :    huan4 nv3 
 浣洗  :    huan4 xi3 
 浣涤  :    huan4 di2 
 浣濯  :    huan4 zhuo2 
@@ -60964,7 +60964,7 @@
 浮出水面  :    fu2 chu1 shui3 mian4 
 浮利  :    fu2 li4 
 浮力  :    fu2 li4 
-浮力定律  :    fu2 li4 ding4 lu:4 
+浮力定律  :    fu2 li4 ding4 lv4 
 浮力调整背心  :    fu2 li4 tiao2 zheng3 bei4 xin1 
 浮力调整装置  :    fu2 li4 tiao2 zheng3 zhuang1 zhi4 
 浮动  :    fu2 dong4 
@@ -61289,7 +61289,7 @@
 海边  :    hai3 bian1 
 海运  :    hai3 yun4 
 海运费  :    hai3 yun4 fei4 
-海运费率  :    hai3 yun4 fei4 lu:4 
+海运费率  :    hai3 yun4 fei4 lv4 
 海迪  :    hai3 di2 
 海选  :    hai3 xuan3 
 海部俊树  :    hai3 bu4 jun4 shu4 
@@ -61493,7 +61493,7 @@
 消防队  :    xiao1 fang2 dui4 
 消防队员  :    xiao1 fang2 dui4 yuan2 
 消除  :    xiao1 chu2 
-消除对妇女一切形式歧视公约  :    xiao1 chu2 dui4 fu4 nu:3 yi1 qie4 xing2 shi4 qi2 shi4 gong1 yue1 
+消除对妇女一切形式歧视公约  :    xiao1 chu2 dui4 fu4 nv3 yi1 qie4 xing2 shi4 qi2 shi4 gong1 yue1 
 消除歧义  :    xiao1 chu2 qi2 yi4 
 消除毒剂  :    xiao1 chu2 du2 ji4 
 消除锯齿  :    xiao1 chu2 ju4 chi3 
@@ -61603,7 +61603,7 @@
 涤纶  :    di2 lun2 
 涤罪所  :    di2 zui4 suo3 
 涤荡  :    di2 dang4 
-涤虑  :    di2 lu:4 
+涤虑  :    di2 lv4 
 涤除  :    di2 chu2 
 润  :    run4 
 润发液  :    run4 fa4 ye4 
@@ -61768,7 +61768,7 @@
 淑  :    shu1 
 淑世  :    shu1 shi4 
 淑人君子  :    shu1 ren2 jun1 zi5 
-淑女  :    shu1 nu:3 
+淑女  :    shu1 nv3 
 淑静  :    shu1 jing4 
 淓  :    fang1 
 淖  :    nao4 
@@ -61924,7 +61924,7 @@
 深度尺  :    shen1 du4 chi3 
 深得民心  :    shen1 de2 min2 xin1 
 深思  :    shen1 si1 
-深思熟虑  :    shen1 si1 shu2 lu:4 
+深思熟虑  :    shen1 si1 shu2 lv4 
 深恶痛绝  :    shen1 wu4 tong4 jue2 
 深情  :    shen1 qing2 
 深情厚意  :    shen1 qing2 hou4 yi4 
@@ -61959,7 +61959,7 @@
 深究  :    shen1 jiu1 
 深空  :    shen1 kong1 
 深红色  :    shen1 hong2 se4 
-深绿  :    shen1 lu:4 
+深绿  :    shen1 lv4 
 深耕  :    shen1 geng1 
 深耕细作  :    shen1 geng1 xi4 zuo4 
 深色  :    shen1 se4 
@@ -61967,8 +61967,8 @@
 深藏若虚  :    shen1 cang2 ruo4 xu1 
 深谈  :    shen1 tan2 
 深谋  :    shen1 mou2 
-深谋远略  :    shen1 mou2 yuan3 lu:e4 
-深谋远虑  :    shen1 mou2 yuan3 lu:4 
+深谋远略  :    shen1 mou2 yuan3 lve4 
+深谋远虑  :    shen1 mou2 yuan3 lv4 
 深谷  :    shen1 gu3 
 深蹲  :    shen1 dun1 
 深远  :    shen1 yuan3 
@@ -62116,7 +62116,7 @@
 渊源  :    yuan1 yuan2 
 渊玄  :    yuan1 xuan2 
 渊薮  :    yuan1 sou3 
-渊虑  :    yuan1 lu:4 
+渊虑  :    yuan1 lv4 
 渊识  :    yuan1 shi2 
 渊诣  :    yuan1 yi4 
 渊谋  :    yuan1 mou2 
@@ -62176,8 +62176,8 @@
 渗水  :    shen4 shui3 
 渗沟  :    shen4 gou1 
 渗流  :    shen4 liu2 
-渗滤  :    shen4 lu:4 
-渗滤壶  :    shen4 lu:4 hu2 
+渗滤  :    shen4 lv4 
+渗滤壶  :    shen4 lv4 hu2 
 渗漏  :    shen4 lou4 
 渗碳  :    shen4 tan4 
 渗色  :    shen4 se4 
@@ -62317,7 +62317,7 @@
 港口城市  :    gang3 kou3 cheng2 shi4 
 港台  :    gang3 tai2 
 港埠  :    gang3 bu4 
-港女  :    gang3 nu:3 
+港女  :    gang3 nv3 
 港岛  :    gang3 dao3 
 港币  :    gang3 bi4 
 港府  :    gang3 fu3 
@@ -63257,26 +63257,26 @@
 满面春风  :    man3 mian4 chun1 feng1 
 满额  :    man3 e2 
 滢  :    ying2 
-滤  :    lu:4 
-滤出  :    lu:4 chu1 
-滤压壶  :    lu:4 ya1 hu2 
-滤器  :    lu:4 qi4 
-滤尘器  :    lu:4 chen2 qi4 
-滤毒通风装置  :    lu:4 du2 tong1 feng1 zhuang1 zhi4 
-滤波  :    lu:4 bo1 
-滤波器  :    lu:4 bo1 qi4 
-滤液  :    lu:4 ye4 
-滤清  :    lu:4 qing1 
-滤清器  :    lu:4 qing1 qi4 
-滤砂  :    lu:4 sha1 
-滤纸  :    lu:4 zhi3 
-滤网  :    lu:4 wang3 
-滤色镜  :    lu:4 se4 jing4 
-滤芯  :    lu:4 xin1 
-滤过  :    lu:4 guo4 
-滤锅  :    lu:4 guo1 
-滤除  :    lu:4 chu2 
-滤饼  :    lu:4 bing3 
+滤  :    lv4 
+滤出  :    lv4 chu1 
+滤压壶  :    lv4 ya1 hu2 
+滤器  :    lv4 qi4 
+滤尘器  :    lv4 chen2 qi4 
+滤毒通风装置  :    lv4 du2 tong1 feng1 zhuang1 zhi4 
+滤波  :    lv4 bo1 
+滤波器  :    lv4 bo1 qi4 
+滤液  :    lv4 ye4 
+滤清  :    lv4 qing1 
+滤清器  :    lv4 qing1 qi4 
+滤砂  :    lv4 sha1 
+滤纸  :    lv4 zhi3 
+滤网  :    lv4 wang3 
+滤色镜  :    lv4 se4 jing4 
+滤芯  :    lv4 xin1 
+滤过  :    lv4 guo4 
+滤锅  :    lv4 guo1 
+滤除  :    lv4 chu2 
+滤饼  :    lv4 bing3 
 滥  :    lan4 
 滥交  :    lan4 jiao1 
 滥伐  :    lan4 fa2 
@@ -63393,7 +63393,7 @@
 漆黑一团  :    qi1 hei1 yi1 tuan2 
 漈  :    ji4 
 漉  :    lu4 
-漊  :    lu:3 
+漊  :    lv3 
 漎  :    cong2 
 漏  :    lou4 
 漏壶  :    lou4 hu2 
@@ -63534,7 +63534,7 @@
 格式化  :    ge2 shi4 hua4 
 格式塔  :    ge2 shi4 ta3 
 格式塔疗法  :    ge2 shi4 ta3 liao2 fa3 
-格律  :    ge2 lu:4 
+格律  :    ge2 lv4 
 格恩西岛  :    ge2 en1 xi1 dao3 
 格拉  :    ge2 la1 
 格拉斯哥  :    ge2 la1 si1 ge1 
@@ -64165,7 +64165,7 @@
 灯笼裤  :    deng1 long2 ku4 
 灯笼鱼  :    deng1 long2 yu2 
 灯管  :    deng1 guan3 
-灯红酒绿  :    deng1 hong2 jiu3 lu:4 
+灯红酒绿  :    deng1 hong2 jiu3 lv4 
 灯罩  :    deng1 zhao4 
 灯节  :    deng1 jie2 
 灯芯  :    deng1 xin1 
@@ -64491,7 +64491,7 @@
 点击  :    dian3 ji1 
 点击付费广告  :    dian3 ji1 fu4 fei4 guang3 gao4 
 点击数  :    dian3 ji1 shu4 
-点击率  :    dian3 ji1 lu:4 
+点击率  :    dian3 ji1 lv4 
 点到即止  :    dian3 dao4 ji2 zhi3 
 点化  :    dian3 hua4 
 点卯  :    dian3 mao3 
@@ -64563,7 +64563,7 @@
 点阵字体  :    dian3 zhen4 zi4 ti3 
 点阵式打印机  :    dian3 zhen4 shi4 da3 yin4 ji1 
 点阵打印机  :    dian3 zhen4 da3 yin4 ji1 
-点阅率  :    dian3 yue4 lu:4 
+点阅率  :    dian3 yue4 lv4 
 点集合  :    dian3 ji2 he2 
 点题  :    dian3 ti2 
 点鬼火  :    dian3 gui3 huo3 
@@ -64639,7 +64639,7 @@
 烈  :    lie4 
 烈士  :    lie4 shi4 
 烈士陵  :    lie4 shi4 ling2 
-烈女  :    lie4 nu:3 
+烈女  :    lie4 nv3 
 烈属  :    lie4 shu3 
 烈山  :    lie4 shan1 
 烈山区  :    lie4 shan1 qu1 
@@ -64736,7 +64736,7 @@
 烟花债  :    yan1 hua1 zhai4 
 烟花厂  :    yan1 hua1 chang3 
 烟花场  :    yan1 hua1 chang3 
-烟花女  :    yan1 hua1 nu:3 
+烟花女  :    yan1 hua1 nv3 
 烟花寨  :    yan1 hua1 zhai4 
 烟花巷  :    yan1 hua1 xiang4 
 烟花市  :    yan1 hua1 shi4 
@@ -64878,7 +64878,7 @@
 热容  :    re4 rong2 
 热对流  :    re4 dui4 liu2 
 热导  :    re4 dao3 
-热导率  :    re4 dao3 lu:4 
+热导率  :    re4 dao3 lv4 
 热尔韦  :    re4 er3 wei2 
 热岛  :    re4 dao3 
 热岛效应  :    re4 dao3 xiao4 ying4 
@@ -65076,9 +65076,9 @@
 焦糖  :    jiao1 tang2 
 焦糖舞  :    jiao1 tang2 wu3 
 焦耳  :    jiao1 er3 
-焦虑  :    jiao1 lu:4 
-焦虑不安  :    jiao1 lu:4 bu4 an1 
-焦虑症  :    jiao1 lu:4 zheng4 
+焦虑  :    jiao1 lv4 
+焦虑不安  :    jiao1 lv4 bu4 an1 
+焦虑症  :    jiao1 lv4 zheng4 
 焦距  :    jiao1 ju4 
 焦躁  :    jiao1 zao4 
 焦黄  :    jiao1 huang2 
@@ -65176,7 +65176,7 @@
 熟化  :    shu2 hua4 
 熟啤酒  :    shu2 pi2 jiu3 
 熟地  :    shu2 di4 
-熟女  :    shu2 nu:3 
+熟女  :    shu2 nv3 
 熟字  :    shu2 zi4 
 熟客  :    shu2 ke4 
 熟思  :    shu2 si1 
@@ -65194,7 +65194,7 @@
 熟能生巧  :    shu2 neng2 sheng1 qiao3 
 熟荒  :    shu2 huang1 
 熟菜  :    shu2 cai4 
-熟虑  :    shu2 lu:4 
+熟虑  :    shu2 lv4 
 熟视无睹  :    shu2 shi4 wu2 du3 
 熟记  :    shu2 ji4 
 熟识  :    shu2 shi5 
@@ -65417,7 +65417,7 @@
 爱乐乐团  :    ai4 yue4 yue4 tuan2 
 爱人  :    ai4 ren5 
 爱人如己  :    ai4 ren2 ru2 ji3 
-爱侣  :    ai4 lu:3 
+爱侣  :    ai4 lv3 
 爱别离苦  :    ai4 bie2 li2 ku3 
 爱克斯光  :    ai4 ke4 si1 guang1 
 爱克斯射线  :    ai4 ke4 si1 she4 xian4 
@@ -65537,7 +65537,7 @@
 父亲  :    fu4 qin1 
 父亲节  :    fu4 qin1 jie2 
 父兄  :    fu4 xiong1 
-父女  :    fu4 nu:3 
+父女  :    fu4 nv3 
 父子  :    fu4 zi3 
 父慈子孝  :    fu4 ci2 zi3 xiao4 
 父执辈  :    fu4 zhi2 bei4 
@@ -65763,7 +65763,7 @@
 牛轭  :    niu2 e4 
 牛逼  :    niu2 bi1 
 牛郎  :    niu2 lang2 
-牛郎织女  :    niu2 lang2 zhi1 nu:3 
+牛郎织女  :    niu2 lang2 zhi1 nv3 
 牛鞭  :    niu2 bian1 
 牛顿  :    niu2 dun4 
 牛顿力学  :    niu2 dun4 li4 xue2 
@@ -65798,10 +65798,10 @@
 牡丹江地区  :    mu3 dan5 jiang1 di4 qu1 
 牡丹江市  :    mu3 dan5 jiang1 shi4 
 牡丹皮  :    mu3 dan5 pi2 
-牡丹虽好，全仗绿叶扶  :    mu3 dan5 sui1 hao3 , quan2 zhang4 lu:4 ye4 fu2 
-牡丹虽好，全仗绿叶扶持  :    mu3 dan5 sui1 hao3 , quan2 zhang4 lu:4 ye4 fu2 chi2 
-牡丹虽好，全凭绿叶扶持  :    mu3 dan5 sui1 hao3 , quan2 ping2 lu:4 ye4 fu2 chi2 
-牡丹虽好，终须绿叶扶持  :    mu3 dan5 sui1 hao3 , zhong1 xu1 lu:4 ye4 fu2 chi2 
+牡丹虽好，全仗绿叶扶  :    mu3 dan5 sui1 hao3 , quan2 zhang4 lv4 ye4 fu2 
+牡丹虽好，全仗绿叶扶持  :    mu3 dan5 sui1 hao3 , quan2 zhang4 lv4 ye4 fu2 chi2 
+牡丹虽好，全凭绿叶扶持  :    mu3 dan5 sui1 hao3 , quan2 ping2 lv4 ye4 fu2 chi2 
+牡丹虽好，终须绿叶扶持  :    mu3 dan5 sui1 hao3 , zhong1 xu1 lv4 ye4 fu2 chi2 
 牡牛  :    mu4 niu2 
 牡羊座  :    mu3 yang2 zuo4 
 牡蛎  :    mu3 li4 
@@ -66204,7 +66204,7 @@
 犹太教  :    you2 tai4 jiao4 
 犹太教堂  :    you2 tai4 jiao4 tang2 
 犹太法典  :    you2 tai4 fa3 dian3 
-犹女  :    you2 nu:3 
+犹女  :    you2 nv3 
 犹如  :    you2 ru2 
 犹子  :    you2 zi3 
 犹未为晚  :    you2 wei4 wei2 wan3 
@@ -66278,7 +66278,7 @@
 狎妓冶游  :    xia2 ji4 ye3 you2 
 狐  :    hu2 
 狐假虎威  :    hu2 jia3 hu3 wei1 
-狐女  :    hu2 nu:3 
+狐女  :    hu2 nv3 
 狐朋狗友  :    hu2 peng2 gou3 you3 
 狐步舞  :    hu2 bu4 wu3 
 狐狸  :    hu2 li5 
@@ -66304,7 +66304,7 @@
 狗刨  :    gou3 pao2 
 狗吠  :    gou3 fei4 
 狗吃屎  :    gou3 chi1 shi3 
-狗咬吕洞宾，不识好人心  :    gou3 yao3 lu:3 dong4 bin1 , bu4 shi2 hao3 ren2 xin1 
+狗咬吕洞宾，不识好人心  :    gou3 yao3 lv3 dong4 bin1 , bu4 shi2 hao3 ren2 xin1 
 狗娘养的  :    gou3 niang2 yang3 de5 
 狗尾续貂  :    gou3 wei3 xu4 diao1 
 狗屁  :    gou3 pi4 
@@ -66325,7 +66325,7 @@
 狗牌  :    gou3 pai2 
 狗獾  :    gou3 huan1 
 狗玩儿的  :    gou3 wan2 r5 de5 
-狗男女  :    gou3 nan2 nu:3 
+狗男女  :    gou3 nan2 nv3 
 狗皮膏药  :    gou3 pi2 gao1 yao5 
 狗秀  :    gou3 xiu4 
 狗窝  :    gou3 wo1 
@@ -66420,10 +66420,10 @@
 独特  :    du2 te4 
 独独  :    du2 du2 
 独生  :    du2 sheng1 
-独生女  :    du2 sheng1 nu:3 
+独生女  :    du2 sheng1 nv3 
 独生子  :    du2 sheng1 zi3 
-独生子女  :    du2 sheng1 zi3 nu:3 
-独生子女政策  :    du2 sheng1 zi3 nu:3 zheng4 ce4 
+独生子女  :    du2 sheng1 zi3 nv3 
+独生子女政策  :    du2 sheng1 zi3 nv3 zheng4 ce4 
 独白  :    du2 bai2 
 独眼龙  :    du2 yan3 long2 
 独秀  :    du2 xiu4 
@@ -66844,7 +66844,7 @@
 玄远  :    xuan2 yuan3 
 玄青  :    xuan2 qing1 
 玆  :    zi1 
-率  :    lu:4 
+率  :    lv4 
 率先  :    shuai4 xian1 
 率尔操觚  :    shuai4 er3 cao1 gu1 
 率兽食人  :    shuai4 shou4 shi2 ren2 
@@ -67054,7 +67054,7 @@
 玛家  :    ma3 jia1 
 玛家乡  :    ma3 jia1 xiang1 
 玛尼  :    ma3 ni2 
-玛律  :    ma3 lu:4 
+玛律  :    ma3 lv4 
 玛德琳  :    ma3 de2 lin2 
 玛拉基书  :    ma3 la1 ji1 shu1 
 玛拉基亚  :    ma3 la1 ji1 ya4 
@@ -67198,7 +67198,7 @@
 环球化  :    huan2 qiu2 hua4 
 环球定位系统  :    huan2 qiu2 ding4 wei4 xi4 tong3 
 环球时报  :    huan2 qiu2 shi2 bao4 
-环球旅行  :    huan2 qiu2 lu:3 xing2 
+环球旅行  :    huan2 qiu2 lv3 xing2 
 环礁  :    huan2 jiao1 
 环秀山庄  :    huan2 xiu4 shan1 zhuang1 
 环箍  :    huan2 gu1 
@@ -67306,7 +67306,7 @@
 玻尔兹曼  :    bo1 er3 zi1 man4 
 玻尿酸  :    bo1 niao4 suan1 
 玻意耳  :    bo1 yi4 er3 
-玻意耳定律  :    bo1 yi4 er3 ding4 lu:4 
+玻意耳定律  :    bo1 yi4 er3 ding4 lv4 
 玻片  :    bo1 pian4 
 玻璃  :    bo1 li5 
 玻璃体  :    bo1 li2 ti3 
@@ -67849,7 +67849,7 @@
 瓜拿纳  :    gua1 na2 na4 
 瓜果  :    gua1 guo3 
 瓜熟蒂落  :    gua1 shu2 di4 luo4 
-瓜田不纳履，李下不整冠  :    gua1 tian2 bu4 na4 lu:3 , li3 xia4 bu4 zheng3 guan1 
+瓜田不纳履，李下不整冠  :    gua1 tian2 bu4 na4 lv3 , li3 xia4 bu4 zheng3 guan1 
 瓜田李下  :    gua1 tian2 li3 xia4 
 瓜皮帽  :    gua1 pi2 mao4 
 瓜脐  :    gua1 qi2 
@@ -68101,7 +68101,7 @@
 生产关系  :    sheng1 chan3 guan1 xi4 
 生产总值  :    sheng1 chan3 zong3 zhi2 
 生产成本  :    sheng1 chan3 cheng2 ben3 
-生产率  :    sheng1 chan3 lu:4 
+生产率  :    sheng1 chan3 lv4 
 生产线  :    sheng1 chan3 xian4 
 生产者  :    sheng1 chan3 zhe3 
 生产能力  :    sheng1 chan3 neng2 li4 
@@ -68112,7 +68112,7 @@
 生产队  :    sheng1 chan3 dui4 
 生人  :    sheng1 ren2 
 生僻  :    sheng1 pi4 
-生儿育女  :    sheng1 er2 yu4 nu:3 
+生儿育女  :    sheng1 er2 yu4 nv3 
 生冷  :    sheng1 leng3 
 生出  :    sheng1 chu1 
 生光  :    sheng1 guang1 
@@ -68163,7 +68163,7 @@
 生态孤岛  :    sheng1 tai4 gu1 dao3 
 生态学  :    sheng1 tai4 xue2 
 生态学家  :    sheng1 tai4 xue2 jia1 
-生态旅游  :    sheng1 tai4 lu:3 you2 
+生态旅游  :    sheng1 tai4 lv3 you2 
 生态环境游  :    sheng1 tai4 huan2 jing4 you2 
 生态系统  :    sheng1 tai4 xi4 tong3 
 生态足迹  :    sheng1 tai4 zu2 ji4 
@@ -68320,7 +68320,7 @@
 生肖  :    sheng1 xiao4 
 生肖属相  :    sheng1 xiao4 shu3 xiang4 
 生育  :    sheng1 yu4 
-生育率  :    sheng1 yu4 lu:4 
+生育率  :    sheng1 yu4 lv4 
 生育能力  :    sheng1 yu4 neng2 li4 
 生花妙笔  :    sheng1 hua1 miao4 bi3 
 生苔  :    sheng1 tai2 
@@ -68347,7 +68347,7 @@
 生锈  :    sheng1 xiu4 
 生长  :    sheng1 zhang3 
 生长激素  :    sheng1 zhang3 ji1 su4 
-生长率  :    sheng1 zhang3 lu:4 
+生长率  :    sheng1 zhang3 lv4 
 生长素  :    sheng1 zhang3 su4 
 生闷气  :    sheng1 men4 qi4 
 生面团  :    sheng1 mian4 tuan2 
@@ -68356,7 +68356,7 @@
 甡  :    shen1 
 産  :    chan3 
 甥  :    sheng1 
-甥女  :    sheng1 nu:3 
+甥女  :    sheng1 nv3 
 用  :    yong4 
 用不了  :    yong4 bu5 liao3 
 用不着  :    yong4 bu5 zhao2 
@@ -68622,7 +68622,7 @@
 电光朝露  :    dian4 guang1 zhao1 lu4 
 电力  :    dian4 li4 
 电力机车  :    dian4 li4 ji1 che1 
-电功率  :    dian4 gong1 lu:4 
+电功率  :    dian4 gong1 lv4 
 电动  :    dian4 dong4 
 电动势  :    dian4 dong4 shi4 
 电动机  :    dian4 dong4 ji1 
@@ -68686,7 +68686,7 @@
 电容器  :    dian4 rong2 qi4 
 电导  :    dian4 dao3 
 电导体  :    dian4 dao3 ti3 
-电导率  :    dian4 dao3 lu:4 
+电导率  :    dian4 dao3 lv4 
 电工  :    dian4 gong1 
 电弧  :    dian4 hu2 
 电弧焊  :    dian4 hu2 han4 
@@ -68869,7 +68869,7 @@
 男  :    nan2 
 男中音  :    nan2 zhong1 yin1 
 男人  :    nan2 ren2 
-男人不坏，女人不爱  :    nan2 ren2 bu4 huai4 , nu:3 ren2 bu4 ai4 
+男人不坏，女人不爱  :    nan2 ren2 bu4 huai4 , nv3 ren2 bu4 ai4 
 男人婆  :    nan2 ren2 po2 
 男人膝下有黄金  :    nan2 ren2 xi1 xia4 you3 huang2 jin1 
 男低音  :    nan2 di1 yin1 
@@ -68885,15 +68885,15 @@
 男同胞  :    nan2 tong2 bao1 
 男基尼  :    nan2 ji1 ni2 
 男士  :    nan2 shi4 
-男女  :    nan2 nu:3 
-男女同校  :    nan2 nu:3 tong2 xiao4 
-男女关系  :    nan2 nu:3 guan1 xi4 
-男女平等  :    nan2 nu:3 ping2 deng3 
-男女老少  :    nan2 nu:3 lao3 shao4 
-男女老幼  :    nan2 nu:3 lao3 you4 
+男女  :    nan2 nv3 
+男女同校  :    nan2 nv3 tong2 xiao4 
+男女关系  :    nan2 nv3 guan1 xi4 
+男女平等  :    nan2 nv3 ping2 deng3 
+男女老少  :    nan2 nv3 lao3 shao4 
+男女老幼  :    nan2 nv3 lao3 you4 
 男妓  :    nan2 ji4 
 男娃  :    nan2 wa2 
-男婚女嫁  :    nan2 hun1 nu:3 jia4 
+男婚女嫁  :    nan2 hun1 nv3 jia4 
 男婴  :    nan2 ying1 
 男子  :    nan2 zi3 
 男子单  :    nan2 zi3 dan1 
@@ -68907,24 +68907,24 @@
 男孩儿  :    nan2 hai2 r5 
 男孩子  :    nan2 hai2 zi5 
 男家  :    nan2 jia1 
-男尊女卑  :    nan2 zun1 nu:3 bei1 
+男尊女卑  :    nan2 zun1 nv3 bei1 
 男工  :    nan2 gong1 
-男左女右  :    nan2 zuo3 nu:3 you4 
+男左女右  :    nan2 zuo3 nv3 you4 
 男巫  :    nan2 wu1 
-男怕入错行，女怕嫁错郎  :    nan2 pa4 ru4 cuo4 hang2 , nu:3 pa4 jia4 cuo4 lang2 
+男怕入错行，女怕嫁错郎  :    nan2 pa4 ru4 cuo4 hang2 , nv3 pa4 jia4 cuo4 lang2 
 男性  :    nan2 xing4 
 男性主义  :    nan2 xing4 zhu3 yi4 
 男性亲属  :    nan2 xing4 qin1 shu3 
 男性化  :    nan2 xing4 hua4 
 男性厌恶  :    nan2 xing4 yan4 wu4 
 男性贬抑  :    nan2 xing4 bian3 yi4 
-男才女貌  :    nan2 cai2 nu:3 mao4 
-男扮女装  :    nan2 ban4 nu:3 zhuang1 
+男才女貌  :    nan2 cai2 nv3 mao4 
+男扮女装  :    nan2 ban4 nv3 zhuang1 
 男排  :    nan2 pai2 
 男方  :    nan2 fang1 
 男星  :    nan2 xing1 
 男朋友  :    nan2 peng2 you5 
-男欢女爱  :    nan2 huan1 nu:3 ai4 
+男欢女爱  :    nan2 huan1 nv3 ai4 
 男根  :    nan2 gen1 
 男爵  :    nan2 jue2 
 男生  :    nan2 sheng1 
@@ -69144,31 +69144,31 @@
 畜肥  :    chu4 fei2 
 畟  :    ce4 
 畤  :    zhi4 
-略  :    lu:e4 
-略为  :    lu:e4 wei2 
-略举  :    lu:e4 ju3 
-略作  :    lu:e4 zuo4 
-略去  :    lu:e4 qu4 
-略图  :    lu:e4 tu2 
-略夺  :    lu:e4 duo2 
-略字  :    lu:e4 zi4 
-略带  :    lu:e4 dai4 
-略微  :    lu:e4 wei1 
-略码  :    lu:e4 ma3 
-略略  :    lu:e4 lu:e4 
-略知一二  :    lu:e4 zhi1 yi1 er4 
-略知皮毛  :    lu:e4 zhi1 pi2 mao2 
-略称  :    lu:e4 cheng1 
-略胜一筹  :    lu:e4 sheng4 yi1 chou2 
-略见一斑  :    lu:e4 jian4 yi1 ban1 
-略识之无  :    lu:e4 shi2 zhi1 wu2 
-略语  :    lu:e4 yu3 
-略读  :    lu:e4 du2 
-略过  :    lu:e4 guo4 
-略迹原情  :    lu:e4 ji4 yuan2 qing2 
-略释  :    lu:e4 shi4 
-略阳  :    Lu:e4 yang2 
-略阳县  :    Lu:e4 yang2 xian4 
+略  :    lve4 
+略为  :    lve4 wei2 
+略举  :    lve4 ju3 
+略作  :    lve4 zuo4 
+略去  :    lve4 qu4 
+略图  :    lve4 tu2 
+略夺  :    lve4 duo2 
+略字  :    lve4 zi4 
+略带  :    lve4 dai4 
+略微  :    lve4 wei1 
+略码  :    lve4 ma3 
+略略  :    lve4 lve4 
+略知一二  :    lve4 zhi1 yi1 er4 
+略知皮毛  :    lve4 zhi1 pi2 mao2 
+略称  :    lve4 cheng1 
+略胜一筹  :    lve4 sheng4 yi1 chou2 
+略见一斑  :    lve4 jian4 yi1 ban1 
+略识之无  :    lve4 shi2 zhi1 wu2 
+略语  :    lve4 yu3 
+略读  :    lve4 du2 
+略过  :    lve4 guo4 
+略迹原情  :    lve4 ji4 yuan2 qing2 
+略释  :    lve4 shi4 
+略阳  :    Lve4 yang2 
+略阳县  :    Lve4 yang2 xian4 
 畦  :    qi2 
 番  :    pan1 
 番号  :    fan1 hao4 
@@ -69267,7 +69267,7 @@
 疏狂  :    shu1 kuang2 
 疏率  :    shu1 shuai4 
 疏理  :    shu1 li3 
-疏略  :    shu1 lu:e4 
+疏略  :    shu1 lve4 
 疏疏  :    shu1 shu1 
 疏离  :    shu1 li2 
 疏而不漏  :    shu1 er2 bu4 lou4 
@@ -69303,7 +69303,7 @@
 疑病症  :    yi2 bing4 zheng4 
 疑神疑鬼  :    yi2 shen2 yi2 gui3 
 疑窦  :    yi2 dou4 
-疑虑  :    yi2 lu:4 
+疑虑  :    yi2 lv4 
 疑问  :    yi2 wen4 
 疑问代词  :    yi2 wen4 dai4 ci2 
 疑问句  :    yi2 wen4 ju4 
@@ -69329,12 +69329,12 @@
 疚  :    jiu4 
 疝  :    shan4 
 疝气  :    shan4 qi4 
-疟  :    nu:e4 
-疟原虫  :    nu:e4 yuan2 chong2 
+疟  :    nve4 
+疟原虫  :    nve4 yuan2 chong2 
 疟子  :    yao4 zi5 
-疟疾  :    nu:e4 ji2 
-疟疾病  :    nu:e4 ji2 bing4 
-疟蚊  :    nu:e4 wen2 
+疟疾  :    nve4 ji2 
+疟疾病  :    nve4 ji2 bing4 
+疟蚊  :    nve4 wen2 
 疡  :    yang2 
 疢  :    chen4 
 疣  :    you2 
@@ -69628,7 +69628,7 @@
 病菌  :    bing4 jun1 
 病虫  :    bing4 chong2 
 病虫害  :    bing4 chong2 hai4 
-病虫害绿色防控  :    bing4 chong2 hai4 lu:4 se4 fang2 kong4 
+病虫害绿色防控  :    bing4 chong2 hai4 lv4 se4 fang2 kong4 
 病象  :    bing4 xiang4 
 病逝  :    bing4 shi4 
 病邪  :    bing4 xie2 
@@ -69929,7 +69929,7 @@
 白棉纸  :    bai2 mian2 zhi3 
 白榴石  :    bai2 liu2 shi2 
 白毛  :    bai2 mao2 
-白毛女  :    bai2 mao2 nu:3 
+白毛女  :    bai2 mao2 nv3 
 白水  :    bai2 shui3 
 白水县  :    bai2 shui3 xian4 
 白水晶  :    bai2 shui3 jing1 
@@ -70137,7 +70137,7 @@
 百分数  :    bai3 fen1 shu4 
 百分比  :    bai3 fen1 bi3 
 百分点  :    bai3 fen1 dian3 
-百分率  :    bai3 fen1 lu:4 
+百分率  :    bai3 fen1 lv4 
 百分百  :    bai3 fen1 bai3 
 百利甜  :    bai3 li4 tian2 
 百利甜酒  :    bai3 li4 tian2 jiu3 
@@ -70671,7 +70671,7 @@
 盖浇饭  :    gai4 jiao1 fan4 
 盖然性  :    gai4 ran2 xing4 
 盖特纳  :    gai4 te4 na4 
-盖率  :    gai4 lu:4 
+盖率  :    gai4 lv4 
 盖瓦  :    gai4 wa3 
 盖碗  :    gai4 wan3 
 盖章  :    gai4 zhang1 
@@ -71194,9 +71194,9 @@
 省治  :    sheng3 zhi4 
 省电  :    sheng3 dian4 
 省界  :    sheng3 jie4 
-省略  :    sheng3 lu:e4 
-省略号  :    sheng3 lu:e4 hao4 
-省略符号  :    sheng3 lu:e4 fu2 hao4 
+省略  :    sheng3 lve4 
+省略号  :    sheng3 lve4 hao4 
+省略符号  :    sheng3 lve4 fu2 hao4 
 省直管县  :    sheng3 zhi2 guan3 xian4 
 省称  :    sheng3 cheng1 
 省级  :    sheng3 ji2 
@@ -72105,7 +72105,7 @@
 石头、剪子、布  :    shi2 tou5 , jian3 zi5 , bu4 
 石头火锅  :    shi2 tou5 huo3 guo1 
 石头记  :    shi2 tou5 ji4 
-石女  :    shi2 nu:3 
+石女  :    shi2 nv3 
 石子儿  :    shi2 zi3 r5 
 石家庄  :    shi2 jia1 zhuang1 
 石家庄地区  :    shi2 jia1 zhuang1 di4 qu1 
@@ -72252,7 +72252,7 @@
 矽肺病  :    xi1 fei4 bing4 
 矽藻  :    xi1 zao3 
 矽谷  :    xi1 gu3 
-矽铝层  :    xi1 lu:3 ceng2 
+矽铝层  :    xi1 lv3 ceng2 
 矽镁层  :    xi1 mei3 ceng2 
 矾  :    fan2 
 矿  :    kuang4 
@@ -72351,7 +72351,7 @@
 硫酸钾  :    liu2 suan1 jia3 
 硫酸铁  :    liu2 suan1 tie3 
 硫酸铜  :    liu2 suan1 tong2 
-硫酸铝  :    liu2 suan1 lu:3 
+硫酸铝  :    liu2 suan1 lv3 
 硫酸铵  :    liu2 suan1 an3 
 硫酸镁  :    liu2 suan1 mei3 
 硫黄  :    liu2 huang2 
@@ -72443,9 +72443,9 @@
 硅谷  :    gui1 gu3 
 硅质  :    gui1 zhi4 
 硅质岩  :    gui1 zhi4 yan2 
-硅铝质  :    gui1 lu:3 zhi4 
+硅铝质  :    gui1 lv3 zhi4 
 硅酸  :    gui1 suan1 
-硅酸氟铝  :    gui1 suan1 fu2 lu:3 
+硅酸氟铝  :    gui1 suan1 fu2 lv3 
 硅酸盐  :    gui1 suan1 yan2 
 硅酸盐水泥  :    gui1 suan1 yan2 shui3 ni2 
 砢  :    luo3 
@@ -72540,7 +72540,7 @@
 碧瓦  :    bi4 wa3 
 碧眼  :    bi4 yan3 
 碧空  :    bi4 kong1 
-碧绿  :    bi4 lu:4 
+碧绿  :    bi4 lv4 
 碧草如茵  :    bi4 cao3 ru2 yin1 
 碧蓝  :    bi4 lan2 
 碧螺春  :    bi4 luo2 chun1 
@@ -72608,7 +72608,7 @@
 碳链  :    tan4 lian4 
 碳链纤维  :    tan4 lian4 xian1 wei2 
 碳隔离  :    tan4 ge2 li2 
-碳酰氯  :    tan4 xian1 lu:4 
+碳酰氯  :    tan4 xian1 lv4 
 碳酸  :    tan4 suan1 
 碳酸岩  :    tan4 suan1 yan2 
 碳酸氢钠  :    tan4 suan1 qing1 na4 
@@ -72727,7 +72727,7 @@
 磨折  :    mo2 zhe2 
 磨拳擦掌  :    mo2 quan2 ca1 zhang3 
 磨损  :    mo2 sun3 
-磨损率  :    mo2 sun3 lu:4 
+磨损率  :    mo2 sun3 lv4 
 磨擦  :    mo2 ca1 
 磨料  :    mo2 liao4 
 磨机  :    mo2 ji1 
@@ -73037,7 +73037,7 @@
 祖宗  :    zu3 zong1 
 祖居  :    zu3 ju1 
 祖母  :    zu3 mu3 
-祖母绿  :    zu3 mu3 lu:4 
+祖母绿  :    zu3 mu3 lv4 
 祖父  :    zu3 fu4 
 祖父母  :    zu3 fu4 mu3 
 祖父辈  :    zu3 fu4 bei4 
@@ -73114,8 +73114,8 @@
 神奈川  :    shen2 nai4 chuan1 
 神奈川县  :    shen2 nai4 chuan1 xian4 
 神奥  :    shen2 ao4 
-神女  :    shen2 nu:3 
-神女峰  :    shen2 nu:3 feng1 
+神女  :    shen2 nv3 
+神女峰  :    shen2 nv3 feng1 
 神妙  :    shen2 miao4 
 神妙隽美  :    shen2 miao4 juan4 mei3 
 神学  :    shen2 xue2 
@@ -73231,7 +73231,7 @@
 神采  :    shen2 cai3 
 神采奕奕  :    shen2 cai3 yi4 yi4 
 神采飞扬  :    shen2 cai3 fei1 yang2 
-神雕侠侣  :    shen2 diao1 xia2 lu:3 
+神雕侠侣  :    shen2 diao1 xia2 lv3 
 神韵  :    shen2 yun4 
 神风特别攻击队  :    shen2 feng1 te4 bie2 gong1 ji1 dui4 
 神风特攻队  :    shen2 feng1 te4 gong1 dui4 
@@ -73650,7 +73650,7 @@
 私欲  :    si1 yu4 
 私法  :    si1 fa3 
 私生子  :    si1 sheng1 zi3 
-私生子女  :    si1 sheng1 zi3 nu:3 
+私生子女  :    si1 sheng1 zi3 nv3 
 私秘  :    si1 mi4 
 私立  :    si1 li4 
 私立学校  :    si1 li4 xue2 xiao4 
@@ -73672,7 +73672,7 @@
 秃瓢  :    tu1 piao2 
 秃疮  :    tu1 chuang1 
 秃顶  :    tu1 ding3 
-秃驴  :    tu1 lu:2 
+秃驴  :    tu1 lv2 
 秃鹫  :    tu1 jiu4 
 秃鹰  :    tu1 ying1 
 秆  :    gan3 
@@ -74209,7 +74209,7 @@
 稀饭  :    xi1 fan4 
 稂  :    lang2 
 稃  :    fu1 
-稆  :    lu:3 
+稆  :    lv3 
 稊  :    ti2 
 程  :    cheng2 
 程子  :    cheng2 zi5 
@@ -74266,7 +74266,7 @@
 稗  :    bai4 
 稙  :    zhi2 
 稚  :    zhi4 
-稚女  :    zhi4 nu:3 
+稚女  :    zhi4 nv3 
 稚嫩  :    zhi4 nen4 
 稚子  :    zhi4 zi3 
 稚弱  :    zhi4 ruo4 
@@ -74378,7 +74378,7 @@
 穗  :    sui4 
 穗饰  :    sui4 shi4 
 穜  :    tong2 
-穞  :    lu:3 
+穞  :    lv3 
 穟  :    sui4 
 穣  :    rang2 
 穧  :    ji4 
@@ -74910,7 +74910,7 @@
 童儿  :    tong2 er2 
 童军  :    tong2 jun1 
 童叟无欺  :    tong2 sou3 wu2 qi1 
-童女  :    tong2 nu:3 
+童女  :    tong2 nv3 
 童子  :    tong2 zi3 
 童子军  :    tong2 zi3 jun1 
 童子尿  :    tong2 zi3 niao4 
@@ -75057,7 +75057,7 @@
 章子怡  :    zhang1 zi3 yi2 
 章孝严  :    zhang1 xiao4 yan2 
 章炳麟  :    zhang1 bing3 lin2 
-章甫荐履  :    zhang1 fu3 jian4 lu:3 
+章甫荐履  :    zhang1 fu3 jian4 lv3 
 章程  :    zhang1 cheng2 
 章节  :    zhang1 jie2 
 章贡  :    zhang1 gong4 
@@ -75196,7 +75196,7 @@
 笞击  :    chi1 ji1 
 笞刑  :    chi1 xing2 
 笞挞  :    chi1 ta4 
-笞掠  :    chi1 lu:e4 
+笞掠  :    chi1 lve4 
 笞杖  :    chi1 zhang4 
 笞棰  :    chi1 chui2 
 笞背  :    chi1 bei4 
@@ -75445,7 +75445,7 @@
 策应  :    ce4 ying4 
 策源地  :    ce4 yuan2 di4 
 策画  :    ce4 hua4 
-策略  :    ce4 lu:e4 
+策略  :    ce4 lve4 
 策论  :    ce4 lun4 
 策试  :    ce4 shi4 
 策谋  :    ce4 mou2 
@@ -75501,7 +75501,7 @@
 筹款  :    chou2 kuan3 
 筹码  :    chou2 ma3 
 筹画  :    chou2 hua4 
-筹略  :    chou2 lu:e4 
+筹略  :    chou2 lve4 
 筹算  :    chou2 suan4 
 筹议  :    chou2 yi4 
 筹谋  :    chou2 mou2 
@@ -75579,8 +75579,8 @@
 简氏防务周刊  :    jian3 shi4 fang2 wu4 zhou1 kan1 
 简洁  :    jian3 jie2 
 简炼  :    jian3 lian4 
-简略  :    jian3 lu:e4 
-简略见告  :    jian3 lu:e4 jian4 gao4 
+简略  :    jian3 lve4 
+简略见告  :    jian3 lve4 jian4 gao4 
 简直  :    jian3 zhi2 
 简短  :    jian3 duan3 
 简短介绍  :    jian3 duan3 jie4 shao4 
@@ -75957,7 +75957,7 @@
 籴  :    di2 
 籵  :    fan2 
 籸  :    shen1 
-籹  :    nu:3 
+籹  :    nv3 
 类  :    lei4 
 类乌齐  :    lei4 wu1 qi2 
 类乌齐县  :    lei4 wu1 qi2 xian4 
@@ -75975,7 +75975,7 @@
 类木行星  :    lei4 mu4 xing2 xing1 
 类毒素  :    lei4 du2 su4 
 类比  :    lei4 bi3 
-类比策略  :    lei4 bi3 ce4 lu:e4 
+类比策略  :    lei4 bi3 ce4 lve4 
 类比错误  :    lei4 bi3 cuo4 wu4 
 类球面  :    lei4 qiu2 mian4 
 类篇  :    lei4 pian1 
@@ -76060,7 +76060,7 @@
 粗砂  :    cu1 sha1 
 粗犷  :    cu1 guang3 
 粗率  :    cu1 shuai4 
-粗略  :    cu1 lu:e4 
+粗略  :    cu1 lve4 
 粗疏  :    cu1 shu1 
 粗盐  :    cu1 yan2 
 粗笨  :    cu1 ben4 
@@ -76769,7 +76769,7 @@
 緍  :    min2 
 緎  :    yu4 
 総  :    zong3 
-緑  :    lu:4 
+緑  :    lv4 
 緖  :    xu4 
 緤  :    xie4 
 緪  :    geng1 
@@ -76828,7 +76828,7 @@
 繁琐  :    fan2 suo3 
 繁盛  :    fan2 sheng4 
 繁简  :    fan2 jian3 
-繁缕  :    fan2 lu:3 
+繁缕  :    fan2 lv3 
 繁缛  :    fan2 ru4 
 繁育  :    fan2 yu4 
 繁芜  :    fan2 wu2 
@@ -76941,7 +76941,7 @@
 红楼梦  :    hong2 lou2 meng4 
 红樱枪  :    hong2 ying1 qiang1 
 红橙  :    hong2 cheng2 
-红橙黄绿蓝靛紫  :    hong2 cheng2 huang2 lu:4 lan2 dian4 zi3 
+红橙黄绿蓝靛紫  :    hong2 cheng2 huang2 lv4 lan2 dian4 zi3 
 红殷殷  :    hong2 yan1 yan1 
 红毛丹  :    hong2 mao2 dan1 
 红毯  :    hong2 tan3 
@@ -76969,7 +76969,7 @@
 红玛瑙  :    hong2 ma3 nao3 
 红珊瑚  :    hong2 shan1 hu2 
 红璧玺  :    hong2 bi4 xi3 
-红男绿女  :    hong2 nan2 lu:4 nu:3 
+红男绿女  :    hong2 nan2 lv4 nv3 
 红白喜事  :    hong2 bai2 xi3 shi4 
 红眼病  :    hong2 yan3 bing4 
 红矮星  :    hong2 ai3 xing1 
@@ -76983,8 +76983,8 @@
 红糖  :    hong2 tang2 
 红线  :    hong2 xian4 
 红细胞  :    hong2 xi4 bao1 
-红细胞沉降率  :    hong2 xi4 bao1 shen2 jiang4 lu:4 
-红绿灯  :    hong2 lu:4 deng1 
+红细胞沉降率  :    hong2 xi4 bao1 shen2 jiang4 lv4 
+红绿灯  :    hong2 lv4 deng1 
 红羊劫  :    hong2 yang2 jie2 
 红肠  :    hong2 chang2 
 红股  :    hong2 gu3 
@@ -77093,7 +77093,7 @@
 约契  :    yue1 qi4 
 约定  :    yue1 ding4 
 约定俗成  :    yue1 ding4 su2 cheng2 
-约定资讯速率  :    yue1 ding4 zi1 xun4 su4 lu:4 
+约定资讯速率  :    yue1 ding4 zi1 xun4 su4 lv4 
 约当现金  :    yue1 dang1 xian4 jin1 
 约拿书  :    yue1 na2 shu1 
 约摸  :    yue1 mo5 
@@ -77113,8 +77113,8 @@
 约瑟  :    yue1 se4 
 约瑟夫  :    yue1 se4 fu1 
 约瑟夫・斯大林  :    yue1 se4 fu1 · si1 da4 lin2 
-约略  :    yue1 lu:e4 
-约略估计  :    yue1 lu:e4 gu1 ji4 
+约略  :    yue1 lve4 
+约略估计  :    yue1 lve4 gu1 ji4 
 约章  :    yue1 zhang1 
 约等于  :    yue1 deng3 yu2 
 约纳  :    yue1 na4 
@@ -77165,8 +77165,8 @@
 纪录  :    ji4 lu4 
 纪录创造者  :    ji4 lu4 chuang4 zao4 zhe3 
 纪录片  :    ji4 lu4 pian4 
-纪律  :    ji4 lu:4 
-纪律检查委员会  :    ji4 lu:4 jian3 cha2 wei3 yuan2 hui4 
+纪律  :    ji4 lv4 
+纪律检查委员会  :    ji4 lv4 jian3 cha2 wei3 yuan2 hui4 
 纪念  :    ji4 nian4 
 纪念堂  :    ji4 nian4 tang2 
 纪念品  :    ji4 nian4 pin3 
@@ -77409,8 +77409,8 @@
 纹层  :    wen2 ceng2 
 纹理  :    wen2 li3 
 纹章  :    wen2 zhang1 
-纹缕  :    wen2 lu:3 
-纹缕儿  :    wen2 lu:3 r5 
+纹缕  :    wen2 lv3 
+纹缕儿  :    wen2 lv3 r5 
 纹路  :    wen2 lu4 
 纹身  :    wen2 shen1 
 纹银  :    wen2 yin2 
@@ -77636,8 +77636,8 @@
 细香葱  :    xi4 xiang1 cong1 
 织  :    zhi1 
 织品  :    zhi1 pin3 
-织女  :    zhi1 nu:3 
-织女星  :    zhi1 nu:3 xing1 
+织女  :    zhi1 nv3 
+织女星  :    zhi1 nv3 xing1 
 织布  :    zhi1 bu4 
 织布机  :    zhi1 bu4 ji1 
 织当访婢  :    zhi1 dang1 fang3 bi4 
@@ -77684,7 +77684,7 @@
 终点站  :    zhong1 dian3 zhan4 
 终点线  :    zhong1 dian3 xian4 
 终生  :    zhong1 sheng1 
-终生伴侣  :    zhong1 sheng1 ban4 lu:3 
+终生伴侣  :    zhong1 sheng1 ban4 lv3 
 终究  :    zhong1 jiu1 
 终端  :    zhong1 duan1 
 终端机  :    zhong1 duan1 ji1 
@@ -77768,7 +77768,7 @@
 经济基础  :    jing1 ji4 ji1 chu3 
 经济增加值  :    jing1 ji4 zeng1 jia1 zhi2 
 经济增长  :    jing1 ji4 zeng1 zhang3 
-经济增长率  :    jing1 ji4 zeng1 zhang3 lu:4 
+经济增长率  :    jing1 ji4 zeng1 zhang3 lv4 
 经济学  :    jing1 ji4 xue2 
 经济学家  :    jing1 ji4 xue2 jia1 
 经济学者  :    jing1 ji4 xue2 zhe3 
@@ -77852,7 +77852,7 @@
 结单  :    jie2 dan1 
 结发  :    jie2 fa4 
 结合  :    jie2 he2 
-结合律  :    jie2 he2 lu:4 
+结合律  :    jie2 he2 lv4 
 结合模型  :    jie2 he2 mo2 xing2 
 结合过程  :    jie2 he2 guo4 cheng2 
 结喉  :    jie2 hou2 
@@ -78180,9 +78180,9 @@
 继位  :    ji4 wei4 
 继后  :    ji4 hou4 
 继嗣  :    ji4 si4 
-继女  :    ji4 nu:3 
+继女  :    ji4 nv3 
 继子  :    ji4 zi3 
-继子女  :    ji4 zi3 nu:3 
+继子女  :    ji4 zi3 nv3 
 继室  :    ji4 shi4 
 继往开来  :    ji4 wang3 kai1 lai2 
 继承  :    ji4 cheng2 
@@ -78298,7 +78298,7 @@
 维基解密  :    wei2 ji1 jie3 mi4 
 维基词典  :    wei2 ji1 ci2 dian3 
 维多利亚  :    wei2 duo1 li4 ya4 
-维多利亚女王  :    wei2 duo1 li4 ya4 nu:3 wang2 
+维多利亚女王  :    wei2 duo1 li4 ya4 nv3 wang2 
 维多利亚公园  :    wei2 duo1 li4 ya4 gong1 yuan2 
 维多利亚岛  :    wei2 duo1 li4 ya4 dao3 
 维多利亚州  :    wei2 duo1 li4 ya4 zhou1 
@@ -78426,62 +78426,62 @@
 绽裂  :    zhan4 lie4 
 绽露  :    zhan4 lu4 
 绾  :    wan3 
-绿  :    lu:4 
-绿化  :    lu:4 hua4 
-绿区  :    lu:4 qu1 
-绿卡  :    lu:4 ka3 
-绿叶  :    lu:4 ye4 
-绿党  :    lu:4 dang3 
-绿园  :    lu:4 yuan2 
-绿园区  :    lu:4 yuan2 qu1 
-绿地  :    lu:4 di4 
-绿坝  :    lu:4 ba4 
-绿坝・花季护航  :    lu:4 ba4 · hua1 ji4 hu4 hang2 
-绿头巾  :    lu:4 tou2 jin1 
-绿女红男  :    lu:4 nu:3 hong2 nan2 
-绿宝石  :    lu:4 bao3 shi2 
-绿岛  :    lu:4 dao3 
-绿岛乡  :    lu:4 dao3 xiang1 
-绿帽子  :    lu:4 mao4 zi5 
-绿惨红愁  :    lu:4 can3 hong2 chou2 
-绿树  :    lu:4 shu4 
-绿树成荫  :    lu:4 shu4 cheng2 yin4 
-绿旗兵  :    lu:4 qi2 bing1 
-绿春  :    lu:4 chun1 
-绿春县  :    lu:4 chun1 xian4 
-绿松石  :    lu:4 song1 shi2 
+绿  :    lv4 
+绿化  :    lv4 hua4 
+绿区  :    lv4 qu1 
+绿卡  :    lv4 ka3 
+绿叶  :    lv4 ye4 
+绿党  :    lv4 dang3 
+绿园  :    lv4 yuan2 
+绿园区  :    lv4 yuan2 qu1 
+绿地  :    lv4 di4 
+绿坝  :    lv4 ba4 
+绿坝・花季护航  :    lv4 ba4 · hua1 ji4 hu4 hang2 
+绿头巾  :    lv4 tou2 jin1 
+绿女红男  :    lv4 nv3 hong2 nan2 
+绿宝石  :    lv4 bao3 shi2 
+绿岛  :    lv4 dao3 
+绿岛乡  :    lv4 dao3 xiang1 
+绿帽子  :    lv4 mao4 zi5 
+绿惨红愁  :    lv4 can3 hong2 chou2 
+绿树  :    lv4 shu4 
+绿树成荫  :    lv4 shu4 cheng2 yin4 
+绿旗兵  :    lv4 qi2 bing1 
+绿春  :    lv4 chun1 
+绿春县  :    lv4 chun1 xian4 
+绿松石  :    lv4 song1 shi2 
 绿林  :    lu4 lin2 
-绿林好汉  :    lu:4 lin2 hao3 han4 
-绿林豪客  :    lu:4 lin2 hao2 ke4 
-绿水  :    lu:4 shui3 
-绿油油  :    lu:4 you2 you2 
-绿泥石  :    lu:4 ni2 shi2 
-绿洲  :    lu:4 zhou1 
-绿灯  :    lu:4 deng1 
-绿玉髓  :    lu:4 yu4 sui3 
-绿玛瑙  :    lu:4 ma3 nao3 
-绿皮书  :    lu:4 pi2 shu1 
-绿矾  :    lu:4 fan2 
-绿箭  :    lu:4 jian4 
-绿肥  :    lu:4 fei2 
-绿色  :    lu:4 se4 
-绿色和平  :    lu:4 se4 he2 ping2 
-绿色食品  :    lu:4 se4 shi2 pin3 
-绿花椰菜  :    lu:4 hua1 ye1 cai4 
-绿苔  :    lu:4 tai2 
-绿茵  :    lu:4 yin1 
-绿茵场  :    lu:4 yin1 chang3 
-绿茶  :    lu:4 cha2 
-绿草  :    lu:4 cao3 
-绿草如茵  :    lu:4 cao3 ru2 yin1 
-绿莹莹  :    lu:4 ying1 ying1 
-绿菜花  :    lu:4 cai4 hua1 
-绿营  :    lu:4 ying2 
-绿营兵  :    lu:4 ying2 bing1 
-绿豆  :    lu:4 dou4 
-绿赤杨  :    lu:4 chi4 yang2 
-绿阴  :    lu:4 yin1 
-绿雀  :    lu:4 que4 
+绿林好汉  :    lv4 lin2 hao3 han4 
+绿林豪客  :    lv4 lin2 hao2 ke4 
+绿水  :    lv4 shui3 
+绿油油  :    lv4 you2 you2 
+绿泥石  :    lv4 ni2 shi2 
+绿洲  :    lv4 zhou1 
+绿灯  :    lv4 deng1 
+绿玉髓  :    lv4 yu4 sui3 
+绿玛瑙  :    lv4 ma3 nao3 
+绿皮书  :    lv4 pi2 shu1 
+绿矾  :    lv4 fan2 
+绿箭  :    lv4 jian4 
+绿肥  :    lv4 fei2 
+绿色  :    lv4 se4 
+绿色和平  :    lv4 se4 he2 ping2 
+绿色食品  :    lv4 se4 shi2 pin3 
+绿花椰菜  :    lv4 hua1 ye1 cai4 
+绿苔  :    lv4 tai2 
+绿茵  :    lv4 yin1 
+绿茵场  :    lv4 yin1 chang3 
+绿茶  :    lv4 cha2 
+绿草  :    lv4 cao3 
+绿草如茵  :    lv4 cao3 ru2 yin1 
+绿莹莹  :    lv4 ying1 ying1 
+绿菜花  :    lv4 cai4 hua1 
+绿营  :    lv4 ying2 
+绿营兵  :    lv4 ying2 bing1 
+绿豆  :    lv4 dou4 
+绿赤杨  :    lv4 chi4 yang2 
+绿阴  :    lv4 yin1 
+绿雀  :    lv4 que4 
 绅士  :    shen1 shi4 
 砼  :    tong2 
 缅  :    mian3 
@@ -78561,8 +78561,8 @@
 缔结  :    di4 jie2 
 缔造  :    di4 zao4 
 缔造者  :    di4 zao4 zhe3 
-缕  :    lu:3 
-缕述  :    lu:3 shu4 
+缕  :    lv3 
+缕述  :    lv3 shu4 
 编  :    bian1 
 编修  :    bian1 xiu1 
 编写  :    bian1 xie3 
@@ -78690,9 +78690,9 @@
 缩氨酸  :    suo1 an1 suan1 
 缩水  :    suo1 shui3 
 缩格  :    suo1 ge2 
-缩略  :    suo1 lu:e4 
-缩略字  :    suo1 lu:e4 zi4 
-缩略语  :    suo1 lu:e4 yu3 
+缩略  :    suo1 lve4 
+缩略字  :    suo1 lve4 zi4 
+缩略语  :    suo1 lve4 yu3 
 缩短  :    suo1 duan3 
 缩紧  :    suo1 jin3 
 缩约  :    suo1 yue1 
@@ -79059,7 +79059,7 @@
 罗织  :    luo2 zhi1 
 罗经  :    luo2 jing1 
 罗缎  :    luo2 duan4 
-罗缕纪存  :    luo2 lu:3 ji4 cun2 
+罗缕纪存  :    luo2 lv3 ji4 cun2 
 罗网  :    luo2 wang3 
 罗致  :    luo2 zhi4 
 罗荣桓  :    luo2 rong2 huan2 
@@ -79207,7 +79207,7 @@
 羀  :    liu3 
 羁  :    ji1 
 羁押  :    ji1 ya1 
-羁旅  :    ji1 lu:3 
+羁旅  :    ji1 lv3 
 羁留  :    ji1 liu2 
 羁绊  :    ji1 ban4 
 羂  :    juan4 
@@ -79344,7 +79344,7 @@
 美圆  :    mei3 yuan2 
 美声  :    mei3 sheng1 
 美声唱法  :    mei3 sheng1 chang4 fa3 
-美女  :    mei3 nu:3 
+美女  :    mei3 nv3 
 美好  :    mei3 hao3 
 美妙  :    mei3 miao4 
 美姑  :    mei3 gu1 
@@ -79353,7 +79353,7 @@
 美学  :    mei3 xue2 
 美宇航局  :    mei3 yu3 hang2 ju2 
 美容  :    mei3 rong2 
-美容女  :    mei3 rong2 nu:3 
+美容女  :    mei3 rong2 nv3 
 美容师  :    mei3 rong2 shi1 
 美容店  :    mei3 rong2 dian4 
 美容手术  :    mei3 rong2 shou3 shu4 
@@ -79729,7 +79729,7 @@
 翠峦  :    cui4 luan2 
 翠峦区  :    cui4 luan2 qu1 
 翅汤  :    chi4 tang1 
-翠绿  :    cui4 lu:4 
+翠绿  :    cui4 lv4 
 翅膀  :    chi4 bang3 
 翅膀硬了  :    chi4 bang3 ying4 le5 
 翠青蛇  :    cui4 qing1 she2 
@@ -79787,7 +79787,7 @@
 老城区  :    lao3 cheng2 qu1 
 老境  :    lao3 jing4 
 老墨  :    lao3 mo4 
-老处女  :    lao3 chu3 nu:3 
+老处女  :    lao3 chu3 nv3 
 老外  :    lao3 wai4 
 老大  :    lao3 da4 
 老大哥  :    lao3 da4 ge1 
@@ -80000,7 +80000,7 @@
 考生  :    kao3 sheng1 
 考究  :    kao3 jiu1 
 考绩  :    kao3 ji4 
-考虑  :    kao3 lu:4 
+考虑  :    kao3 lv4 
 考订  :    kao3 ding4 
 考证  :    kao3 zheng4 
 考评  :    kao3 ping2 
@@ -80211,8 +80211,8 @@
 耶和华见证人  :    ye1 he2 hua2 jian4 zheng4 ren2 
 耶哥尼雅  :    ye1 ge1 ni2 ya3 
 耶弗他  :    ye1 fu2 ta1 
-耶律大石  :    ye1 lu:4 da4 shi2 
-耶律楚材  :    ye1 lu:4 chu3 cai2 
+耶律大石  :    ye1 lv4 da4 shi2 
+耶律楚材  :    ye1 lv4 chu3 cai2 
 耶户  :    ye1 hu4 
 耶洗别  :    ye1 xi3 bie2 
 耶烈万  :    ye1 lie4 wan4 
@@ -80467,7 +80467,7 @@
 聚晤  :    ju4 wu4 
 聚歼  :    ju4 jian1 
 聚氨酯  :    ju4 an1 zhi3 
-聚氯乙烯  :    ju4 lu:4 yi3 xi1 
+聚氯乙烯  :    ju4 lv4 yi3 xi1 
 聚沙成塔  :    ju4 sha1 cheng2 ta3 
 聚点  :    ju4 dian3 
 聚焦  :    ju4 jiao1 
@@ -80542,7 +80542,7 @@
 肆  :    si4 
 肆意  :    si4 yi4 
 肆无忌惮  :    si4 wu2 ji4 dan4 
-肆虐  :    si4 nu:e4 
+肆虐  :    si4 nve4 
 肆行  :    si4 xing2 
 肇  :    zhao4 
 肇东  :    zhao4 dong1 
@@ -80707,7 +80707,7 @@
 股栗  :    gu3 li4 
 股栗肤粟  :    gu3 li4 fu1 su4 
 股本  :    gu3 ben3 
-股本金比率  :    gu3 ben3 jin1 bi3 lu:4 
+股本金比率  :    gu3 ben3 jin1 bi3 lv4 
 股权  :    gu3 quan2 
 股民  :    gu3 min2 
 股沟  :    gu3 gou1 
@@ -80931,7 +80931,7 @@
 胆敢  :    dan3 gan3 
 胆气  :    dan3 qi4 
 胆汁  :    dan3 zhi1 
-胆略  :    dan3 lu:e4 
+胆略  :    dan3 lve4 
 胆石  :    dan3 shi2 
 胆石症  :    dan3 shi2 zheng4 
 胆石绞痛  :    dan3 shi2 jiao3 tong4 
@@ -80941,7 +80941,7 @@
 胆破  :    dan3 po4 
 胆红素  :    dan3 hong2 su4 
 胆结石  :    dan3 jie2 shi2 
-胆绿素  :    dan3 lu:4 su4 
+胆绿素  :    dan3 lv4 su4 
 胆色素  :    dan3 se4 su4 
 胆识  :    dan3 shi2 
 胆道  :    dan3 dao4 
@@ -81074,7 +81074,7 @@
 胡作非为  :    hu2 zuo4 fei1 wei2 
 胡佳  :    hu2 jia1 
 胡克  :    hu2 ke4 
-胡克定律  :    hu2 ke4 ding4 lu:4 
+胡克定律  :    hu2 ke4 ding4 lv4 
 胡匪  :    hu2 fei3 
 胡吃海喝  :    hu2 chi1 hai3 he1 
 胡吃海塞  :    hu2 chi1 hai3 sai1 
@@ -81255,7 +81255,7 @@
 胸无宿物  :    xiong1 wu2 su4 wu4 
 胸有丘壑  :    xiong1 you3 qiu1 he4 
 胸有城府  :    xiong1 you3 cheng2 fu3 
-胸有成略  :    xiong1 you3 cheng2 lu:e4 
+胸有成略  :    xiong1 you3 cheng2 lve4 
 胸有成竹  :    xiong1 you3 cheng2 zhu2 
 胸有成算  :    xiong1 you3 cheng2 suan4 
 胸椎  :    xiong1 zhui1 
@@ -81323,7 +81323,7 @@
 能量  :    neng2 liang4 
 能量代谢  :    neng2 liang4 dai4 xie4 
 能量守恒  :    neng2 liang4 shou3 heng2 
-能量守恒定律  :    neng2 liang4 shou3 heng2 ding4 lu:4 
+能量守恒定律  :    neng2 liang4 shou3 heng2 ding4 lv4 
 胾  :    zi4 
 胠箧  :    qu1 qie4 
 胠箧者流  :    qu1 qie4 zhe3 liu2 
@@ -81607,7 +81607,7 @@
 脱漏  :    tuo1 lou4 
 脱然  :    tuo1 ran2 
 脱班  :    tuo1 ban1 
-脱略  :    tuo1 lu:e4 
+脱略  :    tuo1 lve4 
 脱皮  :    tuo1 pi2 
 脱皮掉肉  :    tuo1 pi2 diao4 rou4 
 脱盲  :    tuo1 mang2 
@@ -81688,7 +81688,7 @@
 脸蛋儿  :    lian3 dan4 r5 
 脸蛋子  :    lian3 dan4 zi5 
 脸谱  :    lian3 pu3 
-脸都绿了  :    lian3 dou1 lu:4 le5 
+脸都绿了  :    lian3 dou1 lv4 le5 
 脸面  :    lian3 mian4 
 脸颊  :    lian3 jia2 
 脾  :    pi2 
@@ -81705,8 +81705,8 @@
 膀胱气化  :    pang2 guang1 qi4 hua4 
 膀胱炎  :    pang2 guang1 yan2 
 膀臂  :    bang3 bi4 
-膂  :    lu:3 
-膂力  :    lu:3 li4 
+膂  :    lv3 
+膂力  :    lv3 li4 
 膆  :    su4 
 膇  :    zhui4 
 膈  :    ge2 
@@ -81745,7 +81745,7 @@
 膝盖  :    xi1 gai4 
 膝盖骨  :    xi1 gai4 gu3 
 膝袒  :    xi1 tan3 
-膟  :    lu:4 
+膟  :    lv4 
 膣  :    zhi4 
 膦  :    lin4 
 膨  :    peng2 
@@ -81940,8 +81940,8 @@
 自强不息  :    zi4 qiang2 bu4 xi1 
 自强自立  :    zi4 qiang2 zi4 li4 
 自强运动  :    zi4 qiang2 yun4 dong4 
-自律  :    zi4 lu:4 
-自律性组织  :    zi4 lu:4 xing4 zu3 zhi1 
+自律  :    zi4 lv4 
+自律性组织  :    zi4 lv4 xing4 zu3 zhi1 
 自得  :    zi4 de2 
 自得其乐  :    zi4 de2 qi2 le4 
 自忖  :    zi4 cun3 
@@ -82056,7 +82056,7 @@
 自由城  :    zi4 you2 cheng2 
 自由基  :    zi4 you2 ji1 
 自由基清除剂  :    zi4 you2 ji1 qing1 chu2 ji4 
-自由女神像  :    zi4 you2 nu:3 shen2 xiang4 
+自由女神像  :    zi4 you2 nv3 shen2 xiang4 
 自由市  :    zi4 you2 shi4 
 自由市场  :    zi4 you2 shi4 chang3 
 自由度  :    zi4 you2 du4 
@@ -82600,7 +82600,7 @@
 良好  :    liang2 hao3 
 良宵美景  :    liang2 xiao1 mei3 jing3 
 良家  :    liang2 jia1 
-良家女子  :    liang2 jia1 nu:3 zi3 
+良家女子  :    liang2 jia1 nv3 zi3 
 良工心苦  :    liang2 gong1 xin1 ku3 
 良师益友  :    liang2 shi1 yi4 you3 
 良庆  :    liang2 qing4 
@@ -82812,7 +82812,7 @@
 节庆  :    jie2 qing4 
 节度使  :    jie2 du4 shi3 
 节录  :    jie2 lu4 
-节律  :    jie2 lu:4 
+节律  :    jie2 lv4 
 节拍  :    jie2 pai1 
 节拍器  :    jie2 pai1 qi4 
 节操  :    jie2 cao1 
@@ -82831,8 +82831,8 @@
 节点  :    jie2 dian3 
 节烈  :    jie2 lie4 
 节电  :    jie2 dian4 
-节略  :    jie2 lu:e4 
-节略本  :    jie2 lu:e4 ben3 
+节略  :    jie2 lve4 
+节略本  :    jie2 lve4 ben3 
 节疤  :    jie2 ba1 
 节瘤  :    jie2 liu2 
 节目  :    jie2 mu4 
@@ -82927,7 +82927,7 @@
 芝麻官  :    zhi1 ma5 guan1 
 芝麻小事  :    zhi1 ma5 xiao3 shi4 
 芝麻油  :    zhi1 ma5 you2 
-芝麻绿豆  :    zhi1 ma5 lu:4 dou4 
+芝麻绿豆  :    zhi1 ma5 lv4 dou4 
 芝麻饼  :    zhi1 ma5 bing3 
 芝麻酱  :    zhi1 ma5 jiang4 
 芞  :    qi4 
@@ -83134,7 +83134,7 @@
 花粉过敏  :    hua1 fen3 guo4 min3 
 花絮  :    hua1 xu4 
 花红  :    hua1 hong2 
-花红柳绿  :    hua1 hong2 liu3 lu:4 
+花红柳绿  :    hua1 hong2 liu3 lv4 
 花纹  :    hua1 wen2 
 花结  :    hua1 jie2 
 花缎  :    hua1 duan4 
@@ -83143,7 +83143,7 @@
 花花公主  :    hua1 hua1 gong1 zhu3 
 花花公子  :    hua1 hua1 gong1 zi3 
 花花搭搭  :    hua1 hua5 da1 da1 
-花花绿绿  :    hua1 hua1 lu:4 lu:4 
+花花绿绿  :    hua1 hua1 lv4 lv4 
 花花肠子  :    hua1 hua1 chang2 zi5 
 花苞  :    hua1 bao1 
 花茶  :    hua1 cha2 
@@ -83332,7 +83332,7 @@
 苏洵  :    su1 xun2 
 苏格兰  :    su1 ge2 lan2 
 苏格兰场  :    su1 ge2 lan2 chang3 
-苏格兰女王玛丽  :    su1 ge2 lan2 nu:3 wang2 ma3 li4 
+苏格兰女王玛丽  :    su1 ge2 lan2 nv3 wang2 ma3 li4 
 苏格兰帽  :    su1 ge2 lan2 mao4 
 苏格兰折耳猫  :    su1 ge2 lan2 zhe2 er3 mao1 
 苏格拉底  :    su1 ge2 la1 di3 
@@ -83549,7 +83549,7 @@
 苯氧基  :    ben3 yang3 ji1 
 苯环  :    ben3 huan2 
 苯甲醛  :    ben3 jia3 quan2 
-苯甲酰氯  :    ben3 jia3 xian1 lu:4 
+苯甲酰氯  :    ben3 jia3 xian1 lv4 
 苯甲酸  :    ben3 jia3 suan1 
 苯甲酸钠  :    ben3 jia3 suan1 na4 
 苯胺  :    ben3 an4 
@@ -83625,7 +83625,7 @@
 英雄  :    ying1 xiong2 
 英雄好汉  :    ying1 xiong2 hao3 han4 
 英雄式  :    ying1 xiong2 shi4 
-英雄所见略同  :    ying1 xiong2 suo3 jian4 lu:e4 tong2 
+英雄所见略同  :    ying1 xiong2 suo3 jian4 lve4 tong2 
 英雄无用武之地  :    ying1 xiong2 wu2 yong4 wu3 zhi1 di4 
 英雄难过美人关  :    ying1 xiong2 nan2 guo4 mei3 ren2 guan1 
 苲  :    zha3 
@@ -83841,7 +83841,7 @@
 茹苦含辛  :    ru2 ku3 han2 xin1 
 茹荤  :    ru2 hun1 
 茹荤饮酒  :    ru2 hun1 yin3 jiu3 
-茹藘  :    ru2 lu:2 
+茹藘  :    ru2 lv2 
 茹鱼  :    ru2 yu2 
 茻  :    mang3 
 茼  :    tong2 
@@ -84532,10 +84532,10 @@
 菲尔普斯  :    fei1 er3 pu3 si1 
 菲尔特  :    fei1 er3 te4 
 菲尼克斯  :    fei1 ni2 ke4 si1 
-菲律宾  :    fei1 lu:4 bin1 
-菲律宾人  :    fei1 lu:4 bin1 ren2 
-菲律宾大学  :    fei1 lu:4 bin1 da4 xue2 
-菲律宾语  :    fei1 lu:4 bin1 yu3 
+菲律宾  :    fei1 lv4 bin1 
+菲律宾人  :    fei1 lv4 bin1 ren2 
+菲律宾大学  :    fei1 lv4 bin1 da4 xue2 
+菲律宾语  :    fei1 lv4 bin1 yu3 
 菲德尔  :    fei1 de2 er3 
 菲林  :    fei1 lin2 
 菲舍尔  :    fei1 she3 er3 
@@ -84614,7 +84614,7 @@
 萣  :    ding4 
 萤  :    ying2 
 萤光灯  :    ying2 guang1 deng1 
-萤光绿  :    ying2 guang1 lu:4 
+萤光绿  :    ying2 guang1 lv4 
 萤幕  :    ying2 mu4 
 萤幕保护装置  :    ying2 mu4 bao3 hu4 zhuang1 zhi4 
 萤火  :    ying2 huo3 
@@ -84710,7 +84710,7 @@
 萨尔图  :    sa4 er3 tu2 
 萨尔图区  :    sa4 er3 tu2 qu1 
 萨尔州  :    sa4 er3 zhou1 
-萨尔布吕肯  :    sa4 er3 bu4 lu:3 ken3 
+萨尔布吕肯  :    sa4 er3 bu4 lv3 ken3 
 萨尔普斯堡  :    sa4 er3 pu3 si1 bao3 
 萨尔浒之战  :    sa4 er3 hu3 zhi1 zhan4 
 萨尔温江  :    sa4 er3 wen1 jiang1 
@@ -84852,7 +84852,7 @@
 腐刑  :    fu3 xing2 
 腐化  :    fu3 hua4 
 腐坏  :    fu3 huai4 
-腐女  :    fu3 nu:3 
+腐女  :    fu3 nv3 
 腐旧  :    fu3 jiu4 
 腐朽  :    fu3 xiu3 
 腐殖土  :    fu3 zhi2 tu3 
@@ -84873,7 +84873,7 @@
 葆  :    bao3 
 葇  :    rou2 
 葍  :    fu2 
-葎  :    lu:4 
+葎  :    lv4 
 葑  :    feng1 
 葖  :    tu2 
 著  :    zhu4 
@@ -84900,7 +84900,7 @@
 葛根  :    ge2 gen1 
 葛瑞格尔  :    ge3 rui4 ge2 er3 
 葛粉  :    ge2 fen3 
-葛缕子  :    ge3 lu:3 zi5 
+葛缕子  :    ge3 lv3 zi5 
 葛莱美奖  :    ge3 lai2 mei3 jiang3 
 葛藤  :    ge2 teng2 
 葡  :    pu2 
@@ -84958,7 +84958,7 @@
 葱头  :    cong1 tou2 
 葱属  :    cong1 shu3 
 葱岭  :    cong1 ling3 
-葱绿  :    cong1 lu:4 
+葱绿  :    cong1 lv4 
 葱翠  :    cong1 cui4 
 葱花  :    cong1 hua1 
 葱茏  :    cong1 long2 
@@ -85212,9 +85212,9 @@
 蓝筹股  :    lan2 chou2 gu3 
 蓝精灵  :    lan2 jing1 ling2 
 蓝细菌  :    lan2 xi4 jun1 
-蓝绿菌  :    lan2 lu:4 jun1 
-蓝绿藻  :    lan2 lu:4 zao3 
-蓝缕  :    lan2 lu:3 
+蓝绿菌  :    lan2 lv4 jun1 
+蓝绿藻  :    lan2 lv4 zao3 
+蓝缕  :    lan2 lv3 
 蓝耳病  :    lan2 er3 bing4 
 蓝肤木  :    lan2 fu1 mu4 
 蓝舌病  :    lan2 she2 bing4 
@@ -85452,7 +85452,7 @@
 腕管综合症  :    wan4 guan3 zong1 he2 zheng4 
 腕级  :    wan4 ji2 
 蠕蠕  :    ru2 ru2 
-蕠藘  :    ru2 lu:2 
+蕠藘  :    ru2 lv2 
 蠕虫  :    ru2 chong2 
 腕足动物  :    wan4 zu2 dong4 wu4 
 腕隧道症候群  :    wan4 sui4 dao4 zheng4 hou4 qun2 
@@ -85632,7 +85632,7 @@
 藓苔  :    xian3 tai2 
 藕  :    ou3 
 藕断丝连  :    ou3 duan4 si1 lian2 
-藘  :    lu:2 
+藘  :    lv2 
 藙  :    yi4 
 藚  :    xu4 
 藜  :    li2 
@@ -85750,12 +85750,12 @@
 虎鲸  :    hu3 jing1 
 虏  :    lu3 
 虏获  :    lu3 huo4 
-虐  :    nu:e4 
-虐待  :    nu:e4 dai4 
-虐待狂  :    nu:e4 dai4 kuang2 
-虐杀  :    nu:e4 sha1 
-虑  :    lu:4 
-虑病症  :    lu:4 bing4 zheng4 
+虐  :    nve4 
+虐待  :    nve4 dai4 
+虐待狂  :    nve4 dai4 kuang2 
+虐杀  :    nve4 sha1 
+虑  :    lv4 
+虑病症  :    lv4 bing4 zheng4 
 虒  :    si1 
 虓  :    xiao1 
 虔  :    qian2 
@@ -86035,10 +86035,10 @@
 蛇皮果  :    she2 pi2 guo3 
 蛇纹岩  :    she2 wen2 yan2 
 蛇纹石  :    she2 wen2 shi2 
-蛇绿岩  :    she2 lu:4 yan2 
-蛇绿混杂  :    she2 lu:4 hun4 za2 
-蛇绿混杂岩  :    she2 lu:4 hun4 za2 yan2 
-蛇绿混杂岩带  :    she2 lu:4 hun4 za2 yan2 dai4 
+蛇绿岩  :    she2 lv4 yan2 
+蛇绿混杂  :    she2 lv4 hun4 za2 
+蛇绿混杂岩  :    she2 lv4 hun4 za2 yan2 
+蛇绿混杂岩带  :    she2 lv4 hun4 za2 yan2 dai4 
 蛇胆  :    she2 dan3 
 蛇蒿  :    she2 hao1 
 蛇足  :    she2 zu2 
@@ -86663,7 +86663,7 @@
 血钻  :    xue4 zuan4 
 血雨  :    xue4 yu3 
 衁  :    huang1 
-衄  :    nu:4 
+衄  :    nv4 
 衈  :    er4 
 衉  :    ke4 
 衋  :    xi4 
@@ -86762,7 +86762,7 @@
 行政长官  :    xing2 zheng4 zhang3 guan1 
 行政院  :    xing2 zheng4 yuan4 
 行文  :    xing2 wen2 
-行旅  :    xing2 lu:3 
+行旅  :    xing2 lv3 
 行星  :    xing2 xing1 
 行星际  :    xing2 xing1 ji4 
 行有余力  :    xing2 you3 yu2 li4 
@@ -86893,7 +86893,7 @@
 衣兜  :    yi1 dou1 
 衣夹  :    yi1 jia1 
 衣子  :    yi1 zi3 
-衣履  :    yi1 lu:3 
+衣履  :    yi1 lv3 
 衣带  :    yi1 dai4 
 衣帽间  :    yi1 mao4 jian1 
 衣料  :    yi1 liao4 
@@ -87006,7 +87006,7 @@
 表亲  :    biao3 qin1 
 表位  :    biao3 wei4 
 表侄  :    biao3 zhi2 
-表侄女  :    biao3 zhi2 nu:3 
+表侄女  :    biao3 zhi2 nv3 
 表兄  :    biao3 xiong1 
 表兄弟  :    biao3 xiong1 di4 
 表册  :    biao3 ce4 
@@ -87259,7 +87259,7 @@
 袅袅婷婷  :    niao3 niao3 ting2 ting2 
 蠢蠢欲动  :    chun3 chun3 yu4 dong4 
 蠢货  :    chun3 huo4 
-蠢驴  :    chun3 lu:2 
+蠢驴  :    chun3 lv2 
 装  :    zhuang1 
 裀  :    yin1 
 裁  :    cai2 
@@ -87497,7 +87497,7 @@
 褙  :    bei4 
 褚  :    zhu3 
 褚人获  :    chu3 ren2 huo4 
-褛  :    lu:3 
+褛  :    lv3 
 褟  :    ta1 
 褟绦子  :    ta1 tao1 zi5 
 褡  :    da1 
@@ -87519,7 +87519,7 @@
 褰  :    qian1 
 褱  :    huai2 
 褴  :    lan2 
-褴褛  :    lan2 lu:3 
+褴褛  :    lan2 lv3 
 褵  :    li2 
 褶  :    xi2 
 褶子  :    zhe3 zi5 
@@ -87785,7 +87785,7 @@
 西螺  :    xi1 luo2 
 西螺镇  :    xi1 luo2 zhen4 
 西装  :    xi1 zhuang1 
-西装革履  :    xi1 zhuang1 ge2 lu:3 
+西装革履  :    xi1 zhuang1 ge2 lv3 
 西西  :    xi1 xi1 
 西西里  :    xi1 xi1 li3 
 西西里岛  :    xi1 xi1 li3 dao3 
@@ -87862,7 +87862,7 @@
 要样儿  :    yao4 yang4 r5 
 要点  :    yao4 dian3 
 要犯  :    yao4 fan4 
-要略  :    yao4 lu:e4 
+要略  :    yao4 lve4 
 要目  :    yao4 mu4 
 要看  :    yao4 kan4 
 要端  :    yao4 duan1 
@@ -87901,7 +87901,7 @@
 覆灭  :    fu4 mie4 
 覆盆子  :    fu4 pen2 zi3 
 覆盖  :    fu4 gai4 
-覆盖率  :    fu4 gai4 lu:4 
+覆盖率  :    fu4 gai4 lv4 
 覆盖面  :    fu4 gai4 mian4 
 覆膜  :    fu4 mo2 
 覆辙  :    fu4 zhe2 
@@ -88046,15 +88046,15 @@
 规复  :    gui1 fu4 
 规定  :    gui1 ding4 
 规定价格  :    gui1 ding4 jia4 ge2 
-规律  :    gui1 lu:4 
-规律性  :    gui1 lu:4 xing4 
+规律  :    gui1 lv4 
+规律性  :    gui1 lv4 xing4 
 规戒  :    gui1 jie4 
 规整  :    gui1 zheng3 
 规条  :    gui1 tiao2 
 规模  :    gui1 mo2 
 规正  :    gui1 zheng4 
 规格  :    gui1 ge2 
-规率  :    gui1 lu:4 
+规率  :    gui1 lv4 
 规矩  :    gui1 ju5 
 规矩准绳  :    gui1 ju5 zhun3 sheng2 
 规矩绳墨  :    gui1 ju5 sheng2 mo4 
@@ -88193,7 +88193,7 @@
 角锥  :    jiao3 zhui1 
 角门  :    jiao3 men2 
 角闪石  :    jiao3 shan3 shi2 
-角频率  :    jiao3 pin2 lu:4 
+角频率  :    jiao3 pin2 lv4 
 角马  :    jiao3 ma3 
 角鸮  :    jiao3 xiao1 
 角龙  :    jiao3 long2 
@@ -88582,7 +88582,7 @@
 计数  :    ji4 shu4 
 计数器  :    ji4 shu4 qi4 
 计数法  :    ji4 shu4 fa3 
-计数率仪  :    ji4 shu4 lu:4 yi2 
+计数率仪  :    ji4 shu4 lv4 yi2 
 计数管  :    ji4 shu4 guan3 
 计数者  :    ji4 shu4 zhe3 
 计时  :    ji4 shi2 
@@ -89032,7 +89032,7 @@
 证券  :    zheng4 quan4 
 证券交易所  :    zheng4 quan4 jiao1 yi4 suo3 
 证券代销  :    zheng4 quan4 dai4 xiao1 
-证券化率  :    zheng4 quan4 hua4 lu:4 
+证券化率  :    zheng4 quan4 hua4 lv4 
 证券商  :    zheng4 quan4 shang1 
 证券委  :    zheng4 quan4 wei3 
 证券委员会  :    zheng4 quan4 wei3 yuan2 hui4 
@@ -89105,7 +89105,7 @@
 识力  :    shi2 li4 
 识多才广  :    shi2 duo1 cai2 guang3 
 识字  :    shi2 zi4 
-识字率  :    shi2 zi4 lu:4 
+识字率  :    shi2 zi4 lv4 
 识度  :    shi2 du4 
 识得  :    shi2 de5 
 识微见几  :    shi2 wei1 jian4 ji3 
@@ -89446,7 +89446,7 @@
 详尽无遗  :    xiang2 jin4 wu2 yi2 
 详情  :    xiang2 qing2 
 详梦  :    xiang2 meng4 
-详略  :    xiang2 lu:e4 
+详略  :    xiang2 lve4 
 详细  :    xiang2 xi4 
 详见  :    xiang2 jian4 
 详解  :    xiang2 jie3 
@@ -89866,7 +89866,7 @@
 调养  :    tiao2 yang3 
 调弄  :    tiao2 nong4 
 调式  :    diao4 shi4 
-调律  :    diao4 lu:4 
+调律  :    diao4 lv4 
 调情  :    tiao2 qing2 
 调戏  :    tiao2 xi4 
 调拨  :    diao4 bo1 
@@ -89978,13 +89978,13 @@
 谋杀罪  :    mou2 sha1 zui4 
 谋求  :    mou2 qiu2 
 谋生  :    mou2 sheng1 
-谋略  :    mou2 lu:e4 
+谋略  :    mou2 lve4 
 谋职  :    mou2 zhi2 
 谋臣  :    mou2 chen2 
 谋臣如雨  :    mou2 chen2 ru2 yu3 
 谋臣武将  :    mou2 chen2 wu3 jiang4 
 谋臣猛将  :    mou2 chen2 meng3 jiang4 
-谋虑  :    mou2 lu:4 
+谋虑  :    mou2 lv4 
 谋计  :    mou2 ji4 
 谋财害命  :    mou2 cai2 hai4 ming4 
 谋面  :    mou2 mian4 
@@ -90023,12 +90023,12 @@
 谑剧  :    xue4 ju4 
 谑戏  :    xue4 xi4 
 谑称  :    xue4 cheng1 
-谑而不虐  :    xue4 er2 bu4 nu:e4 
+谑而不虐  :    xue4 er2 bu4 nve4 
 谑语  :    xue4 yu3 
 谒  :    ye4 
 谒访  :    ye4 fang3 
 谒陵  :    ye4 ling2 
-谒陵之旅  :    ye4 ling2 zhi1 lu:3 
+谒陵之旅  :    ye4 ling2 zhi1 lv3 
 谓  :    wei4 
 谓词  :    wei4 ci2 
 谓语  :    wei4 yu3 
@@ -90480,7 +90480,7 @@
 贞  :    zhen1 
 贞丰  :    zhen1 feng1 
 贞丰县  :    zhen1 feng1 xian4 
-贞女  :    zhen1 nu:3 
+贞女  :    zhen1 nv3 
 贞德  :    zhen1 de2 
 贞操  :    zhen1 cao1 
 贞操带  :    zhen1 cao1 dai4 
@@ -90797,8 +90797,8 @@
 贫嘴薄舌  :    pin2 zui3 bo2 she2 
 贫困  :    pin2 kun4 
 贫困地区  :    pin2 kun4 di4 qu1 
-贫困率  :    pin2 kun4 lu:4 
-贫女诗  :    pin2 nu:3 shi1 
+贫困率  :    pin2 kun4 lv4 
+贫女诗  :    pin2 nv3 shi1 
 贫富  :    pin2 fu4 
 贫富差距  :    pin2 fu4 cha1 ju4 
 贫寒  :    pin2 han2 
@@ -90903,7 +90903,7 @@
 贴旦  :    tie1 dan4 
 贴水  :    tie1 shui3 
 贴现  :    tie1 xian4 
-贴现率  :    tie1 xian4 lu:4 
+贴现率  :    tie1 xian4 lv4 
 贴生  :    tie1 sheng1 
 贴画  :    tie1 hua4 
 贴纸  :    tie1 zhi3 
@@ -90969,7 +90969,7 @@
 贷方  :    dai4 fang1 
 贷款  :    dai4 kuan3 
 贷款人  :    dai4 kuan3 ren2 
-贷款率  :    dai4 kuan3 lu:4 
+贷款率  :    dai4 kuan3 lv4 
 贷记  :    dai4 ji4 
 贸  :    mao4 
 贸易  :    mao4 yi4 
@@ -91018,7 +91018,7 @@
 费时  :    fei4 shi2 
 费曼  :    fei4 man4 
 费洛蒙  :    fei4 luo4 meng2 
-费率  :    fei4 lu:4 
+费率  :    fei4 lv4 
 费用  :    fei4 yong4 
 费用报销单  :    fei4 yong4 bao4 xiao1 dan1 
 费神  :    fei4 shen2 
@@ -91315,7 +91315,7 @@
 赛车  :    sai4 che1 
 赛车场  :    sai4 che1 chang3 
 赛车场赛  :    sai4 che1 chang3 sai4 
-赛车女郎  :    sai4 che1 nu:3 lang2 
+赛车女郎  :    sai4 che1 nv3 lang2 
 赛车手  :    sai4 che1 shou3 
 赛道  :    sai4 dao4 
 赛里木湖  :    sai4 li3 mu4 hu2 
@@ -91404,7 +91404,7 @@
 赤胆忠心  :    chi4 dan3 zhong1 xin1 
 赤脚  :    chi4 jiao3 
 赤脚医生  :    chi4 jiao3 yi1 sheng1 
-赤脚律师  :    chi4 jiao3 lu:4 shi1 
+赤脚律师  :    chi4 jiao3 lv4 shi1 
 赤膊  :    chi4 bo2 
 赤膊上阵  :    chi4 bo2 shang4 zhen4 
 赤藓糖醇  :    chi4 xian3 tang2 chun2 
@@ -92444,7 +92444,7 @@
 蹎  :    dian1 
 蹐  :    ji2 
 蹑  :    nie4 
-蹑履  :    nie4 lu:3 
+蹑履  :    nie4 lv3 
 蹑悄悄  :    nie4 qiao1 qiao1 
 蹑手蹑脚  :    nie4 shou3 nie4 jiao3 
 蹑机  :    nie4 ji1 
@@ -92659,7 +92659,7 @@
 身高马大  :    shen1 gao1 ma3 da4 
 躬  :    gong1 
 躬亲  :    gong1 qin1 
-躬履  :    gong1 lu:3 
+躬履  :    gong1 lv3 
 躬行  :    gong1 xing2 
 躬诣  :    gong1 yi4 
 躬身  :    gong1 shen1 
@@ -92935,7 +92935,7 @@
 转导  :    zhuan3 dao3 
 转关系  :    zhuan3 guan1 xi5 
 转差  :    zhuan3 cha1 
-转差率  :    zhuan3 cha1 lu:4 
+转差率  :    zhuan3 cha1 lv4 
 转帆  :    zhuan3 fan1 
 转干  :    zhuan3 gan4 
 转引  :    zhuan3 yin3 
@@ -93185,7 +93185,7 @@
 轴承  :    zhou2 cheng2 
 轴承销  :    zhou2 cheng2 xiao1 
 轴旋转  :    zhou2 xuan2 zhuan3 
-轴率  :    zhou2 lu:4 
+轴率  :    zhou2 lv4 
 轴突  :    zhou2 tu1 
 轴突运输  :    zhou2 tu1 yun4 shu1 
 轴索  :    zhou2 suo3 
@@ -93337,7 +93337,7 @@
 较差  :    jiao4 cha1 
 较比  :    jiao4 bi3 
 较然  :    jiao4 ran2 
-较略  :    jiao4 lu:e4 
+较略  :    jiao4 lve4 
 较真  :    jiao4 zhen1 
 较真儿  :    jiao4 zhen1 r5 
 较短絜长  :    jiao4 duan3 xie2 chang2 
@@ -93364,7 +93364,7 @@
 辉煌  :    hui1 huang2 
 辉瑞  :    hui1 rui4 
 辉石  :    hui1 shi2 
-辉绿岩  :    hui1 lu:4 yan2 
+辉绿岩  :    hui1 lv4 yan2 
 辉长岩  :    hui1 chang2 yan2 
 辊  :    gun3 
 辋  :    wang3 
@@ -93372,7 +93372,7 @@
 辍  :    chuo4 
 辍业  :    chuo4 ye4 
 辍学  :    chuo4 xue2 
-辍学率  :    chuo4 xue2 lu:4 
+辍学率  :    chuo4 xue2 lv4 
 辍工  :    chuo4 gong1 
 辍朝  :    chuo4 chao2 
 辍止  :    chuo4 zhi3 
@@ -93388,7 +93388,7 @@
 辐射侦察  :    fu2 she4 zhen1 cha2 
 辐射分解  :    fu2 she4 fen1 jie3 
 辐射剂量  :    fu2 she4 ji4 liang4 
-辐射剂量率  :    fu2 she4 ji4 liang4 lu:4 
+辐射剂量率  :    fu2 she4 ji4 liang4 lv4 
 辐射场  :    fu2 she4 chang3 
 辐射对称  :    fu2 she4 dui4 chen4 
 辐射强度  :    fu2 she4 qiang2 du4 
@@ -93505,7 +93505,6 @@
 辞行  :    ci2 xing2 
 辞谢  :    ci2 xie4 
 辞退  :    ci2 tui4 
-辟  :    bi4 
 辟谣  :    pi4 yao2 
 辟谷  :    pi4 gu3 
 辟邪  :    bi4 xie2 
@@ -93878,9 +93877,9 @@
 过渡时期  :    guo4 du4 shi2 qi1 
 过渡贷款  :    guo4 du4 dai4 kuan3 
 过渡金属  :    guo4 du4 jin1 shu3 
-过滤  :    guo4 lu:4 
-过滤嘴香烟  :    guo4 lu:4 zui3 xiang1 yan1 
-过滤器  :    guo4 lu:4 qi4 
+过滤  :    guo4 lv4 
+过滤嘴香烟  :    guo4 lv4 zui3 xiang1 yan1 
+过滤器  :    guo4 lv4 qi4 
 过激  :    guo4 ji1 
 过火  :    guo4 huo3 
 过热  :    guo4 re4 
@@ -93972,7 +93971,7 @@
 运动员  :    yun4 dong4 yuan2 
 运动场  :    yun4 dong4 chang3 
 运动学  :    yun4 dong4 xue2 
-运动定律  :    yun4 dong4 ding4 lu:4 
+运动定律  :    yun4 dong4 ding4 lv4 
 运动家  :    yun4 dong4 jia1 
 运动战  :    yun4 dong4 zhan4 
 运动方程  :    yun4 dong4 fang1 cheng2 
@@ -94294,7 +94293,7 @@
 远涉  :    yuan3 she4 
 远渡重洋  :    yuan3 du4 chong2 yang2 
 远游  :    yuan3 you2 
-远略  :    yuan3 lu:e4 
+远略  :    yuan3 lve4 
 远眺  :    yuan3 tiao4 
 远祖  :    yuan3 zu3 
 远离  :    yuan3 li2 
@@ -94308,7 +94307,7 @@
 远缘  :    yuan3 yuan2 
 远胄  :    yuan3 zhou4 
 远航  :    yuan3 hang2 
-远虑  :    yuan3 lu:4 
+远虑  :    yuan3 lv4 
 远行  :    yuan3 xing2 
 远见  :    yuan3 jian4 
 远见卓识  :    yuan3 jian4 zhuo2 shi2 
@@ -94939,7 +94938,7 @@
 逆戟鲸  :    ni4 ji3 jing1 
 逆料  :    ni4 liao4 
 逆断层  :    ni4 duan4 ceng2 
-逆旅  :    ni4 lu:3 
+逆旅  :    ni4 lv3 
 逆时针  :    ni4 shi2 zhen1 
 逆映射  :    ni4 ying4 she4 
 逆来顺受  :    ni4 lai2 shun4 shou4 
@@ -94990,7 +94989,7 @@
 选择题  :    xuan3 ze2 ti2 
 选本  :    xuan3 ben3 
 选民  :    xuan3 min2 
-选民参加率  :    xuan3 min2 can1 jia1 lu:4 
+选民参加率  :    xuan3 min2 can1 jia1 lv4 
 选民登记  :    xuan3 min2 deng1 ji4 
 选派  :    xuan3 pai4 
 选用  :    xuan3 yong4 
@@ -95243,7 +95242,7 @@
 通缉  :    tong1 ji1 
 通缉犯  :    tong1 ji1 fan4 
 通胀  :    tong1 zhang4 
-通胀率  :    tong1 zhang4 lu:4 
+通胀率  :    tong1 zhang4 lv4 
 通航  :    tong1 hang2 
 通菜  :    tong1 cai4 
 通融  :    tong1 rong2 
@@ -95326,7 +95325,7 @@
 速效性毒剂  :    su4 xiao4 xing4 du2 ji4 
 速溶  :    su4 rong2 
 速溶咖啡  :    su4 rong2 ka1 fei1 
-速率  :    su4 lu:4 
+速率  :    su4 lv4 
 速胜  :    su4 sheng4 
 速记  :    su4 ji4 
 速记员  :    su4 ji4 yuan2 
@@ -95599,7 +95598,7 @@
 遗传性  :    yi2 chuan2 xing4 
 遗传性疾病  :    yi2 chuan2 xing4 ji2 bing4 
 遗传物质  :    yi2 chuan2 wu4 zhi4 
-遗传率  :    yi2 chuan2 lu:4 
+遗传率  :    yi2 chuan2 lv4 
 遗体  :    yi2 ti3 
 遗体告别式  :    yi2 ti3 gao4 bie2 shi4 
 遗作  :    yi2 zuo4 
@@ -96043,7 +96042,7 @@
 郎之万  :    lang2 zhi1 wan4 
 郎君  :    lang2 jun1 
 郎平  :    lang2 ping2 
-郎才女貌  :    lang2 cai2 nu:3 mao4 
+郎才女貌  :    lang2 cai2 nv3 mao4 
 郎朗  :    lang2 lang3 
 郎溪  :    lang2 xi1 
 郎溪县  :    lang2 xi1 xian4 
@@ -96371,14 +96370,14 @@
 采择  :    cai3 ze2 
 采掘  :    cai3 jue2 
 采摘  :    cai3 zhai1 
-采收率  :    cai3 shou1 lu:4 
+采收率  :    cai3 shou1 lv4 
 采景  :    cai3 jing3 
 采暖  :    cai3 nuan3 
 采果  :    cai3 guo3 
 采棉机  :    cai3 mian2 ji1 
 采油  :    cai3 you2 
 采样  :    cai3 yang4 
-采样率  :    cai3 yang4 lu:4 
+采样率  :    cai3 yang4 lv4 
 采砂场  :    cai3 sha1 chang3 
 采珠  :    cai3 zhu1 
 采珠人  :    cai3 zhu1 ren2 
@@ -96536,7 +96535,7 @@
 重婚罪  :    chong2 hun1 zui4 
 重子  :    zhong4 zi3 
 重孙  :    chong2 sun1 
-重孙女  :    chong2 sun1 nu:3 
+重孙女  :    chong2 sun1 nv3 
 重孙子  :    chong2 sun1 zi5 
 重孝  :    zhong4 xiao4 
 重定向  :    chong2 ding4 xiang4 
@@ -96620,7 +96619,7 @@
 重生  :    chong2 sheng1 
 重用  :    zhong4 yong4 
 重申  :    chong2 shen1 
-重男轻女  :    zhong4 nan2 qing1 nu:3 
+重男轻女  :    zhong4 nan2 qing1 nv3 
 重病  :    zhong4 bing4 
 重症  :    zhong4 zheng4 
 重病特护  :    zhong4 bing4 te4 hu4 
@@ -96745,7 +96744,7 @@
 野颠茄  :    ye3 dian1 qie2 
 野餐  :    ye3 can1 
 野餐垫  :    ye3 can1 dian4 
-野驴  :    ye3 lu:2 
+野驴  :    ye3 lv2 
 野鸡  :    ye3 ji1 
 野鸡大学  :    ye3 ji1 da4 xue2 
 野鸭  :    ye3 ya1 
@@ -96988,9 +96987,9 @@
 金碧辉煌  :    jin1 bi4 hui1 huang2 
 金秀县  :    jin1 xiu4 xian4 
 金秀瑶族自治县  :    jin1 xiu4 yao2 zu2 zi4 zhi4 xian4 
-金科玉律  :    jin1 ke1 yu4 lu:4 
+金科玉律  :    jin1 ke1 yu4 lv4 
 金窝银窝不如自己的狗窝  :    jin1 wo1 yin2 wo1 bu4 ru2 zi4 ji3 de5 gou3 wo1 
-金童玉女  :    jin1 tong2 yu4 nu:3 
+金童玉女  :    jin1 tong2 yu4 nv3 
 金箍  :    jin1 gu1 
 金箍棒  :    jin1 gu1 bang4 
 金箔  :    jin1 bo2 
@@ -97299,7 +97298,7 @@
 鑅  :    heng2 
 鑀  :    ai4 
 鑐  :    xu1 
-鑢  :    lu:4 
+鑢  :    lv4 
 鑪  :    lu2 
 鑫  :    xin1 
 鑯  :    jian1 
@@ -97382,7 +97381,7 @@
 钓鱼杆  :    diao4 yu2 gan1 
 钓鱼者  :    diao4 yu2 zhe3 
 钔  :    men2 
-钕  :    nu:3 
+钕  :    nv3 
 钖  :    yang2 
 钗  :    chai1 
 钘  :    xing2 
@@ -97636,7 +97635,7 @@
 酒德  :    jiu3 de2 
 酒意  :    jiu3 yi4 
 酒托  :    jiu3 tuo1 
-酒托女  :    jiu3 tuo1 nu:3 
+酒托女  :    jiu3 tuo1 nv3 
 酒曲  :    jiu3 qu1 
 酒杯  :    jiu3 bei1 
 酒枣  :    jiu3 zao3 
@@ -97785,7 +97784,7 @@
 铁道部  :    tie3 dao4 bu4 
 铁钩  :    tie3 gou1 
 铁钩儿  :    tie3 gou1 r5 
-铁铝土  :    tie3 lu:3 tu3 
+铁铝土  :    tie3 lv3 tu3 
 铁链  :    tie3 lian4 
 铁锅  :    tie3 guo1 
 铁锈  :    tie3 xiu4 
@@ -97869,12 +97868,12 @@
 铜陵市  :    tong2 ling2 shi4 
 铜鼓  :    tong2 gu3 
 铜鼓县  :    tong2 gu3 xian4 
-铝  :    lu:3 
-铝合金  :    lu:3 he2 jin1 
-铝土  :    lu:3 tu3 
-铝矾土  :    lu:3 fan2 tu3 
-铝箔  :    lu:3 bo2 
-铝箔纸  :    lu:3 bo2 zhi3 
+铝  :    lv3 
+铝合金  :    lv3 he2 jin1 
+铝土  :    lv3 tu3 
+铝矾土  :    lv3 fan2 tu3 
+铝箔  :    lv3 bo2 
+铝箔纸  :    lv3 bo2 zhi3 
 铟  :    yin1 
 铡  :    zha2 
 铡刀  :    zha2 dao1 
@@ -98150,7 +98149,7 @@
 锈铁  :    xiu4 tie3 
 锉  :    cuo4 
 锉刀  :    cuo4 dao1 
-锊  :    lu:e4 
+锊  :    lve4 
 锋  :    feng1 
 锋利  :    feng1 li4 
 锋芒  :    feng1 mang2 
@@ -98329,7 +98328,7 @@
 锯末  :    ju4 mo4 
 锯条  :    ju4 tiao2 
 锯架  :    ju4 jia4 
-锯棕榈  :    ju4 zong1 lu:2 
+锯棕榈  :    ju4 zong1 lv2 
 锯片  :    ju4 pian4 
 锯齿  :    ju4 chi3 
 锯齿形  :    ju4 chi3 xing2 
@@ -98562,7 +98561,7 @@
 长夜漫漫  :    chang2 ye4 man4 man4 
 长夜难明  :    chang2 ye4 nan2 ming2 
 长大  :    zhang3 da4 
-长女  :    zhang3 nu:3 
+长女  :    zhang3 nv3 
 长姊  :    zhang3 zi3 
 长子  :    zhang3 zi3 
 长子县  :    chang2 zi3 xian4 
@@ -99110,7 +99109,7 @@
 闹闹攘攘  :    nao4 nao4 rang3 rang3 
 闹鬼  :    nao4 gui3 
 闺  :    gui1 
-闺女  :    gui1 nu:3 
+闺女  :    gui1 nv3 
 闺情  :    gui1 qing2 
 闺房  :    gui1 fang2 
 闺秀  :    gui1 xiu4 
@@ -99158,8 +99157,8 @@
 闽粤  :    min3 yue4 
 闽菜  :    min3 cai4 
 闽语  :    min3 yu3 
-闾  :    lu:2 
-闾尾  :    lu:2 wei3 
+闾  :    lv2 
+闾尾  :    lv2 wei3 
 闿  :    kai3 
 酗讼  :    xu4 song4 
 酗酒  :    xu4 jiu3 
@@ -99254,9 +99253,9 @@
 阖家  :    he2 jia1 
 阖庐  :    he2 lu2 
 阖第光临  :    he2 di4 guang1 lin2 
-阖闾  :    he2 lu:2 
-阖闾城  :    he2 lu:2 cheng2 
-阖闾城遗址  :    he2 lu:2 cheng2 yi2 zhi3 
+阖闾  :    he2 lv2 
+阖闾城  :    he2 lv2 cheng2 
+阖闾城遗址  :    he2 lv2 cheng2 yi2 zhi3 
 阗  :    tian2 
 阘  :    ta4 
 阙  :    que4 
@@ -99522,7 +99521,7 @@
 阴谋颠覆政府罪  :    yin1 mou2 dian1 fu4 zheng4 fu3 zui4 
 阴道  :    yin1 dao4 
 阴道口  :    yin1 dao4 kou3 
-阴道棕榈状壁  :    yin1 dao4 zong1 lu:2 zhuang4 bi4 
+阴道棕榈状壁  :    yin1 dao4 zong1 lv2 zhuang4 bi4 
 阴道炎  :    yin1 dao4 yan2 
 阴郁  :    yin1 yu4 
 阴部  :    yin1 bu4 
@@ -99617,7 +99616,7 @@
 阿伊努  :    a1 yi1 nu3 
 阿伊莎  :    a1 yi1 sha1 
 阿伏伽德罗  :    a1 fu2 jia1 de2 luo2 
-阿伏伽德罗定律  :    a1 fu2 jia1 de2 luo2 ding4 lu:4 
+阿伏伽德罗定律  :    a1 fu2 jia1 de2 luo2 ding4 lv4 
 阿伏伽德罗常数  :    a1 fu2 jia1 de2 luo2 chang2 shu4 
 阿伏伽德罗数  :    a1 fu2 jia1 de2 luo2 shu4 
 阿伦  :    a1 lun2 
@@ -100178,7 +100177,7 @@
 降价  :    jiang4 jia4 
 降伏  :    xiang2 fu2 
 降低  :    jiang4 di1 
-降低利率  :    jiang4 di1 li4 lu:4 
+降低利率  :    jiang4 di1 li4 lv4 
 降噪  :    jiang4 zao4 
 降妖  :    xiang2 yao1 
 降将  :    xiang2 jiang4 
@@ -100332,7 +100331,7 @@
 陪伴  :    pei2 ban4 
 陪侍  :    pei2 shi4 
 陪同  :    pei2 tong2 
-陪唱女  :    pei2 chang4 nu:3 
+陪唱女  :    pei2 chang4 nv3 
 陪唱小姐  :    pei2 chang4 xiao3 jie5 
 陪奁  :    pei2 lian2 
 陪嫁  :    pei2 jia4 
@@ -100777,7 +100776,7 @@
 雄心勃勃  :    xiong2 xin1 bo2 bo2 
 雄性  :    xiong2 xing4 
 雄性激素  :    xiong2 xing4 ji1 su4 
-雄才大略  :    xiong2 cai2 da4 lu:e4 
+雄才大略  :    xiong2 cai2 da4 lve4 
 雄浑  :    xiong2 hun2 
 雄激素  :    xiong2 ji1 su4 
 雄狮  :    xiong2 shi1 
@@ -100803,7 +100802,7 @@
 集中  :    ji2 zhong1 
 集中器  :    ji2 zhong1 qi4 
 集中托运  :    ji2 zhong1 tuo1 yun4 
-集中的策略  :    ji2 zhong1 de5 ce4 lu:e4 
+集中的策略  :    ji2 zhong1 de5 ce4 lve4 
 集中营  :    ji2 zhong1 ying2 
 集会  :    ji2 hui4 
 集体  :    ji2 ti3 
@@ -101060,7 +101059,7 @@
 零乱  :    ling2 luan4 
 零件  :    ling2 jian4 
 零件供货商  :    ling2 jian4 gong1 huo4 shang1 
-零功率堆  :    ling2 gong1 lu:4 dui1 
+零功率堆  :    ling2 gong1 lv4 dui1 
 零吃  :    ling2 chi1 
 零和  :    ling2 he2 
 零和博弈  :    ling2 he2 bo2 yi4 
@@ -101086,7 +101085,7 @@
 零日漏洞  :    ling2 ri4 lou4 dong4 
 零时  :    ling2 shi2 
 零星  :    ling2 xing1 
-零曲率  :    ling2 qu1 lu:4 
+零曲率  :    ling2 qu1 lv4 
 零杂  :    ling2 za2 
 零杂儿  :    ling2 za2 r5 
 零点  :    ling2 dian3 
@@ -101534,7 +101533,7 @@
 青山州  :    qing1 shan1 zhou1 
 青山湖  :    qing1 shan1 hu2 
 青山湖区  :    qing1 shan1 hu2 qu1 
-青山绿水  :    qing1 shan1 lu:4 shui3 
+青山绿水  :    qing1 shan1 lv4 shui3 
 青岛  :    qing1 dao3 
 青岛啤酒  :    qing1 dao3 pi2 jiu3 
 青岛市  :    qing1 dao3 shi4 
@@ -101547,10 +101546,10 @@
 青年人  :    qing1 nian2 ren2 
 青年会  :    qing1 nian2 hui4 
 青年团  :    qing1 nian2 tuan2 
-青年旅舍  :    qing1 nian2 lu:3 she4 
+青年旅舍  :    qing1 nian2 lv3 she4 
 青年期  :    qing1 nian2 qi1 
 青年节  :    qing1 nian2 jie2 
-青旅  :    qing1 lu:3 
+青旅  :    qing1 lv3 
 青春  :    qing1 chun1 
 青春不再  :    qing1 chun1 bu4 zai4 
 青春期  :    qing1 chun1 qi1 
@@ -101652,7 +101651,7 @@
 靓  :    jing4 
 靓丽  :    jing4 li4 
 靓仔  :    liang4 zai3 
-靓女  :    liang4 nu:3 
+靓女  :    liang4 nv3 
 靓妆  :    jing4 zhuang1 
 靓妹  :    liang4 mei4 
 靔  :    tian1 
@@ -101753,7 +101752,7 @@
 非国大  :    fei1 guo2 da4 
 非均质  :    fei1 jun1 zhi4 
 非婚生  :    fei1 hun1 sheng1 
-非婚生子女  :    fei1 hun1 sheng1 zi3 nu:3 
+非婚生子女  :    fei1 hun1 sheng1 zi3 nv3 
 非公式  :    fei1 gong1 shi4 
 非宗教  :    fei1 zong1 jiao4 
 非官方  :    fei1 guan1 fang1 
@@ -101850,7 +101849,7 @@
 非零  :    fei1 ling2 
 非音  :    fei1 yin1 
 非预谋  :    fei1 yu4 mou2 
-非驴非马  :    fei1 lu:2 fei1 ma3 
+非驴非马  :    fei1 lv2 fei1 ma3 
 非高峰  :    fei1 gao1 feng1 
 靡  :    mi2 
 靡不有初，鲜克有终  :    mi3 bu4 you3 chu1 , xian3 ke4 you3 zhong1 
@@ -101995,7 +101994,7 @@
 革兰氏阴性  :    ge2 lan2 shi4 yin1 xing4 
 革兰阳  :    ge2 lan2 yang2 
 革兰阳性  :    ge2 lan2 yang2 xing4 
-革履  :    ge2 lu:3 
+革履  :    ge2 lv3 
 革故鼎新  :    ge2 gu4 ding3 xin1 
 革新  :    ge2 xin1 
 革新能手  :    ge2 xin1 neng2 shou3 
@@ -102053,7 +102052,7 @@
 鞋匠  :    xie2 jiang5 
 鞋垫  :    xie2 dian4 
 鞋子  :    xie2 zi5 
-鞋履  :    xie2 lu:3 
+鞋履  :    xie2 lv3 
 鞋带  :    xie2 dai4 
 鞋帮  :    xie2 bang1 
 鞋底  :    xie2 di3 
@@ -102201,7 +102200,7 @@
 韫  :    yun4 
 韬  :    tao1 
 韬光养晦  :    tao1 guang1 yang3 hui4 
-韬略  :    tao1 lu:e4 
+韬略  :    tao1 lve4 
 韭  :    jiu3 
 韭菜  :    jiu3 cai4 
 韭菜花  :    jiu3 cai4 hua1 
@@ -102232,7 +102231,7 @@
 音域  :    yin1 yu4 
 音容  :    yin1 rong2 
 音带  :    yin1 dai4 
-音律  :    yin1 lu:4 
+音律  :    yin1 lv4 
 音标  :    yin1 biao1 
 音拴  :    yin1 shuan1 
 音效  :    yin1 xiao4 
@@ -102275,7 +102274,7 @@
 韵味  :    yun4 wei4 
 韵头  :    yun4 tou2 
 韵尾  :    yun4 wei3 
-韵律  :    yun4 lu:4 
+韵律  :    yun4 lv4 
 韵文  :    yun4 wen2 
 韵母  :    yun4 mu3 
 韵白  :    yun4 bai2 
@@ -102518,7 +102517,7 @@
 顾炎武  :    gu4 yan2 wu3 
 顾盼自雄  :    gu4 pan4 zi4 xiong2 
 顾眄  :    gu4 mian3 
-顾虑  :    gu4 lu:4 
+顾虑  :    gu4 lv4 
 顾野王  :    gu4 ye3 wang2 
 顾问  :    gu4 wen4 
 顿  :    dun4 
@@ -102670,7 +102669,7 @@
 领洗  :    ling3 xi3 
 领海  :    ling3 hai3 
 领班  :    ling3 ban1 
-领略  :    ling3 lu:e4 
+领略  :    ling3 lve4 
 领空  :    ling3 kong1 
 领结  :    ling3 jie2 
 领罪  :    ling3 zui4 
@@ -102731,9 +102730,9 @@
 频数  :    pin2 shu4 
 频数分布  :    pin2 shu4 fen1 bu4 
 频段  :    pin2 duan4 
-频率  :    pin2 lu:4 
-频率合成  :    pin2 lu:4 he2 cheng2 
-频率调制  :    pin2 lu:4 tiao2 zhi4 
+频率  :    pin2 lv4 
+频率合成  :    pin2 lv4 he2 cheng2 
+频率调制  :    pin2 lv4 tiao2 zhi4 
 频繁  :    pin2 fan2 
 频谱  :    pin2 pu3 
 频道  :    pin2 dao4 
@@ -103986,7 +103985,7 @@
 马球  :    ma3 qiu2 
 马瑙斯  :    ma3 nao3 si1 
 马甲  :    ma3 jia3 
-马略卡  :    ma3 lu:e4 ka3 
+马略卡  :    ma3 lve4 ka3 
 马祖  :    ma3 zu3 
 马祖列岛  :    ma3 zu3 lie4 dao3 
 马科  :    ma3 ke1 
@@ -104164,13 +104163,13 @@
 驳辞  :    bo2 ci2 
 驳运  :    bo2 yun4 
 驳面子  :    bo2 mian4 zi5 
-驴  :    lu:2 
-驴友  :    lu:2 you3 
-驴唇不对马嘴  :    lu:2 chun2 bu4 dui4 ma3 zui3 
-驴唇马觜  :    lu:2 chun2 ma3 zi1 
-驴子  :    lu:2 zi5 
-驴年马月  :    lu:2 nian2 ma3 yue4 
-驴骡  :    lu:2 luo2 
+驴  :    lv2 
+驴友  :    lv2 you3 
+驴唇不对马嘴  :    lv2 chun2 bu4 dui4 ma3 zui3 
+驴唇马觜  :    lv2 chun2 ma3 zi1 
+驴子  :    lv2 zi5 
+驴年马月  :    lv2 nian2 ma3 yue4 
+驴骡  :    lv2 luo2 
 驵  :    zang3 
 驶  :    shi3 
 驶出  :    shi3 chu1 
@@ -104354,8 +104353,8 @@
 骑车  :    qi2 che1 
 骑马  :    qi2 ma3 
 骑马者  :    qi2 ma3 zhe3 
-骑驴找驴  :    qi2 lu:2 zhao3 lu:2 
-骑驴觅驴  :    qi2 lu:2 mi4 lu:2 
+骑驴找驴  :    qi2 lv2 zhao3 lv2 
+骑驴觅驴  :    qi2 lv2 mi4 lv2 
 骑鹤  :    qi2 he4 
 骑鹤上扬州  :    qi2 he4 shang4 yang2 zhou1 
 骒  :    ke4 
@@ -104393,7 +104392,7 @@
 骚话  :    sao1 hua4 
 骚货  :    sao1 huo4 
 骚闹  :    sao1 nao4 
-骚驴  :    sao1 lu:2 
+骚驴  :    sao1 lv2 
 骛  :    wu4 
 骛远  :    wu4 yuan3 
 骜  :    ao4 
@@ -104572,7 +104571,7 @@
 高分低能  :    gao1 fen1 di1 neng2 
 高分子  :    gao1 fen1 zi3 
 高分子化学  :    gao1 fen1 zi3 hua4 xue2 
-高分辨率  :    gao1 fen1 bian4 lu:4 
+高分辨率  :    gao1 fen1 bian4 lv4 
 高利  :    gao1 li4 
 高利贷  :    gao1 li4 dai4 
 高加索  :    gao1 jia1 suo3 
@@ -104648,7 +104647,7 @@
 高层云  :    gao1 ceng2 yun2 
 高层建筑  :    gao1 ceng2 jian4 zhu4 
 高层执行员  :    gao1 ceng2 zhi2 xing2 yuan2 
-高层旅馆  :    gao1 ceng2 lu:3 guan3 
+高层旅馆  :    gao1 ceng2 lv3 guan3 
 高山  :    gao1 shan1 
 高山区  :    gao1 shan1 qu1 
 高山族  :    gao1 shan1 zu2 
@@ -104692,7 +104691,7 @@
 高攀  :    gao1 pan1 
 高攀不上  :    gao1 pan1 bu4 shang4 
 高效  :    gao1 xiao4 
-高效率  :    gao1 xiao4 lu:4 
+高效率  :    gao1 xiao4 lv4 
 高效能  :    gao1 xiao4 neng2 
 高教  :    gao1 jiao1 
 高敞  :    gao1 chang3 
@@ -104844,7 +104843,7 @@
 高速  :    gao1 su4 
 高速公路  :    gao1 su4 gong1 lu4 
 高速挡  :    gao1 su4 dang3 
-高速率  :    gao1 su4 lu:4 
+高速率  :    gao1 su4 lv4 
 高速缓冲存储器  :    gao1 su4 huan3 chong1 cun2 chu3 qi4 
 高速缓存  :    gao1 su4 huan3 cun2 
 高速网络  :    gao1 su4 wang3 luo4 
@@ -105069,7 +105068,7 @@
 魔力  :    mo2 li4 
 魔咒  :    mo2 zhou4 
 魔头  :    mo2 tou2 
-魔女  :    mo2 nu:3 
+魔女  :    mo2 nv3 
 魔宫  :    mo2 gong1 
 魔宫传奇  :    mo2 gong1 chuan2 qi2 
 魔幻  :    mo2 huan4 
@@ -106242,7 +106241,7 @@
 黄皮  :    huang2 pi2 
 黄石  :    huang2 shi2 
 黄石公  :    huang2 shi2 gong1 
-黄石公三略  :    huang2 shi2 gong1 san1 lu:e4 
+黄石公三略  :    huang2 shi2 gong1 san1 lve4 
 黄石市  :    huang2 shi2 shi4 
 黄石港  :    huang2 shi2 gang3 
 黄石港区  :    huang2 shi2 gang3 qu1 
@@ -106255,8 +106254,8 @@
 黄粱梦  :    huang2 liang2 meng4 
 黄粱美梦  :    huang2 liang2 mei3 meng4 
 黄精  :    huang2 jing1 
-黄绿  :    huang2 lu:4 
-黄绿色  :    huang2 lu:4 se4 
+黄绿  :    huang2 lv4 
+黄绿色  :    huang2 lv4 se4 
 黄羊  :    huang2 yang2 
 黄耆  :    huang2 qi2 
 黄胶  :    huang2 jiao1 
@@ -106267,14 +106266,14 @@
 黄色炸药  :    huang2 se4 zha4 yao4 
 黄芪  :    huang2 qi2 
 黄花  :    huang2 hua1 
-黄花女  :    huang2 hua1 nu:3 
+黄花女  :    huang2 hua1 nv3 
 黄花姑娘  :    huang2 hua1 gu1 niang5 
 黄花岗  :    huang2 hua1 gang3 
 黄花岗七十二烈士  :    huang2 hua1 gang1 qi1 shi2 er4 lie4 shi4 
 黄花岗起义  :    huang2 hua1 gang3 qi3 yi4 
-黄花幼女  :    huang2 hua1 you4 nu:3 
+黄花幼女  :    huang2 hua1 you4 nv3 
 黄花梨木  :    huang2 hua1 li2 mu4 
-黄花闺女  :    huang2 hua1 gui1 nu:3 
+黄花闺女  :    huang2 hua1 gui1 nv3 
 黄花鱼  :    huang2 hua1 yu2 
 黄莺  :    huang2 ying1 
 黄菊  :    huang2 ju2 
@@ -106540,7 +106539,7 @@
 黔西县  :    qian2 xi1 xian4 
 黔阳  :    qian2 yang2 
 黔阳县  :    qian2 yang2 xian4 
-黔驴技穷  :    qian2 lu:2 ji4 qiong2 
+黔驴技穷  :    qian2 lv2 ji4 qiong2 
 黕  :    zhen3 
 黗  :    tun1 
 默  :    mo4 
@@ -107076,3 +107075,12 @@
 酿酒  :    niang4 jiu3 
 酿酒业  :    niang4 jiu3 ye4 
 酿酶  :    niang4 mei2 
+广场上排队  :   guang3 chang3 shang4 pai2 dui4
+重考    :   chong2 kao3
+偷偷地  :   tou1 tou1 de5
+节假日  :   jie2 jia4 ri4
+帝王将相    :   di4 wang2 jiang4 xiang4
+相伦敦  :   xiang4 lun2 dun1
+写于厦门    :   xie3 yu2 xia4 men2
+重排    :   chong2 pai2
+夏都    :   xia4 du1

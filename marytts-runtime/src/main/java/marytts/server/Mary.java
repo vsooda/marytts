@@ -21,12 +21,15 @@ package marytts.server;
 
 // General Java Classes
 import java.io.BufferedInputStream;
+import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileInputStream;
+import java.io.FileReader;
 import java.io.FilenameFilter;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
+import java.io.PrintWriter;
 import java.lang.reflect.Method;
 import java.net.ServerSocket;
 import java.net.URL;
@@ -70,6 +73,7 @@ import com.huaban.analysis.jieba.SegToken;
 import com.huaban.analysis.jieba.JiebaSegmenter.SegMode;
 
 import com.hankcs.hanlp.HanLP;
+import com.hankcs.hanlp.dictionary.CustomDictionary;
 import com.hankcs.hanlp.seg.common.Term;
 import com.hankcs.hanlp.tokenizer.NLPTokenizer;
 
@@ -558,14 +562,66 @@ public class Mary {
 	    
 	    // hanlp 的分词和词性标注功能
 	    System.out.println("hanlp ..");
+
 	    List<Term> termList = NLPTokenizer.segment("我来自福建厦门");
 	    //System.out.println(termList);
 	    for (Term t : termList) {
 	    	System.out.println(t.word + t.nature.toString());
 	    }
+	    
+	    termList = NLPTokenizer.segment("穿着");
+	    for (Term t : termList) {
+	    	System.out.println(t.word + t.nature.toString());
+	    }
+	    System.out.println("add user dict");
+	    CustomDictionary.insert("穿着", "nz 1024");
+	    termList = NLPTokenizer.segment("穿着");
+	    for (Term t : termList) {
+	    	System.out.println(t.word + t.nature.toString());
+	    }
+	    System.out.println(HanLP.segment("穿着"));
+	    
+	    
+	    //transcript segment test
+	    //String transcriptName = MaryProperties.getFilename("transcriptText");
+	    //transcriptSegment(transcriptName);
 		
 		main.run();
 
 		// shutdown();
+	}
+	
+	public static void transcriptSegment(String transcriptName) throws IOException {
+		BufferedReader in = new BufferedReader(new FileReader(transcriptName));
+		String str;
+		int linenum = 0;
+		PrintWriter writer = new PrintWriter("/home/sooda/data/segment_transcript.txt", "UTF-8");
+		PrintWriter pinyinWriter = new PrintWriter("/home/sooda/data/segment_transcript_pinyin.txt", "UTF-8");
+		PrintWriter purePinyinWriter = new PrintWriter("/home/sooda/data/transcript_pinyin.txt", "UTF-8");
+
+		while ((str = in.readLine()) != null) {
+			List<Term> termList = NLPTokenizer.segment(str);
+			String line = "";
+			String linePinyin = "";
+			String pinyin = "";
+			pinyinWriter.println("line " + linenum);
+			for (Term t : termList) {
+		    	line = line + t.word + "  ";
+		    	String temp = ConvertZh2Pinyin.convert2Pinyin(t.word);
+		    	//linePinyin = linePinyin + "[  " + t.word + " " + temp + "  ] ";
+		    	pinyinWriter.println(t.word + " " + temp);
+		    	pinyin = pinyin + temp + " ";
+		    }
+			//System.out.println(linenum + "		" + line);
+			writer.println(linenum + "    " + line);
+			pinyinWriter.println("-------- ");
+			//pinyinWriter.println(linenum + "    " + linePinyin);
+			
+			purePinyinWriter.println(linenum + "  " + pinyin);
+			linenum++;
+		}
+		writer.close();
+		pinyinWriter.close();
+		purePinyinWriter.close();
 	}
 }
