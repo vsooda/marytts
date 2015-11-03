@@ -2,6 +2,8 @@ package marytts.language.zh;
 
 import java.io.IOException;
 import java.util.StringTokenizer;
+import java.util.regex.Pattern;
+import java.util.regex.PatternSyntaxException;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
@@ -11,6 +13,7 @@ import marytts.datatypes.MaryData;
 import marytts.datatypes.MaryDataType;
 import marytts.datatypes.MaryXML;
 import marytts.exceptions.MaryConfigurationException;
+import marytts.server.MaryProperties;
 import marytts.util.dom.MaryDomUtils;
 
 import marytts.util.pinyin.ConvertZh2Pinyin;
@@ -30,6 +33,25 @@ public class JPhonemiser  extends marytts.modules.JPhonemiser {
 	}
 	
 	
+	public boolean maybePronounceable(String text) {
+		// does text contain anything at all?
+		if (text == null || text.isEmpty()) {
+			return false;
+		}
+
+		// does text contain at least one word character?
+		if (text.matches(".*\\w.*")) {
+			return true;
+		}
+
+		// does POS tag indicate punctuation?
+		if (isPosPunctuation(text)) {
+			return false;
+		}
+		
+		return true;
+	}
+
 	
 	public MaryData process(MaryData d) throws Exception {
 		Document doc = d.getDocument();
@@ -57,7 +79,8 @@ public class JPhonemiser  extends marytts.modules.JPhonemiser {
 				pos = t.getAttribute("pos");
 			}
 
-			if (maybePronounceable(text, pos)) {
+			//if (maybePronounceable(text, pos)) {
+			if (maybePronounceable(text)) {
 				// If text consists of several parts (e.g., because that was
 				// inserted into the sounds_like attribute), each part
 				// is transcribed separately.

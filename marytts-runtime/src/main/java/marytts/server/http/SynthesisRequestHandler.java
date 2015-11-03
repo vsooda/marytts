@@ -105,7 +105,8 @@ public class SynthesisRequestHandler extends BaseHttpRequestHandler {
 
 		String inputText = queryItems.get("INPUT_TEXT");
 		
-		inputText = inputText.replaceAll("。", ". ").replaceAll("？", "? ").replaceAll("，",  ", ").replaceAll("！",  "! ");
+		inputText = inputText.replaceAll("。", ". ").replaceAll("？", "? ").replaceAll("，",  ", ").replaceAll("！",  "! ")
+				.replace("：",  " : ").replace("、", ", ");
 		logger.debug("filter puncation");
 		//System.out.println("change the input text " + inputText);
 		//inputText = inputText + " ni3 hao3 ma1";
