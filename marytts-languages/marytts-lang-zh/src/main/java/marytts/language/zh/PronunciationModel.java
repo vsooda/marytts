@@ -42,33 +42,41 @@ public class PronunciationModel extends marytts.modules.PronunciationModel {
 				while ((syl = (Element) sylIt.nextNode()) != null) {
 					String phones = syl.getAttribute("ph");
 					String phoneArray[] = phones.split(" ");
-					String firstPhone = phoneArray[1].trim();
-					String secondPhone = phoneArray[2].trim();
+					String firstPhone ;
+					String secondPhone;
 					if (phoneArray.length == 3) {
-						if (firstPhone.endsWith("M")) {
-							syl.setAttribute("accent", "L*");
-							System.out.println(phones + "=> 5");
-						} else if (firstPhone.endsWith("L")) {
-							if (secondPhone.endsWith("L")) {
-								syl.setAttribute("accent", "L*");
-								System.out.println(phones + "=> 3");
-							} else {
-								syl.setAttribute("accent", "L*+H");
-								System.out.println(phones + "=> 2");
-							}
-						} else if (firstPhone.endsWith("H")) {
-							if (secondPhone.endsWith("L")) {
-								syl.setAttribute("accent", "!H*");
-								System.out.println(phones + "=> 4");
-							} else {
-								syl.setAttribute("accent", "H*");
-								System.out.println(phones + "=> 1");
-							}
-						}
+						firstPhone = phoneArray[1].trim();
+						secondPhone = phoneArray[2].trim();
 						
+					} else if (phoneArray.length == 2) {
+						firstPhone = phoneArray[0].trim();
+						secondPhone = phoneArray[1].trim();
+					} else {
+						continue;
 					}
-					System.out.println("syysla.." + phones);
+					System.out.println("ph " + phones + " " + phoneArray.length + " " +  firstPhone + " " + secondPhone);
 					
+					if (firstPhone.endsWith("M")) {
+						syl.setAttribute("accent", "L*");
+						System.out.println(phones + "=> 5");
+					} else if (firstPhone.endsWith("L")) {
+						if (secondPhone.endsWith("L")) {
+							syl.setAttribute("accent", "L*");
+							System.out.println(phones + "=> 3");
+						} else {
+							syl.setAttribute("accent", "L*+H");
+							System.out.println(phones + "=> 2");
+						}
+					} else if (firstPhone.endsWith("H")) {
+						if (secondPhone.endsWith("L")) {
+							syl.setAttribute("accent", "!H*");
+							System.out.println(phones + "=> 4");
+						} else {
+							syl.setAttribute("accent", "H*");
+							System.out.println(phones + "=> 1");
+						}
+					}
+					System.out.println("syysla.." + phones);	
 				}
 			}
 		}
