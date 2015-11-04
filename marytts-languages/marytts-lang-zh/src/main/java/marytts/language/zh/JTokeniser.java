@@ -61,7 +61,7 @@ public class JTokeniser  extends marytts.modules.JTokeniser {
 			String words = MaryDomUtils.tokenText(t);
 			//segment it..
 			// Insert the new token element
-			List<SegToken> tokens = segmenter.process(words, SegMode.INDEX);
+			List<SegToken> tokens = segmenter.process(words, SegMode.SEARCH);
 	        for (SegToken token : tokens) {
 	        	//System.out.println(token.word);
 	        	Element tnew = MaryXML.createElement(doc, MaryXML.TOKEN);

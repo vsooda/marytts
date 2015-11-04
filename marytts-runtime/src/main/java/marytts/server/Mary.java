@@ -583,8 +583,8 @@ public class Mary {
 	    
 	    
 	    //transcript segment test
-	    //String transcriptName = MaryProperties.getFilename("transcriptText");
-	    //transcriptSegment(transcriptName);
+	    String transcriptName = MaryProperties.getFilename("transcriptText");
+	    transcriptSegment(transcriptName);
 		
 		main.run();
 
@@ -596,25 +596,40 @@ public class Mary {
 		String str;
 		int linenum = 0;
 		PrintWriter writer = new PrintWriter("/home/sooda/data/segment_transcript.txt", "UTF-8");
-		PrintWriter pinyinWriter = new PrintWriter("/home/sooda/data/segment_transcript_pinyin.txt", "UTF-8");
+		PrintWriter pinyinWriter = new PrintWriter("/home/sooda/data/segment_transcript_pinyin_jieba.txt", "UTF-8");
 		PrintWriter purePinyinWriter = new PrintWriter("/home/sooda/data/transcript_pinyin.txt", "UTF-8");
-
+		
+		boolean jiebaSeg = true;
+		JiebaSegmenter segmenter = new JiebaSegmenter();
+		
 		while ((str = in.readLine()) != null) {
-			List<Term> termList = NLPTokenizer.segment(str);
+			List<String> words =  new ArrayList();
+			if (jiebaSeg == false) {
+				List<Term> termList = NLPTokenizer.segment(str);
+				for (Term t : termList) {
+					words.add(t.word);
+				}
+			} else {
+				List<SegToken> termList = segmenter.process(str, SegMode.SEARCH);
+				for (SegToken t : termList) {
+					words.add(t.word.getToken());
+				}
+			}
 			String line = "";
 			String linePinyin = "";
 			String pinyin = "";
 			pinyinWriter.println("line " + linenum);
-			for (Term t : termList) {
-		    	line = line + t.word + "  ";
-		    	String temp = ConvertZh2Pinyin.convert2Pinyin(t.word);
+			for (String t : words) {
+		    	line = line + t + "  ";
+		    	String temp = ConvertZh2Pinyin.convert2Pinyin(t);
 		    	//linePinyin = linePinyin + "[  " + t.word + " " + temp + "  ] ";
-		    	pinyinWriter.println(t.word + " " + temp);
+		    	pinyinWriter.println(t + " " + temp);
 		    	pinyin = pinyin + temp + " ";
 		    }
 			//System.out.println(linenum + "		" + line);
 			writer.println(linenum + "    " + line);
-			pinyinWriter.println("-------- ");
+			pinyinWriter.println(" ");
+			pinyinWriter.println(" ");
 			//pinyinWriter.println(linenum + "    " + linePinyin);
 			
 			purePinyinWriter.println(linenum + "  " + pinyin);
