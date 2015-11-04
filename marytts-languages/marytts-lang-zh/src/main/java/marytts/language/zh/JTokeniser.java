@@ -11,9 +11,6 @@ import org.w3c.dom.traversal.DocumentTraversal;
 import org.w3c.dom.traversal.NodeFilter;
 import org.w3c.dom.traversal.NodeIterator;
 
-import com.huaban.analysis.jieba.JiebaSegmenter;
-import com.huaban.analysis.jieba.SegToken;
-import com.huaban.analysis.jieba.JiebaSegmenter.SegMode;
 
 import de.dfki.lt.tools.tokenizer.JTok;
 import de.dfki.lt.tools.tokenizer.annotate.AnnotatedString;
@@ -29,6 +26,9 @@ import marytts.util.dom.NameNodeFilter;
 import com.hankcs.hanlp.HanLP;
 import com.hankcs.hanlp.seg.common.Term;
 import com.hankcs.hanlp.tokenizer.NLPTokenizer;
+import com.huaban.analysis.jieba.JiebaSegmenter;
+import com.huaban.analysis.jieba.JiebaSegmenter.SegMode;
+import com.huaban.analysis.jieba.SegToken;
 
 /**
  * The tokeniser module -- java implementation.
@@ -65,7 +65,7 @@ public class JTokeniser  extends marytts.modules.JTokeniser {
 	        for (SegToken token : tokens) {
 	        	//System.out.println(token.word);
 	        	Element tnew = MaryXML.createElement(doc, MaryXML.TOKEN);
-				MaryDomUtils.setTokenText(tnew, token.word);
+				MaryDomUtils.setTokenText(tnew, token.word.toString());
 				tnew.setAttribute("pos", "aa");
 				t.getParentNode().insertBefore(tnew, t);
 	        }
