@@ -126,7 +126,9 @@ public class HTKLabeler extends VoiceImportComponent {
 			String phoneXml;
 			locale = db.getProp(db.LOCALE);
 			if (htkdir == null) {
-				htkdir = "/home/sooda/speech/marytts/lib/external/bin/";
+				//htkdir = "/home/sooda/speech/marytts/lib/external/bin/";
+				htkdir = System.getProperty("user.home") + "/speech/marytts/lib/external/bin/";
+				System.out.println("setting htk dir.. " + htkdir);
 			}
 			props.put(HTKDIR, htkdir);
 
@@ -136,7 +138,7 @@ public class HTKLabeler extends VoiceImportComponent {
 					+ System.getProperty("file.separator"));
 
 			props.put(OUTLABDIR,
-					db.getProp(db.ROOTDIR) + System.getProperty("file.separator") /*+ "htk" + System.getProperty("file.separator")*/
+					db.getProp(db.ROOTDIR) + System.getProperty("file.separator") + "htk" + System.getProperty("file.separator")
 							+ "lab" + System.getProperty("file.separator"));
 			props.put(MAXITER, Integer.toString(MAX_ITERATIONS));
 			props.put(MAXSPITER, Integer.toString(MAX_SP_ITERATION));

@@ -138,9 +138,9 @@ public class DatabaseImportMain extends JFrame {
 				line.add(configButton, BorderLayout.WEST);
 				line.add(checkboxes[compIndex], BorderLayout.CENTER);
 				groupPane.add(line);
-				if (j != 1 && j != 8 &&  (!(j == 2 && i == 2))  &&  (!(j == 10 && i == 1)) ) {
-					checkboxes[compIndex].setSelected(true);
-				}
+				//if (j != 1 && j != 8 &&  (!(j == 2 && i == 2))  &&  (!(j == 10 && i == 1)) ) {
+				//	checkboxes[compIndex].setSelected(true);
+				//}
 				System.out.println(i);
 				System.out.println(checkboxes[compIndex].getText());
 				compIndex++;
