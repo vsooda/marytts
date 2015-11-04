@@ -34,6 +34,7 @@ import java.lang.reflect.Method;
 import java.net.ServerSocket;
 import java.net.URL;
 import java.net.URLClassLoader;
+import java.nio.file.Paths;
 import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.Collections;
@@ -70,6 +71,7 @@ import marytts.util.pinyin.ConvertZh2Pinyin;
 
 import com.huaban.analysis.jieba.JiebaSegmenter;
 import com.huaban.analysis.jieba.SegToken;
+import com.huaban.analysis.jieba.WordDictionary;
 import com.huaban.analysis.jieba.JiebaSegmenter.SegMode;
 
 import com.hankcs.hanlp.HanLP;
@@ -548,7 +550,11 @@ public class Mary {
 		strs = ConvertZh2Pinyin.convert2Pinyin("爱好");
 		System.out.println("==> " + strs);
 		//jieba cut test
+		
 		JiebaSegmenter segmenter = new JiebaSegmenter();
+		String userFolder = MaryProperties.getFilename("dictfolder");
+		System.out.println(userFolder);
+		WordDictionary.getInstance().init(new File(userFolder));
 	    String[] sentences =
 	        new String[] {"这是一个伸手不见五指的黑夜。我叫孙悟空，我爱北京，我爱Python和C++。", "我不喜欢日本和服。", "雷猴回归人间。",
 	                      "工信处女干事每月经过下属科室都要亲口交代24口交换机等技术性器件的安装工作", "结果婚的和尚未结过婚的穿着"};
