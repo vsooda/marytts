@@ -46,8 +46,8 @@ public class JTokeniser  extends marytts.modules.JTokeniser {
 	
 	public MaryData process(MaryData d) throws Exception {
 		MaryData result = super.process(d);
-		//segment(result);
-		segmentAndPosTagger(result);
+		segment(result);
+		//segmentAndPosTagger(result);
 		System.out.println("zh_token");
 		return result;
 	}
@@ -65,8 +65,8 @@ public class JTokeniser  extends marytts.modules.JTokeniser {
 	        for (SegToken token : tokens) {
 	        	//System.out.println(token.word);
 	        	Element tnew = MaryXML.createElement(doc, MaryXML.TOKEN);
-				MaryDomUtils.setTokenText(tnew, token.word.toString());
-				tnew.setAttribute("pos", "aa");
+				MaryDomUtils.setTokenText(tnew, token.word.getToken());
+				tnew.setAttribute("pos", token.word.getTokenType().toUpperCase());
 				t.getParentNode().insertBefore(tnew, t);
 	        }
 
