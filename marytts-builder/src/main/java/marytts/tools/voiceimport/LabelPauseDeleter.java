@@ -31,6 +31,7 @@ public class LabelPauseDeleter extends VoiceImportComponent {
 
 	private DatabaseLayout db;
 	private File ehmm;
+	private File labdir;
 	private String outputDir;
 	protected String labExt = ".lab";
 	protected String pauseSymbol;
@@ -81,7 +82,9 @@ public class LabelPauseDeleter extends VoiceImportComponent {
 	 */
 	public boolean compute() throws Exception {
 
-		ehmm = new File(getProp(EDIR));
+		//ehmm = new File(getProp(EDIR));
+		labdir = new File(db.getProp(db.ROOTDIR) + "htk" + System.getProperty("file.separator"));
+		System.out.println(labdir);
 		System.out.println("Copying label files into lab directory ...");
 		getProperLabelFormat();
 		System.out.println(" ... done.");
@@ -136,7 +139,7 @@ public class LabelPauseDeleter extends VoiceImportComponent {
 		}
 
 		// READ LABEL FILE
-		String filename = getProp(EDIR) + "/lab/" + basename + labExt;
+		String filename = labdir + "/lab/" + basename + labExt;
 		if (!new File(filename).exists())
 			return false;
 		try {

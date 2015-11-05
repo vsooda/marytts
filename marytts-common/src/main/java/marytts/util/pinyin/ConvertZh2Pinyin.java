@@ -66,9 +66,12 @@ public class ConvertZh2Pinyin {
 			BufferedReader in = new BufferedReader(new FileReader(dictName));
 			while ((str = in.readLine()) != null) {
 				String [] temps = str.split(":");
+				if (temps.length != 2) {
+					System.out.println("pinyindict wrong: " + str);
+					continue;
+				}
 				String word = temps[0].trim();
 				String pinyins = temps[1].toLowerCase().trim();
-				//System.out.println(word + " " + pinyins);
 				wordMap.put(word, pinyins);
 			}
 			in.close();

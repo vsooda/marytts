@@ -11,9 +11,6 @@ import org.w3c.dom.traversal.DocumentTraversal;
 import org.w3c.dom.traversal.NodeFilter;
 import org.w3c.dom.traversal.NodeIterator;
 
-import com.huaban.analysis.jieba.JiebaSegmenter;
-import com.huaban.analysis.jieba.SegToken;
-import com.huaban.analysis.jieba.JiebaSegmenter.SegMode;
 
 import de.dfki.lt.tools.tokenizer.JTok;
 import de.dfki.lt.tools.tokenizer.annotate.AnnotatedString;
@@ -29,6 +26,9 @@ import marytts.util.dom.NameNodeFilter;
 import com.hankcs.hanlp.HanLP;
 import com.hankcs.hanlp.seg.common.Term;
 import com.hankcs.hanlp.tokenizer.NLPTokenizer;
+import com.huaban.analysis.jieba.JiebaSegmenter;
+import com.huaban.analysis.jieba.JiebaSegmenter.SegMode;
+import com.huaban.analysis.jieba.SegToken;
 
 /**
  * The tokeniser module -- java implementation.
@@ -46,8 +46,8 @@ public class JTokeniser  extends marytts.modules.JTokeniser {
 	
 	public MaryData process(MaryData d) throws Exception {
 		MaryData result = super.process(d);
-		//segment(result);
-		segmentAndPosTagger(result);
+		segment(result);
+		//segmentAndPosTagger(result);
 		System.out.println("zh_token");
 		return result;
 	}
@@ -61,12 +61,12 @@ public class JTokeniser  extends marytts.modules.JTokeniser {
 			String words = MaryDomUtils.tokenText(t);
 			//segment it..
 			// Insert the new token element
-			List<SegToken> tokens = segmenter.process(words, SegMode.INDEX);
+			List<SegToken> tokens = segmenter.process(words, SegMode.SEARCH);
 	        for (SegToken token : tokens) {
 	        	//System.out.println(token.word);
 	        	Element tnew = MaryXML.createElement(doc, MaryXML.TOKEN);
-				MaryDomUtils.setTokenText(tnew, token.word);
-				tnew.setAttribute("pos", "aa");
+				MaryDomUtils.setTokenText(tnew, token.word.getToken());
+				tnew.setAttribute("pos", token.word.getTokenType().toUpperCase());
 				t.getParentNode().insertBefore(tnew, t);
 	        }
 
