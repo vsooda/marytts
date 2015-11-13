@@ -55,6 +55,7 @@ public class JPhonemiser  extends marytts.modules.JPhonemiser {
 	
 	public MaryData process(MaryData d) throws Exception {
 		Document doc = d.getDocument();
+		boolean useNewPhoneset = true;
 
 		NodeIterator it = MaryDomUtils.createNodeIterator(doc, doc, MaryXML.TOKEN);
 		Element t = null;
@@ -85,12 +86,14 @@ public class JPhonemiser  extends marytts.modules.JPhonemiser {
 				// inserted into the sounds_like attribute), each part
 				// is transcribed separately.
 				StringBuilder ph = new StringBuilder();
+				StringBuilder tones = new StringBuilder();
 				String g2pMethod = null;
-				StringTokenizer st = new StringTokenizer(text, " -");
+				StringTokenizer st = new StringTokenizer(text, " -"); //切分
 				while (st.hasMoreTokens()) {
 					String graph = st.nextToken();
 					StringBuilder helper = new StringBuilder();
-					String phon = phonemise(graph, pos, helper);
+					String phon = phonemise(graph, pos, helper);		
+					
 					// null result should not be processed
 					if (phon == null) {
 						continue;
@@ -100,16 +103,24 @@ public class JPhonemiser  extends marytts.modules.JPhonemiser {
 						// the g2pMethod of the first constituant.
 						g2pMethod = helper.toString();
 						ph.append(phon);
+						if (Character.isDigit(graph.charAt(graph.length()-1))) {
+							tones.append(graph.charAt(graph.length()-1));
+						}
 					} else { // following parts
-						ph.append(" - ");
+						ph.append(" - "); //这个导致trichphone的产生
 						// Reduce primary to secondary stress:
 						ph.append(phon.replace('\'', ','));
+						tones.append(" - ");
+						if (Character.isDigit(graph.charAt(graph.length()-1))) {
+							tones.append(graph.charAt(graph.length()-1));
+						}
 					}
 				}
 
 				if (ph != null && ph.length() > 0) {
 					setPh(t, ph.toString());
 					t.setAttribute("g2p_method", g2pMethod);
+					t.setAttribute("toneseq", tones.toString());
 				}
 			}
 		}

@@ -81,13 +81,61 @@ public class PronunciationModel extends marytts.modules.PronunciationModel {
 			}
 		}
 	}
+	
+	void processSyllableTonePhonesetPY(Document doc) {
+		NodeIterator tIt = ((DocumentTraversal) doc).createNodeIterator(doc, NodeFilter.SHOW_ELEMENT, new NameNodeFilter(
+				MaryXML.TOKEN), false);
+		Element t = null;
+		while ((t = (Element) tIt.nextNode()) != null) {
+			//if (t.hasAttribute("accent")) {
+				NodeIterator sylIt = ((DocumentTraversal) doc).createNodeIterator(t, NodeFilter.SHOW_ELEMENT, new NameNodeFilter(
+						MaryXML.SYLLABLE), false);
+
+				Element syl = null;
+				String tonesStr = t.getAttribute("toneseq");
+				if (tonesStr.isEmpty()) {
+					continue;
+				}
+				int index = 0;
+				String [] tones = tonesStr.split("-");
+
+				while ((syl = (Element) sylIt.nextNode()) != null) {
+					String phones = syl.getAttribute("ph");
+					int toneValue = Integer.parseInt(tones[index].trim());
+					if (toneValue == 5) {
+						syl.setAttribute("accent", "L*");
+						System.out.println(phones + "=> 5");
+					} else if (toneValue == 3) {
+						syl.setAttribute("accent", "L*");
+						System.out.println(phones + "=> 3");
+					} else if (toneValue == 2){
+						syl.setAttribute("accent", "L*+H");
+						System.out.println(phones + "=> 2");
+					} else if (toneValue == 4) {
+						syl.setAttribute("accent", "!H*");
+						System.out.println(phones + "=> 4");
+					} else if (toneValue == 1){
+						syl.setAttribute("accent", "H*");
+						System.out.println(phones + "=> 1");
+					}
+					index++;
+					System.out.println("syysla.." + phones);	
+				}
+			}
+		//}
+	}
 
 	
 	public MaryData process(MaryData d) throws Exception {
 		MaryData result = super.process(d);
 		System.out.println("对每个单词的准确读音进行标注");
 		Document doc = result.getDocument();
-		processSyllableTone(doc);
+		boolean useNewPhoneset = true;
+		if (useNewPhoneset) {
+			processSyllableTonePhonesetPY(doc);
+		} else {
+			processSyllableTone(doc);
+		}
 		System.out.println("process syslable tone ok in pronunciationModel");
 		result.setDocument(doc);
 		return result;

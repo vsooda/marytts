@@ -589,8 +589,8 @@ public class Mary {
 	    
 	    
 	    //transcript segment test
-	    String transcriptName = MaryProperties.getFilename("transcriptText");
-	    transcriptSegment(transcriptName);
+	    //String transcriptName = MaryProperties.getFilename("transcriptText");
+	    //transcriptSegment(transcriptName);
 		
 		main.run();
 
