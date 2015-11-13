@@ -34523,7 +34523,7 @@
 搁脚物  :    ge1 jiao3 wu4 
 歌剧院  :    ge1 ju4 yuan4 
 歌舞团  :    ge1 wu3 tuan2 
-胳膊肘  :    ge1 bo5 zhou3 
+胳膊肘  :    ge1 bo2 zhou3 
 格格笑  :    ge2 ge2 xiao4 
 格兰菜  :    ge2 lan2 cai4 
 格林多  :    ge2 lin2 duo1 
@@ -43364,7 +43364,7 @@
 重病  :    zhong4 bing4 
 重臣  :    zhong4 chen2 
 重典  :    zhong4 dian3 
-重点  :    chong2 dian3 
+重点  :    zhong4 dian3 
 重访  :    chong2 fang3 
 重逢  :    chong2 feng2 
 重工  :    zhong4 gong1 
@@ -90582,7 +90582,7 @@
 歌子  :    ge1 zi5 
 疙瘩  :    ge1 da5 
 疙疸  :    ge1 da5 
-胳膊  :    ge1 bo5 
+胳膊  :    ge1 bo2
 菏泽  :    he2 ze2 
 鸽子  :    ge1 zi5 
 格格  :    ge2 ge5 
@@ -93471,3 +93471,11 @@
 系住  :   ji4 zhu4
 只得  :   zhi3 dei3
 还我  :   huan2 wo3
+金行  :   jin1 hang2
+珠宝行  :  zhu1 bao3 hang2
+纪律处分  :  ji4 lv4 chu3 fen4
+处分  :  chu3 fen4
+门缝  :  men2 feng4
+缝隙  :  feng4 xi4
+无地可容 : wu2 di4 ke3 rong2
+无地  : wu2 di4
