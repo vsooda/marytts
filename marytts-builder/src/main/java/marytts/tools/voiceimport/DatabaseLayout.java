@@ -613,7 +613,9 @@ public class DatabaseLayout {
 	 * @param basicprops
 	 */
 	private void initDefaultBasicProps(SortedMap<String, String> basicprops) {
-		basicprops.put(MARYBASE, System.getProperty("MARYBASE", "/home/jimmy/speech/marytts/"));
+		String maryhome = System.getProperty("user.home") + "/speech/marytts/";
+		basicprops.put(MARYBASE, System.getProperty("MARYBASE", maryhome));
+		System.out.println("maryhome.." + maryhome);
 		basicprops.put(MARYBASEVERSION, Version.specificationVersion());
 		basicprops.put(VOICENAME, System.getProperty("VOICENAME", "zhvoice001"));
 		basicprops.put(GENDER, System.getProperty("GENDER", "female"));
