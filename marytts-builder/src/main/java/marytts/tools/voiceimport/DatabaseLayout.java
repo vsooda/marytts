@@ -617,12 +617,12 @@ public class DatabaseLayout {
 		basicprops.put(MARYBASE, System.getProperty("MARYBASE", maryhome));
 		System.out.println("maryhome.." + maryhome);
 		basicprops.put(MARYBASEVERSION, Version.specificationVersion());
-		basicprops.put(VOICENAME, System.getProperty("VOICENAME", "zhvoice001"));
+		basicprops.put(VOICENAME, System.getProperty("VOICENAME", "zhvoiceq001"));
 		basicprops.put(GENDER, System.getProperty("GENDER", "female"));
 		basicprops.put(DOMAIN, "general");
 		basicprops.put(ESTDIR, System.getProperty("ESTDIR", "/usr/"));
 		basicprops.put(LOCALE, System.getProperty("LOCALE", "zh"));
-		basicprops.put(SAMPLINGRATE, "16000");
+		basicprops.put(SAMPLINGRATE, "44100");
 		String rootDir = voiceDir.getAbsolutePath() + fileSeparator;
 		basicprops.put(ROOTDIR, rootDir.substring(0, rootDir.length() - 1));
 		basicprops.put(WAVDIR, rootDir + "wav" + fileSeparator);

@@ -1609,6 +1609,7 @@ public class MaryGenericFeatureProcessors {
 		}
 	}
 
+	
 	/**
 	 * The ToBI endtone associated with the current syllable.
 	 */
@@ -1658,6 +1659,159 @@ public class MaryGenericFeatureProcessors {
 			return values.get(endtone);
 		}
 	}
+	
+	/********************zh added ****************************/
+	/**
+	 * The pinyin tone  of the current syllable, the value is 1, 2,3, 4, 5.
+	 */
+	public static class Zhtone implements ByteValuedFeatureProcessor {
+		protected String name;
+		protected TargetElementNavigator navigator;
+		protected ByteStringTranslator values;
+
+		public Zhtone(String name, TargetElementNavigator syllableNavigator) {
+			this.name = name;
+			this.navigator = syllableNavigator;
+			this.values = new ByteStringTranslator(new String[] { "0", "1", "2", "3", "4", "5" });
+		}
+
+		public String getName() {
+			return name;
+		}
+
+		public String[] getValues() {
+			return values.getStringValues();
+		}
+
+		/**
+		 * For the given syllable item, return its pinyin, or 0 if there is none.
+		 */
+		public byte process(Target target) {
+			Element syllable = navigator.getElement(target);
+			if (syllable == null)
+				return 0;
+			String currentTone = syllable.getAttribute("zhtone");
+			if (currentTone.equals("")) {
+				return 0;
+			}
+			return values.get(currentTone);
+		}
+	}
+	
+	
+	public static class NextZhtone extends Zhtone {
+		public NextZhtone() {
+			super("next_zhtone", null);
+		}
+
+		/**
+		 * Search for an toned syllable, and return its zhtone accent, or 0 if there is none.
+		 */
+		public byte process(Target target) {
+			Element segment = target.getMaryxmlElement();
+			if (segment == null)
+				return 0;
+			Element current;
+			if (segment.getTagName().equals(MaryXML.PHONE)) {
+				Element syllable = (Element) segment.getParentNode();
+				if (syllable == null)
+					return 0;
+				current = syllable;
+			} else { // boundary
+				current = segment;
+			}
+			Element phrase = (Element) MaryDomUtils.getAncestor(current, MaryXML.PHRASE);
+			if (phrase == null)
+				return 0;
+			TreeWalker tw = MaryDomUtils.createTreeWalker(phrase, MaryXML.SYLLABLE);
+			tw.setCurrentNode(current);
+			Element s;
+			while ((s = (Element) tw.nextNode()) != null) {
+				if (s.hasAttribute("zhtone")) {
+					String tone = s.getAttribute("zhtone");
+					return values.get(tone);
+				}
+			}
+			return 0;
+		}
+	}
+	
+	
+	
+	
+	public static class PrevTone extends Zhtone {
+		public PrevTone() {
+			super("prev_zhtone", null);
+		}
+
+	
+		public byte process(Target target) {
+			Element segment = target.getMaryxmlElement();
+			if (segment == null)
+				return 0;
+			Element current;
+			if (segment.getTagName().equals(MaryXML.PHONE)) {
+				Element syllable = (Element) segment.getParentNode();
+				if (syllable == null)
+					return 0;
+				current = syllable;
+			} else { // boundary
+				current = segment;
+			}
+			Element phrase = (Element) MaryDomUtils.getAncestor(current, MaryXML.PHRASE);
+			if (phrase == null)
+				return 0;
+			TreeWalker tw = MaryDomUtils.createTreeWalker(phrase, MaryXML.SYLLABLE);
+			tw.setCurrentNode(current);
+			Element s;
+			while ((s = (Element) tw.previousNode()) != null) {
+				if (s.hasAttribute("zhtone")) {
+					String tone = s.getAttribute("zhtone");
+					return values.get(tone);
+				}
+			}
+			return 0;
+		}
+	}
+	
+	
+	public static class PhraseZhtone extends Zhtone {
+		public PhraseZhtone() {
+			super("phrase_zhtone", new LastSyllableInPhraseNavigator());
+		}
+	}
+
+	
+	public static class PrevPhraseZhtone extends Zhtone {
+		public PrevPhraseZhtone() {
+			super("prev_phrase_zhtone", null);
+		}
+
+		public byte process(Target target) {
+			Element segment = target.getMaryxmlElement();
+			if (segment == null)
+				return 0;
+			Element phrase = (Element) MaryDomUtils.getAncestor(segment, MaryXML.PHRASE);
+			if (phrase == null)
+				return 0;
+			Document doc = phrase.getOwnerDocument();
+			TreeWalker tw = MaryDomUtils.createTreeWalker(doc, doc, MaryXML.BOUNDARY);
+			tw.setCurrentNode(phrase);
+			Element boundary = (Element) tw.previousNode();
+			if (boundary == null)
+				return 0;
+			String zhtone = boundary.getAttribute("zhtone");
+			if (zhtone.equals("")) {
+				return 0;
+			}
+			return values.get(zhtone);
+		}
+	}
+	
+	/********************zh added ****************************/
+	
+	
+	
 
 	/**
 	 * The next ToBI accent following the current syllable in the current phrase.

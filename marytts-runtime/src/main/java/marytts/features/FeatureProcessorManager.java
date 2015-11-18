@@ -189,6 +189,7 @@ public class FeatureProcessorManager {
 		addFeatureProcessor(new MaryGenericFeatureProcessors.UnitDuration());
 		addFeatureProcessor(new MaryGenericFeatureProcessors.UnitLogF0());
 		addFeatureProcessor(new MaryGenericFeatureProcessors.UnitLogF0Delta());
+		
 	}
 
 	/**
