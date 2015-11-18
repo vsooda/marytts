@@ -190,10 +190,6 @@ public class FeatureProcessorManager {
 		addFeatureProcessor(new MaryGenericFeatureProcessors.UnitLogF0());
 		addFeatureProcessor(new MaryGenericFeatureProcessors.UnitLogF0Delta());
 		
-		addFeatureProcessor(new MaryGenericFeatureProcessors.Zhtone("zh_tone", syllable));
-		addFeatureProcessor(new MaryGenericFeatureProcessors.Zhtone("next_zhtone", nextSyllable));
-		addFeatureProcessor(new MaryGenericFeatureProcessors.Zhtone("nextnext_zh_tone", nextNextSyllable));
-		addFeatureProcessor(new MaryGenericFeatureProcessors.Zhtone("prev_zh_tone", prevSyllable));
 	}
 
 	/**
