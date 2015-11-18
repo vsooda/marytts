@@ -585,6 +585,14 @@ public class ProsodyGeneric extends InternalModule {
 					// the rules in the xml file are applied
 				} else if (token.getAttribute("ph").equals("")) { // test if token is punctuation
 					token.removeAttribute("accent"); // doesn't receive an accent
+					if(theTokenText.equals("!")||theTokenText.equals(".")||theTokenText.equals("?"))
+					{
+						token.setAttribute("pos", ".");
+					}
+					if(theTokenText.equals(",")||theTokenText.equals(";")||theTokenText.equals(":"))
+					{
+						token.setAttribute("pos", ",");
+					}
 				} else { // default behaviour: determine by rule whether to assign an accent
 					getAccentPosition(token, tokens, i, sentenceType, specialPositionType);
                     System.out.println("setting token accent " + token.getAttribute("accent"));

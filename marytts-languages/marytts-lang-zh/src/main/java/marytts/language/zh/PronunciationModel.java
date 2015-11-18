@@ -103,7 +103,7 @@ public class PronunciationModel extends marytts.modules.PronunciationModel {
 					String phones = syl.getAttribute("ph");
 					int toneValue = Integer.parseInt(tones[index].trim());
 					if (toneValue == 5) {
-						syl.setAttribute("accent", "L*");
+						syl.setAttribute("accent", "L*+H");
 						System.out.println(phones + "=> 5");
 					} else if (toneValue == 3) {
 						syl.setAttribute("accent", "L*");
@@ -113,9 +113,11 @@ public class PronunciationModel extends marytts.modules.PronunciationModel {
 						System.out.println(phones + "=> 2");
 					} else if (toneValue == 4) {
 						syl.setAttribute("accent", "!H*");
+						syl.setAttribute("stress", "2");
 						System.out.println(phones + "=> 4");
 					} else if (toneValue == 1){
 						syl.setAttribute("accent", "H*");
+						syl.setAttribute("stress", "1");
 						System.out.println(phones + "=> 1");
 					}
 					index++;
