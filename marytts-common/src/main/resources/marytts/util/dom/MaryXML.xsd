@@ -679,20 +679,22 @@ THIS SOFTWARE.
     </xsd:complexType>
 
     <xsd:complexType name="syllable">
-        <xsd:sequence>
-            <!-- The phonemes composing the syllable -->
-            <xsd:element maxOccurs="unbounded" name="ph" type="ph"/>
-        </xsd:sequence>
-        <xsd:attribute name="ph" type="xsd:string"/>
-        <xsd:attribute name="tone" type="xsd:string"/>
-        <xsd:attribute default="0" name="stress">
-            <xsd:simpleType>
-                <xsd:restriction base="xsd:nonNegativeInteger">
-                    <xsd:maxInclusive value="2"/>
-                </xsd:restriction>
-            </xsd:simpleType>
-        </xsd:attribute>
-        <xsd:attribute name="accent" type="gtobi_accent.type" use="optional"/>
+    	<xsd:sequence>
+    		<!-- The phonemes composing the syllable -->
+    		<xsd:element maxOccurs="unbounded" name="ph" type="ph" />
+    	</xsd:sequence>
+    	<xsd:attribute name="ph" type="xsd:string" />
+    	<xsd:attribute name="tone" type="xsd:string" />
+    	<xsd:attribute default="0" name="stress">
+    		<xsd:simpleType>
+    			<xsd:restriction base="xsd:nonNegativeInteger">
+    				<xsd:maxInclusive value="2" />
+    			</xsd:restriction>
+    		</xsd:simpleType>
+    	</xsd:attribute>
+    	<xsd:attribute name="accent" type="gtobi_accent.type"
+    		use="optional" />
+    	<xsd:attribute name="zhtone" type="xsd:string"></xsd:attribute>
     </xsd:complexType>
 
     <xsd:complexType name="ph">
