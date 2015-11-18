@@ -57,6 +57,12 @@ public class FeatureProcessorManager extends marytts.features.FeatureProcessorMa
 			MaryGenericFeatureProcessors.TargetElementNavigator nextNextSyllable = new MaryGenericFeatureProcessors.NextNextSyllableNavigator();
 			MaryGenericFeatureProcessors.TargetElementNavigator lastWord = new MaryGenericFeatureProcessors.LastWordInSentenceNavigator();
 			
+			String[] pos = { "0", "AG", "A", "AD", "AN", "B", "C", "DG", "D", "E", "F", "G", "H",
+					"I", "J", "K", "L", "M", "NG", "N", "NR", "NS", "NT", "NZ", "O", "P",
+					"Q", "R", "S", "TG", "T", "U", "VG", "V", "VD", "VN", "W", "X",
+					"Y", "Z" };
+			addFeatureProcessor(new MaryLanguageFeatureProcessors.Pos(pos));
+			
 			addFeatureProcessor(new MaryGenericFeatureProcessors.Zhtone("zh_tone", syllable));
 			addFeatureProcessor(new MaryGenericFeatureProcessors.Zhtone("next_zhtone", nextSyllable));
 			addFeatureProcessor(new MaryGenericFeatureProcessors.Zhtone("nextnext_zh_tone", nextNextSyllable));
