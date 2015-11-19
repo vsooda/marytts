@@ -617,7 +617,7 @@ public class DatabaseLayout {
 		basicprops.put(MARYBASE, System.getProperty("MARYBASE", maryhome));
 		System.out.println("maryhome.." + maryhome);
 		basicprops.put(MARYBASEVERSION, Version.specificationVersion());
-		basicprops.put(VOICENAME, System.getProperty("VOICENAME", "zhvoiceq001"));
+		basicprops.put(VOICENAME, System.getProperty("VOICENAME", "zhvoice_97_120_001"));
 		basicprops.put(GENDER, System.getProperty("GENDER", "female"));
 		basicprops.put(DOMAIN, "general");
 		basicprops.put(ESTDIR, System.getProperty("ESTDIR", "/usr/"));

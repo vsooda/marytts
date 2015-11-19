@@ -136,6 +136,7 @@ public class HMMVoiceDataPreparation extends VoiceImportComponent {
 		sep = System.getProperty("file.separator");
 		dataDir = voiceDir + "hts" + sep + "data" + sep;
 		scriptsDir = dataDir + "scripts" + sep;
+		
 
 		// For both speaker indep. or adapt scripts the programs are the same
 		// check again that all the external necessary programs are installed.
@@ -149,6 +150,43 @@ public class HMMVoiceDataPreparation extends VoiceImportComponent {
 			String sourceFolder = marybase + sep + "lib" + sep + "external" + sep + "hts";
 			String htsFolder = voiceDir + sep + "hts";
 			FileUtils.copyFolderRecursive(sourceFolder, htsFolder, false);
+			
+			boolean allCacheFile = true;
+			
+			String mgcFolder = voiceDir + sep + "cache" + sep +  "mgc";
+			if (existWithFiles(mgcFolder)) {
+				String targetDir = dataDir + sep + "mgc";
+				System.out.println("copy cache mgc file for saving time: " + mgcFolder + " -> " + targetDir);
+				FileUtils.copyFolderRecursive(mgcFolder, targetDir, false);
+			} else {
+				allCacheFile = false;
+			}
+			
+			String lf0Folder = voiceDir + sep + "cache" + sep +  "lf0";
+			if (existWithFiles(lf0Folder)) {
+				String targetDir = dataDir + sep + "lf0";
+				System.out.println("copy cache lf0 file for saving time: " + lf0Folder + " -> " + targetDir);
+				FileUtils.copyFolderRecursive(lf0Folder, targetDir, false);
+			} else {
+				allCacheFile = false;
+			}
+			
+			String strFolder = voiceDir + sep + "cache" + sep +  "str";
+			if (existWithFiles(strFolder)) {
+				String targetDir = dataDir + sep + "str";
+				System.out.println("copy cache str file for saving time: " + strFolder + " -> " + targetDir);
+				FileUtils.copyFolderRecursive(strFolder, targetDir, false);
+			} else {
+				allCacheFile = false;
+			}
+			
+			String cmpFolder = voiceDir + sep + "cache" + sep +  "cmp";
+			if (existWithFiles(cmpFolder) && allCacheFile) {
+				String targetDir = dataDir + sep + "cmp";
+				System.out.println("copy cache cmp+ file for saving time: " + cmpFolder + " -> " + targetDir);
+				FileUtils.copyFolderRecursive(cmpFolder, targetDir, false);
+			} 
+			
 
 			// 2. check as before that wav, raw and text directories exist and are in the correct place
 			System.out

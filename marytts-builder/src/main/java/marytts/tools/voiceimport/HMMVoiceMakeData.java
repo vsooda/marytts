@@ -169,6 +169,14 @@ public class HMMVoiceMakeData extends VoiceImportComponent {
 				+ " speaker adaptation/adaptive scripts.  ");
 
 	}
+	
+	private boolean existWithFiles(String dirName) {
+		File dir = new File(dirName);
+		if (dir.exists() && dir.list().length > 0)
+			return true;
+		else
+			return false;
+	}
 
 	/**
 	 * Do the computations required by this component.
@@ -179,18 +187,35 @@ public class HMMVoiceMakeData extends VoiceImportComponent {
 
 		String cmdLine;
 		String voiceDir = db.getProp(DatabaseLayout.ROOTDIR);
+		String sep = System.getProperty("file.separator");
 
 		if (Integer.parseInt(getProp(MGC)) == 1) {
-			cmdLine = "cd " + voiceDir + "hts/data\nmake mgc\n";
-			General.launchBatchProc(cmdLine, "", voiceDir);
+			String targetFolder = voiceDir + "hts/data/mgc";
+			if (existWithFiles(targetFolder)) {
+				System.out.println("using cache mgc ++++++ " + targetFolder);
+			} else {
+				cmdLine = "cd " + voiceDir + "hts/data\nmake mgc\n";
+				General.launchBatchProc(cmdLine, "", voiceDir);
+			}
 		}
 		if (Integer.parseInt(getProp(LF0)) == 1) {
-			cmdLine = "cd " + voiceDir + "hts/data\nmake lf0\n";
-			General.launchBatchProc(cmdLine, "", voiceDir);
+			String targetFolder = voiceDir + "hts/data/lf0";
+			if (existWithFiles(targetFolder)) {
+				System.out.println("using cache lf0 ++++++ " + targetFolder);
+			} else {
+				cmdLine = "cd " + voiceDir + "hts/data\nmake lf0\n";
+				General.launchBatchProc(cmdLine, "", voiceDir);
+			}
+			
 		}
 		if (Integer.parseInt(getProp(STR)) == 1) {
-			cmdLine = "cd " + voiceDir + "hts/data\nmake str-mary\n";
-			General.launchBatchProc(cmdLine, "", voiceDir);
+			String targetFolder = voiceDir + "hts/data/str";
+			if (existWithFiles(targetFolder)) {
+				System.out.println("using cache str ++++++ " + targetFolder);
+			} else {
+				cmdLine = "cd " + voiceDir + "hts/data\nmake str-mary\n";
+				General.launchBatchProc(cmdLine, "", voiceDir);
+			}
 		}
 		if (Integer.parseInt(getProp(CMPMARY)) == 1) {
 			// Check, at least, that there is data in the directories mgc, lf0 and str
