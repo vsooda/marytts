@@ -3024,7 +3024,7 @@
 荒山野岭  :    huang1 shan1 ye3 ling3 
 皇冠出版  :    huang2 guan1 chu1 ban3 
 黄帝宅经  :    huang2 di4 zhai2 jing1 
-黄花姑娘  :    huang2 hua1 gu1 niang5 
+黄花姑娘  :    huang2 hua1 gu1 niang2
 黄巾民变  :    huang2 jin1 min2 bian4 
 黄巾之乱  :    huang2 jin1 zhi1 luan4 
 黄金时段  :    huang2 jin1 shi2 duan4 
@@ -3942,7 +3942,7 @@
 捉襟见肘  :    zhuo1 jin1 jian4 zhou3 
 浊臭熏天  :    zhuo2 chou4 xun1 tian1 
 子癫前症  :    zi3 dian1 qian2 zheng4 
-子孙娘娘  :    zi3 sun1 niang2 niang5 
+子孙娘娘  :    zi3 sun1 niang2 niang2
 紫坪铺大坝  :    zi3 ping2 pu1 da4 ba4 
 自然保护区  :    zi4 ran2 bao3 hu4 qu1 
 自由贸易区  :    zi4 you2 mao4 yi4 qu1 
@@ -8421,7 +8421,7 @@
 衰之以属  :    shuai1 zhi1 yi3 shu3 
 双台子区  :    shuang1 tai2 zi5 qu1 
 双翼飞机  :    shuang1 yi4 fei1 ji1 
-谁人乐队  :    shei2 ren2 yue4 dui4 
+谁人乐队  :    shui2 ren2 yue4 dui4 
 水底相机  :    shui3 di3 xiang4 ji1 
 水火不容  :    shui3 huo3 bu4 rong2 
 水火无情  :    shui3 huo3 wu2 qing2 
@@ -10993,7 +10993,7 @@
 露天宿营  :    lu4 tian1 su4 ying2 
 路由协定  :    lu4 you2 xie2 ding4 
 陆海空军  :    lu4 hai3 kong1 jun1 
-鹿死谁手  :    lu4 si3 shei2 shou3 
+鹿死谁手  :    lu4 si3 shui2 shou3 
 略见一斑  :    lve4 jian4 yi1 ban1 
 罗雀掘鼠  :    luo2 que4 jue2 shu3 
 逻辑演算  :    luo2 ji5 yan3 suan4 
@@ -11192,7 +11192,7 @@
 年事已高  :    nian2 shi4 yi3 gao1 
 年已蹉跎  :    nian2 yi3 cuo1 tuo2 
 碾子山区  :    nian3 zi5 shan1 qu1 
-娘娘腔  :    niang2 niang5 qiang1 
+娘娘腔  :    niang2 niang2 qiang1 
 鸟脚亚目  :    niao3 jiao3 ya4 mu4 
 捏脊治疗  :    nie1 ji3 zhi4 liao2 
 啮齿动物  :    nie4 chi3 dong4 wu4 
@@ -11437,7 +11437,7 @@
 人蛇集团  :    ren2 she2 ji2 tuan2 
 人身事故  :    ren2 shen1 shi4 gu4 
 人事管理  :    ren2 shi4 guan3 li3 
-人谁无过  :    ren2 shei2 wu2 guo4 
+人谁无过  :    ren2 shui2 wu2 guo4 
 人体工学  :    ren2 ti3 gong1 xue2 
 人物描写  :    ren2 wu4 miao2 xie3 
 人烟稀少  :    ren2 yan1 xi1 shao3 
@@ -22118,7 +22118,7 @@
 洪庙村  :    hong2 miao4 cun1 
 洪秀全  :    hong2 xiu4 quan2 
 红臂章  :    hong2 bi4 zhang1 
-红姑娘  :    hong2 gu1 niang5 
+红姑娘  :    hong2 gu1 niang2
 红花岗  :    hong2 hua1 gang3 
 红领巾  :    hong2 ling3 jin1 
 红楼梦  :    hong2 lou2 meng4 
@@ -24594,7 +24594,7 @@
 矮行星  :    ai3 xing2 xing1 
 矮壮素  :    ai3 zhuang4 su4 
 爱情片  :    ai4 qing2 pian4 
-爱谁谁  :    ai4 shei2 shei2 
+爱谁谁  :    ai4 shui2 shui2 
 艾美奖  :    ai4 mei3 jiang3 
 安徽省  :    an1 hui1 sheng3 
 安龙县  :    an1 long2 xian4 
@@ -25890,7 +25890,7 @@
 黄岩区  :    huang2 yan2 qu1 
 黄鱼车  :    huang2 yu2 che1 
 灰赤杨  :    hui1 chi4 yang2 
-灰姑娘  :    hui1 gu1 niang5 
+灰姑娘  :    hui1 gu1 niang2
 灰猎犬  :    hui1 lie4 quan3 
 珲春市  :    hun2 chun1 shi4 
 辉南县  :    hui1 nan2 xian4 
@@ -27389,7 +27389,7 @@
 双陆棋  :    shuang1 lu4 qi2 
 双塔区  :    shuang1 ta3 qu1 
 双子叶  :    shuang1 zi3 ye4 
-谁知道  :    shei2 zhi1 dao4 
+谁知道  :    shui2 zhi1 dao4 
 水彩画  :    shui3 cai3 hua4 
 水产业  :    shui3 chan3 ye4 
 水道口  :    shui3 dao4 kou3 
@@ -39127,7 +39127,7 @@
 尼罗河  :    ni2 luo2 he2 
 尼亚美  :    ni2 ya4 mei3 
 泥盆纪  :    ni2 pen2 ji4 
-娘娘  :    niang2 niang5 
+娘娘  :    niang2 niang2
 酿成  :    niang4 cheng2 
 尿床  :    niao4 chuang2 
 涅瓦河  :    nie4 wa3 he2 
@@ -53568,7 +53568,7 @@
 构陷  :    gou4 xian4 
 诟病  :    gou4 bing4 
 估量  :    gu1 liang5 
-姑娘  :    gu1 niang5 
+姑娘  :    gu1 niang2
 姑丈  :    gu1 zhang4 
 孤征  :    gu1 zheng1 
 古城  :    gu3 cheng2 
@@ -59216,7 +59216,7 @@
 帅气  :    shuai4 qi5 
 栓剂  :    shuan1 ji4 
 栓塞  :    shuan1 se4 
-谁知  :    shei2 zhi1 
+谁知  :    shui2 zhi1 
 水彩  :    shui3 cai3 
 水槽  :    shui3 cao2 
 水草  :    shui3 cao3 

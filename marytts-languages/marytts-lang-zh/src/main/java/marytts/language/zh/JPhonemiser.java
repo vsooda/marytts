@@ -109,7 +109,7 @@ public class JPhonemiser  extends marytts.modules.JPhonemiser {
 					} else { // following parts
 						ph.append(" - "); //这个导致trichphone的产生
 						// Reduce primary to secondary stress:
-						ph.append(phon.replace('\'', ','));
+						ph.append(phon.replace('\'', ','));// 轻重音有问题?
 						tones.append(" - ");
 						if (Character.isDigit(graph.charAt(graph.length()-1))) {
 							tones.append(graph.charAt(graph.length()-1));

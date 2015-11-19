@@ -58,21 +58,28 @@ public class PronunciationModel extends marytts.modules.PronunciationModel {
 					
 					if (firstPhone.endsWith("M")) {
 						syl.setAttribute("accent", "L*");
+						syl.setAttribute("zhtone", "5");
 						System.out.println(phones + "=> 5");
 					} else if (firstPhone.endsWith("L")) {
 						if (secondPhone.endsWith("L")) {
 							syl.setAttribute("accent", "L*");
+							syl.setAttribute("zhtone", "3");
 							System.out.println(phones + "=> 3");
 						} else {
 							syl.setAttribute("accent", "L*+H");
+							syl.setAttribute("zhtone", "2");
 							System.out.println(phones + "=> 2");
 						}
 					} else if (firstPhone.endsWith("H")) {
 						if (secondPhone.endsWith("L")) {
 							syl.setAttribute("accent", "!H*");
+							syl.setAttribute("stress", "2");
+							syl.setAttribute("zhtone", "4");
 							System.out.println(phones + "=> 4");
 						} else {
 							syl.setAttribute("accent", "H*");
+							syl.setAttribute("stress", "1");
+							syl.setAttribute("zhtone", "1");
 							System.out.println(phones + "=> 1");
 						}
 					}
@@ -103,7 +110,7 @@ public class PronunciationModel extends marytts.modules.PronunciationModel {
 					String phones = syl.getAttribute("ph");
 					int toneValue = Integer.parseInt(tones[index].trim());
 					if (toneValue == 5) {
-						syl.setAttribute("accent", "L*+H");
+						syl.setAttribute("accent", "L*");
 						syl.setAttribute("zhtone", "5");
 						System.out.println(phones + "=> 5");
 					} else if (toneValue == 3) {
@@ -116,7 +123,7 @@ public class PronunciationModel extends marytts.modules.PronunciationModel {
 						System.out.println(phones + "=> 2");
 					} else if (toneValue == 4) {
 						syl.setAttribute("accent", "!H*");
-						syl.setAttribute("stress", "2");
+						//syl.setAttribute("stress", "2");
 						syl.setAttribute("zhtone", "4");
 						System.out.println(phones + "=> 4");
 					} else if (toneValue == 1){
