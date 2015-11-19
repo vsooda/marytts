@@ -24,5 +24,13 @@ else
     echo "hts/data/str doesn't exist"
 fi
 
+if [ -d hts/data/cmp ]
+then
+    rm -rf cache/cmp
+    mv hts/data/cmp cache/cmp
+else
+    echo "hts/data/cmp doesn't exist"
+fi
+
 #rm -rf !(text|wav|cache|wav0|lab)
 #rm -rf !(text|wav|cache|wav0|lab|clean.sh)

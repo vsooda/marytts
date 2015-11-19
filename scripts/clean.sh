@@ -1,1 +1,1 @@
-ls | grep -v -e 'text\|wav\|sh\|^lab$' | xargs rm -rf
+ls | grep -v -e 'cache\|text\|wav\|sh\|^lab$' | xargs rm -rf
