@@ -246,8 +246,14 @@ public class HMMVoiceMakeData extends VoiceImportComponent {
 			}
 
 			// If the directories at leas contain files
-			cmdLine = "cd " + voiceDir + "hts/data\nmake cmp-mary\n";
-			General.launchBatchProc(cmdLine, "", voiceDir);
+			String targetFolder = voiceDir + "hts/data/cmp";
+			if (existWithFiles(targetFolder)) {
+				System.out.println("using cache cmp ++++++ " + targetFolder);
+			} else {
+				cmdLine = "cd " + voiceDir + "hts/data\nmake cmp-mary\n";
+				General.launchBatchProc(cmdLine, "", voiceDir);
+			}
+			
 		}
 
 		featFileFilter = new FilenameFilter() {
