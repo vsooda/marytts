@@ -4,6 +4,8 @@ import java.util.List;
 import java.util.Locale;
 import java.util.Properties;
 
+import org.ansj.recognition.NatureRecognition;
+import org.ansj.splitWord.analysis.ToAnalysis;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.Text;
@@ -44,10 +46,12 @@ public class JTokeniser  extends marytts.modules.JTokeniser {
 		segmenter = new JiebaSegmenter();
 	}
 	
+	
 	public MaryData process(MaryData d) throws Exception {
 		MaryData result = super.process(d);
-		segment(result);
+		//segment(result);
 		//segmentAndPosTagger(result);
+		segment_ansj(result);
 		System.out.println("zh_token");
 		return result;
 	}
@@ -67,6 +71,31 @@ public class JTokeniser  extends marytts.modules.JTokeniser {
 	        	Element tnew = MaryXML.createElement(doc, MaryXML.TOKEN);
 				MaryDomUtils.setTokenText(tnew, token.word.getToken());
 				tnew.setAttribute("pos", token.word.getTokenType().toUpperCase());
+				t.getParentNode().insertBefore(tnew, t);
+	        }
+
+			t.getParentNode().removeChild(t);
+		}
+	}
+	
+	protected void segment_ansj(MaryData d) {
+		Document doc = d.getDocument();
+		NodeIterator ni = ((DocumentTraversal) doc).createNodeIterator(doc, NodeFilter.SHOW_ELEMENT, new NameNodeFilter(
+				MaryXML.TOKEN), false);
+		Element t = null;
+		System.out.println("segment with ansj");
+		while ((t = (Element) ni.nextNode()) != null) {
+			String words = MaryDomUtils.tokenText(t);
+			//segment it..
+			// Insert the new token element
+			List<org.ansj.domain.Term> tokens = ToAnalysis.parse(words);
+	        new NatureRecognition(tokens).recognition(); 
+			//List<SegToken> tokens = segmenter.process(words, SegMode.SEARCH);
+	        for (org.ansj.domain.Term token : tokens) {
+	        	//System.out.println(token.word);
+	        	Element tnew = MaryXML.createElement(doc, MaryXML.TOKEN);
+				MaryDomUtils.setTokenText(tnew, token.getName());
+				tnew.setAttribute("pos", token.getNatureStr().toUpperCase());
 				t.getParentNode().insertBefore(tnew, t);
 	        }
 
