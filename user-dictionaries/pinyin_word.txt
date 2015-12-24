@@ -27975,7 +27975,7 @@
 小狮座  :    xiao3 shi1 zuo4 
 小时候  :    xiao3 shi2 hou5 
 小树林  :    xiao3 shu4 lin2 
-小太太  :    xiao3 tai4 tai5 
+小太太  :    xiao3 tai4 tai4
 小心眼  :    xiao3 xin1 yan3 
 小昭寺  :    xiao3 zhao1 si4 
 小祖宗  :    xiao3 zu3 zong1 
@@ -28487,7 +28487,7 @@
 沾益县  :    zhan1 yi4 xian4 
 展览会  :    zhan3 lan3 hui4 
 展弦比  :    zhan3 xian2 bi3 
-占便宜  :    zhan4 pian2 yi5 
+占便宜  :    zhan4 pian2 yi2
 占地方  :    zhan4 di4 fang5 
 占优势  :    zhan4 you1 shi4 
 战斗群  :    zhan4 dou4 qun2 
@@ -29052,7 +29052,7 @@
 扁桃体  :    bian3 tao2 ti3 
 便步走  :    bian4 bu4 zou3 
 便利贴  :    bian4 li4 tie1 
-便宜货  :    pian2 yi5 huo4 
+便宜货  :    pian2 yi2 huo4 
 变分法  :    bian4 fen1 fa3 
 变流器  :    bian4 liu2 qi4 
 变速杆  :    bian4 su4 gan3 
@@ -30912,7 +30912,7 @@
 老年期  :    lao3 nian2 qi1 
 老人家  :    lao3 ren2 jia1 
 老视眼  :    lao3 shi4 yan3 
-老太太  :    lao3 tai4 tai5 
+老太太  :    lao3 tai4 tai4
 老天爷  :    lao3 tian1 ye2 
 老烟鬼  :    lao3 yan1 gui3 
 老样子  :    lao3 yang4 zi5 
@@ -32229,7 +32229,7 @@
 逃北者  :    tao2 bei3 zhe3 
 陶乐县  :    tao2 le4 xian4 
 陶宗仪  :    tao2 zong1 yi2 
-讨便宜  :    tao3 pian2 yi5 
+讨便宜  :    tao3 pian2 yi2
 讨论班  :    tao3 lun4 ban1 
 讨论会  :    tao3 lun4 hui4 
 讨人厌  :    tao3 ren2 yan4 
@@ -36974,7 +36974,7 @@
 夷陵区  :    yi2 ling2 qu1 
 姨姥姥  :    yi2 lao3 lao5 
 姨奶奶  :    yi2 nai3 nai5 
-姨太太  :    yi2 tai4 tai5 
+姨太太  :    yi2 tai4 tai4
 宜宾市  :    yi2 bin1 shi4 
 宜兰市  :    yi2 lan2 shi4 
 怡保市  :    yi2 bao3 shi4 
@@ -74199,7 +74199,7 @@
 太妹  :    tai4 mei4 
 太师  :    tai4 shi1 
 太岁  :    tai4 sui4 
-太太  :    tai4 tai5 
+太太  :    tai4 tai4
 太学  :    tai4 xue2 
 太阴  :    tai4 yin1 
 态射  :    tai4 she4 
@@ -79162,7 +79162,7 @@
 边儿  :    bian1 r5 
 匾额  :    bian3 e2 
 扁额  :    bian3 e2 
-便宜  :    pian2 yi 
+便宜  :    pian2 yi2
 憋气  :    bie1 qi4 
 别的  :    bie2 de5 
 别克  :    bie2 ke4 
@@ -93479,3 +93479,4 @@
 缝隙  :  feng4 xi4
 无地可容 : wu2 di4 ke3 rong2
 无地  : wu2 di4
+满地  : man3 di4

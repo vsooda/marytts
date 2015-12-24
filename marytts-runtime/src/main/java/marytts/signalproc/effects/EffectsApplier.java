@@ -298,10 +298,10 @@ public class EffectsApplier {
 			((HMMVoice) voice).setDurationScale(dummy3.NO_MODIFICATION);
 			//
 
-			parseEffectsAndParams(currentEffect);
+			parseEffectsAndParams(currentEffect);  //从字符串的效果器实例化具体的效果器类，并设定参数
 
 			if (audioEffects != null) {
-				for (int i = 0; i < audioEffects.length; i++) {
+				for (int i = 0; i < audioEffects.length; i++) { //如果效果器是hmm模型相关，则直接修改声音参数？
 					if (audioEffects[i] instanceof HMMF0AddEffect)
 						((HMMVoice) voice).setF0Mean((double) ((HMMF0AddEffect) audioEffects[i]).f0Add);
 					else if (audioEffects[i] instanceof HMMF0ScaleEffect)

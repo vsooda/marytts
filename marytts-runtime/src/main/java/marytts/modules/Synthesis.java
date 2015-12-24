@@ -245,7 +245,7 @@ public class Synthesis extends InternalModule {
 		EffectsApplier ef = new EffectsApplier();
 
 		// HMM-only effects need to get their parameters prior to synthesis
-		ef.setHMMEffectParameters(voice, currentEffect);
+		ef.setHMMEffectParameters(voice, currentEffect);  //解析字符串，实例化效果器
 		//
 
 		AudioInputStream ais = null;
@@ -281,7 +281,7 @@ public class Synthesis extends InternalModule {
 							+ " to requested audio format " + targetFormat + " not supported.\n" + iae.getMessage());
 			}
 		}
-		// Apply effect if present
+		// Apply effect if present  应用效果器， f0, duration已经直接在hmm模型修改了
 		if (currentEffect != null && !currentEffect.equals("")) {
 			ais = ef.apply(ais, currentEffect);
 		}
