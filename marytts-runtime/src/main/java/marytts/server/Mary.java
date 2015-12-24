@@ -37,6 +37,7 @@ import java.net.URLClassLoader;
 import java.nio.file.Paths;
 import java.sql.SQLException;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
@@ -81,6 +82,12 @@ import com.hankcs.hanlp.tokenizer.NLPTokenizer;
 
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
+
+
+//import org.ansj.domain.Term;
+import org.ansj.recognition.NatureRecognition;
+import org.ansj.splitWord.analysis.ToAnalysis;
+import org.ansj.util.MyStaticValue;
 
 /**
  * The main program for the mary TtS system. It can run as a socket server or as a stand-alone program.
@@ -587,6 +594,14 @@ public class Mary {
 	    }
 	    System.out.println(HanLP.segment("穿着"));
 	    
+	    //MyStaticValue.userLibrary= "/home/research/data/ansj.dic";
+	    List<org.ansj.domain.Term> terms = ToAnalysis.parse("物流信息都显示已经在晋江揽件了，还让我整整等了你四天，你们快递公司是干什么吃的！我侄子的生日都过了，我还要这玩意干什么？”王女士对快递小哥吼道，顺手还给了一巴掌。");
+        new NatureRecognition(terms).recognition(); //词性标注
+        System.out.println(terms);
+        for (org.ansj.domain.Term t : terms) {
+	    	System.out.println(t.getName() + " " + t.getNatureStr());
+	    }
+        
 	    
 	    //transcript segment test
 	    //String transcriptName = MaryProperties.getFilename("transcriptText");

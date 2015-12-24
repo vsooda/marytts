@@ -94,7 +94,7 @@ public class PronunciationModel extends marytts.modules.PronunciationModel {
 				MaryXML.TOKEN), false);
 		Element t = null;
 		while ((t = (Element) tIt.nextNode()) != null) {
-			//if (t.hasAttribute("accent")) {
+			if (t.hasAttribute("accent")) {
 				NodeIterator sylIt = ((DocumentTraversal) doc).createNodeIterator(t, NodeFilter.SHOW_ELEMENT, new NameNodeFilter(
 						MaryXML.SYLLABLE), false);
 
@@ -110,33 +110,34 @@ public class PronunciationModel extends marytts.modules.PronunciationModel {
 					String phones = syl.getAttribute("ph");
 					int toneValue = Integer.parseInt(tones[index].trim());
 					if (toneValue == 5) {
-						syl.setAttribute("accent", "L*");
+						//syl.setAttribute("accent", "L*");
 						syl.setAttribute("zhtone", "5");
 						System.out.println(phones + "=> 5");
 					} else if (toneValue == 3) {
-						syl.setAttribute("accent", "L*");
+						//syl.setAttribute("accent", "L*");
 						syl.setAttribute("zhtone", "3");
 						System.out.println(phones + "=> 3");
 					} else if (toneValue == 2){
-						syl.setAttribute("accent", "L*+H");
+						//syl.setAttribute("accent", "L*+H");
 						syl.setAttribute("zhtone", "2");
 						System.out.println(phones + "=> 2");
 					} else if (toneValue == 4) {
-						syl.setAttribute("accent", "!H*");
-						//syl.setAttribute("stress", "2");
+						//syl.setAttribute("accent", "!H*");
+						syl.setAttribute("stress", "2");
 						syl.setAttribute("zhtone", "4");
 						System.out.println(phones + "=> 4");
 					} else if (toneValue == 1){
-						syl.setAttribute("accent", "H*");
+						//syl.setAttribute("accent", "H*");
 						syl.setAttribute("stress", "1");
 						syl.setAttribute("zhtone", "1");
 						System.out.println(phones + "=> 1");
 					}
+					syl.setAttribute("accent", t.getAttribute("accent"));
 					index++;
 					System.out.println("syysla.." + phones);	
 				}
 			}
-		//}
+		}
 	}
 
 	

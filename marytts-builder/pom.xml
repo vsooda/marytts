@@ -29,6 +29,12 @@
 		</dependency>
 		<dependency>
 			<groupId>${project.groupId}</groupId>
+			<artifactId>marytts-lang-zh</artifactId>
+			<version>${project.version}</version>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>${project.groupId}</groupId>
 			<artifactId>marytts-runtime</artifactId>
 			<version>${project.version}</version>
 		</dependency>
