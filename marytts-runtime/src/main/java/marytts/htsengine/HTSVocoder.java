@@ -233,8 +233,8 @@ public class HTSVocoder {
 		double inc, x, MaxSample;
 		double xp = 0.0, xn = 0.0, fxp, fxn, mix; /* samples for pulse and for noise and the filtered ones */
 		int k, m, mcepframe, lf0frame;
-		double alpha = htsData.getAlpha();
-		double beta = htsData.getBeta();
+		double alpha = htsData.getAlpha(); //0.53
+		double beta = htsData.getBeta();  //0.1
 		double[] magPulse = null; /* pulse generated from Fourier magnitudes */
 		int magSample, magPulseSize;
 
@@ -246,8 +246,8 @@ public class HTSVocoder {
 		 * Initialise vocoder and mixed excitation, once initialised it is known the order of the filters so the shaping filters
 		 * hp and hn can be initialised.
 		 */
-		m = mcepPst.getOrder();
-		initVocoder(m, mcepPst.getVsize() - 1, htsData);
+		m = mcepPst.getOrder(); //35
+		initVocoder(m, mcepPst.getVsize() - 1, htsData); //mcepVsize 105
 		double pulse[] = new double[fprd];
 		double noise[] = new double[fprd];
 		double source[] = new double[fprd];
@@ -256,9 +256,10 @@ public class HTSVocoder {
 		mixedExcitation = htsData.getUseMixExc();
 		fourierMagnitudes = htsData.getUseFourierMag();
 
-		if (mixedExcitation && htsData.getPdfStrStream() != null) {
-			numM = htsData.getNumFilters();
-			orderM = htsData.getOrderFilters();
+		//if (mixedExcitation && htsData.getPdfStrStream() != null) {
+		if (mixedExcitation) {
+			numM = htsData.getNumFilters();  // 5
+			orderM = htsData.getOrderFilters(); //99
 
 			xpulseSignal = new double[orderM];
 			xnoiseSignal = new double[orderM];
@@ -270,7 +271,7 @@ public class HTSVocoder {
 
 			// Check if the number of filters is equal to the order of strpst
 			// i.e. the number of filters is equal to the number of generated strengths per frame.
-			if (numM != strPst.getOrder()) {
+			if (numM != strPst.getOrder()) { //all 5
 				logger.debug("htsMLSAVocoder: error num mix-excitation filters =" + numM
 						+ " in configuration file is different from generated str order=" + strPst.getOrder());
 				throw new Exception("htsMLSAVocoder: error num mix-excitation filters = " + numM
@@ -998,34 +999,42 @@ public class HTSVocoder {
 		String lf0File, mcepFile, strFile, magFile, outFile, residualFile;
 		String voiceName, voiceConfig, outDir, voiceExample, hmmTrainDir;
 
-		String MaryBase = "/project/mary/marcela/openmary/";
-		outDir = "/project/mary/marcela/openmary/tmp/";
-		outFile = outDir + "tmp.wav";
+		
+		String voiceBase = System.getProperty("user.home") + "/speech/marytts/data/voice-zhvoice_97_120_001_old-hsmm-5.2-SNAPSHOT/";
+		outFile = System.getProperty("user.home") + "/tmp.wav";
 
-		// Voice
-		/*
-		 * voiceName = "hsmm-slt"; voiceConfig = "en_US-hsmm-slt.config"; voiceExample = "cmu_us_arctic_slt_a0001"; hmmTrainDir =
-		 * "/project/mary/marcela/HMM-voices/HTS-demo_CMU-ARCTIC-SLT/"; // The directory where the voice was trained
-		 */
-		voiceName = "hsmm-ot";
-		voiceConfig = "tr-hsmm-ot.config";
-		voiceExample = "ot0010";
-		hmmTrainDir = "/project/mary/marcela/HMM-voices/turkish/"; // The directory where the voice was trained
-
-		htsData.initHMMData(voiceName, MaryBase, voiceConfig);
+		voiceName = "zhvoice_97_120_001_old-hsmm";
+		voiceExample = "cslt_00001";
+		hmmTrainDir = System.getProperty("user.home") + "/speech/marytts/data/utterance_demo/"; // The directory where the voice was trained
+		int setStrOrder = 5;
+		if (setStrOrder == 5) {
+			voiceConfig = "marytts/voice/Zhvoice_97_120_001_oldHsmm/voice.config";
+		} else {
+			voiceConfig = "marytts/voice/Zhvoice_97_120_001_oldHsmm/voice1.config";
+		}
+		htsData.initHMMData(voiceName, voiceBase, voiceConfig);
 		htsData.setUseMixExc(true);
-		htsData.setUseFourierMag(true); /* use Fourier magnitudes for pulse generation */
+		htsData.setUseFourierMag(false); /* use Fourier magnitudes for pulse generation */
+		boolean isMag = false;
 
 		/* parameters extracted from real data with SPTK and snack */
-		lf0File = hmmTrainDir + "data/lf0/" + voiceExample + ".lf0";
-		mcepFile = hmmTrainDir + "data/mgc/" + voiceExample + ".mgc";
-		strFile = hmmTrainDir + "data/str/" + voiceExample + ".str";
-		magFile = hmmTrainDir + "data/mag/" + voiceExample + ".mag";
+		lf0File = hmmTrainDir + voiceExample + ".lf0";
+		mcepFile = hmmTrainDir + voiceExample + ".mgc";
+		strFile = hmmTrainDir  + voiceExample + "_order" + setStrOrder + ".str";
+		int magVsize = 0;
+		magFile = null;
+		if( isMag) {
+			magFile = hmmTrainDir + voiceExample + ".mag";
+			magVsize = htsData.getCartTreeSet().getMagVsize();
+		}
 
 		int mcepVsize = htsData.getCartTreeSet().getMcepVsize();
 		int strVsize = htsData.getCartTreeSet().getStrVsize();
+		strVsize = setStrOrder * 3;
 		int lf0Vsize = htsData.getCartTreeSet().getLf0Stream();
-		int magVsize = htsData.getCartTreeSet().getMagVsize();
+		
+		System.out.println("mcepVsize " + mcepVsize + " strVsize "+ strVsize +  " lf0Vsize " + lf0Vsize);
+		
 
 		int totalFrame = 0;
 		int lf0VoicedFrame = 0;
@@ -1054,7 +1063,13 @@ public class HTSVocoder {
 		lf0Pst = new HTSPStream(lf0Vsize, totalFrame, HMMData.FeatureType.LF0, 0);
 		mcepPst = new HTSPStream(mcepVsize, totalFrame, HMMData.FeatureType.MGC, 0);
 		strPst = new HTSPStream(strVsize, totalFrame, HMMData.FeatureType.STR, 0);
-		magPst = new HTSPStream(magVsize, totalFrame, HMMData.FeatureType.MAG, 0);
+		magPst = null;
+		if (isMag) {
+			magPst = new HTSPStream(magVsize, totalFrame, HMMData.FeatureType.MAG, 0);
+		}
+		
+		int strOrder = strPst.getOrder();
+		System.out.println("str order " + strOrder);
 
 		/* load lf0 data */
 		/* for lf0 i just need to load the voiced values */
@@ -1090,16 +1105,17 @@ public class HTSVocoder {
 		}
 		strData.close();
 
-		/* load mag data */
-		magData = new LEDataInputStream(new BufferedInputStream(new FileInputStream(magFile)));
-		for (i = 0; i < totalFrame; i++) {
-			for (j = 0; j < magPst.getOrder(); j++)
-				magPst.setPar(i, j, magData.readFloat());
-			// System.out.println("i:" + i + "  f0=" + Math.exp(lf0Pst.getPar(i, 0)) + "  mag(1)=" + magPst.getPar(i, 0) +
-			// "  str(1)=" + strPst.getPar(i, 0) );
+		if(isMag) {
+			/* load mag data */
+			magData = new LEDataInputStream(new BufferedInputStream(new FileInputStream(magFile)));
+			for (i = 0; i < totalFrame; i++) {
+				for (j = 0; j < magPst.getOrder(); j++)
+					magPst.setPar(i, j, magData.readFloat());
+				// System.out.println("i:" + i + "  f0=" + Math.exp(lf0Pst.getPar(i, 0)) + "  mag(1)=" + magPst.getPar(i, 0) +
+				// "  str(1)=" + strPst.getPar(i, 0) );
+			}
+			magData.close();
 		}
-		magData.close();
-
 		AudioFormat af = getHTSAudioFormat(htsData);
 		double[] audio_double = null;
 
@@ -1297,7 +1313,6 @@ public class HTSVocoder {
 			FileInputStream mixedFiltersStream = new FileInputStream(args[ind++]);
 			htsData.setNumFilters(Integer.parseInt(args[ind++]));
 			htsData.readMixedExcitationFilters(mixedFiltersStream);
-			htsData.setPdfStrStream(null);
 		} else {
 			htsData.setUseMixExc(false);
 		}
@@ -1312,6 +1327,8 @@ public class HTSVocoder {
 		} else {
 			htsData.setUseFourierMag(false);
 		}
+		
+		htsData.setUseFourierMag(false);
 
 		// last argument true or false to play the file
 		boolean play = Boolean.parseBoolean(args[ind++]);
@@ -1506,8 +1523,28 @@ public class HTSVocoder {
 		/* configure log info */
 		org.apache.log4j.BasicConfigurator.configure();
 
+		System.out.println("testing vocoder");
+		
+
+		
+		
 		// copy synthesis: requires a hmm voice
-		// main1(args);
+		
+		/**************************************************************************/
+		// zh demo1
+		main1(args);
+		
+		//zh demo2
+		//String path = "/home/sooda/speech/marytts/data/utterance_demo/";
+		String path = System.getProperty("user.home")  + "/speech/marytts/data/utterance_demo/";
+		String fileName = "cslt_00001"; //String fileName
+		String args4[] = {"0", "0.53", "1", "0.1", "44100", "221", path + fileName + ".mgc", "105",
+		path+ fileName + ".lf0", "3", path  + fileName + "_vocoder_soft.wav", path + fileName + "_order5" +
+		".str", "15", path + "filters/mix_excitation_5filters_99taps_16Kz.txt", "5", path + fileName + ".mag", "30", "true",
+		"soft"}; HTSVocoder vocoder = new HTSVocoder(); 
+		vocoder.htsMLSAVocoderCommand(args4);
+		
+		/***************************************************************************/
 
 		// copy synthesis: requires parameters, see description
 		// example of parameters:
